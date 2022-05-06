@@ -8,7 +8,7 @@ It follows [SegmOnto's](https://github.com/SegmOnto/) controlled vocabulary and 
 - The application is currently designed to exclusively work with Gallica's sources.
 
 ### ALTO Tags
-- The zone and line tags in the ALTO file need to follow the SegmOnto guidlines.
+- The zone and line tags in the ALTO file need to follow the SegmOnto guidelines.
 
 ### File structure
 - The application requires folders which contain the XML-ALTO4 files. The folder name must be the ARK identifier from Gallica.
