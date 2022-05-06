@@ -12,36 +12,43 @@ def teiheader(directory, root, count_pages):
 
     Args:
         directory (path): path to directory containing ALTO-encoded transcriptions of the document's pages
-        root (etree): XML tree
+        root (etree): XML-TEI tree
         count_pages (string): number of files in directory
 
     Returns:
-        root (etree): XML tree
+        root (etree): XML-TEI tree
     """    
+    # unimarc_data is None if the digitized document's IIIF manifest didn't have a valid catalogue ARK
     unimarc_data, manifest_data = get_data(directory)
+
+    # -- TEIHEADER --
     teiheader = etree.SubElement(root, "teiHeader")
+
+    # -- TEIHEADER/FILEDESC --
     filedesc = etree.SubElement(teiheader, "fileDesc")
     make_titlestmt(filedesc, unimarc_data, manifest_data)
     extent = etree.SubElement(filedesc, "extent")
     etree.SubElement(extent, "measure", unit="images", n=count_pages)
     make_publicationstmt(filedesc)
     make_souredesc(directory, filedesc, unimarc_data, manifest_data)
+
+    # -- TEIHEADER/PROFILEDESC --
     make_profiledesc(teiheader, unimarc_data)
+
     return root
 
 
 def make_titlestmt(filedesc, unimarc_data, manifest_data):
-    """Create <titleStmt> and input relevant Unimarc data.
+    """Create <titleStmt> and input relevant Unimarc or manifest data.
 
     Args:
         filedesc (etree): parsed <fileDesc> element of TEI file
-        author_data (dict): each author's name(s), isni, and unique XML ID
-        manifest_title (dict): document title according to IIIF manifest
+        unimarc_data (dict): data parsed from Unimarc metadata
+        manifest_title (dict): data parsed from IIIF manifest metadata
     """    
-    # {"author_isni":author_isni, "primary_name":primary_name, "secondary_name":secondary_name, "xmlid":xmlid}
     titlestmt = etree.SubElement(filedesc, "titleStmt")
     title = etree.SubElement(titlestmt, "title")
-    if unimarc_data:
+    if unimarc_data:  # if the document's IIIF manifest had a valid catalogue ARK
         title.text = unimarc_data["title"]
         if unimarc_data["authors"]:
             for a in unimarc_data["authors"]:
@@ -64,7 +71,7 @@ def make_titlestmt(filedesc, unimarc_data, manifest_data):
                     ptr.attrib["type"] = "isni"
                     ptr.attrib["target"] = a["isni"][:4]
         titlestmt = resp_stmt(titlestmt)
-    else:
+    else:  # if the document's IIIF manifest didn't have a valid catalogue ARK
         title.text = manifest_data["title"]
         if manifest_data["authors"]:
             for i, a in enumerate(manifest_data["authors"]):
@@ -75,12 +82,7 @@ def make_titlestmt(filedesc, unimarc_data, manifest_data):
     return titlestmt
 
 
-def resp_stmt(titlestmt):
-    """
-
-    Args:
-        titlestmt (_type_): _description_
-    """    
+def resp_stmt(titlestmt):   
     editor1_forename = "Kelly"
     editor1_surname = "Christensen"
     editor1_orcid = "000000027236874X"
@@ -111,11 +113,19 @@ def make_publicationstmt(filedesc):
 
 
 def empty_sourcedesc(directory, filedesc, unimarc_data, manifest_data):
+    """Create architecture of <sourceDesc> and input author data from Unimarc response or manifest.
+
+    Args:
+        directory (path): path to directory containing ALTO-encoded transcriptions of the document's pages
+        filedesc (etree): parsed <fileDesc> element of TEI file
+        unimarc_data (dict): data parsed from Unimarc metadata
+        manifest_title (dict): data parsed from IIIF manifest metadata
+    """    
     sourcedesc = etree.SubElement(filedesc, "sourceDesc")
     bibl = etree.SubElement(sourcedesc, "bibl")
     ptr = etree.SubElement(bibl, "ptr")
 
-    if unimarc_data:
+    if unimarc_data:  # if the document's IIIF manifest had a valid catalogue ARK
         if unimarc_data["authors"]:
             for a in unimarc_data["authors"]:
                 author = etree.SubElement(bibl, "author", a["xmlid"])
@@ -132,7 +142,7 @@ def empty_sourcedesc(directory, filedesc, unimarc_data, manifest_data):
                 if a["primary_name"]:
                     surname = etree.SubElement(persname, "surname")
                     surname.text = a["primary_name"]
-    else:
+    else:  # if the document's IIIF manifest didn't have a valid catalogue ARK
         if manifest_data["authors"]:
             for i, a in enumerate(manifest_data["authors"]):
                 xmlid = {"{http://www.w3.org/XML/1998/namespace}id":f"{a[:2]}{i}"}
@@ -181,8 +191,17 @@ def empty_sourcedesc(directory, filedesc, unimarc_data, manifest_data):
 
 
 def make_souredesc(directory, filedesc, unimarc_data, manifest_data):
+    """Fill <sourceDesc> with relevant Unimarc (title, ptr, pubPlace, publisher, date, objectDesc) 
+        and manifest data (repository).
+
+    Args:
+        directory (path): path to directory containing ALTO-encoded transcriptions of the document's pages
+        filedesc (etree): parsed <fileDesc> element of TEI file
+        unimarc_data (dict): data parsed from Unimarc metadata
+        manifest_title (dict): data parsed from IIIF manifest metadata
+    """    
     elements = empty_sourcedesc(directory, filedesc, unimarc_data, manifest_data)
-    if unimarc_data:
+    if unimarc_data:  #  if the document's IIIF manifest had a valid catalogue ARK
         if unimarc_data["title"]:
             elements["title"].text = unimarc_data["title"]
         else:
@@ -205,7 +224,7 @@ def make_souredesc(directory, filedesc, unimarc_data, manifest_data):
             elements["idno"].text = unimarc_data["idno"]
         if unimarc_data["objectdesc"]:
             elements["p"].text = unimarc_data["objectdesc"]
-    else:
+    else:  # if the document's IIIF manifest didn't have a valid catalogue ARK
         elements["title"].text = manifest_data["title"]
         elements["pubplace"].text = None
         elements["pubplace"].append(etree.Comment("Digitized source not found in institution's catalogue."))
@@ -231,10 +250,18 @@ def make_souredesc(directory, filedesc, unimarc_data, manifest_data):
 
 
 def make_profiledesc(teiheader, unimarc_data):
+    """Create <profileDesc> and input relevant Unimarc or manifest data.
+
+    Args:
+        directory (path): path to directory containing ALTO-encoded transcriptions of the document's pages
+        filedesc (etree): parsed <fileDesc> element of TEI file
+        unimarc_data (dict): data parsed from Unimarc metadata
+        manifest_title (dict): data parsed from IIIF manifest metadata
+    """    
     profiledesc = etree.SubElement(teiheader, "profileDesc")
     langusage = etree.SubElement(profiledesc, "langUsage")
-    if unimarc_data:
+    if unimarc_data:  # if the document's IIIF manifest had a valid catalogue ARK
         if unimarc_data["lang"]:
             etree.SubElement(langusage, "language", ident=unimarc_data["lang"])
-    else:
+    else:  # if the document's IIIF manifest didn't have a valid catalogue ARK
         etree.SubElement(langusage, "language", ident="")
