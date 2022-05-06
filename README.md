@@ -11,8 +11,17 @@ It follows [SegmOnto's](https://github.com/SegmOnto/) controlled vocabulary and 
 - The application requires folders which contain the XML-ALTO4 files. The folder name must be the ARK identifier from Gallica.
 - The ALTO4 files must be named with their folio number preceded by the letter `f`. They can include prefixes before the folio number.
 
-`data`
-    |_____`btv1b8613380t/`
-    |       |_____________`btv1b8613380t_f#.xml`
-    |_____`btv1b86146004/`
-            |_____________`f#.xml`    
+```
+___data/
+   |   btv1b8613380t.xml (TEI output)
+   |   btv1b86146004.xml (TEI output)
+   |___btv1b8613380t/
+   |   |   btv1b8613380t_f4.xml (ALTO input)
+   |   |   btv1b8613380t_f5.xml (ALTO input)
+   |   |   ...
+   |___btv1b86146004/
+   |   |   f6.xml (ALTO input)
+   |   |   f7.xml (ALTO input)
+   |   |   ...
+
+```
