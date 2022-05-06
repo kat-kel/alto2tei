@@ -1,0 +1,25 @@
+name: "Transformation Workflow"
+on:
+  push:
+    paths:
+      - "data/*"
+jobs:
+  Transform:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: "Install dependencies"
+      run: |
+        python -m pip install --upgrade pip
+        pip install lxml
+      - name: "Transform ALTO4 files to TEI P5"
+      run: |
+        python ./transform/alto2tei.py ./data/*
+      - name: "Commit generated XML-TEI files to ./output/"
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions
+        git add ./output/*.xml
+        git commit -m "Added TEI transformations to output" || echo "Nothing to commit"
+        git push || echo "Nothing to push"
+        
