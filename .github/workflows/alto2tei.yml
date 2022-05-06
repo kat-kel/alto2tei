@@ -15,10 +15,10 @@ jobs:
       - name: "Create TEI files"
         run: |
           python transform/alto2tei.py ./data/*
-      - name: "Commit generated files to ./output/"
+      - name: "Commit generated files to ./data/"
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add ./data/*.txt
+          git add ./data/*.xml
           git commit -m "Create TEI files" || echo "Nothing to commit"
           git push || echo "Nothing to push"

@@ -71,7 +71,7 @@ def make_tei(ordered_files, directory):
     print(f"|________finished in {dif.seconds}.{dif.microseconds} seconds")
     print("")
     
-    with open(f'output/{os.path.basename(directory)}.xml', 'wb') as f:
+    with open(f'data/{os.path.basename(directory)}.xml', 'wb') as f:
         etree.ElementTree(root).write(f, encoding="utf-8", xml_declaration=True, pretty_print=True)
 
 
