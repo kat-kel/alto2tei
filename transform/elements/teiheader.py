@@ -219,10 +219,12 @@ def make_souredesc(directory, filedesc, unimarc_data, manifest_data):
         if manifest_data["repository"]:
             elements["repository"].text = manifest_data["repository"]
         else:
+            elements["repository"].text = None
             elements["repository"].append(etree.Comment("Information not available."))
         if manifest_data["shelfmark"]:
             elements["idno"].text = manifest_data["shelfmark"]
         else:
+            elements["idno"].text = None
             elements["idno"].append(etree.Comment("Information not available."))
         elements["p"].text = None
         elements["p"].append(etree.Comment("Digitized source not found in institution's catalogue."))
