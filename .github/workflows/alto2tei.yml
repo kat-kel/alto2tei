@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - data/**
+      - data/*
 jobs:
   Transform:
     runs-on: ubuntu-latest

@@ -17,8 +17,11 @@ def get_data(directory):
         data (dict): Unimarc data about authorship, Unimarc data about title, Unimarc data for <bibl>, Unimarc data for <profileDesc>
     """    
     unimarc_xml, perfect_match, manifest_data = unimarc(directory)
-    data = parse_unimarc(unimarc_xml)
-    return data, manifest_data, perfect_match
+    if perfect_match:
+        unimarc_data = parse_unimarc(unimarc_xml)
+    else:
+        unimarc_data = None
+    return unimarc_data, manifest_data
 
 
 def unimarc(directory):
@@ -191,7 +194,11 @@ def get_author(root):
                 primary_name = None
             has_secondaryname = author.find('m:subfield[@code="b"]', namespaces=NS)
             if has_secondaryname is not None:
-                namelink = re.search(r"(?:van der)|(?:de la)|(?:de)|(?:du)|(?:von)|(?:van)", has_secondaryname.text).group(0) or None
+                m = re.search(r"(?:van der)|(?:de la)|(?:de)|(?:du)|(?:von)|(?:van)", has_secondaryname.text)
+                if m:
+                    namelink = m.group(0)
+                else:
+                    namelink = None
                 secondary_name = re.sub(r"(?:van der)|(?:de la)|(?:de)|(?:du)|(?:von)|(?:van)","", has_secondaryname.text)
                 if secondary_name == "":
                     secondary_name = None

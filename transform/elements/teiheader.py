@@ -18,19 +18,19 @@ def teiheader(directory, root, count_pages):
     Returns:
         root (etree): XML tree
     """    
-    unimarc_data, manifest_data, perfect_match = get_data(directory)
+    unimarc_data, manifest_data = get_data(directory)
     teiheader = etree.SubElement(root, "teiHeader")
     filedesc = etree.SubElement(teiheader, "fileDesc")
-    make_titlestmt(filedesc, unimarc_data, manifest_data, perfect_match)
+    make_titlestmt(filedesc, unimarc_data, manifest_data)
     extent = etree.SubElement(filedesc, "extent")
     etree.SubElement(extent, "measure", unit="images", n=count_pages)
     make_publicationstmt(filedesc)
-    make_souredesc(directory, filedesc, unimarc_data, manifest_data, perfect_match)
+    make_souredesc(directory, filedesc, unimarc_data, manifest_data)
     make_profiledesc(teiheader, unimarc_data)
     return root
 
 
-def make_titlestmt(filedesc, unimarc_data, manifest_data, perfect_match):
+def make_titlestmt(filedesc, unimarc_data, manifest_data):
     """Create <titleStmt> and input relevant Unimarc data.
 
     Args:
@@ -41,7 +41,7 @@ def make_titlestmt(filedesc, unimarc_data, manifest_data, perfect_match):
     # {"author_isni":author_isni, "primary_name":primary_name, "secondary_name":secondary_name, "xmlid":xmlid}
     titlestmt = etree.SubElement(filedesc, "titleStmt")
     title = etree.SubElement(titlestmt, "title")
-    if perfect_match:
+    if unimarc_data:
         title.text = unimarc_data["title"]
         if unimarc_data["authors"]:
             for a in unimarc_data["authors"]:
@@ -110,13 +110,14 @@ def make_publicationstmt(filedesc):
     etree.SubElement(publicationstmt, "date", when=today)
 
 
-def empty_sourcedesc(directory, filedesc, authors):
+def empty_sourcedesc(directory, filedesc, unimarc_data, manifest_data):
     sourcedesc = etree.SubElement(filedesc, "sourceDesc")
     bibl = etree.SubElement(sourcedesc, "bibl")
     ptr = etree.SubElement(bibl, "ptr")
 
-    if authors:
-            for a in authors:
+    if unimarc_data:
+        if unimarc_data["authors"]:
+            for a in unimarc_data["authors"]:
                 author = etree.SubElement(bibl, "author", a["xmlid"])
                 persname = etree.SubElement(author, "persName")
                 if a["secondary_name"]:
@@ -131,6 +132,13 @@ def empty_sourcedesc(directory, filedesc, authors):
                 if a["primary_name"]:
                     surname = etree.SubElement(persname, "surname")
                     surname.text = a["primary_name"]
+    else:
+        if manifest_data["authors"]:
+            for i, a in enumerate(manifest_data["authors"]):
+                xmlid = {"{http://www.w3.org/XML/1998/namespace}id":f"{a[:2]}{i}"}
+                author = etree.SubElement(bibl, "author", xmlid)
+                name = etree.SubElement(author, "name")
+                name.text = a
 
     title = etree.SubElement(bibl, "title")
     title.text = "Information not available."
@@ -172,13 +180,13 @@ def empty_sourcedesc(directory, filedesc, authors):
     return elements
 
 
-def make_souredesc(directory, filedesc, unimarc_data, manifest_data, perfect_match):
-    elements = empty_sourcedesc(directory, filedesc, unimarc_data["authors"])
-    if unimarc_data["title"]:
-        elements["title"].text = unimarc_data["title"]
-    else:
-        elements["title"].text = manifest_data["title"]
-    if perfect_match:
+def make_souredesc(directory, filedesc, unimarc_data, manifest_data):
+    elements = empty_sourcedesc(directory, filedesc, unimarc_data, manifest_data)
+    if unimarc_data:
+        if unimarc_data["title"]:
+            elements["title"].text = unimarc_data["title"]
+        else:
+            elements["title"].text = manifest_data["title"]
         if unimarc_data["ptr"]:
             elements["ptr"].attrib["target"] = unimarc_data["ptr"]
         if unimarc_data["pubplace"]:
@@ -190,7 +198,7 @@ def make_souredesc(directory, filedesc, unimarc_data, manifest_data, perfect_mat
         if unimarc_data["date"]:
             elements["d"].text = unimarc_data["date"]
         else:
-            elements["d"].text = manifest_data["manifest_date"]
+            elements["d"].text = manifest_data["date"]
         if manifest_data["repository"]:
             elements["repository"].text = manifest_data["repository"]
         if unimarc_data["idno"]:
@@ -202,24 +210,24 @@ def make_souredesc(directory, filedesc, unimarc_data, manifest_data, perfect_mat
         elements["pubplace"].append(etree.Comment("Digitized source not found in institution's catalogue."))
         elements["publisher"].text = None
         elements["publisher"].append(etree.Comment("Digitized source not found in institution's catalogue."))
-        elements["d"].text = manifest_data["manifest_date"]
+        elements["d"].text = manifest_data["date"]
         elements["country"].text = None
         elements["country"].append(etree.Comment("Digitized source not found in institution's catalogue."))
         elements["settlement"].text = None
         elements["settlement"].append(etree.Comment("Digitized source not found in institution's catalogue."))
         if manifest_data["repository"]:
             elements["repository"].text = manifest_data["repository"]
-        if manifest_data["idno"]:
-            elements["idno"].text = manifest_data["idno"]
+        if manifest_data["shelfmark"]:
+            elements["idno"].text = manifest_data["shelfmark"]
         elements["p"].text = None
         elements["p"].append(etree.Comment("Digitized source not found in institution's catalogue."))
 
 
-def make_profiledesc(teiheader, data):
+def make_profiledesc(teiheader, unimarc_data):
     profiledesc = etree.SubElement(teiheader, "profileDesc")
     langusage = etree.SubElement(profiledesc, "langUsage")
-    if data["lang"]:
-        etree.SubElement(langusage, "language", ident=data["lang"])
+    if unimarc_data:
+        if unimarc_data["lang"]:
+            etree.SubElement(langusage, "language", ident=unimarc_data["lang"])
     else:
-        language = etree.SubElement(langusage, "language")
-        language.append(etree.Comment("Information not available"))
+        etree.SubElement(langusage, "language", ident="")
