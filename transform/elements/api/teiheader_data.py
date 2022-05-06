@@ -1,4 +1,3 @@
-import collections
 import os
 import re
 
@@ -18,11 +17,7 @@ def get_data(directory):
         data (dict): Unimarc data about authorship, Unimarc data about title, Unimarc data for <bibl>, Unimarc data for <profileDesc>
     """    
     unimarc_xml, perfect_match, manifest_data = unimarc(directory)
-    author_data = get_author(unimarc_xml)
-    title_data = get_title(unimarc_xml)
-    bib_data = get_bib(unimarc_xml)
-    profile_data = get_profile(unimarc_xml)
-    data = [author_data, title_data, bib_data, profile_data]
+    data = parse_unimarc(unimarc_xml)
     return data, manifest_data, perfect_match
 
 
@@ -41,8 +36,6 @@ def unimarc(directory):
     r = requests.get(f'http://catalogue.bnf.fr/api/SRU?version=1.2&operation=searchRetrieve&query=(bib.persistentid all "{manifest_data["cat_ark"]}")')
     root = etree.fromstring(r.content)
     if root.find('.//s:numberOfRecords', namespaces=NS).text=="0":
-        r = requests.get(f'http://catalogue.bnf.fr/api/SRU?version=1.2&operation=searchRetrieve&query=(bib.title all "{manifest_data["manifest_title"]}")&maximumRecords=1')
-        root = etree.fromstring(r.content)
         perfect_match = False
         print("|        did not find perfect match from Gallica ark")
     else:
@@ -62,95 +55,45 @@ def manifest(directory):
         manifest_data (dict): catalogue ark, title in the manifest, date in the manifest
     """    
     r = requests.get(f"https://gallica.bnf.fr/iiif/ark:/12148/{os.path.basename(directory)}/manifest.json/")
-    metadata = collections.deque(r.json()["metadata"])
+    metadata = r.json()["metadata"]
     cat_ark = re.search(
         r"\/((?:ark:)\/\w+\/\w+)",
         [d for d in metadata if d["label"]=="Relation"][0]["value"])\
         .group(1)
     title = [d for d in metadata if d["label"]=="Title"][0]["value"]
     d = [d for d in metadata if d["label"]=="Date"][0]["value"]
-    manifest_data = {"cat_ark": cat_ark, "manifest_title":title, "manifest_date":d}
+    repo = [d for d in metadata if d["label"]=="Repository"][0]["value"]
+    shelfmark = [d for d in metadata if d["label"]=="Shelfmark"][0]["value"]
+    peeps = [d for d in metadata if d["label"]=="Creator"]
+    authors = []
+    for author in [a["value"] for a in peeps]:
+        if "Auteur du texte" in author:
+            author = re.search(r"(.+)(?:. Auteur du texte)", author).group(1)
+            authors.append(author)
+        else:
+            authors.append(author)
+    manifest_data = {"cat_ark": cat_ark, "title":title, "date":d, "repository":repo, "shelfmark":shelfmark, "authors":authors}
     return manifest_data
 
 
-def get_author(root):
-    """Retrieve data about document's authorship from BNF API's Unimarc response.
+def parse_unimarc(root):
+    """Extract relevant data from BNF API Unimarc response.
 
     Args:
         root (etree): parsed XML tree of requested Unimarc data
 
     Returns:
-        author_data (dict): relevant data about authorship (isni, surname, forename, xml:id)
+        data (dict):    list of authors, 1 title, 1 ptr, 1 pubPlace, 1 pubPlace country key, 1 publisher, 1 date of publication,
+                        1 country of conservation, 1 shelfmark, 1 description of document type, 1 language of document
     """    
-    # if there is an author
-    if root.find('.//m:datafield[@tag="700"]', namespaces=NS) is not None:
-        authors = root.findall('.//m:datafield[@tag="700"]', namespaces=NS)
-        author_data = []
-        for i, author in enumerate(authors):
-            has_id = author.find('m:subfield[@code="o"]', namespaces=NS)
-            if has_id is not None:
-                author_id = has_id.text
-            else:
-                author_id = None
-            has_surname = author.find('m:subfield[@code="a"]', namespaces=NS)
-            if has_surname is not None:
-                author_surname = has_surname.text
-            else:
-                author_surname = None
-            has_forename = author.find('m:subfield[@code="b"]', namespaces=NS)
-            if has_forename is not None:
-                author_forename = has_forename.text
-            else:
-                author_forename = None
-            if author_surname:
-                xmlid = {"{http://www.w3.org/XML/1998/namespace}id":f"{author_surname[:2]}{i}"}
-            elif author_forename:
-                xmlid = {"{http://www.w3.org/XML/1998/namespace}id":f"{author_forename[:2]}{i}"}
-            else:
-                xmlid = {"{http://www.w3.org/XML/1998/namespace}id":"None"}
-            author_data.append({"author_id":author_id, "author_surname":author_surname, "author_forename":author_forename, "id":xmlid})
+    # try to get authors
+    authors = get_author(root)
+    # try to get cleaned title
+    has_title = root.find('.//m:datafield[@tag="200"]/m:subfield[@code="a"]', namespaces=NS)
+    if has_title is not None:
+        title = has_title.text
     else:
-        author_data = None
-    return author_data
-
-
-def get_title(root):
-    """Retrieve data about document's titles from BNF API's Unimarc response.
-
-    Args:
-        root (etree): parsed XML tree of requested Unimarc data
-
-    Returns:
-        title_data (dict): relevant data about forms of the documents's title (uniform title, form title)
-    """    
-    # try to get uniform title
-    has_uniform = root.find('.//m:datafield[@tag="500"]/m:subfield[@code="a"]', namespaces=NS)
-    if has_uniform is not None:
-        title_uniform = has_uniform.text
-    else:
-        title_uniform = None
-    # try to get form title
-    if root.find('.//m:datafield[@tag="503"]/m:subfield[@code="a"]', namespaces=NS) is not None:
-        title_form = root.findall('.//m:datafield[@tag="503"]/m:subfield[@code="a"]', namespaces=NS)[-1].text
-    else:
-        title_form = None
-    title_data = {"title_uniform":title_uniform, "title_form":title_form}
-    return title_data
-
-
-def get_bib(root):
-    """Retrieve data from BNF API's Unimarc response relevant to <bibl> in XML-TEI.
-
-    Args:
-        root (etree): parsed XML tree of requested Unimarc data
-
-    Returns:
-        data (dict): data relevant to child elements of <bibl>
-    """    
-
-    # 608 -- type de document
-    # 606 -- sujet de document
-
+        title = None
     # link to the work in the institution's catalogue
     has_ptr = root.find('.//m:controlfield[@tag="003"]', namespaces=NS)
     if has_ptr is not None:
@@ -166,9 +109,9 @@ def get_bib(root):
     # country code of publication place
     has_place_key = root.find('.//m:datafield[@tag="102"]/m:subfield[@code="a"]', namespaces=NS)
     if has_place_key is not None:
-        pubplace_att = has_place_key.text
+        pubplace_key = has_place_key.text
     else:
-        pubplace_att = None
+        pubplace_key = None
     # publisher
     has_publisher = root.find('.//m:datafield[@tag="210"]/m:subfield[@code="c"]', namespaces=NS)
     if has_publisher is not None:
@@ -187,58 +130,81 @@ def get_bib(root):
         country = has_country.text
     else:
         country = None
-
-    # city where the document is conserved
-    settlement = "Paris"
-    #if root.find('', namespaces=NS) is not None:  <-- needs work
-        #settlement = root.find('', namespaces=NS).text
-
-    # institution where the document is conserved
-    repository = "BNF"
-    #if root.find('', namespaces=NS) is not None:  <-- needs work
-        #repository = root.find('', namespaces=NS).text
-
     # catalogue number of the document in the insitution
     has_isno = root.find('.//m:datafield[@tag="930"]/m:subfield[@code="a"]', namespaces=NS)
     if has_isno is not None:
         idno = has_isno.text
     else:
         idno = None
-
     # type of document (manuscript or print)
     has_objectdesc = root.find('.//m:datafield[@tag="200"]/m:subfield[@code="b"]', namespaces=NS)
     if has_objectdesc is not None:
         objectdesc = has_objectdesc.text
     else:
         objectdesc = None
-    data = {
-            "ptr":ptr,
-            "pubplace":pubplace,
-            "pubplace_att":pubplace_att,
-            "publisher":publisher,
-            "date":d,
-            "country":country,
-            "settlement":settlement,
-            "repository":repository,
-            "idno":idno,
-            "objectdesc":objectdesc
-        }
-    return data
-
-
-def get_profile(root):
-    """Retrieve data about document's language from BNF API's Unimarc response.
-
-    Args:
-        root (etree): parsed XML tree of requested Unimarc data
-
-    Returns:
-        profile_data (dict): data relevant to <profileDesc> (language of document)
-    """    
+    # language of document
     has_lang = root.find('.//m:datafield[@tag="101"]/m:subfield[@code="a"]', namespaces=NS)
     if has_lang is not None:
         lang = has_lang.text
     else:
         lang = None
-    profile_data = {"lang":lang}
-    return profile_data
+    data = {
+        "authors":authors,
+        "title":title,
+        "ptr":ptr,
+        "pubplace":pubplace,
+        "pubplace_key":pubplace_key,
+        "publisher":publisher,
+        "date":d,
+        "country":country,
+        "idno":idno,
+        "objectdesc":objectdesc,
+        "lang":lang
+        }
+    return data
+
+
+def get_author(root):
+    """Extract data about document's authorship from BNF API's Unimarc response.
+
+    Args:
+        root (etree): parsed XML tree of requested Unimarc data
+
+    Returns:
+        author_data (dict): relevant data about authorship (isni, surname, forename, xml:id)
+    """    
+    # if there is an author
+    if root.find('.//m:datafield[@tag="700"]', namespaces=NS) is not None:
+        peeps = root.findall('.//m:datafield[@tag="700"]', namespaces=NS)
+        authors = []
+        
+        for i, author in enumerate(peeps):
+            has_isni = author.find('m:subfield[@code="o"]', namespaces=NS)
+            if has_isni is not None:
+                author_isni = has_isni.text
+            else:
+                author_isni = None
+            has_primaryname = author.find('m:subfield[@code="a"]', namespaces=NS)
+            if has_primaryname is not None:
+                primary_name = has_primaryname.text
+            else:
+                primary_name = None
+            has_secondaryname = author.find('m:subfield[@code="b"]', namespaces=NS)
+            if has_secondaryname is not None:
+                namelink = re.search(r"(?:van der)|(?:de la)|(?:de)|(?:du)|(?:von)|(?:van)", has_secondaryname.text).group(0) or None
+                secondary_name = re.sub(r"(?:van der)|(?:de la)|(?:de)|(?:du)|(?:von)|(?:van)","", has_secondaryname.text)
+                if secondary_name == "":
+                    secondary_name = None
+            else:
+                secondary_name = None
+                namelink = None
+            if primary_name:
+                xmlid = {"{http://www.w3.org/XML/1998/namespace}id":f"{primary_name[:2]}{i}"}
+            elif secondary_name:
+                xmlid = {"{http://www.w3.org/XML/1998/namespace}id":f"{primary_name[:2]}{i}"}
+            else:
+                xmlid = {"{http://www.w3.org/XML/1998/namespace}id":f"au{i}"}
+            authors.append({"isni":author_isni, "primary_name":primary_name, "secondary_name":secondary_name, "namelink":namelink, "xmlid":xmlid})
+    else:
+        authors = None
+    return authors

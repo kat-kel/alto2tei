@@ -16,7 +16,7 @@ jobs:
       - name: "Create TEI files"
         run: |
           python transform/alto2tei.py ./data/*
-      - name: "Commit generated files to ./data/"
+      - name: "Commit generated files to data/"
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com

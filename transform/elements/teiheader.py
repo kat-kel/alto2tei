@@ -18,49 +18,65 @@ def teiheader(directory, root, count_pages):
     Returns:
         root (etree): XML tree
     """    
-    data, manifest_data, perfect_match = get_data(directory)
+    unimarc_data, manifest_data, perfect_match = get_data(directory)
     teiheader = etree.SubElement(root, "teiHeader")
     filedesc = etree.SubElement(teiheader, "fileDesc")
-    make_titlestmt(filedesc, data[0], manifest_data["manifest_title"])
+    make_titlestmt(filedesc, unimarc_data, manifest_data, perfect_match)
     extent = etree.SubElement(filedesc, "extent")
     etree.SubElement(extent, "measure", unit="images", n=count_pages)
     make_publicationstmt(filedesc)
-    make_souredesc(directory, filedesc, data[0], data[1], data[2], manifest_data, perfect_match)
-    make_profiledesc(teiheader, data[3])
+    make_souredesc(directory, filedesc, unimarc_data, manifest_data, perfect_match)
+    make_profiledesc(teiheader, unimarc_data)
     return root
 
 
-def make_titlestmt(filedesc, author_data, manifest_title):
-    """Retrieve data from parsed Unimarc XML and input it into TEI tree.
+def make_titlestmt(filedesc, unimarc_data, manifest_data, perfect_match):
+    """Create <titleStmt> and input relevant Unimarc data.
 
     Args:
         filedesc (etree): parsed <fileDesc> element of TEI file
         author_data (dict): each author's name(s), isni, and unique XML ID
         manifest_title (dict): document title according to IIIF manifest
     """    
+    # {"author_isni":author_isni, "primary_name":primary_name, "secondary_name":secondary_name, "xmlid":xmlid}
     titlestmt = etree.SubElement(filedesc, "titleStmt")
     title = etree.SubElement(titlestmt, "title")
-    title.text = manifest_title
-    if author_data:
-        for i in range(len(author_data)):
-            author = etree.SubElement(titlestmt, "author", author_data[i]["id"])
-            persname = etree.SubElement(author, "persName")
-            if author_data[i]["author_forename"]:
-                forename = etree.SubElement(persname, "forename")
-                forename.text = author_data[i]["author_forename"]
-            if author_data[i]["author_surname"]:
-                surname = etree.SubElement(persname, "surname")
-                surname.text = author_data[i]["author_surname"]
-            if author_data[i]["author_id"][:4] == "ISNI":
-                ptr = etree.SubElement(persname, "ptr")
-                ptr.attrib["type"] = "isni"
-                ptr.attrib["target"] = author_data[i]["author_id"][4:]
-    titlestmt = resp_stmt(titlestmt)
+    if perfect_match:
+        title.text = unimarc_data["title"]
+        if unimarc_data["authors"]:
+            for a in unimarc_data["authors"]:
+                author = etree.SubElement(titlestmt, "author", a["xmlid"])
+                persname = etree.SubElement(author, "persName")
+                if a["secondary_name"]:
+                    forename = etree.SubElement(persname, "forename")
+                    forename.text = a["secondary_name"]
+                    if a["namelink"]:
+                        namelink = etree.SubElement(persname,"nameLink")
+                        namelink.text = a["namelink"]
+                else:
+                    namelink = etree.SubElement(persname,"nameLink")
+                    namelink.text = a["namelink"]
+                if a["primary_name"]:
+                    surname = etree.SubElement(persname, "surname")
+                    surname.text = a["primary_name"]
+                if a["isni"] and a["isni"][:4] == "ISNI":
+                    ptr = etree.SubElement(persname, "ptr")
+                    ptr.attrib["type"] = "isni"
+                    ptr.attrib["target"] = a["isni"][:4]
+        titlestmt = resp_stmt(titlestmt)
+    else:
+        title.text = manifest_data["title"]
+        if manifest_data["authors"]:
+            for i, a in enumerate(manifest_data["authors"]):
+                xmlid = {"{http://www.w3.org/XML/1998/namespace}id":f"{a[:2]}{i}"}
+                author = etree.SubElement(titlestmt, "author", xmlid)
+                name = etree.SubElement(author, "name")
+                name.text = a
     return titlestmt
 
 
 def resp_stmt(titlestmt):
-    """_summary_
+    """
 
     Args:
         titlestmt (_type_): _description_
@@ -94,21 +110,27 @@ def make_publicationstmt(filedesc):
     etree.SubElement(publicationstmt, "date", when=today)
 
 
-def empty_sourcedesc(directory, filedesc, author_data):
+def empty_sourcedesc(directory, filedesc, authors):
     sourcedesc = etree.SubElement(filedesc, "sourceDesc")
     bibl = etree.SubElement(sourcedesc, "bibl")
     ptr = etree.SubElement(bibl, "ptr")
 
-    if author_data:
-            for i in range(len(author_data)):
-                author = etree.SubElement(bibl, "author")
+    if authors:
+            for a in authors:
+                author = etree.SubElement(bibl, "author", a["xmlid"])
                 persname = etree.SubElement(author, "persName")
-                if author_data[i]["author_forename"]:
+                if a["secondary_name"]:
                     forename = etree.SubElement(persname, "forename")
-                    forename.text = author_data[i]["author_forename"]
-                if author_data[i]["author_surname"]:
+                    forename.text = a["secondary_name"]
+                    if a["namelink"]:
+                        namelink = etree.SubElement(persname,"nameLink")
+                        namelink.text = a["namelink"]
+                else:
+                    namelink = etree.SubElement(persname,"nameLink")
+                    namelink.text = a["namelink"]
+                if a["primary_name"]:
                     surname = etree.SubElement(persname, "surname")
-                    surname.text = author_data[i]["author_surname"]
+                    surname.text = a["primary_name"]
 
     title = etree.SubElement(bibl, "title")
     title.text = "Information not available."
@@ -121,11 +143,12 @@ def empty_sourcedesc(directory, filedesc, author_data):
     msdesc = etree.SubElement(sourcedesc, "msDesc")
     msidentifier = etree.SubElement(msdesc, "msIdentifier")
     country = etree.SubElement(msidentifier, "country")
+    country.attrib["key"]="FR"  # hard coded
     settlement = etree.SubElement(msidentifier, "settlement")
-    settlement.text = "Information not available."
+    settlement.text = "Paris"  # hard coded
     repository = etree.SubElement(msidentifier, "repository")
     repository.text = "Information not available."
-    idno = etree.SubElement(msidentifier, "idno")  # côte dans le catalogue
+    idno = etree.SubElement(msidentifier, "idno")
     altidentifier = etree.SubElement(msidentifier, "altIdentifier", type="ark")
     ark_idno = etree.SubElement(altidentifier, "idno")
     ark_idno.text = os.path.basename(directory)
@@ -149,35 +172,31 @@ def empty_sourcedesc(directory, filedesc, author_data):
     return elements
 
 
-def make_souredesc(directory, filedesc, author_data, title_data, bib_data, manifest_data, perfect_match):
-    elements = empty_sourcedesc(directory, filedesc, author_data)
-    if title_data["title_uniform"]:
-        elements["title"].text = title_data["title_uniform"]
+def make_souredesc(directory, filedesc, unimarc_data, manifest_data, perfect_match):
+    elements = empty_sourcedesc(directory, filedesc, unimarc_data["authors"])
+    if unimarc_data["title"]:
+        elements["title"].text = unimarc_data["title"]
     else:
-        elements["title"].text = manifest_data["manifest_title"]
+        elements["title"].text = manifest_data["title"]
     if perfect_match:
-        if bib_data["ptr"]:
-            elements["ptr"].attrib["target"] = bib_data["ptr"]
-        if bib_data["pubplace"]:
-            elements["pubplace"].text = bib_data["pubplace"]
-            if bib_data["pubplace_att"]:
-                elements["pubplace"].attrib["key"] = bib_data["pubplace_att"]
-        if bib_data["publisher"]:
-            elements["publisher"].text = bib_data["publisher"]
-        if bib_data["date"]:
-            elements["d"].text = bib_data["date"]
+        if unimarc_data["ptr"]:
+            elements["ptr"].attrib["target"] = unimarc_data["ptr"]
+        if unimarc_data["pubplace"]:
+            elements["pubplace"].text = unimarc_data["pubplace"]
+            if unimarc_data["pubplace_key"]:
+                elements["pubplace"].attrib["key"] = unimarc_data["pubplace_key"]
+        if unimarc_data["publisher"]:
+            elements["publisher"].text = unimarc_data["publisher"]
+        if unimarc_data["date"]:
+            elements["d"].text = unimarc_data["date"]
         else:
             elements["d"].text = manifest_data["manifest_date"]
-        if bib_data["country"]:
-            elements["country"].attrib["key"] = bib_data["country"]
-        if bib_data["settlement"]:
-            elements["settlement"].text = bib_data["settlement"]
-        if bib_data["repository"]:
-            elements["repository"].text = bib_data["repository"]
-        if bib_data["idno"]:
-            elements["idno"].text = bib_data["idno"]
-        if bib_data["objectdesc"]:
-            elements["p"].text = bib_data["objectdesc"]
+        if manifest_data["repository"]:
+            elements["repository"].text = manifest_data["repository"]
+        if unimarc_data["idno"]:
+            elements["idno"].text = unimarc_data["idno"]
+        if unimarc_data["objectdesc"]:
+            elements["p"].text = unimarc_data["objectdesc"]
     else:
         elements["pubplace"].text = None
         elements["pubplace"].append(etree.Comment("Digitized source not found in institution's catalogue."))
@@ -188,10 +207,10 @@ def make_souredesc(directory, filedesc, author_data, title_data, bib_data, manif
         elements["country"].append(etree.Comment("Digitized source not found in institution's catalogue."))
         elements["settlement"].text = None
         elements["settlement"].append(etree.Comment("Digitized source not found in institution's catalogue."))
-        elements["repository"].text = None
-        elements["repository"].append(etree.Comment("Digitized source not found in institution's catalogue."))
-        elements["idno"].text = None
-        elements["idno"].append(etree.Comment("Digitized source not found in institution's catalogue."))
+        if manifest_data["repository"]:
+            elements["repository"].text = manifest_data["repository"]
+        if manifest_data["idno"]:
+            elements["idno"].text = manifest_data["idno"]
         elements["p"].text = None
         elements["p"].append(etree.Comment("Digitized source not found in institution's catalogue."))
 
