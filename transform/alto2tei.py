@@ -51,7 +51,7 @@ def make_tei(ordered_files, directory):
     root = teiheader(directory, root, str(len(ordered_files)))
     t1 = datetime.utcnow()
     dif = t1-t0
-    print(f"|________finished in {dif.seconds}.{dif.microseconds} seconds")
+    print(f"|________finished ({dif.seconds}.{dif.microseconds} seconds)")
     
     # -- SOURCEDOC --
     print(f"\33[33mcreating <sourceDoc>\x1b[0m")

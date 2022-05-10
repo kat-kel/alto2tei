@@ -1,5 +1,7 @@
 import os
 import re
+from collections import defaultdict
+from datetime import datetime
 
 import requests
 from lxml import etree
@@ -8,210 +10,228 @@ NS = {"s":"http://www.loc.gov/zing/srw/", "m":"info:lc/xmlns/marcxchange-v2"}
 
 
 def get_data(directory):
-    """Call subsidiary functions and synthesize retrieved data in one dictionary.
-
+    """Retrieve and synthesize metadata about a document.
     Args:
-        directory (etree): path to directory containing ALTO-encoded transcriptions of the document's pages
-
+        directory (etree): path to directory which contains document's pages
     Returns:
         data (dict): Unimarc data about authorship, Unimarc data about title, Unimarc data for <bibl>, Unimarc data for <profileDesc>
     """    
-    unimarc_xml, perfect_match, manifest_data = unimarc(directory)
-    if perfect_match:
-        unimarc_data = parse_unimarc(unimarc_xml)
-    else:
-        unimarc_data = None
-    return unimarc_data, manifest_data
+    request_for_document = RequestAPI(directory)
 
-
-def unimarc(directory):
-    """Request data from BNF's API.
-
-    Args:
-        directory (path): path to directory containing ALTO-encoded transcriptions of the document's pages
-
-    Returns:
-        root (etree): parsed XML tree of requested Unimarc data
-        perfect_match (boolean): True if request was completed with Gallica ark / directory basename
-        manifest_data (dict): saved data from searching IIIF manifest
-    """    
-    manifest_data = manifest(directory)
-    r = requests.get(f'http://catalogue.bnf.fr/api/SRU?version=1.2&operation=searchRetrieve&query=(bib.persistentid all "{manifest_data["cat_ark"]}")')
-    root = etree.fromstring(r.content)
-    if root.find('.//s:numberOfRecords', namespaces=NS).text=="0":
-        perfect_match = False
-        print("|        did not find perfect match from Gallica ark")
-    else:
-        perfect_match = True
-        print("|        found perfect match from Gallica ark")
+    # Get and clean data from IIIF manifest
+    iiif_dict_response = request_for_document.iiif_manifest()
+    manifest_data = ManifestData(iiif_dict_response).clean()
     
-    return root, perfect_match, manifest_data
+    # Get and clean data from BnF's SRU API
+    sru_xml_response, perfect_match = request_for_document.sru_api(manifest_data["Catalogue ARK"])
+    if perfect_match:
+        raw_unimarc_data = UnimarcData(sru_xml_response)
+        unimarc_data = raw_unimarc_data.clean()
+    if not perfect_match:
+        unimarc_data = None
+
+    return manifest_data, unimarc_data
 
 
-def manifest(directory):
-    """Request data from document's IIIF manifest.
+class RequestAPI:
+    def __init__(self, directory):
+        """Args:
+            directory (paht): directory containing ALTO-encoded transcriptions of the document's pages"""
+        self.directory = directory
+    
 
-    Args:
-        directory (path): path to directory containing ALTO-encoded transcriptions of the document's pages
+    def iiif_manifest(self):
+        """Request and clean metadata from the Gallica API.
+        """   
+        # Request manifest from Gallica API
+        response = requests.get(f"https://gallica.bnf.fr/iiif/ark:/12148/{os.path.basename(self.directory)}/manifest.json/")
+        raw_data = {d["label"]:d["value"] for d in response.json()["metadata"]}
+        return raw_data
 
-    Returns:
-        manifest_data (dict): catalogue ark, title in the manifest, date in the manifest
-    """    
-    r = requests.get(f"https://gallica.bnf.fr/iiif/ark:/12148/{os.path.basename(directory)}/manifest.json/")
-    metadata = r.json()["metadata"]
-    cat_ark = re.search(
-        r"\/((?:ark:)\/\w+\/\w+)",
-        [d for d in metadata if d["label"]=="Relation"][0]["value"])\
-        .group(1)
-    title = [d for d in metadata if d["label"]=="Title"][0]["value"]
-    d = [d for d in metadata if d["label"]=="Date"][0]["value"]
-    repo = [d for d in metadata if d["label"]=="Repository"][0]["value"]
-    shelfmark = [d for d in metadata if d["label"]=="Shelfmark"][0]["value"]
-    peeps = [d for d in metadata if d["label"]=="Creator"]
-    authors = []
-    for author in [a["value"] for a in peeps]:
-        if "Auteur du texte" in author:
-            author = re.search(r"(.+)(?:. Auteur du texte)", author).group(1)
-            authors.append(author)
+
+    def sru_api(self, ark):
+        """Request metadata from the BnF's SRU API.
+        Args:
+            ark (str): the document's ARK in the BnF's catalogue
+        Returns:
+            root (etree_Element): parsed XML tree of requested Unimarc data
+            perfect_match (boolean): True if request was completed with Gallica ark / directory basename
+        """    
+        print("|        requesting data from BnF's SRU API")
+        t0 = datetime.utcnow()
+        r = requests.get(f'http://catalogue.bnf.fr/api/SRU?version=1.2&operation=searchRetrieve&query=(bib.persistentid all "{ark}")')
+        root = etree.fromstring(r.content)
+        if root.find('.//s:numberOfRecords', namespaces=NS).text=="0":
+            perfect_match = False
+            t1 = datetime.utcnow()
+            dif = t1-t0
+            print(f"|        \33[31mdid not find digitised document in BnF catalogue\x1b[0m ({dif.seconds}.{dif.microseconds} seconds)")
         else:
-            authors.append(author)
-    manifest_data = {"cat_ark": cat_ark, "title":title, "date":d, "repository":repo, "shelfmark":shelfmark, "authors":authors}
-    return manifest_data
+            perfect_match = True
+            t1 = datetime.utcnow()
+            dif = t1-t0
+            print(f"|        \33[32mfound digitised document in BnF catalogue\x1b[0m ({dif.seconds}.{dif.microseconds} seconds)")
+        return root, perfect_match
 
 
-def parse_unimarc(root):
-    """Extract relevant data from BNF API Unimarc response.
+class ManifestData:
+    def __init__(self, iiif_dict_response):
+        self.raw_data = iiif_dict_response
 
-    Args:
-        root (etree): parsed XML tree of requested Unimarc data
-
-    Returns:
-        data (dict):    list of authors, 1 title, 1 ptr, 1 pubPlace, 1 pubPlace country key, 1 publisher, 1 date of publication,
-                        1 country of conservation, 1 shelfmark, 1 description of document type, 1 language of document
-    """    
-    # try to get authors
-    authors = get_author(root)
-    # try to get cleaned title
-    has_title = root.find('.//m:datafield[@tag="200"]/m:subfield[@code="a"]', namespaces=NS)
-    if has_title is not None:
-        title = has_title.text
-    else:
-        title = None
-    # link to the work in the institution's catalogue
-    has_ptr = root.find('.//m:controlfield[@tag="003"]', namespaces=NS)
-    if has_ptr is not None:
-        ptr = has_ptr.text
-    else:
-        ptr = None
-    # publication place
-    has_place = root.find('.//m:datafield[@tag="210"]/m:subfield[@code="a"]', namespaces=NS)
-    if has_place is not None:
-        pubplace = has_place.text
-    else:
-        pubplace = None
-    # country code of publication place
-    has_place_key = root.find('.//m:datafield[@tag="102"]/m:subfield[@code="a"]', namespaces=NS)
-    if has_place_key is not None:
-        pubplace_key = has_place_key.text
-    else:
-        pubplace_key = None
-    # publisher
-    has_publisher = root.find('.//m:datafield[@tag="210"]/m:subfield[@code="c"]', namespaces=NS)
-    if has_publisher is not None:
-        publisher = has_publisher.text
-    else:
-        publisher = None
-    # date of publication
-    has_date = root.find('.//m:datafield[@tag="210"]/m:subfield[@code="d"]', namespaces=NS)
-    if has_date is not None:
-        d = has_date.text
-    else:
-        d = None
-    # country where the document is conserved
-    has_country = root.find('.//m:datafield[@tag="801"]/m:subfield[@code="a"]', namespaces=NS)
-    if has_country is not None:
-        country = has_country.text
-    else:
-        country = None
-    # catalogue number of the document in the insitution
-    has_isno = root.find('.//m:datafield[@tag="930"]/m:subfield[@code="a"]', namespaces=NS)
-    if has_isno is not None:
-        idno = has_isno.text
-    else:
-        idno = None
-    # type of document (manuscript or print)
-    has_objectdesc = root.find('.//m:datafield[@tag="200"]/m:subfield[@code="b"]', namespaces=NS)
-    if has_objectdesc is not None:
-        objectdesc = has_objectdesc.text
-    else:
-        objectdesc = None
-    # language of document
-    has_lang = root.find('.//m:datafield[@tag="101"]/m:subfield[@code="a"]', namespaces=NS)
-    if has_lang is not None:
-        lang = has_lang.text
-    else:
-        lang = None
-    data = {
-        "authors":authors,
-        "title":title,
-        "ptr":ptr,
-        "pubplace":pubplace,
-        "pubplace_key":pubplace_key,
-        "publisher":publisher,
-        "date":d,
-        "country":country,
-        "idno":idno,
-        "objectdesc":objectdesc,
-        "lang":lang
-        }
-    return data
+    def clean(self):
+        """Clean metadata received from Gallica API.
+        Returns:
+            clean_data (dict): cleaned data from IIIF manifest with values == None if not present in API request
+        """        
+        # Make defaultdict for cleaned metadata
+        fields = ["Relation", "Catalogue ARK", "Repository", "Shelfmark", "Title", "Language", "Creator", "Date"]
+        clean_data= {}
+        {clean_data.setdefault(f, None) for f in fields}
+        for k,v in self.raw_data.items():
+            if type(v) is list and list(v[0].keys())[0]=="@value":
+                clean_data[k]=v[0]["@value"]
+            else:
+                clean_data[k]=v
+        # Derive catalogue ARK from "Relation" field; this will be used to access the BnF's SRU API
+        if clean_data["Relation"]:
+            clean_data["Catalogue ARK"]=(re.search(r"\/((?:ark:)\/\w+\/\w+)", clean_data["Relation"]).group(1))
+        # Clean author name, getting rid of ". Auteur du texte" at the end of the string
+        if clean_data["Creator"]:
+            clean_data["Creator"]=re.search(r"(.+)(?:. Auteur du texte)", clean_data["Creator"]).group(1)
+        return clean_data
 
 
-def get_author(root):
-    """Extract data about document's authorship from BNF API's Unimarc response.
+class UnimarcData:
+    def __init__(self, sru_xml_response):
+        self.root = sru_xml_response
 
-    Args:
-        root (etree): parsed XML tree of requested Unimarc data
 
-    Returns:
-        author_data (dict): relevant data about authorship (isni, surname, forename, xml:id)
-    """    
-    # if there is an author
-    if root.find('.//m:datafield[@tag="700"]', namespaces=NS) is not None:
-        peeps = root.findall('.//m:datafield[@tag="700"]', namespaces=NS)
-        authors = []
+    def clean_authors(self):
+        """Parses and cleans author data from Unimarc fields 701 and/or 702.
+        Returns:
+            data (dict): relevant authorship data (isni, surname, forename, xml:id)
+        """        
+        # if there is only one primary author
+        data = []
+        count = 0
+        if self.root.find('.//m:datafield[@tag="700"]', namespaces=NS) is not None:
+            author_element = self.root.find('.//m:datafield[@tag="700"]', namespaces=NS)
+            count+=1
+            data.append(self.author_data(author_element, count))
+        if self.root.find('.//m:datafield[@tag="701"]', namespaces=NS) is not None:
+            author_elements = self.root.findall('.//m:datafield[@tag="700"]', namespaces=NS)
+            for element in author_elements:
+                count+=1
+                data.append(self.author_data(element, count))
+        return data
+
+    
+    def author_data(self, author_element, count):
+        """Create and fill datafields for relevant author data.
+        Args:
+            author_element (etree_Element): <mxc: datafield> being parsed
+            count (int): author's count in processing
+        Returns:
+            data (dict) : relevant authorship data (isni, surname, forename, xml:id)
+        """        
+        # create and set defaults for author data
+        fields = ["isni", "primary_name", "secondary_name", "namelink" , "xmlid"]
+        data = {}
+        {data.setdefault(f, None) for f in fields}
         
-        for i, author in enumerate(peeps):
-            has_isni = author.find('m:subfield[@code="o"]', namespaces=NS)
-            if has_isni is not None:
-                author_isni = has_isni.text
-            else:
-                author_isni = None
-            has_primaryname = author.find('m:subfield[@code="a"]', namespaces=NS)
-            if has_primaryname is not None:
-                primary_name = has_primaryname.text
-            else:
-                primary_name = None
-            has_secondaryname = author.find('m:subfield[@code="b"]', namespaces=NS)
-            if has_secondaryname is not None:
-                m = re.search(r"(?:van der)|(?:de la)|(?:de)|(?:du)|(?:von)|(?:van)", has_secondaryname.text)
-                if m:
-                    namelink = m.group(0)
-                else:
-                    namelink = None
-                secondary_name = re.sub(r"(?:van der)|(?:de la)|(?:de)|(?:du)|(?:von)|(?:van)","", has_secondaryname.text)
-                if secondary_name == "":
-                    secondary_name = None
-            else:
-                secondary_name = None
-                namelink = None
-            if primary_name:
-                xmlid = {"{http://www.w3.org/XML/1998/namespace}id":f"{primary_name[:2]}{i}"}
-            elif secondary_name:
-                xmlid = {"{http://www.w3.org/XML/1998/namespace}id":f"{primary_name[:2]}{i}"}
-            else:
-                xmlid = {"{http://www.w3.org/XML/1998/namespace}id":f"au{i}"}
-            authors.append({"isni":author_isni, "primary_name":primary_name, "secondary_name":secondary_name, "namelink":namelink, "xmlid":xmlid})
-    else:
-        authors = None
-    return authors
+        # -- identifier (700s subfield "o") --
+        has_isni = author_element.find('m:subfield[@code="o"]', namespaces=NS)
+        if data["isni"] is not None and has_isni.text[0:4]=="ISNI":
+            isni = has_isni.text[4:]
+
+        # -- primary name (700s subfield "a") --
+        has_primaryname = author_element.find('m:subfield[@code="a"]', namespaces=NS)
+        if has_primaryname is not None:
+            data["primary_name"] = has_primaryname.text
+
+        # -- secondary name (700s subfield "b") --
+        has_secondaryname = author_element.find('m:subfield[@code="b"]', namespaces=NS)
+        if has_secondaryname is not None:
+            x = re.search(r"(?:van der)|(?:de la)|(?:de)|(?:du)|(?:von)|(?:van)", has_secondaryname.text)
+            if x:
+                data["namelink"] = x.group(0)
+            y = re.sub(r"(?:van der)|(?:de la)|(?:de)|(?:du)|(?:von)|(?:van)","", has_secondaryname.text)
+            if y != "":
+                data["secondary_name"] = y
+
+        # -- unique xml:id for the author --
+        if data["primary_name"]:
+            name = data["primary_name"]
+            data["xmlid"] = {"{http://www.w3.org/XML/1998/namespace}id":f"{name[:2]}{count}"}
+        elif data["secondary_name"]:
+            data["xmlid"] = {"{http://www.w3.org/XML/1998/namespace}id":f"{name[:2]}{count}"}
+        else:
+            data["xmlid"] = {"{http://www.w3.org/XML/1998/namespace}id":f"au{count}"}
+
+        return data
+
+
+    def clean(self):
+        """Parse and clean data from SRU API response.
+        Returns:
+            data (dict): all relevant metadata from BnF catalogue
+        """        
+        # create and set defaults for data
+        fields = ["authors", "title", "ptr", "pubplace", "pubplace_key", "publisher", "date", "country", "idno", "objectdesc", "lang"]
+        data = {}
+        {data.setdefault(f, None) for f in fields}
+
+        # enter author data into data dictionary
+        data["authors"] = self.clean_authors()
+
+        # enter cleaned title
+        has_title = self.root.find('.//m:datafield[@tag="200"]/m:subfield[@code="a"]', namespaces=NS)
+        if has_title is not None:
+            data["title"] = has_title.text
+
+        # enter link to the work in the institution's catalogue
+        has_ptr = self.root.find('.//m:controlfield[@tag="003"]', namespaces=NS)
+        if has_ptr is not None:
+            data["ptr"] = has_ptr.text
+
+        # enter publication place
+        has_place = self.root.find('.//m:datafield[@tag="210"]/m:subfield[@code="a"]', namespaces=NS)
+        if has_place is not None:
+            data["pubplace"] = has_place.text
+
+        # enter country code of publication place
+        has_place_key = self.root.find('.//m:datafield[@tag="102"]/m:subfield[@code="a"]', namespaces=NS)
+        if has_place_key is not None:
+            data["pubplace_key"] = has_place_key.text
+
+        # enter publisher
+        has_publisher = self.root.find('.//m:datafield[@tag="210"]/m:subfield[@code="c"]', namespaces=NS)
+        if has_publisher is not None:
+            data["publisher"] = has_publisher.text
+
+        # enter date of publication
+        has_date = self.root.find('.//m:datafield[@tag="210"]/m:subfield[@code="d"]', namespaces=NS)
+        if has_date is not None:
+            data["date"] = has_date.text
+
+        # enter country where the document is conserved
+        has_country = self.root.find('.//m:datafield[@tag="801"]/m:subfield[@code="a"]', namespaces=NS)
+        if has_country is not None:
+            data["country"] = has_country.text
+
+        # enter catalogue number of the document in the insitution
+        has_isno = self.root.find('.//m:datafield[@tag="930"]/m:subfield[@code="a"]', namespaces=NS)
+        if has_isno is not None:
+            data["idno"] = has_isno.text
+
+        # enter type of document (manuscript or print)
+        has_objectdesc = self.root.find('.//m:datafield[@tag="200"]/m:subfield[@code="b"]', namespaces=NS)
+        if has_objectdesc is not None:
+            data["objectdesc"] = has_objectdesc.text
+
+        # enter language of document
+        has_lang = self.root.find('.//m:datafield[@tag="101"]/m:subfield[@code="a"]', namespaces=NS)
+        if has_lang is not None:
+            data["lang"] = has_lang.text
+
+        return data

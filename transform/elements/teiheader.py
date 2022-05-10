@@ -18,8 +18,9 @@ def teiheader(directory, root, count_pages):
     Returns:
         root (etree): XML-TEI tree
     """    
+    manifest_data, unimarc_data = get_data(directory)
     # unimarc_data is None if the digitized document's IIIF manifest didn't have a valid catalogue ARK
-    unimarc_data, manifest_data = get_data(directory)
+    #unimarc_data, manifest_data = get_data(directory)
 
     # -- TEIHEADER --
     teiheader = etree.SubElement(root, "teiHeader")
@@ -48,38 +49,45 @@ def make_titlestmt(filedesc, unimarc_data, manifest_data):
     """    
     titlestmt = etree.SubElement(filedesc, "titleStmt")
     title = etree.SubElement(titlestmt, "title")
-    if unimarc_data:  # if the document's IIIF manifest had a valid catalogue ARK
+
+    if unimarc_data is not None:  # if the document's IIIF manifest had a valid catalogue ARK
         title.text = unimarc_data["title"]
-        if unimarc_data["authors"]:
-            for a in unimarc_data["authors"]:
+        if len(unimarc_data["authors"]) > 0:
+            for a in unimarc_data["authors"]:  # author_data is always list
                 author = etree.SubElement(titlestmt, "author", a["xmlid"])
                 persname = etree.SubElement(author, "persName")
                 if a["secondary_name"]:
                     forename = etree.SubElement(persname, "forename")
                     forename.text = a["secondary_name"]
-                    if a["namelink"]:
-                        namelink = etree.SubElement(persname,"nameLink")
-                        namelink.text = a["namelink"]
-                else:
+                if a["namelink"]:
                     namelink = etree.SubElement(persname,"nameLink")
                     namelink.text = a["namelink"]
                 if a["primary_name"]:
                     surname = etree.SubElement(persname, "surname")
                     surname.text = a["primary_name"]
-                if a["isni"] and a["isni"][:4] == "ISNI":
-                    ptr = etree.SubElement(persname, "ptr")
-                    ptr.attrib["type"] = "isni"
-                    ptr.attrib["target"] = a["isni"][:4]
+        else:
+            author = etree.SubElement(titlestmt, "author")
+            author.text = "Information not available."
         titlestmt = resp_stmt(titlestmt)
-    else:  # if the document's IIIF manifest didn't have a valid catalogue ARK
-        title.text = manifest_data["title"]
-        if manifest_data["authors"]:
-            for i, a in enumerate(manifest_data["authors"]):
+    if unimarc_data is None:  # if the document's IIIF manifest didn't have a valid catalogue ARK
+        if type(manifest_data["Creator"]) is list:
+            title.text = manifest_data["title"]
+            for i, a in enumerate(manifest_data["Creator"]):
                 xmlid = {"{http://www.w3.org/XML/1998/namespace}id":f"{a[:2]}{i}"}
                 author = etree.SubElement(titlestmt, "author", xmlid)
                 name = etree.SubElement(author, "name")
                 name.text = a
-    return titlestmt
+        elif manifest_data["Creator"] is None:
+            title.text = manifest_data["Title"]
+            author = etree.SubElement(titlestmt, "author")
+            author.text = "Information not available."
+        else:
+            title.text = manifest_data["Title"]
+            a = manifest_data["Creator"]
+            xmlid = {"{http://www.w3.org/XML/1998/namespace}id":f"{a[:2]}1"}
+            author = etree.SubElement(titlestmt, "author", xmlid)
+            name = etree.SubElement(author, "name")
+            name.text = a
 
 
 def resp_stmt(titlestmt):   
@@ -125,30 +133,41 @@ def empty_sourcedesc(directory, filedesc, unimarc_data, manifest_data):
     bibl = etree.SubElement(sourcedesc, "bibl")
     ptr = etree.SubElement(bibl, "ptr")
 
-    if unimarc_data:  # if the document's IIIF manifest had a valid catalogue ARK
-        if unimarc_data["authors"]:
-            for a in unimarc_data["authors"]:
-                author = etree.SubElement(bibl, "author", a["xmlid"])
+    if unimarc_data is not None:  # if the document's IIIF manifest had a valid catalogue ARK
+        #print(len(author_data))
+        if len(unimarc_data["authors"]) > 0:
+            for a in unimarc_data["authors"]:  # author_data is always list
+                key = a["xmlid"].get("{http://www.w3.org/XML/1998/namespace}id")
+                author = etree.SubElement(bibl, "author", ref=key)
                 persname = etree.SubElement(author, "persName")
                 if a["secondary_name"]:
                     forename = etree.SubElement(persname, "forename")
                     forename.text = a["secondary_name"]
-                    if a["namelink"]:
-                        namelink = etree.SubElement(persname,"nameLink")
-                        namelink.text = a["namelink"]
-                else:
+                if a["namelink"]:
                     namelink = etree.SubElement(persname,"nameLink")
                     namelink.text = a["namelink"]
                 if a["primary_name"]:
                     surname = etree.SubElement(persname, "surname")
                     surname.text = a["primary_name"]
-    else:  # if the document's IIIF manifest didn't have a valid catalogue ARK
-        if manifest_data["authors"]:
-            for i, a in enumerate(manifest_data["authors"]):
-                xmlid = {"{http://www.w3.org/XML/1998/namespace}id":f"{a[:2]}{i}"}
-                author = etree.SubElement(bibl, "author", xmlid)
+        else:
+            author = etree.SubElement(bibl, "author")
+            author.text = "Information not available."
+    if unimarc_data is None:  # if the document's IIIF manifest didn't have a valid catalogue ARK
+        if type(manifest_data["Creator"]) is list:
+            for i, a in enumerate(manifest_data["Creator"]):
+                ref = {"ref":f"{a[:2]}{i}"}
+                author = etree.SubElement(bibl, "author", ref)
                 name = etree.SubElement(author, "name")
                 name.text = a
+        elif manifest_data["Creator"] is None:
+            author = etree.SubElement(bibl, "author")
+            author.text = "Information not available."
+        else:
+            a = manifest_data["Creator"]
+            ref = {"ref":f"{a[:2]}1"}
+            author = etree.SubElement(bibl, "author", ref)
+            name = etree.SubElement(author, "name")
+            name.text = a
 
     title = etree.SubElement(bibl, "title")
     title.text = "Information not available."
@@ -217,31 +236,31 @@ def make_souredesc(directory, filedesc, unimarc_data, manifest_data):
         if unimarc_data["date"]:
             elements["d"].text = unimarc_data["date"]
         else:
-            elements["d"].text = manifest_data["date"]
-        if manifest_data["repository"]:
-            elements["repository"].text = manifest_data["repository"]
+            elements["d"].text = manifest_data["Date"]
+        if manifest_data["Repository"]:
+            elements["repository"].text = manifest_data["Repository"]
         if unimarc_data["idno"]:
             elements["idno"].text = unimarc_data["idno"]
         if unimarc_data["objectdesc"]:
             elements["p"].text = unimarc_data["objectdesc"]
     else:  # if the document's IIIF manifest didn't have a valid catalogue ARK
-        elements["title"].text = manifest_data["title"]
+        elements["title"].text = manifest_data["Title"]
         elements["pubplace"].text = None
         elements["pubplace"].append(etree.Comment("Digitized source not found in institution's catalogue."))
         elements["publisher"].text = None
         elements["publisher"].append(etree.Comment("Digitized source not found in institution's catalogue."))
-        elements["d"].text = manifest_data["date"]
+        elements["d"].text = manifest_data["Date"]
         elements["country"].text = None
         elements["country"].append(etree.Comment("Digitized source not found in institution's catalogue."))
         elements["settlement"].text = None
         elements["settlement"].append(etree.Comment("Digitized source not found in institution's catalogue."))
-        if manifest_data["repository"]:
-            elements["repository"].text = manifest_data["repository"]
+        if manifest_data["Repository"]:
+            elements["repository"].text = manifest_data["Repository"]
         else:
             elements["repository"].text = None
             elements["repository"].append(etree.Comment("Information not available."))
-        if manifest_data["shelfmark"]:
-            elements["idno"].text = manifest_data["shelfmark"]
+        if manifest_data["Shelfmark"]:
+            elements["idno"].text = manifest_data["Shelfmark"]
         else:
             elements["idno"].text = None
             elements["idno"].append(etree.Comment("Information not available."))
