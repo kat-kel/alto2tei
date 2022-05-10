@@ -5,9 +5,12 @@ It follows [SegmOnto's](https://github.com/SegmOnto/) controlled vocabulary and 
 
 ## Requirements
 ### Compatibility
-- The application is currently designed to work with Gallica's digitized sources, principally textual sources.
+- The application is currently designed to exclusively work with Gallica's sources.
 
-#### File structure
+### ALTO Tags
+- The zone and line tags in the ALTO file need to follow the SegmOnto guidelines.
+
+### File structure
 - The application requires folders which contain the XML-ALTO4 files. The folder name must be the ARK identifier from Gallica.
 - The ALTO4 files must be named with their folio number preceded by the letter `f`. They can include prefixes before the folio number.
 
