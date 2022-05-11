@@ -11,12 +11,10 @@ def sourcedoc(ordered_files, dir, tei_root):
     """Creates the <sourceDoc> for an XML-TEI file using data parsed from a series of ALTO files.
         The <sourceDoc> collates each ALTO file, which represents one page of a document, into a wholistic
         description of the facsimile of the document.
-
     Args:
         ordered_files (list): names of ALTO files in the directory
         directory (path): path to document directory
         tei_root (etree._Element): etree element of the docuemnt's XML-TEI file
-    
     Return:
         tei_root (etree._Element): etree element of the document's XML-TEI file, with <sourceDoc> completed
     """
@@ -34,17 +32,17 @@ def sourcedoc(ordered_files, dir, tei_root):
         folio = AltoFile(file, dir).folio
         alto_root = AltoFile(file, dir).alto_root
         attributes = Attributes(dir, folio, alto_root, tags)
-        tree = SurfaceTree(dir, folio, alto_root)
+        stree = SurfaceTree(dir, folio, alto_root)
 
         # -- SURFACE --
         # for every page in the document, create a <surface> and assign its attributes
-        surface = tree.surface(surfaceGrp, attributes.surface())
+        surface = stree.surface(surfaceGrp, attributes.surface())
 
         # -- TEXTBLOCK --
         # for every <Page> in this ALTO file, create a <zone> for every <TextBlock> and assign the latter's attributes
         textblock_atts, processed_textblocks = attributes.zone("PrintSpace/", "TextBlock")
         for textblock_count, processed_textblock in enumerate(processed_textblocks):
-            text_block = tree.zone1(surface, textblock_atts, textblock_count)
+            text_block = stree.zone1(surface, textblock_atts, textblock_count)
 
             # -- TEXTLINE --
             # for every <TextBlock> in this ALTO file that has at least one <TextLine>, create a <zone> and assign its attributes
@@ -52,12 +50,12 @@ def sourcedoc(ordered_files, dir, tei_root):
             if len(processed_textlines) > 0:
                 for textline_count, processed_textline in enumerate(processed_textlines):
                     lines_on_page+=1
-                    text_line = tree.zone2(lines_on_page, text_block, textblock_count, textline_atts, textline_count, processed_textline)
+                    text_line = stree.zone2(lines_on_page, text_block, textblock_count, textline_atts, textline_count, processed_textline)
 
                     # -- LINE --
                     # for every <TextLine> in this ALTO file that has a <String>, create a <line>
                     if alto_root.find(f'.//a:TextLine[@ID="{processed_textline}"]/a:String', namespaces=NS).get("CONTENT") is not None:
-                        tree.line(text_line, textblock_count, textline_count, processed_textline)
+                        stree.line(text_line, textblock_count, textline_count, processed_textline)
     return tei_root
 
 

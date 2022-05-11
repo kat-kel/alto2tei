@@ -1,6 +1,5 @@
 import os
 import re
-from collections import defaultdict
 from datetime import datetime
 
 import requests
@@ -12,7 +11,7 @@ NS = {"s":"http://www.loc.gov/zing/srw/", "m":"info:lc/xmlns/marcxchange-v2"}
 def get_data(directory):
     """Retrieve and synthesize metadata about a document.
     Args:
-        directory (etree): path to directory which contains document's pages
+        directory (path): path to directory which contains document's pages
     Returns:
         data (dict): Unimarc data about authorship, Unimarc data about title, Unimarc data for <bibl>, Unimarc data for <profileDesc>
     """    
@@ -58,19 +57,14 @@ class RequestAPI:
             perfect_match (boolean): True if request was completed with Gallica ark / directory basename
         """    
         print("|        requesting data from BnF's SRU API")
-        t0 = datetime.utcnow()
         r = requests.get(f'http://catalogue.bnf.fr/api/SRU?version=1.2&operation=searchRetrieve&query=(bib.persistentid all "{ark}")')
         root = etree.fromstring(r.content)
         if root.find('.//s:numberOfRecords', namespaces=NS).text=="0":
             perfect_match = False
-            t1 = datetime.utcnow()
-            dif = t1-t0
-            print(f"|        \33[31mdid not find digitised document in BnF catalogue\x1b[0m ({dif.seconds}.{dif.microseconds} seconds)")
+            print(f"|        \33[31mdid not find digitised document in BnF catalogue\x1b[0m")
         else:
             perfect_match = True
-            t1 = datetime.utcnow()
-            dif = t1-t0
-            print(f"|        \33[32mfound digitised document in BnF catalogue\x1b[0m ({dif.seconds}.{dif.microseconds} seconds)")
+            print(f"|        \33[32mfound digitised document in BnF catalogue\x1b[0m")
         return root, perfect_match
 
 
@@ -141,8 +135,8 @@ class UnimarcData:
         
         # -- identifier (700s subfield "o") --
         has_isni = author_element.find('m:subfield[@code="o"]', namespaces=NS)
-        if data["isni"] is not None and has_isni.text[0:4]=="ISNI":
-            isni = has_isni.text[4:]
+        if has_isni is not None and has_isni.text[0:4]=="ISNI":
+            data["isni"] = has_isni.text[4:]
 
         # -- primary name (700s subfield "a") --
         has_primaryname = author_element.find('m:subfield[@code="a"]', namespaces=NS)
@@ -162,12 +156,12 @@ class UnimarcData:
         # -- unique xml:id for the author --
         if data["primary_name"]:
             name = data["primary_name"]
-            data["xmlid"] = {"{http://www.w3.org/XML/1998/namespace}id":f"{name[:2]}{count}"}
+            data["xmlid"] = f"{name[:2]}{count}"
         elif data["secondary_name"]:
-            data["xmlid"] = {"{http://www.w3.org/XML/1998/namespace}id":f"{name[:2]}{count}"}
+            data["xmlid"] = f"{name[:2]}{count}"
         else:
-            data["xmlid"] = {"{http://www.w3.org/XML/1998/namespace}id":f"au{count}"}
-
+            data["xmlid"] = f"au{count}"
+        
         return data
 
 

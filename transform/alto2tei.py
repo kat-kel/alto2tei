@@ -16,10 +16,8 @@ def order_files(dir):
     """Creates a numerically ordered list of file names from the given directory path.
         This resolves any issue with file names ordered in the directory alphabetically.
         For example, it corrects ["file_f10", "file_f9"] to ["file_f9", "file_f10"].
-
     Args:
         dir (path): path to directory containing ALTO-encoded transcriptions of the document's pages
-    
     Returns:
         ordered_files (list): file names from directory ordered by folio number
     """
@@ -33,7 +31,6 @@ def order_files(dir):
 def make_tei(ordered_files, directory):
     """Creates an XML-TEI file for one document. The document's pages must be encoded in XML-ALTO v. 4 and
         assembled in one directory which has the same name as the document's ARK. (ex. 'bpt6k10516302/')
-
     Args:
         ordered_files (list): names of ALTO files in the directory
         directory (path): path to directory containing ALTO-encoded transcriptions of the document's pages
