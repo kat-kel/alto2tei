@@ -135,15 +135,15 @@ class FullTree:
                     ptr.attrib["type"] = "isni"
                     ptr.attrib["target"] = self.cat_data["authors"][count]["isni"]
         else:
-            for count, author_root in enumerate(parent.findall('./author')):
-                if self.mani_data["Creator"][count] is not None:
-                    a = self.mani_data["Creator"][count]
-                    if is_first_id:
-                        author_root.attrib[xml_id] = f"{a[:2]}{count}"
-                    else:
-                        author_root.attrib["ref"] = f"{a[:2]}{count}"
-                    name = etree.SubElement(author_root, "name")
-                    name.text = a
+            author_root = parent.find('./author')
+            if self.mani_data["Creator"] is not None:
+                a = self.mani_data["Creator"]
+                if is_first_id:
+                    author_root.attrib[xml_id] = f"{a[:2]}"
+                else:
+                    author_root.attrib["ref"] = f"{a[:2]}"
+                name = etree.SubElement(author_root, "name")
+                name.text = a
 
 
 class EmptyteiHeader:
@@ -162,7 +162,7 @@ class EmptyteiHeader:
             num_authors = len(self.cat_data["authors"])
         else:
             default_text = "Digitised resource not found in BnF catalogue."
-            num_authors = len(self.manifest_data["Creator"])
+            num_authors = 1  # method of extracting IIIF manifest data will only return 1 author
 
         teiHeader = etree.SubElement(self.root, "teiHeader")
         fileDesc = etree.SubElement(teiHeader, "fileDesc")

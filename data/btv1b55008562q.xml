@@ -4,53 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Guillaume Budé : De l'institution du prince</title>
-        <author xml:id="B0">
-          <name>B</name>
-        </author>
-        <author xml:id="u1">
-          <name>u</name>
-        </author>
-        <author xml:id="d2">
-          <name>d</name>
-        </author>
-        <author xml:id="é3">
-          <name>é</name>
-        </author>
-        <author xml:id=" 4">
-          <name> </name>
-        </author>
-        <author xml:id="(5">
-          <name>(</name>
-        </author>
-        <author xml:id="G6">
-          <name>G</name>
-        </author>
-        <author xml:id="u7">
-          <name>u</name>
-        </author>
-        <author xml:id="i8">
-          <name>i</name>
-        </author>
-        <author xml:id="l9">
-          <name>l</name>
-        </author>
-        <author xml:id="l10">
-          <name>l</name>
-        </author>
-        <author xml:id="a11">
-          <name>a</name>
-        </author>
-        <author xml:id="u12">
-          <name>u</name>
-        </author>
-        <author xml:id="m13">
-          <name>m</name>
-        </author>
-        <author xml:id="e14">
-          <name>e</name>
-        </author>
-        <author xml:id=")15">
-          <name>)</name>
+        <author xml:id="Bu">
+          <name>Budé (Guillaume)</name>
         </author>
         <respStmt xml:id="KC">
           <resp>transformation from ALTO4 to TEI by</resp>
@@ -75,53 +30,8 @@
       <sourceDesc>
         <bibl>
           <ptr/>
-          <author ref="B0">
-            <name>B</name>
-          </author>
-          <author ref="u1">
-            <name>u</name>
-          </author>
-          <author ref="d2">
-            <name>d</name>
-          </author>
-          <author ref="é3">
-            <name>é</name>
-          </author>
-          <author ref=" 4">
-            <name> </name>
-          </author>
-          <author ref="(5">
-            <name>(</name>
-          </author>
-          <author ref="G6">
-            <name>G</name>
-          </author>
-          <author ref="u7">
-            <name>u</name>
-          </author>
-          <author ref="i8">
-            <name>i</name>
-          </author>
-          <author ref="l9">
-            <name>l</name>
-          </author>
-          <author ref="l10">
-            <name>l</name>
-          </author>
-          <author ref="a11">
-            <name>a</name>
-          </author>
-          <author ref="u12">
-            <name>u</name>
-          </author>
-          <author ref="m13">
-            <name>m</name>
-          </author>
-          <author ref="e14">
-            <name>e</name>
-          </author>
-          <author ref=")15">
-            <name>)</name>
+          <author ref="Bu">
+            <name>Budé (Guillaume)</name>
           </author>
           <title>Guillaume Budé : De l'institution du prince</title>
           <pubPlace>Digitised resource not found in BnF catalogue.</pubPlace>
