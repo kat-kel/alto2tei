@@ -174,4 +174,4 @@ After creating the blank tree, the module populates the child elements with thei
 |.//msIdentifier /idno|`"idno"`|`"Shelfmark"`|`"idno"`|
 |.//physDesc /objectDesc /p|`"p"`|--|`"objectdesc"`|
 |.//profileDesc /langUsage /language|`"language"`|`"Language"`|--|
-|.//profileDesc /langUsage /language @ident| `"language"`|--|`"language"`|
+|.//profileDesc /langUsage /language @ident| `"language"`|--|`"lang"`|

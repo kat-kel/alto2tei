@@ -28,28 +28,23 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-11"/>
+        <date when="2022-05-12"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <ptr target="http://catalogue.bnf.fr/ark:/12148/cb301183413"/>
-          <author ref="Bo1">
-            <persName>
-              <surname>Boèce</surname>
-              <ptr type="isni" target="0000000122834442"/>
-            </persName>
-          </author>
+          <author/>
           <title>Le grant Boèce, de Consolation</title>
           <pubPlace key="FR">Paris</pubPlace>
-          <publisher>Information not available.</publisher>
+          <publisher>pour Antoine Vérard</publisher>
           <date>19 VIII 1494</date>
         </bibl>
         <msDesc>
           <msIdentifier>
             <country key="FR"/>
-            <settlement>Paris</settlement>
+            <settlement>Information not available.</settlement>
             <repository>Bibliothèque nationale de France</repository>
-            <idno>Bibliothèque nationale de France, département Réserve des livres rares, VELINS-488</idno>
+            <idno>VELINS-488</idno>
             <altIdentifier>
               <idno type="ark">bpt6k1057722q</idno>
             </altIdentifier>
@@ -64,7 +59,7 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="frm"/>
+        <language ident="frm">français moyen</language>
       </langUsage>
     </profileDesc>
   </teiHeader>

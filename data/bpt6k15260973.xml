@@ -29,18 +29,12 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-11"/>
+        <date when="2022-05-12"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <ptr target="http://catalogue.bnf.fr/ark:/12148/cb30543270h"/>
-          <author ref="Gr1">
-            <persName>
-              <forename>Pierre</forename>
-              <surname>Gringore</surname>
-              <ptr type="isni" target="0000000081080882"/>
-            </persName>
-          </author>
+          <author/>
           <title>Sensuivent les Menus propos Mère Sotte , nouvellement composez par Pierre Gringoire,... avec plusieurs addicions nouvelles, comme pourrez veoir cy-après.</title>
           <pubPlace key="FR">Information not available.</pubPlace>
           <publisher>Information not available.</publisher>
@@ -49,9 +43,9 @@
         <msDesc>
           <msIdentifier>
             <country key="FR"/>
-            <settlement>Paris</settlement>
+            <settlement>Information not available.</settlement>
             <repository>Bibliothèque nationale de France</repository>
-            <idno>Bibliothèque nationale de France, département Réserve des livres rares, RES-YE-1325</idno>
+            <idno>RES-YE-1325</idno>
             <altIdentifier>
               <idno type="ark">bpt6k15260973</idno>
             </altIdentifier>
@@ -66,7 +60,7 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="frm"/>
+        <language ident="frm">français moyen</language>
       </langUsage>
     </profileDesc>
   </teiHeader>

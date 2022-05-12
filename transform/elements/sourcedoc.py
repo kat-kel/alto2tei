@@ -66,7 +66,6 @@ class DocTags:
     def __init__(self, file, directory):
         self.file = file
         self.directory = directory
-
         
     def labels(self):
         root = etree.parse(f"{self.directory}/{self.file}").getroot()
@@ -93,7 +92,6 @@ class Attributes:
         self.root = alto_root
         self.tags = tags
 
-
     def surface(self):
         att_list = self.root.find('.//a:Page', namespaces=NS).attrib
         attributes = {"{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}",
@@ -104,7 +102,6 @@ class Attributes:
                     "lry":att_list["HEIGHT"]}
         return attributes
 
-    
     def zone(self, parent, target):
         zone_elements = [z for z in self.root.findall(f'.//a:{parent}a:{target}', namespaces=NS) \
                         if 'TAGREFS' in z.attrib and\
@@ -143,14 +140,12 @@ class SurfaceTree:
         self.folio = folio
         self.root = alto_root
 
-
     def surface(self, surface_group, page_attributes):
         # -- surfaceGrp/surface-- 
         surface = etree.SubElement(surface_group, "surface", page_attributes)
         # create <graphic> and assign its attributes
         etree.SubElement(surface, "graphic", url=f"https://gallica.bnf.fr/iiif/ark:/12148/{os.path.basename(self.dir)}/f{self.folio}/full/full/0/native.jpg")
         return surface
-
 
     def zone1(self, surface, textblock_atts, textblock_count):
         # -- surfaceGrp/surface/zone -- 
@@ -159,7 +154,6 @@ class SurfaceTree:
         for k,v in textblock_atts[textblock_count].items():
             text_block.attrib[k]=v
         return text_block
-
 
     def zone2(self, lines_on_page, text_block, textblock_count, textline_atts, textline_count, processed_textline):    
         # -- surfaceGrp/surface/zone/zone --           
@@ -174,7 +168,6 @@ class SurfaceTree:
         b = self.root.find(f'.//a:TextLine[@ID="{processed_textline}"]', namespaces=NS).get("BASELINE")
         baseline.attrib["points"] = " ".join([re.sub(r"\s", ",", x) for x in re.findall(r"(\d+ \d+)", b)])
         return text_line
-
 
     def line(self, text_line, textblock_count, textline_count, processed_textline):
         # -- surfaceGrp/surface/zone/zone/line -- 

@@ -30,30 +30,23 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-11"/>
+        <date when="2022-05-12"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <ptr target="http://catalogue.bnf.fr/ark:/12148/cb31276015s"/>
-          <author ref="Sa1">
-            <persName>
-              <forename>Donatien Alphonse François </forename>
-              <nameLink>de</nameLink>
-              <surname>Sade</surname>
-              <ptr type="isni" target="0000000084961458"/>
-            </persName>
-          </author>
+          <author/>
           <title>La philosophie dans le boudoir</title>
           <pubPlace key="GB">Londres</pubPlace>
-          <publisher>Information not available.</publisher>
+          <publisher>aux dépens de la Compagnie</publisher>
           <date>1795</date>
         </bibl>
         <msDesc>
           <msIdentifier>
             <country key="FR"/>
-            <settlement>Paris</settlement>
+            <settlement>Information not available.</settlement>
             <repository>Bibliothèque nationale de France</repository>
-            <idno>Bibliothèque nationale de France, département Réserve des livres rares, ENFER-535</idno>
+            <idno>ENFER-535</idno>
             <altIdentifier>
               <idno type="ark">btv1b86146004</idno>
             </altIdentifier>
@@ -68,7 +61,7 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="fre"/>
+        <language ident="fre">français</language>
       </langUsage>
     </profileDesc>
   </teiHeader>

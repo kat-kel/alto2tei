@@ -28,28 +28,23 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-11"/>
+        <date when="2022-05-12"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <ptr target="http://catalogue.bnf.fr/ark:/12148/cb316069323"/>
-          <author ref="Ja1">
-            <persName>
-              <surname>Jacques de Voragine</surname>
-              <ptr type="isni" target="0000000121451474"/>
-            </persName>
-          </author>
+          <author/>
           <title>La vie des saints en francoys [par Jacques de Voragine. Trad. Jean de Vignay. Éd. Jean Battalier]</title>
           <pubPlace key="FR">Paris</pubPlace>
-          <publisher>Information not available.</publisher>
+          <publisher>pour Antoine Vérard</publisher>
           <date>2 VI 1493</date>
         </bibl>
         <msDesc>
           <msIdentifier>
             <country key="FR"/>
-            <settlement>Paris</settlement>
+            <settlement>Information not available.</settlement>
             <repository>Bibliothèque nationale de France</repository>
-            <idno>Bibliothèque nationale de France, département Réserve des livres rares, VELINS-690</idno>
+            <idno>VELINS-689</idno>
             <altIdentifier>
               <idno type="ark">bpt6k324358v</idno>
             </altIdentifier>
@@ -64,7 +59,7 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="frm"/>
+        <language ident="frm">français moyen</language>
       </langUsage>
     </profileDesc>
   </teiHeader>

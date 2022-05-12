@@ -99,7 +99,6 @@ class UnimarcData:
     def __init__(self, sru_xml_response):
         self.root = sru_xml_response
 
-
     def clean_authors(self):
         """Parses and cleans author data from Unimarc fields 701 and/or 702.
         Returns:
@@ -119,7 +118,6 @@ class UnimarcData:
                 data.append(self.author_data(element, count))
         return data
 
-    
     def author_data(self, author_element, count):
         """Create and fill datafields for relevant author data.
         Args:
@@ -163,7 +161,6 @@ class UnimarcData:
             data["xmlid"] = f"au{count}"
         
         return data
-
 
     def clean(self):
         """Parse and clean data from SRU API response.
