@@ -31,7 +31,7 @@ ___data/
 
 ```
 ## Strategy
-The document's metadata are extracted from both the digitization's IIIF manifest and from the BnF's SRU API, which draws on the BnF catalogue. On Gallica, every digitized source's IIIF manifest should include a valid reference to the document's ARK (Archival Resource Key) in the BnF catalogue. When this identifier is valid, the application retrieves rich metadata from the SRU API and pairs it with some metadata from the IIIF manifest. When the identifier is invalid, it relies exclusively on metadata in the digitized document's IIIF manifest. These two
+The document's metadata are extracted from both the digitization's IIIF manifest and from the BnF's SRU API, which draws on the BnF catalogue. On Gallica, every digitized source's IIIF manifest should include a valid reference to the document's ARK (Archival Resource Key) in the BnF catalogue. When this identifier is valid, the application retrieves rich metadata from the SRU API and pairs it with some metadata from the IIIF manifest. When the identifier is invalid, it relies exclusively on metadata in the digitized document's IIIF manifest. These two endpoints complement each other and compensate for missing data. However, the SRU API data is only applied to the document if an exact match to the document's unique ARK is found in the catalogue. This strict condition prevents any false data from being wrongly included in the document's metadata.
 
 ## Method. Task 1: Extract metadata from internet
 
