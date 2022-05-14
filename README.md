@@ -31,7 +31,11 @@ ___data/
 
 ```
 ## Strategy
-The document's metadata are extracted from both the digitization's IIIF manifest and from the BnF's SRU API, which draws on the BnF catalogue. On Gallica, every digitized source's IIIF manifest should include a valid reference to the document's ARK (Archival Resource Key) in the BnF catalogue. When this identifier is valid, the application retrieves rich metadata from the SRU API and pairs it with some metadata from the IIIF manifest. When the identifier is invalid, it relies exclusively on metadata in the digitized document's IIIF manifest. These two endpoints complement each other and compensate for missing data. However, the SRU API data is only applied to the document if an exact match to the document's unique ARK is found in the catalogue. This strict condition prevents any false data from being wrongly included in the document's metadata.
+The document's metadata are extracted from two sources: the digitized document's IIIF manifest and the BnF's catalogue. Every Gallica source's IIIF manifest should include a valid reference to the document's ARK (Archival Resource Key) in the BnF catalogue. First, the application interacts with the IIIF Presentation API to access basic metadata about the document as well as this key identifier. Second, the application uses the catalogue ARK indicated in the manifest to try to interact with the BnF catalogue's SRU API.
+
+The identifier is valid when the very same document as that digitized, and only that document, is found in the library catalogue. The application parses the UNIMARC data and searches for information relevant to the `<teiHeader>`. If the identifier is invalid, the application relies exclusively on data retrieved from the digitized document's IIIF manifest. These two endpoints complement each other and compensate for missing data. However, the rich UNIMARC data is only used if the digitized document's exact match is found in the catalogue. This strict condition prevents any false data from being wrongly included in the XML-TEI file.
+
+![alt text](alto2tei_1.png)
 
 ## Method. Task 1: Extract metadata from internet
 
