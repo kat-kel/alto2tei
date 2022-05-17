@@ -12,8 +12,10 @@ class FullTree:
         """        
         if self.sru["found"]:  # if the document's IIIF manifest had a valid catalogue ARK
             self.authors(self.children["titleStmt"], True, True)
+            self.authors(self.children["bibl"], True, False)
         else:  # if the document's IIIF manifest didn't have a valid catalogue ARK
             self.authors(self.children["titleStmt"], False, True)
+            self.authors(self.children["bibl"], False, False)
 
     def authors(self, parent, is_catologue_match, is_first_id):
         """Create elements about authorship in either fileDesc/titleStmt or fileDesc/sourceDesc/bibl.
@@ -30,7 +32,8 @@ class FullTree:
                     if is_first_id:
                         author_root.attrib[xml_id] = self.sru["authors"][count]["xmlid"]
                     else:
-                        author_root.attrib["ref"] = self.sru["authors"][count]["xmlid"]
+                        ref = self.sru["authors"][count]["xmlid"]
+                        author_root.attrib["ref"] = f"#{ref}"
                     persname = etree.SubElement(author_root, "persName")
                     if self.sru["authors"][count]["secondary_name"]:
                         forename = etree.SubElement(persname, "forename")
@@ -52,7 +55,7 @@ class FullTree:
                     if is_first_id:
                         author_root.attrib[xml_id] = f"{a[:2]}"
                     else:
-                        author_root.attrib["ref"] = f"{a[:2]}"
+                        author_root.attrib["ref"] = f"#{a[:2]}"
                     name = etree.SubElement(author_root, "name")
                     name.text = a
 

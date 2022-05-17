@@ -18,7 +18,6 @@
             <ptr type="orcid" target="0000000190944475"/>
           </persName>
         </respStmt>
-        <author>Information not available.</author>
       </titleStmt>
       <extent>
         <measure unit="images" n="10"/>
@@ -34,6 +33,7 @@
       <sourceDesc>
         <bibl>
           <ptr target="http://catalogue.bnf.fr/ark:/12148/cb33644454n"/>
+          <author>Information not available.</author>
           <title>La vie et miracles de monseigneur saint Martin, translatee de latin en francoys</title>
           <pubPlace key="FR">Tours</pubPlace>
           <publisher>Mathieu Latheron</publisher>

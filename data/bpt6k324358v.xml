@@ -38,7 +38,12 @@
       <sourceDesc>
         <bibl>
           <ptr target="http://catalogue.bnf.fr/ark:/12148/cb316069323"/>
-          <author/>
+          <author ref="#Ja1">
+            <persName>
+              <surname>Jacques de Voragine</surname>
+              <ptr type="isni" target="0000000121451474"/>
+            </persName>
+          </author>
           <title>La vie des saints en francoys [par Jacques de Voragine. Trad. Jean de Vignay. Éd. Jean Battalier]</title>
           <pubPlace key="FR">Paris</pubPlace>
           <publisher>pour Antoine Vérard</publisher>

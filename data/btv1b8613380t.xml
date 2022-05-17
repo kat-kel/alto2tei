@@ -39,7 +39,13 @@
       <sourceDesc>
         <bibl>
           <ptr target="http://catalogue.bnf.fr/ark:/12148/cb312841493"/>
-          <author/>
+          <author ref="#Be1">
+            <persName>
+              <forename>Henri</forename>
+              <surname>Bernardin de Saint-Pierre</surname>
+              <ptr type="isni" target="0000000121348098"/>
+            </persName>
+          </author>
           <title>La chaumière indienne par Jacques-Bernardin-Henri de Saint-Pierre</title>
           <pubPlace key="FR">Information not available.</pubPlace>
           <publisher>Information not available.</publisher>

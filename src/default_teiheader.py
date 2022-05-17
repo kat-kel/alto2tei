@@ -63,7 +63,7 @@ class DefaultTree:
         for i in range(num_authors):
             etree.SubElement(bibl, "author")
         if num_authors == 0:
-            bib_author = etree.SubElement(titleStmt, "author")
+            bib_author = etree.SubElement(bibl, "author")
             bib_author.text = default_text
         self.children["bib_title"] = etree.SubElement(bibl, "title")  # pass to other methods
         self.children["bib_title"].text = default_text

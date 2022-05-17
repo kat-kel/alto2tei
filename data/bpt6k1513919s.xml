@@ -38,7 +38,12 @@
       <sourceDesc>
         <bibl>
           <ptr target="http://catalogue.bnf.fr/ark:/12148/cb33352789b"/>
-          <author/>
+          <author ref="#No1">
+            <persName>
+              <nameLink>de</nameLink>
+              <surname>Nouguier</surname>
+            </persName>
+          </author>
           <title>Les divers entretiens de la fontaine de Vaucluse</title>
           <pubPlace key="FR">Avignon</pubPlace>
           <publisher>J. Bramereau</publisher>

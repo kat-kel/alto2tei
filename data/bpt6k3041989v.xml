@@ -40,7 +40,14 @@
       <sourceDesc>
         <bibl>
           <ptr target="http://catalogue.bnf.fr/ark:/12148/cb30239670b"/>
-          <author/>
+          <author ref="#Ch1">
+            <persName>
+              <forename>Nicolas </forename>
+              <nameLink>de</nameLink>
+              <surname>Cholières</surname>
+              <ptr type="isni" target="0000000072490177"/>
+            </persName>
+          </author>
           <title>Les après disnées du seigneur de Cholières</title>
           <pubPlace key="BE">Bruxelles</pubPlace>
           <publisher>Imprimerie de A. Mertens et fils</publisher>

@@ -35,7 +35,9 @@
       <sourceDesc>
         <bibl>
           <ptr/>
-          <author/>
+          <author ref="#Bu">
+            <name>Budé (Guillaume)</name>
+          </author>
           <title>Guillaume Budé : De l'institution du prince</title>
           <pubPlace>Digitised resource not found in BnF catalogue.</pubPlace>
           <publisher>Digitised resource not found in BnF catalogue.</publisher>

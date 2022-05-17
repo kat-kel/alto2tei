@@ -39,7 +39,13 @@
       <sourceDesc>
         <bibl>
           <ptr target="http://catalogue.bnf.fr/ark:/12148/cb30543270h"/>
-          <author/>
+          <author ref="#Gr1">
+            <persName>
+              <forename>Pierre</forename>
+              <surname>Gringore</surname>
+              <ptr type="isni" target="0000000081080882"/>
+            </persName>
+          </author>
           <title>Sensuivent les Menus propos Mère Sotte , nouvellement composez par Pierre Gringoire,... avec plusieurs addicions nouvelles, comme pourrez veoir cy-après.</title>
           <pubPlace key="FR">Information not available.</pubPlace>
           <publisher>Information not available.</publisher>

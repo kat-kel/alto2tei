@@ -38,7 +38,12 @@
       <sourceDesc>
         <bibl>
           <ptr target="http://catalogue.bnf.fr/ark:/12148/cb301183413"/>
-          <author/>
+          <author ref="#Bo1">
+            <persName>
+              <surname>Boèce</surname>
+              <ptr type="isni" target="0000000122834442"/>
+            </persName>
+          </author>
           <title>Le grant Boèce, de Consolation</title>
           <pubPlace key="FR">Paris</pubPlace>
           <publisher>pour Antoine Vérard</publisher>

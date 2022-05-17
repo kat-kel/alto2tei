@@ -40,7 +40,14 @@
       <sourceDesc>
         <bibl>
           <ptr target="http://catalogue.bnf.fr/ark:/12148/cb31276015s"/>
-          <author/>
+          <author ref="#Sa1">
+            <persName>
+              <forename>Donatien Alphonse François </forename>
+              <nameLink>de</nameLink>
+              <surname>Sade</surname>
+              <ptr type="isni" target="0000000084961458"/>
+            </persName>
+          </author>
           <title>La philosophie dans le boudoir</title>
           <pubPlace key="GB">Londres</pubPlace>
           <publisher>aux dépens de la Compagnie</publisher>

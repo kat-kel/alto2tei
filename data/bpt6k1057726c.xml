@@ -38,7 +38,12 @@
       <sourceDesc>
         <bibl>
           <ptr target="http://catalogue.bnf.fr/ark:/12148/cb304061076"/>
-          <author/>
+          <author ref="#És1">
+            <persName>
+              <surname>Ésope</surname>
+              <ptr type="isni" target="0000000120317310"/>
+            </persName>
+          </author>
           <title>Les apologues et fables de Laurens valle</title>
           <pubPlace key="FR">[Paris</pubPlace>
           <publisher>pour Antoine Vérard</publisher>
