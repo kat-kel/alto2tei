@@ -14,9 +14,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install lxml
           pip install requests
+          pip install pyyaml
       - name: "Create TEI files"
         run: |
-          python transform/alto2tei.py ./data/*
+          python run.py
       - name: "Commit generated files to data/"
         run: |
           git config user.name github-actions

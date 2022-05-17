@@ -11,12 +11,17 @@
             <ptr type="isni" target="0000000121265989"/>
           </persName>
         </author>
-        <respStmt xml:id="KC">
-          <resp>transformation from ALTO4 to TEI by</resp>
+        <respStmt>
+          <resp>Transformation from ALTO4 to TEI by</resp>
           <persName>
             <forename>Kelly</forename>
             <surname>Christensen</surname>
             <ptr type="orcid" target="000000027236874X"/>
+          </persName>
+          <persName>
+            <forename>Simon</forename>
+            <surname>Gabay</surname>
+            <ptr type="orcid" target="0000000190944475"/>
           </persName>
         </respStmt>
       </titleStmt>
@@ -25,11 +30,11 @@
       </extent>
       <publicationStmt>
         <publisher>Gallic(orpor)a</publisher>
-        <authority>BnF DATAlab</authority>
+        <authority>BnF DATALab</authority>
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-12"/>
+        <date when="2022-05-17"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -2294,458 +2299,562 @@
   </sourceDoc>
   <text>
     <body>
-      <pb corresp="f5"/>
-      <pb corresp="f6"/>
-      <pb corresp="f9"/>
-      <l corresp="f9_z2_l1_t">uiuront noſtre ſiecle, les admira¬</l>
-      <l corresp="f9_z2_l2_t">bles effets de vos heroiques ver¬</l>
-      <l corresp="f9_z2_l3_t">tus, blaſmeroit noſtre ingrate</l>
-      <l corresp="f9_z2_l4_t">mecognoiſſance, de n’auoir par</l>
-      <l corresp="f9_z2_l5_t">mos plumes teſtifié la grace que</l>
-      <l corresp="f9_z2_l6_t">Dieu nous fait de viure ſous la</l>
-      <l corresp="f9_z2_l7_t">douce ſubiection d’vn ſi grand</l>
-      <l corresp="f9_z2_l8_t">Monarque, que les nations qui</l>
-      <l corresp="f9_z2_l9_t">aboutẽt les frontieres de Scythie,</l>
-      <l corresp="f9_z2_l10_t">ont ambitieuſement recherché</l>
-      <l corresp="f9_z2_l11_t">pour maiſtre. Ie ne crains point</l>
-      <l corresp="f9_z2_l12_t">que ceux qui aurõt approché des</l>
-      <l corresp="f9_z2_l13_t">rayons de voſtre Maieſté, me iu¬</l>
-      <l corresp="f9_z2_l14_t">gent pour cela deborder en lou¬</l>
-      <l corresp="f9_z2_l15_t">anges immoderees: attendu les</l>
-      <l corresp="f9_z2_l16_t">belles &amp; recõmandables parties,</l>
-      <l corresp="f9_z2_l17_t">dont noſtre Dieu vous a rendu</l>
-      <l corresp="f9_z2_l18_t">d’eſprit &amp; de corps ſi accompli.</l>
-      <l corresp="f9_z2_l19_t">Vous face ſa bonté, SIRE, pro¬</l>
-      <l corresp="f9_z2_l20_t">ſperer longuement, &amp; vous don¬</l>
-      <l corresp="f9_z2_l21_t">ne entre autres felicitez vne po¬</l>
-      <l corresp="f9_z2_l22_t">ſterité telle que vous deſirez pour</l>
-      <pb corresp="f10"/>
-      <l corresp="f10_z2_l1_t">le particulier contentement de</l>
-      <l corresp="f10_z2_l2_t">voſtre Maieſté, &amp; le commun</l>
-      <l corresp="f10_z2_l3_t">bien de voſtre France.</l>
-      <l corresp="f10_z2_l4_t">Le tres-humble &amp; tres¬</l>
-      <l corresp="f10_z2_l5_t">affectionné ſeruiteur</l>
-      <l corresp="f10_z2_l6_t">&amp; ſubiect de voſtre</l>
-      <l corresp="f10_z2_l7_t">Maieſté, ROBERT</l>
-      <l corresp="f10_z2_l8_t">GARNIER.</l>
-      <pb corresp="f11"/>
-      <l corresp="f11_z2_l4_t">ES Rois, enfans du Ciel, ſont de Dieu</l>
-      <l corresp="f11_z2_l5_t">les images:</l>
-      <l corresp="f11_z2_l6_t">Iupiter en prend cure &amp; les garde d’ou¬</l>
-      <l corresp="f11_z2_l7_t">trages,</l>
-      <l corresp="f11_z2_l8_t">Il les fait reuerer, reputant les honneurs</l>
-      <l corresp="f11_z2_l9_t">Eſtre à luy meſme faits, qu’on rend à ſes ſeigneurs.</l>
-      <l corresp="f11_z2_l10_t">Quand ils ont quelquefois leurs ames trop cruelles,</l>
-      <l corresp="f11_z2_l11_t">Outrageant leurs ſuiets qui ne leur ſont rebelles,</l>
-      <l corresp="f11_z2_l12_t">Bien qu’épris de colere, il les fait à tous coups</l>
-      <l corresp="f11_z2_l13_t">Par ſignes aduertir de ſon ardant courroux.</l>
-      <l corresp="f11_z2_l14_t">Il trouble l'air de uents,d’éclairs &amp; de tonnerres,</l>
-      <l corresp="f11_z2_l15_t">Il fait enfler les mers,il fait trembler les terres,</l>
-      <l corresp="f11_z2_l16_t">Fait pallir du Soleil le grand front lumineux,</l>
-      <l corresp="f11_z2_l17_t">Ou ſur le ciel attache vn Comete crineux:</l>
-      <l corresp="f11_z2_l18_t">A fin qu’eſpouuantez de ſa dure menace,</l>
-      <l corresp="f11_z2_l19_t">Ils amendent leur vie &amp; recouurent ſa grace:</l>
-      <l corresp="f11_z2_l20_t">Tant il leur eſt clement, &amp; tant peu volontiers</l>
-      <l corresp="f11_z2_l21_t">Il venge les forfaits des monarques fautiers.</l>
-      <l corresp="f11_z2_l22_t">Mais des bons qui la paix &amp; la iuſtice honorent,</l>
-      <l corresp="f11_z2_l23_t">Et ſemblables à vous les cruautez abhorrent,</l>
-      <l corresp="f11_z2_l24_t">Il a touſiours le ſoing, leur ſceptres il maintient,</l>
-      <l corresp="f11_z2_l25_t">Et contre tous haineurs leur querelle ſouſtient.</l>
-      <l corresp="f11_z2_l26_t">Il veut que les vertus de leur ame enfantees,</l>
-      <l corresp="f11_z2_l27_t">Comme celeſtes, ſoyent par les Muſes chantees.</l>
-      <pb corresp="f16"/>
-      <l corresp="f16_z2_l1_t">Pour l'heur de voſtre vie, &amp; qu’il vous ſoit permis</l>
-      <l corresp="f16_z2_l2_t">De gouuerner long temps nous vos peuples commis:</l>
-      <l corresp="f16_z2_l3_t">Que touſiours la victoire accompagne vos bandes,</l>
-      <l corresp="f16_z2_l4_t">Soit allant inueſtir les troupes Alemandes,</l>
-      <l corresp="f16_z2_l5_t">Soit le brun Eſpagnol, ou le Breton mutin,</l>
-      <l corresp="f16_z2_l6_t">Ou ceux qu’entre deux mers ſepare l’Apennin.</l>
-      <l corresp="f16_z2_l7_t">Que les Rois ennemis qui vous feront la guerre,</l>
-      <l corresp="f16_z2_l8_t">Abandonnez de Dieu ſoyent chaſſez de leur terre:</l>
-      <l corresp="f16_z2_l9_t">Perdent gloire &amp; Empire, &amp; du malheur chetifs,</l>
-      <l corresp="f16_z2_l10_t">A vos pieds, leurs ſauueurs, ſoyent preſentez captifs,</l>
-      <l corresp="f16_z2_l11_t">Et que ie puiſſe d’eux faire une tragedie,</l>
-      <l corresp="f16_z2_l12_t">Semblable à celles-cy, qu'humble ie vous dedie:</l>
-      <l corresp="f16_z2_l13_t">Où i'empoule des vers pleins de ſang &amp; d’horreur,</l>
-      <l corresp="f16_z2_l14_t">De larmes, de ſanglots, de rage &amp; de fureur.</l>
-      <l corresp="f16_z2_l15_t">Dont, comme n’eſtant pas de uos maieſtez dignes,</l>
-      <l corresp="f16_z2_l16_t">Ie n’oſe accompagner le doux chant de vos Cygnes,</l>
-      <l corresp="f16_z2_l17_t">Croaſſant enroué quand ie veux quelquesſois</l>
-      <l corresp="f16_z2_l18_t">Vos louanges ſonner, ſuiect de trop grand poix.</l>
-      <l corresp="f16_z2_l19_t">Ma naſſelle trop foible &amp; craintiue des vagues,</l>
-      <l corresp="f16_z2_l20_t">N’oſe de la grand' mer courir les ondes vagues,</l>
-      <l corresp="f16_z2_l21_t">Lechant touſiours le bord, ou ſi aucunesfois</l>
-      <l corresp="f16_z2_l22_t">Elle entre plus auant, c’eſt ſur les fleuues cois:</l>
-      <l corresp="f16_z2_l23_t">Mais ſi vous la guidez qui eſtes mon Neptune,</l>
-      <l corresp="f16_z2_l24_t">Elle courra par tout ſans crainte d’infortune,</l>
-      <l corresp="f16_z2_l25_t">Ne redoutant les rocs, les Syrtes, ny les bancs,</l>
-      <l corresp="f16_z2_l26_t">Ny que les uents eſmeus luy donnent par les flancs,</l>
-      <l corresp="f16_z2_l27_t">" Prochaine d’abyſmer. Car qui eſt en la garde</l>
-      <l corresp="f16_z2_l28_t">" D'un fi grãd Dieu que uous, ſeuremẽt ſe haſarde.</l>
-      <pb corresp="f17"/>
-      <l corresp="f17_z2_l5_t">PRES que les Saraſins ſurent rom¬</l>
-      <l corresp="f17_z2_l6_t">pus &amp; chaſſez deuant Paris, Roger</l>
-      <l corresp="f17_z2_l7_t">embarqué auec autres Princes re¬</l>
-      <l corresp="f17_z2_l8_t">ſtez de l’armee, eſt ſurpris de tour¬</l>
-      <l corresp="f17_z2_l9_t">mente en la mer d’Afrique. Les hõ¬</l>
-      <l corresp="f17_z2_l10_t">mes &amp; vaiſſeaux abyſmez il ſe ſauue à naige ſur</l>
-      <l corresp="f17_z2_l11_t">vn rocher, auquel habitoit vn veil Hermite, qui</l>
-      <l corresp="f17_z2_l12_t">l'aduertiſt de ſon ſalut, &amp; luy fait recongnoiſtre</l>
-      <l corresp="f17_z2_l13_t">Ieſus-Chriſt. Roland, Oliuier, &amp; Sobrin y ar¬</l>
-      <l corresp="f17_z2_l14_t">riuent auec Renaut au retour du cõflit de Lipa¬</l>
-      <l corresp="f17_z2_l15_t">duſe: reſiouis de la rencontre de Roger &amp; de ſa</l>
-      <l corresp="f17_z2_l16_t">conuerſion en noſtre Foy, ils accordent maria¬</l>
-      <l corresp="f17_z2_l17_t">ge entre luy &amp; Bradamãte, laquelle il aimoit par</l>
-      <l corresp="f17_z2_l18_t">mutuelle affection. Et tous enſemble rembar¬</l>
-      <l corresp="f17_z2_l19_t">quez, &amp; abordez en France, s’acheminent à la¬</l>
-      <l corresp="f17_z2_l20_t">Cour, où ils trouuent les Ambaſſadeurs de Cõ¬</l>
-      <l corresp="f17_z2_l21_t">ſtantin Empereur de Grece, enuoyez pour ne¬</l>
-      <l corresp="f17_z2_l22_t">gotier le mariage d’entre Leon ſon ſils &amp; Bra¬</l>
-      <l corresp="f17_z2_l23_t">damãte, que le pere &amp; la mere deſiroyent auoir</l>
-      <l corresp="f17_z2_l24_t">pour gendre. Et pour ce ne veulent point ouir</l>
-      <l corresp="f17_z2_l25_t">parler de Roger, ſimple cheualier. Dequoy de¬</l>
-      <pb corresp="f19"/>
-      <l corresp="f19_z2_l1_t">mee &amp; faire tant de beaux faits d’armes, enten¬</l>
-      <l corresp="f19_z2_l2_t">dant qu’on le vouloit faire mourir, eſmeu de</l>
-      <l corresp="f19_z2_l3_t">pitié, delibere de le ſauuer. Et à ceſte fin ſ'eſtant</l>
-      <l corresp="f19_z2_l4_t">faict ſecrettement introduire de nuités priſons</l>
-      <l corresp="f19_z2_l5_t">il l’en retire &amp; le meine en ſon logis. Mais in¬</l>
-      <l corresp="f19_z2_l6_t">continent apres, ayant entendu, auoir eſté pu¬</l>
-      <l corresp="f19_z2_l7_t">blié par toutes les terres de lempire d’Occidẽt</l>
-      <l corresp="f19_z2_l8_t">que quiconque voudroit eſpouſer Bradamante</l>
-      <l corresp="f19_z2_l9_t">deuoit la conquerir à forces d’armes comba¬</l>
-      <l corresp="f19_z2_l10_t">tant auec elle pair-à-pair, s’aduiſa de mettre</l>
-      <l corresp="f19_z2_l11_t">en ieu ſon cheualier. Et de faict le ſupplia</l>
-      <l corresp="f19_z2_l12_t">de vouloir pour luy &amp; ſous ſes armes entrer</l>
-      <l corresp="f19_z2_l13_t">contre elle en combat, s’aſſeurant de la vain¬</l>
-      <l corresp="f19_z2_l14_t">cre par ſa vertu. Ce qu’il ne luy oſa refuſer,</l>
-      <l corresp="f19_z2_l15_t">pour les fraiſches obligations qu’il auoit ſur</l>
-      <l corresp="f19_z2_l16_t">luy. Sur cette fiance ils s’acheminent en France</l>
-      <l corresp="f19_z2_l17_t">où Leon ſe preſente à Charlemagne, qui fait</l>
-      <l corresp="f19_z2_l18_t">trouuer Bradamante. Elle pour ſe deueloper</l>
-      <l corresp="f19_z2_l19_t">des importunes pourſuittes des Ambaſſadeurs</l>
-      <l corresp="f19_z2_l20_t">de Leon, ſ'eſtoit auparauant aduiſee d’impetrer</l>
-      <l corresp="f19_z2_l21_t">de l’Empereur ceſte declaration : preſumant</l>
-      <l corresp="f19_z2_l22_t">que Leon ny autre ſeigneur Chreſtiẽ, fors Ro¬</l>
-      <l corresp="f19_z2_l23_t">ger ſeul, ne la pourroit conquerir. Roger con¬</l>
-      <l corresp="f19_z2_l24_t">traint par la force de ſes promeſſes, entre en li¬</l>
-      <l corresp="f19_z2_l25_t">ce auec extreme regret, couuert des armes Im¬</l>
-      <l corresp="f19_z2_l26_t">periales comme s’il euſt eſté Leon. Il combat</l>
-      <l corresp="f19_z2_l27_t">&amp; ſurmonte Bradamante, puis ſe retire ſaiſi de</l>
-      <l corresp="f19_z2_l28_t">merueilleuſe triſteſſe, Il monte ſur ſon che¬</l>
-      <l corresp="f19_z2_l29_t">ual &amp; entre au fond d’vn bois pour s’y confi¬</l>
-      <l corresp="f19_z2_l30_t">ner. Leon d’autre part ioyeux de ſa victoire</l>
-      <l corresp="f19_z2_l31_t">va demander Bradamante à Charlemagne, la¬</l>
-      <pb corresp="f21"/>
-      <l corresp="f21_z2_l1_t">magne baille ſa fille Eleonor à Leon, &amp; le fait</l>
-      <l corresp="f21_z2_l2_t">ſon gendre. Ce ſuiect eſt fort amplement diſ¬</l>
-      <l corresp="f21_z2_l3_t">couru par l’Arioſte depuis le quarãretroiſieme</l>
-      <l corresp="f21_z2_l4_t">chant iuſques à la fin de ſon liure: fors pour le</l>
-      <l corresp="f21_z2_l5_t">regard de la fin adiouſtee par l’autheur.</l>
-      <pb corresp="f22"/>
-      <l corresp="f22_z1_l1_t">Entreparleurs.</l>
-      <l corresp="f22_z1_l2_t">Charlemagne.</l>
-      <l corresp="f22_z1_l3_t">Nymes, Duc de Bauieres.</l>
-      <l corresp="f22_z1_l4_t">Aymon.</l>
-      <l corresp="f22_z1_l5_t">Beatrix.</l>
-      <l corresp="f22_z1_l6_t">Renaud.</l>
-      <l corresp="f22_z1_l7_t">La Roque.</l>
-      <l corresp="f22_z1_l8_t">Bradamante.</l>
-      <l corresp="f22_z1_l9_t">Leon.</l>
-      <l corresp="f22_z1_l10_t">Roger.</l>
-      <l corresp="f22_z1_l11_t">Hippalque.</l>
-      <l corresp="f22_z1_l12_t">La Montagne.</l>
-      <l corresp="f22_z1_l13_t">Marphiſe.</l>
-      <l corresp="f22_z1_l14_t">Baſile, Duc d’Athenes.</l>
-      <l corresp="f22_z1_l15_t">Les Ambaſſadeurs de Bulgarie.</l>
-      <l corresp="f22_z1_l16_t">Meliſſe.</l>
-      <pb corresp="f23"/>
-      <l corresp="f23_z2_l6_t">Es ſceptres des grands Rois vien¬</l>
-      <l corresp="f23_z2_l7_t">nent du Dieu ſupréme,</l>
-      <l corresp="f23_z2_l8_t">C'eſt luy qui ceint nos chefs d’vn</l>
-      <l corresp="f23_z2_l9_t">royal diadême,</l>
-      <l corresp="f23_z2_l10_t">Qui nous fait quand il veut re¬</l>
-      <l corresp="f23_z2_l11_t">gner ſur l’Vniuers,</l>
-      <l corresp="f23_z2_l12_t">Et quand il veut fait cheoir no¬</l>
-      <l corresp="f23_z2_l13_t">ſtre empire à l'enuers.</l>
-      <l corresp="f23_z2_l14_t">Tout depend de ſa main, tout de ſa main procede,</l>
-      <l corresp="f23_z2_l15_t">Nous n’auons rien de nous, c'eſt luy qui tout poſſede,</l>
-      <l corresp="f23_z2_l16_t">Monarque vniuerſel, &amp; ſes commandemens</l>
-      <l corresp="f23_z2_l17_t">Font les ſpheres mouuoir &amp; tous les elemens.</l>
-      <l corresp="f23_z2_l18_t">Il a mis ſur mon chef la Françoiſe couronne,</l>
-      <l corresp="f23_z2_l19_t">Il a fait que ma voix toute la terre eſtonne,</l>
-      <l corresp="f23_z2_l20_t">Et que l’Aigle Romain perche en mes eſtendars,</l>
-      <l corresp="f23_z2_l21_t">Guide des eſcadrons de mes vaillans ſoudars.</l>
-      <l corresp="f23_z2_l22_t">L’Itale m'obeit, la ſuperbe Alemagne,</l>
-      <l corresp="f23_z2_l23_t">Et les Rois reculez de l’ondeuſe  Bretagne.</l>
-      <pb corresp="f25"/>
-      <l corresp="f25_z3_l1_t">Et chaßé Ieſus-Chriſt des terres Iberides:</l>
-      <l corresp="f25_z3_l2_t">Si que le riche Tage au beau ſable doré,</l>
-      <l corresp="f25_z3_l3_t">Voyoit au lieu de luy Belzebut adoré.</l>
-      <l corresp="f25_z3_l4_t">O Dieu, noſtre vray Dieu, qu’il fallut que nos peres</l>
-      <l corresp="f25_z3_l5_t">Euſſent bien excité tes dormantes coleres,</l>
-      <l corresp="f25_z3_l6_t">T'euſſent bien irrité d’execrables forfaits,</l>
-      <l corresp="f25_z3_l7_t">Pour monſtrer de ta main de ſi ſanglants effets!</l>
-      <l corresp="f25_z3_l8_t">Pour nous aſſuietir à ceſte gent Payenne,</l>
-      <l corresp="f25_z3_l9_t">Et ſouffrir profaner ton Egliſe Chreſtienne,</l>
-      <l corresp="f25_z3_l10_t">Pour qui en corps mortel du Ciel tu deſcendis,</l>
-      <l corresp="f25_z3_l11_t">Et lauant nos mesfaits, ton ſang tu reſpandis!</l>
-      <l corresp="f25_z3_l12_t">Toy Dieu de l'Vniuers, dont la dextre diuine</l>
-      <l corresp="f25_z3_l13_t">A baſti, a formé ceſte ronde machine,</l>
-      <l corresp="f25_z3_l14_t">Sans forme &amp; ſans matiere, &amp; ſans obiect aucun,</l>
-      <l corresp="f25_z3_l15_t">Sans outils, ſans ſecours que de toy qui n’es qu'vn.</l>
-      <l corresp="f25_z3_l16_t">Ils ne furent contans d’aſſeruir les Heſpagnes,</l>
-      <l corresp="f25_z3_l17_t">Mais des hauts Pyrenez franchirent les montagnes,</l>
-      <l corresp="f25_z3_l18_t">Et en tourbe innombrable ouurirent les deſtroits</l>
-      <l corresp="f25_z3_l19_t">Des grands rochers mouſſus qui s’eleuent ſi droits.</l>
-      <l corresp="f25_z3_l20_t">Ils deſcendent au bord, où la viſte Garonne</l>
-      <l corresp="f25_z3_l21_t">Courant dans l’Ocean en ſes vagues bourdonne,</l>
-      <l corresp="f25_z3_l22_t">Et, iurez ennemis, font execrable vœu</l>
-      <l corresp="f25_z3_l23_t">De faire tout paſſer par le glaiue &amp; le ſeu.</l>
-      <l corresp="f25_z3_l24_t">Celuy pourroit nombrer les celeſtes lumieres,</l>
-      <l corresp="f25_z3_l25_t">Les raiſins de l'Autonne, &amp; les fleurs printanieres,</l>
-      <l corresp="f25_z3_l26_t">Qui auroit peu compter les ſcadrons aguerris,</l>
-      <l corresp="f25_z3_l27_t">Qui auec Agramant vindrent deuant Paris.</l>
-      <l corresp="f25_z3_l28_t">Ils couuroyent de leurs rangs la poudroyante plaine,</l>
-      <l corresp="f25_z3_l29_t">Leurs cheuaux eſpuiſoyent les claires eaux de Seine:</l>
-      <l corresp="f25_z3_l30_t">L’air reſonnoit de cris, les bataillons preſſez</l>
-      <l corresp="f25_z3_l31_t">Mouuoyent de toutes parts de picques heriſſez:</l>
-      <pb corresp="f27"/>
-      <l corresp="f27_z1_l1_t">Les feit en grand carnage abandonner nos tours:</l>
-      <l corresp="f27_z1_l2_t">Ils ſe mirent en route, &amp; la campagne verte</l>
-      <l corresp="f27_z1_l3_t">Se veit incontinent de ſang Payen couuerte.</l>
-      <l corresp="f27_z1_l4_t">Ils ont quitté la France, &amp; cuidant par les flots</l>
-      <l corresp="f27_z1_l5_t">Tromper la main de Dieu qui fondoit ſur leur dos,</l>
-      <l corresp="f27_z1_l6_t">Ont eſté deuorez des ondes vengereſſes,</l>
-      <l corresp="f27_z1_l7_t">Si que rien n’eſt reſté de ces troupes traitreſſes.</l>
-      <l corresp="f27_z1_l8_t">Marſille dans l’Eſpagne a retiré ſon camp:</l>
-      <l corresp="f27_z1_l9_t">Mais Agramant, Sobrin, &amp; le Roy Serican,</l>
-      <l corresp="f27_z1_l10_t">Reliques du nauſage, ayant appris la perte</l>
-      <l corresp="f27_z1_l11_t">De l’Empire African, &amp; le ſac de Biſerte,</l>
-      <l corresp="f27_z1_l12_t">Ont dedans Lipaduſe attiré par desfis</l>
-      <l corresp="f27_z1_l13_t">Oliuier &amp; Roland, qui les ont deſconfis.</l>
-      <l corresp="f27_z1_l14_t">Ore il faut louer Dieu de ſi belle victoire,</l>
-      <l corresp="f27_z1_l15_t">Et à ſa ſeule grace en addreſſer la gloire.</l>
-      <l corresp="f27_z1_l20_t">Ous contenterons-nous de les vaincre à demy?</l>
-      <l corresp="f27_z1_l21_t">Ny. Ne uous ſuſfit-il pas de chaſſer l'ennemy?</l>
-      <l corresp="f27_z1_l22_t">Ch. Ce ne m’eſt pas aſſez de deſendre ma terre.</l>
-      <l corresp="f27_z1_l23_t">N. Que demãdez-uouz plus que d’acheuer la guerre?</l>
-      <l corresp="f27_z1_l24_t">Ch. Vn Empereur Romain ne ſe peut dire auoir</l>
-      <l corresp="f27_z1_l25_t">Pour chaſſer un Barbare aſſez fait de deuoir,</l>
-      <l corresp="f27_z1_l26_t">Qui pourra retourner auec nouuelle force.</l>
-      <l corresp="f27_z1_l27_t">Ny. Son maſheureux ſuccez ne luy ſert pas d’amorce,</l>
-      <l corresp="f27_z1_l28_t">Pour franchir de recheſ les rochers Pyrenez,</l>
-      <l corresp="f27_z1_l29_t">Et repiller encor nos champs abandonnez.</l>
-      <pb corresp="f28"/>
-      <l corresp="f28_z1_l1_t">Ch Agramant eſt occis, le Roy de Barbarie,</l>
-      <l corresp="f28_z1_l2_t">Gradaſſe &amp; Mandricart, honneur de Tartarie:</l>
-      <l corresp="f28_z1_l3_t">Roger a delaißé ſa deteſtable loy,</l>
-      <l corresp="f28_z1_l4_t">Comme ſa ſœur Marphiſe &amp; Sobrin le bon Roy:</l>
-      <l corresp="f28_z1_l5_t">Mais le fier Rodomont, Ferragus &amp; Marcille,</l>
-      <l corresp="f28_z1_l6_t">Valeureux combatans &amp; mille autres &amp; mille,</l>
-      <l corresp="f28_z1_l7_t">Que l’Eſpagne &amp; l’Afrique ont nourris, ne ſont pas,</l>
-      <l corresp="f28_z1_l8_t">Semence de grands maux, trebuſchez au treſpas.</l>
-      <l corresp="f28_z1_l9_t">Ny. Ils ſont aſſez puiſſans pour leur terre deſendre.</l>
-      <l corresp="f28_z1_l10_t">Mais non pas poux oſer contre vous entreprendre,</l>
-      <l corresp="f28_z1_l11_t">Pour la France aſſaillir, mere des Cheualiers,</l>
-      <l corresp="f28_z1_l12_t">Mere des bons ſoudars, qu'elle enfante à milliers.</l>
-      <l corresp="f28_z1_l13_t">Ch. Nous auons veu ſur nous l’Eſpagne &amp; la Libye,</l>
-      <l corresp="f28_z1_l14_t">Mais non les eſtendars de l’ardante Arabie,</l>
-      <l corresp="f28_z1_l15_t">Non les Soldans d’Egypte, &amp; les Rois mecreans</l>
-      <l corresp="f28_z1_l16_t">Qui foulent les ſablons des bords Cyreneans.</l>
-      <l corresp="f28_z1_l17_t">Ny. Ceux-la, trop eſloignez de nos Chreſtiẽnes terres,</l>
-      <l corresp="f28_z1_l18_t">Ne viendront pas icy nous rallumer des guerres:</l>
-      <l corresp="f28_z1_l19_t">Laiſſez-leur lamenter leur funebre accident,</l>
-      <l corresp="f28_z1_l20_t">Et voſtre âge en plaiſirs esbatez ce pendant.</l>
-      <l corresp="f28_z1_l21_t">Ch. il nous faut rebaſtir nos Egliſes rompues,</l>
-      <l corresp="f28_z1_l22_t">Où ſe ſont pur ſur tout leurs cruautez repues:</l>
-      <l corresp="f28_z1_l23_t">Rebaſtir nos citez de murailles &amp; tours,</l>
-      <l corresp="f28_z1_l24_t">Repeupler de paiſans nos villagres &amp; bourgs.</l>
-      <l corresp="f28_z1_l25_t">Ny. Il vous ſaut rappeller les uertus exilees,</l>
-      <l corresp="f28_z1_l26_t">Et les faire honorer les ayant rappelees.</l>
-      <l corresp="f28_z1_l27_t">Ch. Nos peuples sõt beaucoup par la guere eſclaircis,</l>
-      <l corresp="f28_z1_l28_t">Mais les vices au lieu ſont beaucoup eſpaißis.</l>
-      <l corresp="f28_z1_l29_t">Ny. C'eſt office d'vn Roy d’en purger ſa contree:</l>
-      <l corresp="f28_z1_l30_t">Inutile eſt la Paix ſans ſa compagne Aſtree.</l>
-      <l corresp="f28_z1_l31_t">Vous deuez en repos vos peuples maintenir,</l>
-      <pb corresp="f29"/>
-      <l corresp="f29_z3_l1_t">Et de ſeueres loix leurs offenſes punir.</l>
-      <l corresp="f29_z3_l2_t">Ch. Ie veux recompenſer vn chacun de ſes peines,</l>
-      <l corresp="f29_z3_l3_t">Eſtrangers,citoyens, ſoldats, &amp; Capitaines:</l>
-      <l corresp="f29_z3_l4_t">Bradamante &amp; Roger ſous vn amour égal</l>
-      <l corresp="f29_z3_l5_t">Conioindre enſemblément d'un lien coniugal.</l>
-      <l corresp="f29_z3_l6_t">Ny. Aymon ne le veut pas preſerant l’alliance</l>
-      <l corresp="f29_z3_l7_t">De Leon, heritier des ſceptres de Byſance.</l>
-      <l corresp="f29_z3_l8_t">Ch. Mais ſe de la combatre il n’auoit le pouuoir,</l>
-      <l corresp="f29_z3_l9_t">Selon mon ordonnance il ne ſçauroit l'auoir.</l>
-      <l corresp="f29_z3_l10_t">Ny. Donc cõme il falloit vaincre à la courſe Atalãte,</l>
-      <l corresp="f29_z3_l11_t">Il faut qu’on puiſſe vaincre au combat Bradamante.</l>
-      <l corresp="f29_z3_l14_t">Ay.</l>
-      <l corresp="f29_z3_l16_t">E party me plaiſt fort. B. Außi fait-il à moy.</l>
-      <l corresp="f29_z3_l17_t">A I'en ſuis tout trãſporté. B. Si ſuis-ie par ma foy.</l>
-      <l corresp="f29_z3_l18_t">Ay. Ce que ie priſe plus en ſi belle alliance,</l>
-      <l corresp="f29_z3_l19_t">C’eſt qu’il ne faudra point debourſer de finance.</l>
-      <l corresp="f29_z3_l20_t">Il me demande rien B. Il eſt trop grand ſeigneur.</l>
-      <l corresp="f29_z3_l21_t">Qu'a beſoing de nos biens le fils d’un Empereur?</l>
-      <l corresp="f29_z3_l22_t">Ay. Ce nous eſt toutesfois vn notable auantage</l>
-      <l corresp="f29_z3_l23_t">De ne bailler vn ſon pour elle en mariage:</l>
-      <l corresp="f29_z3_l24_t">Meſmement auiourd'huy, qu’il n’y a point d’amour.</l>
-      <l corresp="f29_z3_l25_t">Et qu’on ne fait ſinon aux richeſſes la cour.</l>
-      <l corresp="f29_z3_l26_t">" La grace, la beauté, la vertu, le lignage</l>
-      <l corresp="f29_z3_l27_t">" Ne ſont non plus priſez qu’vne pomme ſauuage.</l>
-      <l corresp="f29_z3_l28_t">" On ne veut que t’argent: vn mariage eſt ſaint,</l>
-      <l corresp="f29_z3_l29_t">Eſt ſortable &amp; bien fait quand l’argent on eſtreint.</l>
-      <l corresp="f29_z3_l30_t">B.i.</l>
-      <pb corresp="f31"/>
-      <l corresp="f31_z3_l1_t">Que quiconque voudra pour eſpouſe l'auoir</l>
-      <l corresp="f31_z3_l2_t">Doit la combatre armee, eſtimant qu’il n’eſt homme,</l>
-      <l corresp="f31_z3_l3_t">Dans l’Empire de Grece &amp; l’Empire de Romme,</l>
-      <l corresp="f31_z3_l4_t">Fors ſon vaillant Roger, qui ne doiue mourir,</l>
-      <l corresp="f31_z3_l5_t">Si auecque le fer il la veut conquerir?</l>
-      <l corresp="f31_z3_l6_t">Or i’aurois grand douleur que ce genereux Prince</l>
-      <l corresp="f31_z3_l7_t">Venu pour fon amour de lointaine prouince</l>
-      <l corresp="f31_z3_l8_t">Sa vie auanturaſt, ſes forces ne ſçachant,</l>
-      <l corresp="f31_z3_l9_t">En la voulant combatre auec le ſer trenchant:</l>
-      <l corresp="f31_z3_l10_t">Qu'au lieu d’vne maiſtreſſe il trouuaſt la mort dure,</l>
-      <l corresp="f31_z3_l11_t">Et que ſon lict nopçal fuſt vne ſepulture.</l>
-      <l corresp="f31_z3_l12_t">Ce ſeroit grand pitié. Ay. Ie ne veux point cela.</l>
-      <l corresp="f31_z3_l13_t">B. Il ne ſçauroit l’auoir ſans ceſte eſpreuue-la.</l>
-      <l corresp="f31_z3_l14_t">Ay. Pourquoy ne ſçauroit-il? ne le puis-ie pas faire?</l>
-      <l corresp="f31_z3_l15_t">B. Non, pource que du Roy l’ordonnance eſt contraire.</l>
-      <l corresp="f31_z3_l16_t">Ay. Le Roy ne l'entend pas, ie l’iray ſupplier</l>
-      <l corresp="f31_z3_l17_t">De reuoquer la loy qu’il a fait publier.</l>
-      <l corresp="f31_z3_l18_t">" B. C'eſt choſe malaiſee,vn Prince ne viole</l>
-      <l corresp="f31_z3_l19_t">" les Edicts qu’il a faits, il maintient ſa parole.</l>
-      <l corresp="f31_z3_l20_t">Ay. Voire en choſe publique, &amp; qui eſt de grand poix:</l>
-      <l corresp="f31_z3_l21_t">Mais en choſe priuee on change quelque fois.</l>
-      <l corresp="f31_z3_l22_t">Charles luy a permis ce combat dommageable,</l>
-      <l corresp="f31_z3_l23_t">Eſtimant pour le ſeur que ie l’euſſe agreable:</l>
-      <l corresp="f31_z3_l24_t">Autrement ne l'euſt fait, ſçachant bien le pouuoir</l>
-      <l corresp="f31_z3_l25_t">Que deſſur ſes enfans vn pere doit auoir.</l>
-      <l corresp="f31_z3_l26_t">Be. Encore mon ami, faudroit premier entendre</l>
-      <l corresp="f31_z3_l27_t">Si le parti luy plaiſt, que de rien entreprendre:</l>
-      <l corresp="f31_z3_l28_t">Car ie crains que Roger ſoit en ſon cœur encré.</l>
-      <l corresp="f31_z3_l29_t">Ay. Veut-elle ce Roger auoir contre mon gré?</l>
-      <l corresp="f31_z3_l30_t">Be. Ie penſe que nenny, elle eſt trop bien nourrie.</l>
-      <l corresp="f31_z3_l31_t">Ay. Si elle auoit fait? B. I'en ſerois bien marrie.</l>
-      <pb corresp="f33"/>
-      <l corresp="f33_z3_l1_t">Il aime ce Roger. Que maudite ſoit l’heure,</l>
-      <l corresp="f33_z3_l2_t">Auolé, que tu veis ceſte belle demeure:</l>
-      <l corresp="f33_z3_l3_t">Ie ſerois trop heureuſe, &amp; ore le Soleil,</l>
-      <l corresp="f33_z3_l4_t">Ne verroit rien qui fuſt à mon aiſe pareil</l>
-      <l corresp="f33_z3_l5_t">Sans toy, ſans toy, Rogrer, qui fraudes mon attente</l>
-      <l corresp="f33_z3_l6_t">Priuant du ſceptre Grec ma fille Bradamante.</l>
-      <l corresp="f33_z3_l11_t">Voy? mõſieur, voulez-vous forcer vne amité?</l>
-      <l corresp="f33_z3_l12_t">Eſtes-vous maintenant vn pere ſans pitié?</l>
-      <l corresp="f33_z3_l13_t">Qui vueillez Bradamante vne fille ſi chere,</l>
-      <l corresp="f33_z3_l14_t">Bannir loing de vos yeux &amp; du ſein de ſa mere,</l>
-      <l corresp="f33_z3_l15_t">Pour malgré ſon uouloir, qu’elle ne peut changer,</l>
-      <l corresp="f33_z3_l16_t">La donner pour eſpouſe à ce prince eſtranger?</l>
-      <l corresp="f33_z3_l17_t">Elle ne l’aime point, &amp; qu’y voudriez-vous faire?</l>
-      <l corresp="f33_z3_l18_t">" Vous ſçauez que l’amour eſt touſiours volontaire:</l>
-      <l corresp="f33_z3_l19_t">" Il ne ſe peut forcer, c’eſt vne affecfion</l>
-      <l corresp="f33_z3_l20_t">" Qui ne ſe donte point ſinon par fiction.</l>
-      <l corresp="f33_z3_l21_t">" Le cœur touſiours demeure en ſa libre franchiſe,</l>
-      <l corresp="f33_z3_l22_t">" Mais le front &amp; la voix bien ſouuent le deguiſe.</l>
-      <l corresp="f33_z3_l23_t">Ne la contraignez point, vous ſeriez à iamais</l>
-      <l corresp="f33_z3_l24_t">Faſché de luy voir faire vn meſnage mauuais.</l>
-      <l corresp="f33_z3_l25_t">Ay. Qui te fait ſi hardy de me venir reprendre?</l>
-      <l corresp="f33_z3_l26_t">Penſes-tu que de toy ie vueille conſeil prendre?</l>
-      <l corresp="f33_z3_l27_t">Dequoy t’empeſches- tu? me viens-tu raiſonner?</l>
-      <l corresp="f33_z3_l28_t">Et quoy? qui t’a ſi bien appris à ſermonner?</l>
-      <l corresp="f33_z3_l29_t">O le braue cerueau! Re. Ce que ie viens de dire</l>
-      <l corresp="f33_z3_l30_t">N’eſt pas pour voꝰ preſcher ny pour vous cõtredire. (rer</l>
-      <l corresp="f33_z3_l31_t">A pourquoy dõc? qui te meut? R. C'est pour voꝰ decla¬</l>
-      <pb corresp="f35"/>
-      <l corresp="f35_z3_l1_t">Dans les yeux d'vn chacun, que la douleur la ronge?</l>
-      <l corresp="f35_z3_l2_t">Qu'en pleurs elle ſe bagne, &amp; n’oſe toutefois</l>
-      <l corresp="f35_z3_l3_t">Pour librement gemir deueloper ſa voix?</l>
-      <l corresp="f35_z3_l4_t">Que ſi ſa longue peine en peſanteur aſſomme</l>
-      <l corresp="f35_z3_l5_t">Son ame alangouree, inacceßible au ſomme,</l>
-      <l corresp="f35_z3_l6_t">Et que de ſes bras gours elle touche en dormant</l>
-      <l corresp="f35_z3_l7_t">Le corps de ſon eſpoux, ainçois de ſon tourment,</l>
-      <l corresp="f35_z3_l8_t">Elle treſſaille toute (ainſi qu’une bergere</l>
-      <l corresp="f35_z3_l9_t">Qui en ſon chemin trouue vne noire Vipere)</l>
-      <l corresp="f35_z3_l10_t">Que frayeur elle en ait, &amp; retire ſoudain</l>
-      <l corresp="f35_z3_l11_t">Des membres odieux ſon imprudente main?</l>
-      <l corresp="f35_z3_l12_t">Que quand il la tiendra cherement embraſſee,</l>
-      <l corresp="f35_z3_l13_t">Elle ſe penſe alors d'vn ſerpent enlacee,</l>
-      <l corresp="f35_z3_l14_t">Tant elle aura d'horreur d'eſtre ſerue en ce point</l>
-      <l corresp="f35_z3_l15_t">D’vn importun mari, qu'elle n’aimera point? (nee.</l>
-      <l corresp="f35_z3_l16_t">" A. L'amour touſiours ſe trouue aux esbats d’Hyme¬</l>
-      <l corresp="f35_z3_l17_t">" R. L'on voit de maint Hymen la couche inſortunee.</l>
-      <l corresp="f35_z3_l18_t">Quelle future amour pourrez-uous eſperer</l>
-      <l corresp="f35_z3_l19_t">D’vn nopçage forcé? c'eſt bien s’auanturer,</l>
-      <l corresp="f35_z3_l20_t">C'eſt bien mettre au hazard une ieune pucelle,</l>
-      <l corresp="f35_z3_l21_t">C’eſt bien, helas! c’eſt bien ne faire conte d'elle.</l>
-      <l corresp="f35_z3_l22_t">Ay. Scauroit-on la placer en vn plus digne lieu?</l>
-      <l corresp="f35_z3_l23_t">R. Leon ne luy eſt propre ores qu'il fuſt vn Dieu.</l>
-      <l corresp="f35_z3_l24_t">A. Et que luy faut-il donc? R. Vn mari qui luy plaiſe,</l>
-      <l corresp="f35_z3_l25_t">Et auecque lequel elle viue à ſon aiſe.</l>
-      <l corresp="f35_z3_l26_t">Ay. Elle eſt bien delicate en ſon affection.</l>
-      <l corresp="f35_z3_l27_t">Re. En la voſtre on ne voit que de l’ambition.</l>
-      <l corresp="f35_z3_l28_t">Ay. Que tu es reuerend. Re. I'ay plus de reuerence</l>
-      <l corresp="f35_z3_l29_t">Et Bradamante außi, que vous de bienvueillance.</l>
-      <l corresp="f35_z3_l30_t">A. Ie ſçai mieus que voꝰ deux quel eſpous il luy faut.</l>
-      <l corresp="f35_z3_l31_t">Re. Voire pour l'eleuer, pour la mettre bien haut.</l>
-      <pb corresp="f37"/>
-      <l corresp="f37_z3_l1_t">Re. Mais cet accord eſt fait ſous voſtre volonté.</l>
-      <l corresp="f37_z3_l2_t">Ay. Il ne m’en chaut: &amp; puis, traittes-tu d'alliance</l>
-      <l corresp="f37_z3_l3_t">Pour ma fille, ſans moy? As-tu ceſte puiſſance?</l>
-      <l corresp="f37_z3_l4_t">Re. Ie ſçauois qu'agreable elle auroit le parti.</l>
-      <l corresp="f37_z3_l5_t">Ay. Mais pourquoy n’en eſtoy-ie außi toſt aduerti?</l>
-      <l corresp="f37_z3_l6_t">Re. Il eſt encore temps. Ay. Ores que i’ay promeſſe</l>
-      <l corresp="f37_z3_l7_t">Auecques Conſtantin le Monarque de Grece.</l>
-      <l corresp="f37_z3_l8_t">Re. Vne telle promeſſe obliger ne vous peut,</l>
-      <l corresp="f37_z3_l9_t">Si ma ſœur Bradamante approuuer ne la veut.</l>
-      <l corresp="f37_z3_l10_t">" Ay. Vn enfant doit touſiours obeir à ſon pere.</l>
-      <l corresp="f37_z3_l11_t">" Re. S'il va de ſon dommage il ne la doit pas faire.</l>
-      <l corresp="f37_z3_l12_t">" Ay. Sur ſes enfans vn pere ha toute authorité.</l>
-      <l corresp="f37_z3_l13_t">" Re. Quand leur bien il procure &amp; leur vtilité.</l>
-      <l corresp="f37_z3_l14_t">Ay. Eſt-il pere ſi dur qui leur perte pourchaſſe?</l>
-      <l corresp="f37_z3_l15_t">Re.  Ie croy qu’il n’en eſt point qui ſciemment le face.</l>
-      <l corresp="f37_z3_l16_t">A. Qu’eſt-ce dõc que tu dis? R. Que voꝰ deuez ſçauoir.</l>
-      <l corresp="f37_z3_l17_t">Le vouloir de ma ſœur deuant que la pourueoir.</l>
-      <l corresp="f37_z3_l18_t">Peut eſtre ſon deſir ne ſe conforme au voſtre:</l>
-      <l corresp="f37_z3_l19_t">Vous ſerez d’un aduis qu'elle ſera d’vn autre,</l>
-      <l corresp="f37_z3_l20_t">Que ſon cœur languira dans les yeux d’vn amant,</l>
-      <l corresp="f37_z3_l21_t">Qui en repouſſera tout autre penſement:</l>
-      <l corresp="f37_z3_l22_t">Si bien que ceſt amour occupant ſa poitrine,</l>
-      <l corresp="f37_z3_l23_t">Il ne faut qu’un ſecond penſe y prendre racine.</l>
-      <l corresp="f37_z3_l24_t">L’authorité d'vn pere, &amp; d’un Prince &amp; d’vn Roy</l>
-      <l corresp="f37_z3_l25_t">Ne ſçauroit peruertir ceſte amoureuſe loy.</l>
-      <l corresp="f37_z3_l26_t">Ne la forcez donc point, de peur qu’eſtant forcee</l>
-      <l corresp="f37_z3_l27_t">Vn eſpoux ait le corps, vn ami la penſee:</l>
-      <l corresp="f37_z3_l28_t">Ce qui produit touſiours vn enfer de malheurs,</l>
-      <l corresp="f37_z3_l29_t">Plein d'angoiſſe &amp; d’ennuy, de ſoupirs &amp; de pleurs:</l>
-      <l corresp="f37_z3_l30_t">Par qui voſtre vieil âge en ſa courſe derniere</l>
-      <l corresp="f37_z3_l31_t">Ne verroit qu'à regret la celeſte lumiere,</l>
-      <pb corresp="f39"/>
-      <l corresp="f39_z3_l1_t">Quand Mambrin eſprouua ma force domtereſſe,</l>
-      <l corresp="f39_z3_l2_t">Que i’occis Clariel, dont les geſtes guerriers</l>
-      <l corresp="f39_z3_l3_t">Se faiſoyent renommer entre les Cheualiers:</l>
-      <l corresp="f39_z3_l4_t">Que le Geant Almont, de qui la teste groſſe</l>
-      <l corresp="f39_z3_l5_t">Et les membres maßifs reſſembloyent vn Coloſſe.</l>
-      <l corresp="f39_z3_l6_t">Abbatu de ma main à terre tomba mort,</l>
-      <l corresp="f39_z3_l7_t">Et ma gloire engraua deſſur l’Indique bord:</l>
-      <l corresp="f39_z3_l8_t">Vous n’eußiez entrepris ce que vous faites ores,</l>
-      <l corresp="f39_z3_l9_t">Combien que ie me ſens aſſez robuſte encores</l>
-      <l corresp="f39_z3_l10_t">Pour vous biẽ bourraſſer. R. Nous n'entreprẽdrõs riẽ,</l>
-      <l corresp="f39_z3_l11_t">Et me croyez, Monſieur, que vous ne vueillez bien.</l>
-      <l corresp="f39_z3_l12_t">Ay. Vous ferez ſagement: car ie perdray la vie</l>
-      <l corresp="f39_z3_l13_t">Pluſtoſt que malgré moy ma fille lon marie.</l>
-      <l corresp="f39_z3_l18_t">VE uous ſeriez heureuſe! oncques de noſtre, sãg</l>
-      <l corresp="f39_z3_l19_t">Fille n’auroit tenu ſi honorable rang.</l>
-      <l corresp="f39_z3_l20_t">Allez où le Soleil au matin luit au monde,</l>
-      <l corresp="f39_z3_l21_t">Allez où ſommeilleux il ſe cache dans l’onde,</l>
-      <l corresp="f39_z3_l22_t">Allez aux champs roſtis d’eternelles ardeurs,</l>
-      <l corresp="f39_z3_l23_t">Allez où les Riphez terniſſent de froideurs:</l>
-      <l corresp="f39_z3_l24_t">Vous ne verrez grandeur pour eſtre comparee</l>
-      <l corresp="f39_z3_l25_t">A l’heureuſe grandeur qui vous ſuit preparee.</l>
-      <l corresp="f39_z3_l26_t">Eſtre femme d'Auguſte, &amp; voir ſous voſtre main</l>
-      <l corresp="f39_z3_l27_t">Mouuoir, obeiſſant, tout l’Empire Romain!</l>
-      <l corresp="f39_z3_l28_t">Marcher grande Deeſſe entre les tourbes viles</l>
-      <l corresp="f39_z3_l29_t">S’entreſtouffant de preſſe aux trionfes des villes</l>
+      <div>
+        <pb corresp="#f5"/>
+        <note corresp="#f5_z2" n="MarginTextZone"><lb corresp="#f5_z2_l1_t"/>79/4120</note>
+        <pb corresp="#f6"/>
+        <p corresp="#f6_z1" n="MainZone">
+<hi n="HeadingLine"><lb corresp="#f6_z1_l1_t"/>BRADAMANTE,</hi>
+<hi n="HeadingLine"><lb corresp="#f6_z1_l2_t"/>TRAGECOMEDIE.</hi>
+</p>
+        <pb corresp="#f9"/>
+        <fw corresp="#f9_z1" n="RunningTitleZone"><lb corresp="#f9_z1_l1_t"/>AV ROY.</fw>
+        <p corresp="#f9_z2" n="MainZone">
+<lb corresp="#f9_z2_l1_t"/>uiuront noſtre ſiecle, les admira¬
+<lb corresp="#f9_z2_l2_t"/>bles effets de vos heroiques ver¬
+<lb corresp="#f9_z2_l3_t"/>tus, blaſmeroit noſtre ingrate
+<lb corresp="#f9_z2_l4_t"/>mecognoiſſance, de n’auoir par
+<lb corresp="#f9_z2_l5_t"/>mos plumes teſtifié la grace que
+<lb corresp="#f9_z2_l6_t"/>Dieu nous fait de viure ſous la
+<lb corresp="#f9_z2_l7_t"/>douce ſubiection d’vn ſi grand
+<lb corresp="#f9_z2_l8_t"/>Monarque, que les nations qui
+<lb corresp="#f9_z2_l9_t"/>aboutẽt les frontieres de Scythie,
+<lb corresp="#f9_z2_l10_t"/>ont ambitieuſement recherché
+<lb corresp="#f9_z2_l11_t"/>pour maiſtre. Ie ne crains point
+<lb corresp="#f9_z2_l12_t"/>que ceux qui aurõt approché des
+<lb corresp="#f9_z2_l13_t"/>rayons de voſtre Maieſté, me iu¬
+<lb corresp="#f9_z2_l14_t"/>gent pour cela deborder en lou¬
+<lb corresp="#f9_z2_l15_t"/>anges immoderees: attendu les
+<lb corresp="#f9_z2_l16_t"/>belles &amp; recõmandables parties,
+<lb corresp="#f9_z2_l17_t"/>dont noſtre Dieu vous a rendu
+<lb corresp="#f9_z2_l18_t"/>d’eſprit &amp; de corps ſi accompli.
+<lb corresp="#f9_z2_l19_t"/>Vous face ſa bonté, SIRE, pro¬
+<lb corresp="#f9_z2_l20_t"/>ſperer longuement, &amp; vous don¬
+<lb corresp="#f9_z2_l21_t"/>ne entre autres felicitez vne po¬
+<lb corresp="#f9_z2_l22_t"/>ſterité telle que vous deſirez pour
+</p>
+        <fw corresp="#f9_z3" n="QuireMarksZone"><lb corresp="#f9_z3_l1_t"/>A.iij.</fw>
+        <pb corresp="#f10"/>
+        <fw corresp="#f10_z1" n="RunningTitleZone"><lb corresp="#f10_z1_l1_t"/>AV ROY.</fw>
+        <p corresp="#f10_z2" n="MainZone">
+<lb corresp="#f10_z2_l1_t"/>le particulier contentement de
+<lb corresp="#f10_z2_l2_t"/>voſtre Maieſté, &amp; le commun
+<lb corresp="#f10_z2_l3_t"/>bien de voſtre France.
+<lb corresp="#f10_z2_l4_t"/>Le tres-humble &amp; tres¬
+<lb corresp="#f10_z2_l5_t"/>affectionné ſeruiteur
+<lb corresp="#f10_z2_l6_t"/>&amp; ſubiect de voſtre
+<lb corresp="#f10_z2_l7_t"/>Maieſté, ROBERT
+<lb corresp="#f10_z2_l8_t"/>GARNIER.
+</p>
+        <pb corresp="#f11"/>
+        <fw corresp="#f11_z1" n="NumberingZone"><lb corresp="#f11_z1_l1_t"/>4</fw>
+        <p corresp="#f11_z2" n="MainZone">
+<hi n="HeadingLine"><lb corresp="#f11_z2_l1_t"/>AV ROY DE FRANCE</hi>
+<hi n="HeadingLine"><lb corresp="#f11_z2_l2_t"/>ET DE POLOIGNE.</hi>
+<hi n="DropCapitalLine"><lb corresp="#f11_z2_l3_t"/>L</hi>
+<lb corresp="#f11_z2_l4_t"/>ES Rois, enfans du Ciel, ſont de Dieu
+<lb corresp="#f11_z2_l5_t"/>les images:
+<lb corresp="#f11_z2_l6_t"/>Iupiter en prend cure &amp; les garde d’ou¬
+<lb corresp="#f11_z2_l7_t"/>trages,
+<lb corresp="#f11_z2_l8_t"/>Il les fait reuerer, reputant les honneurs
+<lb corresp="#f11_z2_l9_t"/>Eſtre à luy meſme faits, qu’on rend à ſes ſeigneurs.
+<lb corresp="#f11_z2_l10_t"/>Quand ils ont quelquefois leurs ames trop cruelles,
+<lb corresp="#f11_z2_l11_t"/>Outrageant leurs ſuiets qui ne leur ſont rebelles,
+<lb corresp="#f11_z2_l12_t"/>Bien qu’épris de colere, il les fait à tous coups
+<lb corresp="#f11_z2_l13_t"/>Par ſignes aduertir de ſon ardant courroux.
+<lb corresp="#f11_z2_l14_t"/>Il trouble l'air de uents,d’éclairs &amp; de tonnerres,
+<lb corresp="#f11_z2_l15_t"/>Il fait enfler les mers,il fait trembler les terres,
+<lb corresp="#f11_z2_l16_t"/>Fait pallir du Soleil le grand front lumineux,
+<lb corresp="#f11_z2_l17_t"/>Ou ſur le ciel attache vn Comete crineux:
+<lb corresp="#f11_z2_l18_t"/>A fin qu’eſpouuantez de ſa dure menace,
+<lb corresp="#f11_z2_l19_t"/>Ils amendent leur vie &amp; recouurent ſa grace:
+<lb corresp="#f11_z2_l20_t"/>Tant il leur eſt clement, &amp; tant peu volontiers
+<lb corresp="#f11_z2_l21_t"/>Il venge les forfaits des monarques fautiers.
+<lb corresp="#f11_z2_l22_t"/>Mais des bons qui la paix &amp; la iuſtice honorent,
+<lb corresp="#f11_z2_l23_t"/>Et ſemblables à vous les cruautez abhorrent,
+<lb corresp="#f11_z2_l24_t"/>Il a touſiours le ſoing, leur ſceptres il maintient,
+<lb corresp="#f11_z2_l25_t"/>Et contre tous haineurs leur querelle ſouſtient.
+<lb corresp="#f11_z2_l26_t"/>Il veut que les vertus de leur ame enfantees,
+<lb corresp="#f11_z2_l27_t"/>Comme celeſtes, ſoyent par les Muſes chantees.
+</p>
+        <fw corresp="#f11_z3" n="QuireMarksZone"><lb corresp="#f11_z3_l1_t"/>A.iiij.</fw>
+        <pb corresp="#f16"/>
+        <fw corresp="#f16_z1" n="RunningTitleZone"><lb corresp="#f16_z1_l1_t"/>AV ROY.</fw>
+        <p corresp="#f16_z2" n="MainZone">
+<lb corresp="#f16_z2_l1_t"/>Pour l'heur de voſtre vie, &amp; qu’il vous ſoit permis
+<lb corresp="#f16_z2_l2_t"/>De gouuerner long temps nous vos peuples commis:
+<lb corresp="#f16_z2_l3_t"/>Que touſiours la victoire accompagne vos bandes,
+<lb corresp="#f16_z2_l4_t"/>Soit allant inueſtir les troupes Alemandes,
+<lb corresp="#f16_z2_l5_t"/>Soit le brun Eſpagnol, ou le Breton mutin,
+<lb corresp="#f16_z2_l6_t"/>Ou ceux qu’entre deux mers ſepare l’Apennin.
+<lb corresp="#f16_z2_l7_t"/>Que les Rois ennemis qui vous feront la guerre,
+<lb corresp="#f16_z2_l8_t"/>Abandonnez de Dieu ſoyent chaſſez de leur terre:
+<lb corresp="#f16_z2_l9_t"/>Perdent gloire &amp; Empire, &amp; du malheur chetifs,
+<lb corresp="#f16_z2_l10_t"/>A vos pieds, leurs ſauueurs, ſoyent preſentez captifs,
+<lb corresp="#f16_z2_l11_t"/>Et que ie puiſſe d’eux faire une tragedie,
+<lb corresp="#f16_z2_l12_t"/>Semblable à celles-cy, qu'humble ie vous dedie:
+<lb corresp="#f16_z2_l13_t"/>Où i'empoule des vers pleins de ſang &amp; d’horreur,
+<lb corresp="#f16_z2_l14_t"/>De larmes, de ſanglots, de rage &amp; de fureur.
+<lb corresp="#f16_z2_l15_t"/>Dont, comme n’eſtant pas de uos maieſtez dignes,
+<lb corresp="#f16_z2_l16_t"/>Ie n’oſe accompagner le doux chant de vos Cygnes,
+<lb corresp="#f16_z2_l17_t"/>Croaſſant enroué quand ie veux quelquesſois
+<lb corresp="#f16_z2_l18_t"/>Vos louanges ſonner, ſuiect de trop grand poix.
+<lb corresp="#f16_z2_l19_t"/>Ma naſſelle trop foible &amp; craintiue des vagues,
+<lb corresp="#f16_z2_l20_t"/>N’oſe de la grand' mer courir les ondes vagues,
+<lb corresp="#f16_z2_l21_t"/>Lechant touſiours le bord, ou ſi aucunesfois
+<lb corresp="#f16_z2_l22_t"/>Elle entre plus auant, c’eſt ſur les fleuues cois:
+<lb corresp="#f16_z2_l23_t"/>Mais ſi vous la guidez qui eſtes mon Neptune,
+<lb corresp="#f16_z2_l24_t"/>Elle courra par tout ſans crainte d’infortune,
+<lb corresp="#f16_z2_l25_t"/>Ne redoutant les rocs, les Syrtes, ny les bancs,
+<lb corresp="#f16_z2_l26_t"/>Ny que les uents eſmeus luy donnent par les flancs,
+<lb corresp="#f16_z2_l27_t"/>" Prochaine d’abyſmer. Car qui eſt en la garde
+<lb corresp="#f16_z2_l28_t"/>" D'un fi grãd Dieu que uous, ſeuremẽt ſe haſarde.
+</p>
+        <pb corresp="#f17"/>
+        <fw corresp="#f17_z1" n="NumberingZone"><lb corresp="#f17_z1_l1_t"/>7</fw>
+        <p corresp="#f17_z2" n="MainZone">
+<hi n="HeadingLine"><lb corresp="#f17_z2_l1_t"/>ARGVMENT DE</hi>
+<hi n="HeadingLine"><lb corresp="#f17_z2_l2_t"/>LA TRAGECOMEDIE</hi>
+<hi n="HeadingLine"><lb corresp="#f17_z2_l3_t"/>DE BRADAMANTE.</hi>
+<hi n="DropCapitalLine"><lb corresp="#f17_z2_l4_t"/>A</hi>
+<lb corresp="#f17_z2_l5_t"/>PRES que les Saraſins ſurent rom¬
+<lb corresp="#f17_z2_l6_t"/>pus &amp; chaſſez deuant Paris, Roger
+<lb corresp="#f17_z2_l7_t"/>embarqué auec autres Princes re¬
+<lb corresp="#f17_z2_l8_t"/>ſtez de l’armee, eſt ſurpris de tour¬
+<lb corresp="#f17_z2_l9_t"/>mente en la mer d’Afrique. Les hõ¬
+<lb corresp="#f17_z2_l10_t"/>mes &amp; vaiſſeaux abyſmez il ſe ſauue à naige ſur
+<lb corresp="#f17_z2_l11_t"/>vn rocher, auquel habitoit vn veil Hermite, qui
+<lb corresp="#f17_z2_l12_t"/>l'aduertiſt de ſon ſalut, &amp; luy fait recongnoiſtre
+<lb corresp="#f17_z2_l13_t"/>Ieſus-Chriſt. Roland, Oliuier, &amp; Sobrin y ar¬
+<lb corresp="#f17_z2_l14_t"/>riuent auec Renaut au retour du cõflit de Lipa¬
+<lb corresp="#f17_z2_l15_t"/>duſe: reſiouis de la rencontre de Roger &amp; de ſa
+<lb corresp="#f17_z2_l16_t"/>conuerſion en noſtre Foy, ils accordent maria¬
+<lb corresp="#f17_z2_l17_t"/>ge entre luy &amp; Bradamãte, laquelle il aimoit par
+<lb corresp="#f17_z2_l18_t"/>mutuelle affection. Et tous enſemble rembar¬
+<lb corresp="#f17_z2_l19_t"/>quez, &amp; abordez en France, s’acheminent à la¬
+<lb corresp="#f17_z2_l20_t"/>Cour, où ils trouuent les Ambaſſadeurs de Cõ¬
+<lb corresp="#f17_z2_l21_t"/>ſtantin Empereur de Grece, enuoyez pour ne¬
+<lb corresp="#f17_z2_l22_t"/>gotier le mariage d’entre Leon ſon ſils &amp; Bra¬
+<lb corresp="#f17_z2_l23_t"/>damãte, que le pere &amp; la mere deſiroyent auoir
+<lb corresp="#f17_z2_l24_t"/>pour gendre. Et pour ce ne veulent point ouir
+<lb corresp="#f17_z2_l25_t"/>parler de Roger, ſimple cheualier. Dequoy de¬
+</p>
+        <fw corresp="#f17_z3" n="QuireMarksZone"><lb corresp="#f17_z3_l1_t"/>A.vij.</fw>
+        <pb corresp="#f19"/>
+        <fw corresp="#f19_z1" n="NumberingZone"><lb corresp="#f19_z1_l1_t"/>8</fw>
+        <p corresp="#f19_z2" n="MainZone">
+<lb corresp="#f19_z2_l1_t"/>mee &amp; faire tant de beaux faits d’armes, enten¬
+<lb corresp="#f19_z2_l2_t"/>dant qu’on le vouloit faire mourir, eſmeu de
+<lb corresp="#f19_z2_l3_t"/>pitié, delibere de le ſauuer. Et à ceſte fin ſ'eſtant
+<lb corresp="#f19_z2_l4_t"/>faict ſecrettement introduire de nuités priſons
+<lb corresp="#f19_z2_l5_t"/>il l’en retire &amp; le meine en ſon logis. Mais in¬
+<lb corresp="#f19_z2_l6_t"/>continent apres, ayant entendu, auoir eſté pu¬
+<lb corresp="#f19_z2_l7_t"/>blié par toutes les terres de lempire d’Occidẽt
+<lb corresp="#f19_z2_l8_t"/>que quiconque voudroit eſpouſer Bradamante
+<lb corresp="#f19_z2_l9_t"/>deuoit la conquerir à forces d’armes comba¬
+<lb corresp="#f19_z2_l10_t"/>tant auec elle pair-à-pair, s’aduiſa de mettre
+<lb corresp="#f19_z2_l11_t"/>en ieu ſon cheualier. Et de faict le ſupplia
+<lb corresp="#f19_z2_l12_t"/>de vouloir pour luy &amp; ſous ſes armes entrer
+<lb corresp="#f19_z2_l13_t"/>contre elle en combat, s’aſſeurant de la vain¬
+<lb corresp="#f19_z2_l14_t"/>cre par ſa vertu. Ce qu’il ne luy oſa refuſer,
+<lb corresp="#f19_z2_l15_t"/>pour les fraiſches obligations qu’il auoit ſur
+<lb corresp="#f19_z2_l16_t"/>luy. Sur cette fiance ils s’acheminent en France
+<lb corresp="#f19_z2_l17_t"/>où Leon ſe preſente à Charlemagne, qui fait
+<lb corresp="#f19_z2_l18_t"/>trouuer Bradamante. Elle pour ſe deueloper
+<lb corresp="#f19_z2_l19_t"/>des importunes pourſuittes des Ambaſſadeurs
+<lb corresp="#f19_z2_l20_t"/>de Leon, ſ'eſtoit auparauant aduiſee d’impetrer
+<lb corresp="#f19_z2_l21_t"/>de l’Empereur ceſte declaration : preſumant
+<lb corresp="#f19_z2_l22_t"/>que Leon ny autre ſeigneur Chreſtiẽ, fors Ro¬
+<lb corresp="#f19_z2_l23_t"/>ger ſeul, ne la pourroit conquerir. Roger con¬
+<lb corresp="#f19_z2_l24_t"/>traint par la force de ſes promeſſes, entre en li¬
+<lb corresp="#f19_z2_l25_t"/>ce auec extreme regret, couuert des armes Im¬
+<lb corresp="#f19_z2_l26_t"/>periales comme s’il euſt eſté Leon. Il combat
+<lb corresp="#f19_z2_l27_t"/>&amp; ſurmonte Bradamante, puis ſe retire ſaiſi de
+<lb corresp="#f19_z2_l28_t"/>merueilleuſe triſteſſe, Il monte ſur ſon che¬
+<lb corresp="#f19_z2_l29_t"/>ual &amp; entre au fond d’vn bois pour s’y confi¬
+<lb corresp="#f19_z2_l30_t"/>ner. Leon d’autre part ioyeux de ſa victoire
+<lb corresp="#f19_z2_l31_t"/>va demander Bradamante à Charlemagne, la¬
+</p>
+        <pb corresp="#f21"/>
+        <fw corresp="#f21_z1" n="NumberingZone"><lb corresp="#f21_z1_l1_t"/>9</fw>
+        <p corresp="#f21_z2" n="MainZone">
+<lb corresp="#f21_z2_l1_t"/>magne baille ſa fille Eleonor à Leon, &amp; le fait
+<lb corresp="#f21_z2_l2_t"/>ſon gendre. Ce ſuiect eſt fort amplement diſ¬
+<lb corresp="#f21_z2_l3_t"/>couru par l’Arioſte depuis le quarãretroiſieme
+<lb corresp="#f21_z2_l4_t"/>chant iuſques à la fin de ſon liure: fors pour le
+<lb corresp="#f21_z2_l5_t"/>regard de la fin adiouſtee par l’autheur.
+</p>
+        <pb corresp="#f22"/>
+        <p corresp="#f22_z1" n="MainZone">
+<lb corresp="#f22_z1_l1_t"/>Entreparleurs.
+<lb corresp="#f22_z1_l2_t"/>Charlemagne.
+<lb corresp="#f22_z1_l3_t"/>Nymes, Duc de Bauieres.
+<lb corresp="#f22_z1_l4_t"/>Aymon.
+<lb corresp="#f22_z1_l5_t"/>Beatrix.
+<lb corresp="#f22_z1_l6_t"/>Renaud.
+<lb corresp="#f22_z1_l7_t"/>La Roque.
+<lb corresp="#f22_z1_l8_t"/>Bradamante.
+<lb corresp="#f22_z1_l9_t"/>Leon.
+<lb corresp="#f22_z1_l10_t"/>Roger.
+<lb corresp="#f22_z1_l11_t"/>Hippalque.
+<lb corresp="#f22_z1_l12_t"/>La Montagne.
+<lb corresp="#f22_z1_l13_t"/>Marphiſe.
+<lb corresp="#f22_z1_l14_t"/>Baſile, Duc d’Athenes.
+<lb corresp="#f22_z1_l15_t"/>Les Ambaſſadeurs de Bulgarie.
+<lb corresp="#f22_z1_l16_t"/>Meliſſe.
+</p>
+        <pb corresp="#f23"/>
+        <fw corresp="#f23_z1" n="NumberingZone"><lb corresp="#f23_z1_l1_t"/>10</fw>
+        <p corresp="#f23_z2" n="MainZone">
+<hi n="HeadingLine"><lb corresp="#f23_z2_l1_t"/>BRADAMANTE,</hi>
+<hi n="HeadingLine"><lb corresp="#f23_z2_l2_t"/>TRAGECOMEDIE.</hi>
+<hi n="HeadingLine"><lb corresp="#f23_z2_l3_t"/>ACTE I. SCENE I.</hi>
+<hi n="HeadingLine"><lb corresp="#f23_z2_l4_t"/>Charlemagne.</hi>
+<hi n="DropCapitalLine"><lb corresp="#f23_z2_l5_t"/>L</hi>
+<lb corresp="#f23_z2_l6_t"/>Es ſceptres des grands Rois vien¬
+<lb corresp="#f23_z2_l7_t"/>nent du Dieu ſupréme,
+<lb corresp="#f23_z2_l8_t"/>C'eſt luy qui ceint nos chefs d’vn
+<lb corresp="#f23_z2_l9_t"/>royal diadême,
+<lb corresp="#f23_z2_l10_t"/>Qui nous fait quand il veut re¬
+<lb corresp="#f23_z2_l11_t"/>gner ſur l’Vniuers,
+<lb corresp="#f23_z2_l12_t"/>Et quand il veut fait cheoir no¬
+<lb corresp="#f23_z2_l13_t"/>ſtre empire à l'enuers.
+<lb corresp="#f23_z2_l14_t"/>Tout depend de ſa main, tout de ſa main procede,
+<lb corresp="#f23_z2_l15_t"/>Nous n’auons rien de nous, c'eſt luy qui tout poſſede,
+<lb corresp="#f23_z2_l16_t"/>Monarque vniuerſel, &amp; ſes commandemens
+<lb corresp="#f23_z2_l17_t"/>Font les ſpheres mouuoir &amp; tous les elemens.
+<lb corresp="#f23_z2_l18_t"/>Il a mis ſur mon chef la Françoiſe couronne,
+<lb corresp="#f23_z2_l19_t"/>Il a fait que ma voix toute la terre eſtonne,
+<lb corresp="#f23_z2_l20_t"/>Et que l’Aigle Romain perche en mes eſtendars,
+<lb corresp="#f23_z2_l21_t"/>Guide des eſcadrons de mes vaillans ſoudars.
+<lb corresp="#f23_z2_l22_t"/>L’Itale m'obeit, la ſuperbe Alemagne,
+<lb corresp="#f23_z2_l23_t"/>Et les Rois reculez de l’ondeuſe  Bretagne.
+</p>
+        <pb corresp="#f25"/>
+        <fw corresp="#f25_z1" n="RunningTitleZone"><lb corresp="#f25_z1_l1_t"/>TRAGECOMEDIE.</fw>
+        <fw corresp="#f25_z2" n="NumberingZone"><lb corresp="#f25_z2_l1_t"/>11</fw>
+        <p corresp="#f25_z3" n="MainZone">
+<lb corresp="#f25_z3_l1_t"/>Et chaßé Ieſus-Chriſt des terres Iberides:
+<lb corresp="#f25_z3_l2_t"/>Si que le riche Tage au beau ſable doré,
+<lb corresp="#f25_z3_l3_t"/>Voyoit au lieu de luy Belzebut adoré.
+<lb corresp="#f25_z3_l4_t"/>O Dieu, noſtre vray Dieu, qu’il fallut que nos peres
+<lb corresp="#f25_z3_l5_t"/>Euſſent bien excité tes dormantes coleres,
+<lb corresp="#f25_z3_l6_t"/>T'euſſent bien irrité d’execrables forfaits,
+<lb corresp="#f25_z3_l7_t"/>Pour monſtrer de ta main de ſi ſanglants effets!
+<lb corresp="#f25_z3_l8_t"/>Pour nous aſſuietir à ceſte gent Payenne,
+<lb corresp="#f25_z3_l9_t"/>Et ſouffrir profaner ton Egliſe Chreſtienne,
+<lb corresp="#f25_z3_l10_t"/>Pour qui en corps mortel du Ciel tu deſcendis,
+<lb corresp="#f25_z3_l11_t"/>Et lauant nos mesfaits, ton ſang tu reſpandis!
+<lb corresp="#f25_z3_l12_t"/>Toy Dieu de l'Vniuers, dont la dextre diuine
+<lb corresp="#f25_z3_l13_t"/>A baſti, a formé ceſte ronde machine,
+<lb corresp="#f25_z3_l14_t"/>Sans forme &amp; ſans matiere, &amp; ſans obiect aucun,
+<lb corresp="#f25_z3_l15_t"/>Sans outils, ſans ſecours que de toy qui n’es qu'vn.
+<lb corresp="#f25_z3_l16_t"/>Ils ne furent contans d’aſſeruir les Heſpagnes,
+<lb corresp="#f25_z3_l17_t"/>Mais des hauts Pyrenez franchirent les montagnes,
+<lb corresp="#f25_z3_l18_t"/>Et en tourbe innombrable ouurirent les deſtroits
+<lb corresp="#f25_z3_l19_t"/>Des grands rochers mouſſus qui s’eleuent ſi droits.
+<lb corresp="#f25_z3_l20_t"/>Ils deſcendent au bord, où la viſte Garonne
+<lb corresp="#f25_z3_l21_t"/>Courant dans l’Ocean en ſes vagues bourdonne,
+<lb corresp="#f25_z3_l22_t"/>Et, iurez ennemis, font execrable vœu
+<lb corresp="#f25_z3_l23_t"/>De faire tout paſſer par le glaiue &amp; le ſeu.
+<lb corresp="#f25_z3_l24_t"/>Celuy pourroit nombrer les celeſtes lumieres,
+<lb corresp="#f25_z3_l25_t"/>Les raiſins de l'Autonne, &amp; les fleurs printanieres,
+<lb corresp="#f25_z3_l26_t"/>Qui auroit peu compter les ſcadrons aguerris,
+<lb corresp="#f25_z3_l27_t"/>Qui auec Agramant vindrent deuant Paris.
+<lb corresp="#f25_z3_l28_t"/>Ils couuroyent de leurs rangs la poudroyante plaine,
+<lb corresp="#f25_z3_l29_t"/>Leurs cheuaux eſpuiſoyent les claires eaux de Seine:
+<lb corresp="#f25_z3_l30_t"/>L’air reſonnoit de cris, les bataillons preſſez
+<lb corresp="#f25_z3_l31_t"/>Mouuoyent de toutes parts de picques heriſſez:
+</p>
+        <pb corresp="#f27"/>
+        <p corresp="#f27_z1" n="MainZone">
+<lb corresp="#f27_z1_l1_t"/>Les feit en grand carnage abandonner nos tours:
+<lb corresp="#f27_z1_l2_t"/>Ils ſe mirent en route, &amp; la campagne verte
+<lb corresp="#f27_z1_l3_t"/>Se veit incontinent de ſang Payen couuerte.
+<lb corresp="#f27_z1_l4_t"/>Ils ont quitté la France, &amp; cuidant par les flots
+<lb corresp="#f27_z1_l5_t"/>Tromper la main de Dieu qui fondoit ſur leur dos,
+<lb corresp="#f27_z1_l6_t"/>Ont eſté deuorez des ondes vengereſſes,
+<lb corresp="#f27_z1_l7_t"/>Si que rien n’eſt reſté de ces troupes traitreſſes.
+<lb corresp="#f27_z1_l8_t"/>Marſille dans l’Eſpagne a retiré ſon camp:
+<lb corresp="#f27_z1_l9_t"/>Mais Agramant, Sobrin, &amp; le Roy Serican,
+<lb corresp="#f27_z1_l10_t"/>Reliques du nauſage, ayant appris la perte
+<lb corresp="#f27_z1_l11_t"/>De l’Empire African, &amp; le ſac de Biſerte,
+<lb corresp="#f27_z1_l12_t"/>Ont dedans Lipaduſe attiré par desfis
+<lb corresp="#f27_z1_l13_t"/>Oliuier &amp; Roland, qui les ont deſconfis.
+<lb corresp="#f27_z1_l14_t"/>Ore il faut louer Dieu de ſi belle victoire,
+<lb corresp="#f27_z1_l15_t"/>Et à ſa ſeule grace en addreſſer la gloire.
+<hi n="HeadingLine"><lb corresp="#f27_z1_l16_t"/>SCENE II.</hi>
+<hi n="HeadingLine"><lb corresp="#f27_z1_l17_t"/>Charlemagne. Nymes.</hi>
+<hi n="HeadingLine"><lb corresp="#f27_z1_l18_t"/>Ch.</hi>
+<hi n="DropCapitalLine"><lb corresp="#f27_z1_l19_t"/>N</hi>
+<lb corresp="#f27_z1_l20_t"/>Ous contenterons-nous de les vaincre à demy?
+<lb corresp="#f27_z1_l21_t"/>Ny. Ne uous ſuſfit-il pas de chaſſer l'ennemy?
+<lb corresp="#f27_z1_l22_t"/>Ch. Ce ne m’eſt pas aſſez de deſendre ma terre.
+<lb corresp="#f27_z1_l23_t"/>N. Que demãdez-uouz plus que d’acheuer la guerre?
+<lb corresp="#f27_z1_l24_t"/>Ch. Vn Empereur Romain ne ſe peut dire auoir
+<lb corresp="#f27_z1_l25_t"/>Pour chaſſer un Barbare aſſez fait de deuoir,
+<lb corresp="#f27_z1_l26_t"/>Qui pourra retourner auec nouuelle force.
+<lb corresp="#f27_z1_l27_t"/>Ny. Son maſheureux ſuccez ne luy ſert pas d’amorce,
+<lb corresp="#f27_z1_l28_t"/>Pour franchir de recheſ les rochers Pyrenez,
+<lb corresp="#f27_z1_l29_t"/>Et repiller encor nos champs abandonnez.
+</p>
+        <fw corresp="#f27_z2" n="RunningTitleZone"><lb corresp="#f27_z2_l1_t"/>TRAGECOMEDIE.</fw>
+        <fw corresp="#f27_z3" n="NumberingZone"><lb corresp="#f27_z3_l1_t"/>12</fw>
+        <pb corresp="#f28"/>
+        <p corresp="#f28_z1" n="MainZone">
+<lb corresp="#f28_z1_l1_t"/>Ch Agramant eſt occis, le Roy de Barbarie,
+<lb corresp="#f28_z1_l2_t"/>Gradaſſe &amp; Mandricart, honneur de Tartarie:
+<lb corresp="#f28_z1_l3_t"/>Roger a delaißé ſa deteſtable loy,
+<lb corresp="#f28_z1_l4_t"/>Comme ſa ſœur Marphiſe &amp; Sobrin le bon Roy:
+<lb corresp="#f28_z1_l5_t"/>Mais le fier Rodomont, Ferragus &amp; Marcille,
+<lb corresp="#f28_z1_l6_t"/>Valeureux combatans &amp; mille autres &amp; mille,
+<lb corresp="#f28_z1_l7_t"/>Que l’Eſpagne &amp; l’Afrique ont nourris, ne ſont pas,
+<lb corresp="#f28_z1_l8_t"/>Semence de grands maux, trebuſchez au treſpas.
+<lb corresp="#f28_z1_l9_t"/>Ny. Ils ſont aſſez puiſſans pour leur terre deſendre.
+<lb corresp="#f28_z1_l10_t"/>Mais non pas poux oſer contre vous entreprendre,
+<lb corresp="#f28_z1_l11_t"/>Pour la France aſſaillir, mere des Cheualiers,
+<lb corresp="#f28_z1_l12_t"/>Mere des bons ſoudars, qu'elle enfante à milliers.
+<lb corresp="#f28_z1_l13_t"/>Ch. Nous auons veu ſur nous l’Eſpagne &amp; la Libye,
+<lb corresp="#f28_z1_l14_t"/>Mais non les eſtendars de l’ardante Arabie,
+<lb corresp="#f28_z1_l15_t"/>Non les Soldans d’Egypte, &amp; les Rois mecreans
+<lb corresp="#f28_z1_l16_t"/>Qui foulent les ſablons des bords Cyreneans.
+<lb corresp="#f28_z1_l17_t"/>Ny. Ceux-la, trop eſloignez de nos Chreſtiẽnes terres,
+<lb corresp="#f28_z1_l18_t"/>Ne viendront pas icy nous rallumer des guerres:
+<lb corresp="#f28_z1_l19_t"/>Laiſſez-leur lamenter leur funebre accident,
+<lb corresp="#f28_z1_l20_t"/>Et voſtre âge en plaiſirs esbatez ce pendant.
+<lb corresp="#f28_z1_l21_t"/>Ch. il nous faut rebaſtir nos Egliſes rompues,
+<lb corresp="#f28_z1_l22_t"/>Où ſe ſont pur ſur tout leurs cruautez repues:
+<lb corresp="#f28_z1_l23_t"/>Rebaſtir nos citez de murailles &amp; tours,
+<lb corresp="#f28_z1_l24_t"/>Repeupler de paiſans nos villagres &amp; bourgs.
+<lb corresp="#f28_z1_l25_t"/>Ny. Il vous ſaut rappeller les uertus exilees,
+<lb corresp="#f28_z1_l26_t"/>Et les faire honorer les ayant rappelees.
+<lb corresp="#f28_z1_l27_t"/>Ch. Nos peuples sõt beaucoup par la guere eſclaircis,
+<lb corresp="#f28_z1_l28_t"/>Mais les vices au lieu ſont beaucoup eſpaißis.
+<lb corresp="#f28_z1_l29_t"/>Ny. C'eſt office d'vn Roy d’en purger ſa contree:
+<lb corresp="#f28_z1_l30_t"/>Inutile eſt la Paix ſans ſa compagne Aſtree.
+<lb corresp="#f28_z1_l31_t"/>Vous deuez en repos vos peuples maintenir,
+</p>
+        <fw corresp="#f28_z2" n="RunningTitleZone"><lb corresp="#f28_z2_l1_t"/>BRADAMANTE,</fw>
+        <fw corresp="#f28_z3" n="QuireMarksZone"><lb corresp="#f28_z3_l1_t"/>Et de</fw>
+        <pb corresp="#f29"/>
+        <fw corresp="#f29_z1" n="RunningTitleZone"><lb corresp="#f29_z1_l1_t"/>TRAGECOMEDIE.</fw>
+        <fw corresp="#f29_z2" n="NumberingZone"><lb corresp="#f29_z2_l1_t"/>13</fw>
+        <p corresp="#f29_z3" n="MainZone">
+<lb corresp="#f29_z3_l1_t"/>Et de ſeueres loix leurs offenſes punir.
+<lb corresp="#f29_z3_l2_t"/>Ch. Ie veux recompenſer vn chacun de ſes peines,
+<lb corresp="#f29_z3_l3_t"/>Eſtrangers,citoyens, ſoldats, &amp; Capitaines:
+<lb corresp="#f29_z3_l4_t"/>Bradamante &amp; Roger ſous vn amour égal
+<lb corresp="#f29_z3_l5_t"/>Conioindre enſemblément d'un lien coniugal.
+<lb corresp="#f29_z3_l6_t"/>Ny. Aymon ne le veut pas preſerant l’alliance
+<lb corresp="#f29_z3_l7_t"/>De Leon, heritier des ſceptres de Byſance.
+<lb corresp="#f29_z3_l8_t"/>Ch. Mais ſe de la combatre il n’auoit le pouuoir,
+<lb corresp="#f29_z3_l9_t"/>Selon mon ordonnance il ne ſçauroit l'auoir.
+<lb corresp="#f29_z3_l10_t"/>Ny. Donc cõme il falloit vaincre à la courſe Atalãte,
+<lb corresp="#f29_z3_l11_t"/>Il faut qu’on puiſſe vaincre au combat Bradamante.
+<hi n="HeadingLine"><lb corresp="#f29_z3_l12_t"/>ACTE II. SCENE I.</hi>
+<hi n="HeadingLine"><lb corresp="#f29_z3_l13_t"/>Aymon. Beatrix.</hi>
+<lb corresp="#f29_z3_l14_t"/>Ay.
+<hi n="DropCapitalLine"><lb corresp="#f29_z3_l15_t"/>L</hi>
+<lb corresp="#f29_z3_l16_t"/>E party me plaiſt fort. B. Außi fait-il à moy.
+<lb corresp="#f29_z3_l17_t"/>A I'en ſuis tout trãſporté. B. Si ſuis-ie par ma foy.
+<lb corresp="#f29_z3_l18_t"/>Ay. Ce que ie priſe plus en ſi belle alliance,
+<lb corresp="#f29_z3_l19_t"/>C’eſt qu’il ne faudra point debourſer de finance.
+<lb corresp="#f29_z3_l20_t"/>Il me demande rien B. Il eſt trop grand ſeigneur.
+<lb corresp="#f29_z3_l21_t"/>Qu'a beſoing de nos biens le fils d’un Empereur?
+<lb corresp="#f29_z3_l22_t"/>Ay. Ce nous eſt toutesfois vn notable auantage
+<lb corresp="#f29_z3_l23_t"/>De ne bailler vn ſon pour elle en mariage:
+<lb corresp="#f29_z3_l24_t"/>Meſmement auiourd'huy, qu’il n’y a point d’amour.
+<lb corresp="#f29_z3_l25_t"/>Et qu’on ne fait ſinon aux richeſſes la cour.
+<lb corresp="#f29_z3_l26_t"/>" La grace, la beauté, la vertu, le lignage
+<lb corresp="#f29_z3_l27_t"/>" Ne ſont non plus priſez qu’vne pomme ſauuage.
+<lb corresp="#f29_z3_l28_t"/>" On ne veut que t’argent: vn mariage eſt ſaint,
+<lb corresp="#f29_z3_l29_t"/>Eſt ſortable &amp; bien fait quand l’argent on eſtreint.
+<lb corresp="#f29_z3_l30_t"/>B.i.
+</p>
+        <pb corresp="#f31"/>
+        <fw corresp="#f31_z1" n="RunningTitleZone"><lb corresp="#f31_z1_l1_t"/>TRAGECOMEDIE.</fw>
+        <fw corresp="#f31_z2" n="NumberingZone"><lb corresp="#f31_z2_l1_t"/>14</fw>
+        <p corresp="#f31_z3" n="MainZone">
+<lb corresp="#f31_z3_l1_t"/>Que quiconque voudra pour eſpouſe l'auoir
+<lb corresp="#f31_z3_l2_t"/>Doit la combatre armee, eſtimant qu’il n’eſt homme,
+<lb corresp="#f31_z3_l3_t"/>Dans l’Empire de Grece &amp; l’Empire de Romme,
+<lb corresp="#f31_z3_l4_t"/>Fors ſon vaillant Roger, qui ne doiue mourir,
+<lb corresp="#f31_z3_l5_t"/>Si auecque le fer il la veut conquerir?
+<lb corresp="#f31_z3_l6_t"/>Or i’aurois grand douleur que ce genereux Prince
+<lb corresp="#f31_z3_l7_t"/>Venu pour fon amour de lointaine prouince
+<lb corresp="#f31_z3_l8_t"/>Sa vie auanturaſt, ſes forces ne ſçachant,
+<lb corresp="#f31_z3_l9_t"/>En la voulant combatre auec le ſer trenchant:
+<lb corresp="#f31_z3_l10_t"/>Qu'au lieu d’vne maiſtreſſe il trouuaſt la mort dure,
+<lb corresp="#f31_z3_l11_t"/>Et que ſon lict nopçal fuſt vne ſepulture.
+<lb corresp="#f31_z3_l12_t"/>Ce ſeroit grand pitié. Ay. Ie ne veux point cela.
+<lb corresp="#f31_z3_l13_t"/>B. Il ne ſçauroit l’auoir ſans ceſte eſpreuue-la.
+<lb corresp="#f31_z3_l14_t"/>Ay. Pourquoy ne ſçauroit-il? ne le puis-ie pas faire?
+<lb corresp="#f31_z3_l15_t"/>B. Non, pource que du Roy l’ordonnance eſt contraire.
+<lb corresp="#f31_z3_l16_t"/>Ay. Le Roy ne l'entend pas, ie l’iray ſupplier
+<lb corresp="#f31_z3_l17_t"/>De reuoquer la loy qu’il a fait publier.
+<lb corresp="#f31_z3_l18_t"/>" B. C'eſt choſe malaiſee,vn Prince ne viole
+<lb corresp="#f31_z3_l19_t"/>" les Edicts qu’il a faits, il maintient ſa parole.
+<lb corresp="#f31_z3_l20_t"/>Ay. Voire en choſe publique, &amp; qui eſt de grand poix:
+<lb corresp="#f31_z3_l21_t"/>Mais en choſe priuee on change quelque fois.
+<lb corresp="#f31_z3_l22_t"/>Charles luy a permis ce combat dommageable,
+<lb corresp="#f31_z3_l23_t"/>Eſtimant pour le ſeur que ie l’euſſe agreable:
+<lb corresp="#f31_z3_l24_t"/>Autrement ne l'euſt fait, ſçachant bien le pouuoir
+<lb corresp="#f31_z3_l25_t"/>Que deſſur ſes enfans vn pere doit auoir.
+<lb corresp="#f31_z3_l26_t"/>Be. Encore mon ami, faudroit premier entendre
+<lb corresp="#f31_z3_l27_t"/>Si le parti luy plaiſt, que de rien entreprendre:
+<lb corresp="#f31_z3_l28_t"/>Car ie crains que Roger ſoit en ſon cœur encré.
+<lb corresp="#f31_z3_l29_t"/>Ay. Veut-elle ce Roger auoir contre mon gré?
+<lb corresp="#f31_z3_l30_t"/>Be. Ie penſe que nenny, elle eſt trop bien nourrie.
+<lb corresp="#f31_z3_l31_t"/>Ay. Si elle auoit fait? B. I'en ſerois bien marrie.
+</p>
+        <fw corresp="#f31_z4" n="QuireMarksZone"><lb corresp="#f31_z4_l1_t"/>B.ij.</fw>
+        <pb corresp="#f33"/>
+        <fw corresp="#f33_z1" n="RunningTitleZone"><lb corresp="#f33_z1_l1_t"/>TRAGECOMEDIE.</fw>
+        <fw corresp="#f33_z2" n="NumberingZone"><lb corresp="#f33_z2_l1_t"/>15</fw>
+        <p corresp="#f33_z3" n="MainZone">
+<lb corresp="#f33_z3_l1_t"/>Il aime ce Roger. Que maudite ſoit l’heure,
+<lb corresp="#f33_z3_l2_t"/>Auolé, que tu veis ceſte belle demeure:
+<lb corresp="#f33_z3_l3_t"/>Ie ſerois trop heureuſe, &amp; ore le Soleil,
+<lb corresp="#f33_z3_l4_t"/>Ne verroit rien qui fuſt à mon aiſe pareil
+<lb corresp="#f33_z3_l5_t"/>Sans toy, ſans toy, Rogrer, qui fraudes mon attente
+<lb corresp="#f33_z3_l6_t"/>Priuant du ſceptre Grec ma fille Bradamante.
+<hi n="HeadingLine"><lb corresp="#f33_z3_l7_t"/>SCENE II.</hi>
+<hi n="HeadingLine"><lb corresp="#f33_z3_l8_t"/>Renaud. Aymon. La Roque.</hi>
+<hi n="HeadingLine"><lb corresp="#f33_z3_l9_t"/>Re.</hi>
+<hi n="DropCapitalLine"><lb corresp="#f33_z3_l10_t"/>Q</hi>
+<lb corresp="#f33_z3_l11_t"/>Voy? mõſieur, voulez-vous forcer vne amité?
+<lb corresp="#f33_z3_l12_t"/>Eſtes-vous maintenant vn pere ſans pitié?
+<lb corresp="#f33_z3_l13_t"/>Qui vueillez Bradamante vne fille ſi chere,
+<lb corresp="#f33_z3_l14_t"/>Bannir loing de vos yeux &amp; du ſein de ſa mere,
+<lb corresp="#f33_z3_l15_t"/>Pour malgré ſon uouloir, qu’elle ne peut changer,
+<lb corresp="#f33_z3_l16_t"/>La donner pour eſpouſe à ce prince eſtranger?
+<lb corresp="#f33_z3_l17_t"/>Elle ne l’aime point, &amp; qu’y voudriez-vous faire?
+<lb corresp="#f33_z3_l18_t"/>" Vous ſçauez que l’amour eſt touſiours volontaire:
+<lb corresp="#f33_z3_l19_t"/>" Il ne ſe peut forcer, c’eſt vne affecfion
+<lb corresp="#f33_z3_l20_t"/>" Qui ne ſe donte point ſinon par fiction.
+<lb corresp="#f33_z3_l21_t"/>" Le cœur touſiours demeure en ſa libre franchiſe,
+<lb corresp="#f33_z3_l22_t"/>" Mais le front &amp; la voix bien ſouuent le deguiſe.
+<lb corresp="#f33_z3_l23_t"/>Ne la contraignez point, vous ſeriez à iamais
+<lb corresp="#f33_z3_l24_t"/>Faſché de luy voir faire vn meſnage mauuais.
+<lb corresp="#f33_z3_l25_t"/>Ay. Qui te fait ſi hardy de me venir reprendre?
+<lb corresp="#f33_z3_l26_t"/>Penſes-tu que de toy ie vueille conſeil prendre?
+<lb corresp="#f33_z3_l27_t"/>Dequoy t’empeſches- tu? me viens-tu raiſonner?
+<lb corresp="#f33_z3_l28_t"/>Et quoy? qui t’a ſi bien appris à ſermonner?
+<lb corresp="#f33_z3_l29_t"/>O le braue cerueau! Re. Ce que ie viens de dire
+<lb corresp="#f33_z3_l30_t"/>N’eſt pas pour voꝰ preſcher ny pour vous cõtredire. (rer
+<lb corresp="#f33_z3_l31_t"/>A pourquoy dõc? qui te meut? R. C'est pour voꝰ decla¬
+</p>
+        <fw corresp="#f33_z4" n="RunningTitleZone"><lb corresp="#f33_z4_l1_t"/>B.iij.</fw>
+        <pb corresp="#f35"/>
+        <fw corresp="#f35_z1" n="RunningTitleZone"><lb corresp="#f35_z1_l1_t"/>TRAGECOMEDIE.</fw>
+        <fw corresp="#f35_z2" n="NumberingZone"><lb corresp="#f35_z2_l1_t"/>16</fw>
+        <p corresp="#f35_z3" n="MainZone">
+<lb corresp="#f35_z3_l1_t"/>Dans les yeux d'vn chacun, que la douleur la ronge?
+<lb corresp="#f35_z3_l2_t"/>Qu'en pleurs elle ſe bagne, &amp; n’oſe toutefois
+<lb corresp="#f35_z3_l3_t"/>Pour librement gemir deueloper ſa voix?
+<lb corresp="#f35_z3_l4_t"/>Que ſi ſa longue peine en peſanteur aſſomme
+<lb corresp="#f35_z3_l5_t"/>Son ame alangouree, inacceßible au ſomme,
+<lb corresp="#f35_z3_l6_t"/>Et que de ſes bras gours elle touche en dormant
+<lb corresp="#f35_z3_l7_t"/>Le corps de ſon eſpoux, ainçois de ſon tourment,
+<lb corresp="#f35_z3_l8_t"/>Elle treſſaille toute (ainſi qu’une bergere
+<lb corresp="#f35_z3_l9_t"/>Qui en ſon chemin trouue vne noire Vipere)
+<lb corresp="#f35_z3_l10_t"/>Que frayeur elle en ait, &amp; retire ſoudain
+<lb corresp="#f35_z3_l11_t"/>Des membres odieux ſon imprudente main?
+<lb corresp="#f35_z3_l12_t"/>Que quand il la tiendra cherement embraſſee,
+<lb corresp="#f35_z3_l13_t"/>Elle ſe penſe alors d'vn ſerpent enlacee,
+<lb corresp="#f35_z3_l14_t"/>Tant elle aura d'horreur d'eſtre ſerue en ce point
+<lb corresp="#f35_z3_l15_t"/>D’vn importun mari, qu'elle n’aimera point? (nee.
+<lb corresp="#f35_z3_l16_t"/>" A. L'amour touſiours ſe trouue aux esbats d’Hyme¬
+<lb corresp="#f35_z3_l17_t"/>" R. L'on voit de maint Hymen la couche inſortunee.
+<lb corresp="#f35_z3_l18_t"/>Quelle future amour pourrez-uous eſperer
+<lb corresp="#f35_z3_l19_t"/>D’vn nopçage forcé? c'eſt bien s’auanturer,
+<lb corresp="#f35_z3_l20_t"/>C'eſt bien mettre au hazard une ieune pucelle,
+<lb corresp="#f35_z3_l21_t"/>C’eſt bien, helas! c’eſt bien ne faire conte d'elle.
+<lb corresp="#f35_z3_l22_t"/>Ay. Scauroit-on la placer en vn plus digne lieu?
+<lb corresp="#f35_z3_l23_t"/>R. Leon ne luy eſt propre ores qu'il fuſt vn Dieu.
+<lb corresp="#f35_z3_l24_t"/>A. Et que luy faut-il donc? R. Vn mari qui luy plaiſe,
+<lb corresp="#f35_z3_l25_t"/>Et auecque lequel elle viue à ſon aiſe.
+<lb corresp="#f35_z3_l26_t"/>Ay. Elle eſt bien delicate en ſon affection.
+<lb corresp="#f35_z3_l27_t"/>Re. En la voſtre on ne voit que de l’ambition.
+<lb corresp="#f35_z3_l28_t"/>Ay. Que tu es reuerend. Re. I'ay plus de reuerence
+<lb corresp="#f35_z3_l29_t"/>Et Bradamante außi, que vous de bienvueillance.
+<lb corresp="#f35_z3_l30_t"/>A. Ie ſçai mieus que voꝰ deux quel eſpous il luy faut.
+<lb corresp="#f35_z3_l31_t"/>Re. Voire pour l'eleuer, pour la mettre bien haut.
+</p>
+        <fw corresp="#f35_z4" n="QuireMarksZone"><lb corresp="#f35_z4_l1_t"/>B.iiij.</fw>
+        <pb corresp="#f37"/>
+        <fw corresp="#f37_z1" n="RunningTitleZone"><lb corresp="#f37_z1_l1_t"/>TRAGECOMEDIE.</fw>
+        <fw corresp="#f37_z2" n="NumberingZone"><lb corresp="#f37_z2_l1_t"/>17</fw>
+        <p corresp="#f37_z3" n="MainZone">
+<lb corresp="#f37_z3_l1_t"/>Re. Mais cet accord eſt fait ſous voſtre volonté.
+<lb corresp="#f37_z3_l2_t"/>Ay. Il ne m’en chaut: &amp; puis, traittes-tu d'alliance
+<lb corresp="#f37_z3_l3_t"/>Pour ma fille, ſans moy? As-tu ceſte puiſſance?
+<lb corresp="#f37_z3_l4_t"/>Re. Ie ſçauois qu'agreable elle auroit le parti.
+<lb corresp="#f37_z3_l5_t"/>Ay. Mais pourquoy n’en eſtoy-ie außi toſt aduerti?
+<lb corresp="#f37_z3_l6_t"/>Re. Il eſt encore temps. Ay. Ores que i’ay promeſſe
+<lb corresp="#f37_z3_l7_t"/>Auecques Conſtantin le Monarque de Grece.
+<lb corresp="#f37_z3_l8_t"/>Re. Vne telle promeſſe obliger ne vous peut,
+<lb corresp="#f37_z3_l9_t"/>Si ma ſœur Bradamante approuuer ne la veut.
+<lb corresp="#f37_z3_l10_t"/>" Ay. Vn enfant doit touſiours obeir à ſon pere.
+<lb corresp="#f37_z3_l11_t"/>" Re. S'il va de ſon dommage il ne la doit pas faire.
+<lb corresp="#f37_z3_l12_t"/>" Ay. Sur ſes enfans vn pere ha toute authorité.
+<lb corresp="#f37_z3_l13_t"/>" Re. Quand leur bien il procure &amp; leur vtilité.
+<lb corresp="#f37_z3_l14_t"/>Ay. Eſt-il pere ſi dur qui leur perte pourchaſſe?
+<lb corresp="#f37_z3_l15_t"/>Re.  Ie croy qu’il n’en eſt point qui ſciemment le face.
+<lb corresp="#f37_z3_l16_t"/>A. Qu’eſt-ce dõc que tu dis? R. Que voꝰ deuez ſçauoir.
+<lb corresp="#f37_z3_l17_t"/>Le vouloir de ma ſœur deuant que la pourueoir.
+<lb corresp="#f37_z3_l18_t"/>Peut eſtre ſon deſir ne ſe conforme au voſtre:
+<lb corresp="#f37_z3_l19_t"/>Vous ſerez d’un aduis qu'elle ſera d’vn autre,
+<lb corresp="#f37_z3_l20_t"/>Que ſon cœur languira dans les yeux d’vn amant,
+<lb corresp="#f37_z3_l21_t"/>Qui en repouſſera tout autre penſement:
+<lb corresp="#f37_z3_l22_t"/>Si bien que ceſt amour occupant ſa poitrine,
+<lb corresp="#f37_z3_l23_t"/>Il ne faut qu’un ſecond penſe y prendre racine.
+<lb corresp="#f37_z3_l24_t"/>L’authorité d'vn pere, &amp; d’un Prince &amp; d’vn Roy
+<lb corresp="#f37_z3_l25_t"/>Ne ſçauroit peruertir ceſte amoureuſe loy.
+<lb corresp="#f37_z3_l26_t"/>Ne la forcez donc point, de peur qu’eſtant forcee
+<lb corresp="#f37_z3_l27_t"/>Vn eſpoux ait le corps, vn ami la penſee:
+<lb corresp="#f37_z3_l28_t"/>Ce qui produit touſiours vn enfer de malheurs,
+<lb corresp="#f37_z3_l29_t"/>Plein d'angoiſſe &amp; d’ennuy, de ſoupirs &amp; de pleurs:
+<lb corresp="#f37_z3_l30_t"/>Par qui voſtre vieil âge en ſa courſe derniere
+<lb corresp="#f37_z3_l31_t"/>Ne verroit qu'à regret la celeſte lumiere,
+</p>
+        <fw corresp="#f37_z4" n="QuireMarksZone"><lb corresp="#f37_z4_l1_t"/>B.v.</fw>
+        <pb corresp="#f39"/>
+        <fw corresp="#f39_z1" n="RunningTitleZone"><lb corresp="#f39_z1_l1_t"/>TRAGECOMEDIE.</fw>
+        <fw corresp="#f39_z2" n="NumberingZone"><lb corresp="#f39_z2_l1_t"/>18</fw>
+        <p corresp="#f39_z3" n="MainZone">
+<lb corresp="#f39_z3_l1_t"/>Quand Mambrin eſprouua ma force domtereſſe,
+<lb corresp="#f39_z3_l2_t"/>Que i’occis Clariel, dont les geſtes guerriers
+<lb corresp="#f39_z3_l3_t"/>Se faiſoyent renommer entre les Cheualiers:
+<lb corresp="#f39_z3_l4_t"/>Que le Geant Almont, de qui la teste groſſe
+<lb corresp="#f39_z3_l5_t"/>Et les membres maßifs reſſembloyent vn Coloſſe.
+<lb corresp="#f39_z3_l6_t"/>Abbatu de ma main à terre tomba mort,
+<lb corresp="#f39_z3_l7_t"/>Et ma gloire engraua deſſur l’Indique bord:
+<lb corresp="#f39_z3_l8_t"/>Vous n’eußiez entrepris ce que vous faites ores,
+<lb corresp="#f39_z3_l9_t"/>Combien que ie me ſens aſſez robuſte encores
+<lb corresp="#f39_z3_l10_t"/>Pour vous biẽ bourraſſer. R. Nous n'entreprẽdrõs riẽ,
+<lb corresp="#f39_z3_l11_t"/>Et me croyez, Monſieur, que vous ne vueillez bien.
+<lb corresp="#f39_z3_l12_t"/>Ay. Vous ferez ſagement: car ie perdray la vie
+<lb corresp="#f39_z3_l13_t"/>Pluſtoſt que malgré moy ma fille lon marie.
+<hi n="HeadingLine"><lb corresp="#f39_z3_l14_t"/>SCENE III.</hi>
+<hi n="HeadingLine"><lb corresp="#f39_z3_l15_t"/>Beatrix. Bradamante.</hi>
+<hi n="HeadingLine"><lb corresp="#f39_z3_l16_t"/>Beat.</hi>
+<hi n="DropCapitalLine"><lb corresp="#f39_z3_l17_t"/>Q</hi>
+<lb corresp="#f39_z3_l18_t"/>VE uous ſeriez heureuſe! oncques de noſtre, sãg
+<lb corresp="#f39_z3_l19_t"/>Fille n’auroit tenu ſi honorable rang.
+<lb corresp="#f39_z3_l20_t"/>Allez où le Soleil au matin luit au monde,
+<lb corresp="#f39_z3_l21_t"/>Allez où ſommeilleux il ſe cache dans l’onde,
+<lb corresp="#f39_z3_l22_t"/>Allez aux champs roſtis d’eternelles ardeurs,
+<lb corresp="#f39_z3_l23_t"/>Allez où les Riphez terniſſent de froideurs:
+<lb corresp="#f39_z3_l24_t"/>Vous ne verrez grandeur pour eſtre comparee
+<lb corresp="#f39_z3_l25_t"/>A l’heureuſe grandeur qui vous ſuit preparee.
+<lb corresp="#f39_z3_l26_t"/>Eſtre femme d'Auguſte, &amp; voir ſous voſtre main
+<lb corresp="#f39_z3_l27_t"/>Mouuoir, obeiſſant, tout l’Empire Romain!
+<lb corresp="#f39_z3_l28_t"/>Marcher grande Deeſſe entre les tourbes viles
+<lb corresp="#f39_z3_l29_t"/>S’entreſtouffant de preſſe aux trionfes des villes
+</p>
+        <fw corresp="#f39_z4" n="QuireMarksZone"><lb corresp="#f39_z4_l1_t"/>B.vi.</fw>
+      </div>
     </body>
   </text>
 </TEI>

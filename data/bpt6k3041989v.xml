@@ -12,12 +12,17 @@
             <ptr type="isni" target="0000000072490177"/>
           </persName>
         </author>
-        <respStmt xml:id="KC">
-          <resp>transformation from ALTO4 to TEI by</resp>
+        <respStmt>
+          <resp>Transformation from ALTO4 to TEI by</resp>
           <persName>
             <forename>Kelly</forename>
             <surname>Christensen</surname>
             <ptr type="orcid" target="000000027236874X"/>
+          </persName>
+          <persName>
+            <forename>Simon</forename>
+            <surname>Gabay</surname>
+            <ptr type="orcid" target="0000000190944475"/>
           </persName>
         </respStmt>
       </titleStmt>
@@ -26,11 +31,11 @@
       </extent>
       <publicationStmt>
         <publisher>Gallic(orpor)a</publisher>
-        <authority>BnF DATAlab</authority>
+        <authority>BnF DATALab</authority>
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-12"/>
+        <date when="2022-05-17"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -2418,501 +2423,581 @@
   </sourceDoc>
   <text>
     <body>
-      <pb corresp="f13"/>
-      <pb corresp="f15"/>
-      <l corresp="f15_z1_l1_t">AUX LISEURS.</l>
-      <l corresp="f15_z1_l2_t">Ne pensez, debonnaires liseurs, qu’à tort ce pro¬</l>
-      <l corresp="f15_z1_l3_t">verbe roule parmy nous, que qui refuse après muse :</l>
-      <l corresp="f15_z1_l4_t">Si vous en doutez, il ne vous faut venir que vers</l>
-      <l corresp="f15_z1_l5_t">moy, je vous en estaleray une preuve plus claire que</l>
-      <l corresp="f15_z1_l6_t">Ie jour. Experto (dit le bon homme) crede Roberto.</l>
-      <l corresp="f15_z1_l7_t">J’ai passé par les piques, pour n’avoir bien branslé</l>
-      <l corresp="f15_z1_l8_t">la pique lors qu’il falloit, et n’avoir battu (comme</l>
-      <l corresp="f15_z1_l9_t">I’on dit) le fer lors qu'il estoit chaud ; je me suis</l>
-      <l corresp="f15_z1_l10_t">trouvé de deux selles le cul à terre. Ma Muse avoit</l>
-      <l corresp="f15_z1_l11_t">esclos le frere de ces Apres-disnees, son nom ne</l>
-      <l corresp="f15_z1_l12_t">peut estre ramenteu, son perrain a esté si vilain que</l>
-      <l corresp="f15_z1_l13_t">pour s’exempter de quelques honnestetez, il a desa¬</l>
-      <l corresp="f15_z1_l14_t">voué son filleu, lequel de toutes parts j’estoie prié de</l>
-      <l corresp="f15_z1_l15_t">loger, et bien mieux qu’il n’a rencontré. Plusieurs</l>
-      <l corresp="f15_z1_l16_t">m’offroient leurs logis, mais je me faisoie accroire</l>
-      <l corresp="f15_z1_l17_t">que leur train ne pourroit compatir avec la naturelle</l>
-      <l corresp="f15_z1_l18_t">habitude de mes gayes philosophies, ou que quelques</l>
-      <l corresp="f15_z1_l19_t">uns n’ayant les yeux bien dessillez de grand matin,</l>
-      <pb corresp="f30"/>
-      <l corresp="f30_z2_l1_t">valoir, monstrer à la postérité, qu’ils n’ont esté en</l>
-      <l corresp="f30_z2_l2_t">ce monde creatures inutiles De toutes les façons</l>
-      <l corresp="f30_z2_l3_t">qu’on voudra le prendre, je demeureray tousjours</l>
-      <l corresp="f30_z2_l4_t">droit sur mes deux pieds, puis que j’ay tesmoignage</l>
-      <l corresp="f30_z2_l5_t">en moy mesmes, que la semonce, que je fais, part</l>
-      <l corresp="f30_z2_l6_t">d'une syncerité, pureté et cordiale integrité. En un</l>
-      <l corresp="f30_z2_l7_t">mot, l’amour et affection que je porte à mon pays</l>
-      <l corresp="f30_z2_l8_t">me garantira de tout le reproche qu'on me pourroit</l>
-      <l corresp="f30_z2_l9_t">donner, pour une si hardie entreprise qu’est celle à</l>
-      <l corresp="f30_z2_l10_t">laquelle me lient mes Apres-disnees. L’intention est</l>
-      <l corresp="f30_z2_l11_t">bonne, l’ouvrier ne vise qu’à bien, les moyens ne</l>
-      <l corresp="f30_z2_l12_t">sont que bons : il n’est pas à croire que les effets ne</l>
-      <l corresp="f30_z2_l13_t">participent à la bonté. Goustez à mesmes si nos</l>
-      <l corresp="f30_z2_l14_t">fruits ne sont pas bons.</l>
-      <l corresp="f30_z2_l15_t">AUDENTES FORTUNE JUVAT.</l>
-      <pb corresp="f31"/>
-      <pb corresp="f33"/>
-      <l corresp="f33_z1_l4_t">DU VEILLER ET DU DORMIR.</l>
-      <l corresp="f33_z1_l5_t">S’il faut dormir l'apres disnee?</l>
-      <l corresp="f33_z1_l6_t">APRES DISNEE I.</l>
-      <l corresp="f33_z1_l7_t">Les nappes levees le sʳ l’Eveillé, pour faire l’hon¬</l>
-      <l corresp="f33_z1_l8_t">neste et monstrer qu’il avoit l’esprit gaillard et l’œil</l>
-      <l corresp="f33_z1_l9_t">tendu au bois, s’adressant à la compagnie, va dire :</l>
-      <l corresp="f33_z1_l10_t">Quoy que je n’aye pas mené grande pousiere du¬</l>
-      <l corresp="f33_z1_l11_t">rant ja disner, messieurs, peut estre ne treuverez</l>
-      <l corresp="f33_z1_l12_t">vous mauvais que ceste apres-disnee se passe à vous</l>
-      <l corresp="f33_z1_l13_t">resveiller par un discours commun du veiller et du</l>
-      <l corresp="f33_z1_l14_t">dormir. Je suis bien trompé si ce n’est toucher droit</l>
-      <l corresp="f33_z1_l15_t">au poinct, et entamer l’affaire par le costé qu’il faut.</l>
-      <l corresp="f33_z1_l16_t">Vous sçavez que nostre déliberation commune est</l>
-      <l corresp="f33_z1_l17_t">desrober tous les plaisirs que nous pourrons, et</l>
-      <l corresp="f33_z1_l18_t">dresser une escole de philosophie. On a accoustumé</l>
-      <pb corresp="f37"/>
-      <l corresp="f37_z3_l1_t">nicieux ce qui de soy est proffitable aux autres. De</l>
-      <l corresp="f37_z3_l2_t">mesmes que vous en voyez aucuns qui, quoy qu'ils</l>
-      <l corresp="f37_z3_l3_t">ne soient des canes, boi-l’eau et abstemy, dès qu’ils</l>
-      <l corresp="f37_z3_l4_t">se trouvent abattus n’oseroient taster d’une goutte</l>
-      <l corresp="f37_z3_l5_t">de vin. D'autres qui, au fort d’une fievre ardente, se</l>
-      <l corresp="f37_z3_l6_t">sont mis à humer du piot, encores qu’auparavant ils</l>
-      <l corresp="f37_z3_l7_t">en eussent une fort estroite et scrupuleuse absti¬</l>
-      <l corresp="f37_z3_l8_t">nence. Je m’en rapporte au voisin de la Madelaine.</l>
-      <l corresp="f37_z3_l9_t">Si ainsi est que le vin proffite aux uns et nuise aux</l>
-      <l corresp="f37_z3_l10_t">autres, il se pourra bien faire que le dormir vous</l>
-      <l corresp="f37_z3_l11_t">aura esté contraire, encores qu'il soit sain et neces¬</l>
-      <l corresp="f37_z3_l12_t">saire à plusieurs. Si vous me vouliez croire, je vous</l>
-      <l corresp="f37_z3_l13_t">conselleroye de vous servir des moyens qui furent</l>
-      <l corresp="f37_z3_l14_t">gardez à la guerison pantagrueique. Par advenure</l>
-      <l corresp="f37_z3_l15_t">pourroit y avoir dans vostre corps quelque humeur</l>
-      <l corresp="f37_z3_l16_t">qui vous causeroit cette sangreneuse indigestion.</l>
-      <l corresp="f37_z3_l17_t">Ce qui me fait tenir ce langage est, que je trouve</l>
-      <l corresp="f37_z3_l18_t">que les medecins tiennent que le dormir sert gran¬</l>
-      <l corresp="f37_z3_l19_t">dement à la concoction des viandes, et se fondent sur</l>
-      <l corresp="f37_z3_l20_t">deux pincipales raisons : la première est, que la</l>
-      <l corresp="f37_z3_l21_t">composition de l’homme durant qu’il dort est toute</l>
-      <l corresp="f37_z3_l22_t">telle qu’en hyver. On sait qu’en hyver toutes nos par¬</l>
-      <l corresp="f37_z3_l23_t">ties interieures et du milieu sont plus chaudes qu’en</l>
-      <l corresp="f37_z3_l24_t">esté, ad centrum calor frigore ambiente prostigatur.</l>
-      <l corresp="f37_z3_l25_t">De mesmes, lorsque nous sommeillons, le sang se rertire</l>
-      <l corresp="f37_z3_l26_t">en dedans, et par consequent la chaleur naturelle, si</l>
-      <l corresp="f37_z3_l27_t">bien, qu’alors la cuisson et digestion se fait mieux en</l>
-      <l corresp="f37_z3_l28_t">nostre cuisine stomachale. La seconde est dependante</l>
-      <l corresp="f37_z3_l29_t">de la premiere, prise par les effets et événemens,</l>
-      <l corresp="f37_z3_l30_t">attendu que nous voyons, sentons et appercevons que</l>
-      <pb corresp="f41"/>
-      <l corresp="f41_z3_l1_t">Non, non (adjoute le sʳ l'Esveillé), je me paye</l>
-      <l corresp="f41_z3_l2_t">de ces raisons, puis que le voy que sur l'apres-dis¬</l>
-      <l corresp="f41_z3_l3_t">nee et la plus grande chaleur du jour. Si bien que</l>
-      <l corresp="f41_z3_l4_t">nostre chaleur naturelle n'auroit que faire de ses res¬</l>
-      <l corresp="f41_z3_l5_t">serrer si fort que vous criez. Il y a la chaleur de</l>
-      <l corresp="f41_z3_l6_t">l'air qui entoure et elle qui enfermeroit le froid qui</l>
-      <l corresp="f41_z3_l7_t">y auroit esté attiré par les exhalaisons dormitoires.</l>
-      <l corresp="f41_z3_l8_t">Je pourroie enfoncer davantage ce disours, si je ne</l>
-      <l corresp="f41_z3_l9_t">craingnoie d’ennuyer la compagnie par ma prolixité,</l>
-      <l corresp="f41_z3_l10_t">je veux un peu aller veoir vos gras dormeurs, les¬</l>
-      <l corresp="f41_z3_l11_t">quels vous prisez pour la graisse qu'ils s'acceullent</l>
-      <l corresp="f41_z3_l12_t">en domant. Si le prenez là je le quitte, et vous lair¬</l>
-      <l corresp="f41_z3_l13_t">ray abonder ès conceptions de vostre porchesque</l>
-      <l corresp="f41_z3_l14_t">sensualité. Tant que vous épicuriez et teniez que</l>
-      <l corresp="f41_z3_l15_t">l'homme ne vit sinon pour estre gras, cela est user</l>
-      <l corresp="f41_z3_l16_t">des transformations de Circé, sans estre charmeur.</l>
-      <l corresp="f41_z3_l17_t">Nous ne sommes pas voüez à larder, ainsi que les</l>
-      <l corresp="f41_z3_l18_t">pourecaux Telle leçon doit estre preschee aux an¬</l>
-      <l corresp="f41_z3_l19_t">thropophages. Vous cognoissez un principal voisin</l>
-      <l corresp="f41_z3_l20_t">de Marmoustier, le prisez vous davantage pour sa</l>
-      <l corresp="f41_z3_l21_t">graisse que nostre doré Pindare François, duquel à</l>
-      <l corresp="f41_z3_l22_t">se propos je me souviens que le seigneur Pasquier</l>
-      <l corresp="f41_z3_l23_t">chante ces vers hendecasyllabes :</l>
-      <l corresp="f41_z3_l24_t">Auratus meus ille quem videtis,</l>
-      <l corresp="f41_z3_l25_t">Macro corpore, languido, pusillo,</l>
-      <l corresp="f41_z3_l26_t">Jejuna macie et cadaverosa,</l>
-      <l corresp="f41_z3_l27_t">Sed cœlesti animo integraque mente,</l>
-      <l corresp="f41_z3_l28_t">Tantò præ reliquis Poetis major,</l>
-      <l corresp="f41_z3_l29_t">Quantò corpore nactus est minori :</l>
-      <l corresp="f41_z3_l30_t">Tam et scribere græce ut ipsæ Athenæ</l>
-      <pb corresp="f42"/>
-      <l corresp="f42_z3_l1_t">Non possint magis Atticam referre.</l>
-      <l corresp="f42_z3_l2_t">Tam mirus artifex Latii leporis,</l>
-      <l corresp="f42_z3_l3_t">Ut ipsum sibi vindicent Latini.</l>
-      <l corresp="f42_z3_l4_t">Quin et protulit ejus officina.</l>
-      <l corresp="f42_z3_l5_t">Bonsardum que gravem, Beluneque mollem</l>
-      <l corresp="f42_z3_l6_t">Quales Gallia vidit ante nullos.</l>
-      <l corresp="f42_z3_l7_t">Quantus ergo sit, hinc licet videre</l>
-      <l corresp="f42_z3_l8_t">Scribant carmina cæteri Poetæ,</l>
-      <l corresp="f42_z3_l9_t">Summos at facit hic unus Poetas.</l>
-      <l corresp="f42_z3_l10_t">Je vous veux battre d’autres raisons ; l’experience</l>
-      <l corresp="f42_z3_l11_t">nous apprend qu’une personne grasse n’est point</l>
-      <l corresp="f42_z3_l12_t">si plaisante, gaillarde et à gré qu’une autre qui est</l>
-      <l corresp="f42_z3_l13_t">maigre. C’est la chanson que disoit en table la mais¬</l>
-      <l corresp="f42_z3_l14_t">tresse de L'OEIL D'AVIS, prise, comme j’estime, du</l>
-      <l corresp="f42_z3_l15_t">Iivre intitulé les Controverses des sexes masculin et</l>
-      <l corresp="f42_z3_l16_t">féminin. Là, l’auteur deconselle ainsi de prendre</l>
-      <l corresp="f42_z3_l17_t">femme grasse en son patois.</l>
-      <l corresp="f42_z3_l18_t">Pareillement ne prenez femme grasse</l>
-      <l corresp="f42_z3_l19_t">Quelque maintien quelle ait et bonne grace,</l>
-      <l corresp="f42_z3_l20_t">Grand puanteur au lict vous donnera,</l>
-      <l corresp="f42_z3_l21_t">Car à l’espaule de mouton sentira</l>
-      <l corresp="f42_z3_l22_t">Au faguenas et puanteurs susdites,</l>
-      <l corresp="f42_z3_l23_t">Donc ne prenez telles femmes maudiles.</l>
-      <l corresp="f42_z3_l24_t">Vous estes un fin homme, par ma conscience (res¬</l>
-      <l corresp="f42_z3_l25_t">pond l’Esveillé) de me penser faire peur par ces vers</l>
-      <l corresp="f42_z3_l26_t">de l’ennemy des ſemmes ; a-il traité plus doucement</l>
-      <l corresp="f42_z3_l27_t">vos maigres? Escoutez ce qu’il en dit :</l>
-      <l corresp="f42_z3_l28_t">Touchant des maigres n’en prenez aussi point</l>
-      <l corresp="f42_z3_l29_t">Car il est dit, et notez bien ce poinct,</l>
-      <pb corresp="f43"/>
-      <l corresp="f43_z3_l1_t">Que sont trois choses maigres tres-que mauvaises,</l>
-      <l corresp="f43_z3_l2_t">Fastigieuses, toutes plus qne punaises :</l>
-      <l corresp="f43_z3_l3_t">C'est à scavoir la femme, cheure et l’oye.</l>
-      <l corresp="f43_z3_l4_t">Et qu’est bien pis, je veux que chacun l’oye,</l>
-      <l corresp="f43_z3_l5_t">Disant que c’est morceau si mal duisable</l>
-      <l corresp="f43_z3_l6_t">Quil ne conient à manger qu’au seul diable.</l>
-      <l corresp="f43_z3_l7_t">Ne vous arrestez point, Messieurs, sur cest article,</l>
-      <l corresp="f43_z3_l8_t">vay-je dire, vous n'y ferez que le sang tout clair,</l>
-      <l corresp="f43_z3_l9_t">attendu que ce maistre blasonneur a donné attache</l>
-      <l corresp="f43_z3_l10_t">tant aux grasses qu’aux maigres : et aussi qu'en</l>
-      <l corresp="f43_z3_l11_t">mes partis amoureux je me suis esbattu à débattre</l>
-      <l corresp="f43_z3_l12_t">cette magnifique question : Si le party d’une grasse</l>
-      <l corresp="f43_z3_l13_t">est plustost à prendre que celuy d'une maigre.</l>
-      <l corresp="f43_z3_l14_t">Soit, respondit le sʳ Patelin, je suis content de</l>
-      <l corresp="f43_z3_l15_t">remettre à une autre fois la dispute touchant la</l>
-      <l corresp="f43_z3_l16_t">processence des grases et des maigres, mais je</l>
-      <l corresp="f43_z3_l17_t">voudroie sçavoir à quoy et comment vons concluez.</l>
-      <l corresp="f43_z3_l18_t">Vous pensez enerver mon argument des gras dor¬</l>
-      <l corresp="f43_z3_l19_t">meurs, parce que nous ne sommes pourceaux, je ne</l>
-      <l corresp="f43_z3_l20_t">suis point rotisseur ny marchand de lard, pour</l>
-      <l corresp="f43_z3_l21_t">graisser la porcherie de la façon que vous criez :</l>
-      <l corresp="f43_z3_l22_t">Mais vous changez b mol en b carre et ne prenez</l>
-      <l corresp="f43_z3_l23_t">pas advis que je puis vous battre par vostre propre</l>
-      <l corresp="f43_z3_l24_t">argument. De fait, qu’on l'examine, on trouvera qu’il</l>
-      <l corresp="f43_z3_l25_t">fait pour moy, en ce que maintenant il n’est question</l>
-      <l corresp="f43_z3_l26_t">de la prerogative qui est escheüe aux hommes pour</l>
-      <l corresp="f43_z3_l27_t">l'ame raisonnable dont ls sont doüëz. Les facultez</l>
-      <l corresp="f43_z3_l28_t">animales et naturelles du pourceau ne sont point</l>
-      <l corresp="f43_z3_l29_t">autres (hors l'individu) que sont celles d’un chacun</l>
-      <l corresp="f43_z3_l30_t">de nous. Que ainsi soit vous voyez que l'on est re¬</l>
-      <pb corresp="f51"/>
-      <l corresp="f51_z3_l1_t">Volvendisque libris domi vacare,</l>
-      <l corresp="f51_z3_l2_t">Librorum helluo, Regius patronus,</l>
-      <l corresp="f51_z3_l3_t">Regno et munere nobilis forensi,</l>
-      <l corresp="f51_z3_l4_t">Stertebat media patrune corona,</l>
-      <l corresp="f51_z3_l5_t">Stertebatque domi, palamque clamque,</l>
-      <l corresp="f51_z3_l6_t">Nec tempus vacuum, locus vel ullus,</l>
-      <l corresp="f51_z3_l7_t">Quo non steriteret ille, tamque dormiit,</l>
-      <l corresp="f51_z3_l8_t">Ut mors hunc inopina dormientem</l>
-      <l corresp="f51_z3_l9_t">Interceperit omnium honorum</l>
-      <l corresp="f51_z3_l10_t">Magno cum gemitu, altiore damno.</l>
-      <l corresp="f51_z3_l11_t">Mortuum tamen, ô viator, illum</l>
-      <l corresp="f51_z3_l12_t">Tu ne credideris : quid ergo? verè</l>
-      <l corresp="f51_z3_l13_t">Sommo perpetuo quiescet ille.</l>
-      <l corresp="f51_z3_l14_t">Ce ne sont point contes, Messieurs, vay-je dire, j’ay</l>
-      <l corresp="f51_z3_l15_t">familiarité avec un personnage, lequel a demeuré</l>
-      <l corresp="f51_z3_l16_t">fort longtems avee ce M. Bourdin, il m’en a asseuré</l>
-      <l corresp="f51_z3_l17_t">de choses plus estranges : mesmes que lors qu’il</l>
-      <l corresp="f51_z3_l18_t">vouloit chevir à poinct d'une bonne affaire falloit qu'il</l>
-      <l corresp="f51_z3_l19_t">prist tout bellement son repos. Vous sçavez que je</l>
-      <l corresp="f51_z3_l20_t">suis grand rechercheur et qu’il n’est pas aisé de</l>
-      <l corresp="f51_z3_l21_t">m'en prester une, que je veux estre payé surtout de</l>
-      <l corresp="f51_z3_l22_t">raison, pource j’ay pris plaisir à sonder l’occasion</l>
-      <l corresp="f51_z3_l23_t">pourquoy lors que ces Messieurs dormoient, neant¬</l>
-      <l corresp="f51_z3_l24_t">moins leur esprit ne laissoit d’estre en action perpe¬</l>
-      <l corresp="f51_z3_l25_t">tuelle. En fin j'ay trouvé que c'estoit pour autant</l>
-      <l corresp="f51_z3_l26_t">que leur esprit ne se lassoit au gré, branle, et à la</l>
-      <l corresp="f51_z3_l27_t">cadence du corps. De fait c'est une folie de croire que</l>
-      <l corresp="f51_z3_l28_t">le cerveau soit sensible. C'est une negative tenue</l>
-      <l corresp="f51_z3_l29_t">par tous les philosophes, lesquels sont les mieux</l>
-      <l corresp="f51_z3_l30_t">habillez d’entendement. Ce n’est pas que je veuille</l>
-      <l corresp="f51_z3_l31_t">tenir le cerveau tousjours blandé, je sçay qu’il y a du</l>
-      <pb corresp="f52"/>
-      <l corresp="f52_z3_l1_t">relais, duquel le seigneur Bretonnayau en son</l>
-      <l corresp="f52_z3_l2_t">Temple de l'Ame a tres bien poëtisé parlant de la</l>
-      <l corresp="f52_z3_l3_t">fantaisie: Pource je vous donneray, s’il vous plaist,</l>
-      <l corresp="f52_z3_l4_t">le plaisir de quelques vers qu’il a à ce propos com¬</l>
-      <l corresp="f52_z3_l5_t">posés :</l>
-      <l corresp="f52_z3_l6_t">Quand le commun repose, et l'objet empesché</l>
-      <l corresp="f52_z3_l7_t">N'entre plus par le sens de la vapeur bousché</l>
-      <l corresp="f52_z3_l8_t">Il ressemble un enfant : Ell' a une nourisse,</l>
-      <l corresp="f52_z3_l9_t">Qui chantant son do-do, l’endort, afin qu'Ell' puisse</l>
-      <l corresp="f52_z3_l10_t">S'aller esbattre seule : ainsi ceste cy sort</l>
-      <l corresp="f52_z3_l11_t">Du corps emmailloté du frere de la mort.</l>
-      <l corresp="f52_z3_l12_t">Dont s’escartant de luy solitaire repense</l>
-      <l corresp="f52_z3_l13_t">En ce qui s’est passé depuis sa cognoissance,</l>
-      <l corresp="f52_z3_l14_t">En ce quelle a ouy, de ce qui luy souvient</l>
-      <l corresp="f52_z3_l15_t">Et dedans le miroir que devant elle tient</l>
-      <l corresp="f52_z3_l16_t">Ou de jour et de nuict son image remire</l>
-      <l corresp="f52_z3_l17_t">Des ombres quelle y voit les phantosmes retire,</l>
-      <l corresp="f52_z3_l18_t">Qui si confusement s’offrent tous à la fois,</l>
-      <l corresp="f52_z3_l19_t">Que ranger ne les peut, ny en faire le chois.</l>
-      <l corresp="f52_z3_l20_t">Et comme Ell' en commence quelqu’autre vient se mettre</l>
-      <l corresp="f52_z3_l21_t">Au devant, l’autre après sur le champ demande estre</l>
-      <l corresp="f52_z3_l22_t">Premier expedié, le voulant despecher,</l>
-      <l corresp="f52_z3_l23_t">Une foule en voicy, qui la vient empescher.</l>
-      <l corresp="f52_z3_l24_t">Pour ce imparfaits sont tous, l’un n’aura que la teste</l>
-      <l corresp="f52_z3_l25_t">Et cest autre les pieds, luy manquant tout le reste,</l>
-      <l corresp="f52_z3_l26_t">L’un du corps la moitié, aura tout seulement</l>
-      <l corresp="f52_z3_l27_t">Qui point n’aura de bout ny de commencement.</l>
-      <l corresp="f52_z3_l28_t">Ainsi vous voyez que l’assoupissement du corps</l>
-      <l corresp="f52_z3_l29_t">n’engourdit pas le cerveau, qu’il est tousjours aux</l>
-      <l corresp="f52_z3_l30_t">champs, qu’il chasse, s'il ne prend à tous coups,</l>
-      <pb corresp="f61"/>
-      <l corresp="f61_z3_l1_t">y deviez bien venir pour tordre le nés à l’intention</l>
-      <l corresp="f61_z3_l2_t">d'un si sage escrivain : Vous voyez qu’il seraphise</l>
-      <l corresp="f61_z3_l3_t">ceux qui ne s’assujetissent à vostre beau dormir : si</l>
-      <l corresp="f61_z3_l4_t">ne faut-il pas que je vous laisse on si beau chemin,</l>
-      <l corresp="f61_z3_l5_t">je veux vous donner carriere entiere, et vous mettre</l>
-      <l corresp="f61_z3_l6_t">en butte le seigneur de l'Escale, dans les poësies</l>
-      <l corresp="f61_z3_l7_t">duquel vous trouverez, quil a autrefois donné</l>
-      <l corresp="f61_z3_l8_t">atteinte à vostre sommeil : de fait apres s’estre bersé</l>
-      <l corresp="f61_z3_l9_t">pour s’y accaser enfin il a trouvé qu’il s'y gastoit les</l>
-      <l corresp="f61_z3_l10_t">reins, et qu’il n’y avoit rien tel que d’avoir les yeux</l>
-      <l corresp="f61_z3_l11_t">tendus, ouverts et esveillez. Pource voicy qu’il</l>
-      <l corresp="f61_z3_l12_t">chante :</l>
-      <l corresp="f61_z3_l13_t">Mutanda vox est somme carnifex rerum</l>
-      <l corresp="f61_z3_l14_t">Rubigin sæ inertiæ peme putre,</l>
-      <l corresp="f61_z3_l15_t">Prelos paterque erroris atque terroris</l>
-      <l corresp="f61_z3_l16_t">Qui somniorum turbulenta dirorum</l>
-      <l corresp="f61_z3_l17_t">Momenta das et antè monstra non visa</l>
-      <l corresp="f61_z3_l18_t">Male procax everitor bonæ famæ</l>
-      <l corresp="f61_z3_l19_t">Imago mortis, morte retrior dira.</l>
-      <l corresp="f61_z3_l20_t">Namque illa sævis liberabit à curis,</l>
-      <l corresp="f61_z3_l21_t">Tu post labores semimortuæ vita.</l>
-      <l corresp="f61_z3_l22_t">Et harum acerba vena parricidarum</l>
-      <l corresp="f61_z3_l23_t">Tibi quid imprecemur impotens lurco?</l>
-      <l corresp="f61_z3_l24_t">Sentina stuprorum hospes ebriosorum</l>
-      <l corresp="f61_z3_l25_t">Exul beati cursibus procul cœli?</l>
-      <l corresp="f61_z3_l26_t">Nunquam ut quiescas lassus, et tui oblitus.</l>
-      <l corresp="f61_z3_l27_t">Cela est gratter votre sommeil de la façon qu’il faut,</l>
-      <l corresp="f61_z3_l28_t">et ne se chatouiller point pour se faire rire. Je passe</l>
-      <l corresp="f61_z3_l29_t">par dessus les pollutions nocturnes qui se font lors</l>
-      <pb corresp="f71"/>
-      <l corresp="f71_z3_l1_t">nius: l. 2, ſf. de annuis leg.: nous apprend que</l>
-      <l corresp="f71_z3_l2_t">celuy qui estoit tenu et astraint à donner à un autre</l>
-      <l corresp="f71_z3_l3_t">la corvee ou la besoigne que son esclave eust peu</l>
-      <l corresp="f71_z3_l4_t">faire par un jour, s’il ne l’a envoyé à la tasche du</l>
-      <l corresp="f71_z3_l5_t">grand matin, ains à la sixiesme heure du jour, qui</l>
-      <l corresp="f71_z3_l6_t">est nostre midy : (juxta illud Euangelii nonne sunt</l>
-      <l corresp="f71_z3_l7_t">duodecim horœ diei), pourtant il n’est acquitté et</l>
-      <l corresp="f71_z3_l8_t">deschargé de son obligation : et pour ce, voicy le</l>
-      <l corresp="f71_z3_l9_t">departement du jour que fait Marcial au 8ᵉ epi¬</l>
-      <l corresp="f71_z3_l10_t">gramme de son quatriesme livre :</l>
-      <l corresp="f71_z3_l11_t">Prima salutantes auque altera continet hora :</l>
-      <l corresp="f71_z3_l12_t">Exercet raucos tertia causidicos.</l>
-      <l corresp="f71_z3_l13_t">In quinta varios exercet Roma labores :</l>
-      <l corresp="f71_z3_l14_t">Sexta quies lassis, septima finis erit.</l>
-      <l corresp="f71_z3_l15_t">Comme s'il nous eust voulu apprendre que les</l>
-      <l corresp="f71_z3_l16_t">Romains employoient la matinee de ceste façon :</l>
-      <l corresp="f71_z3_l17_t">c'est que de sept jusqu'a neuf ils s'entresaluoient et</l>
-      <l corresp="f71_z3_l18_t">se donnoient (ce dit ly contes) le bondi signor ; de</l>
-      <l corresp="f71_z3_l19_t">neuf jusqu'a dix on plaidoit à l'audience ; de dix</l>
-      <l corresp="f71_z3_l20_t">jusqu'à onze les uns prenoient la pourmenade, les</l>
-      <l corresp="f71_z3_l21_t">autres achetoient de l’appetit au jeu, les autres</l>
-      <l corresp="f71_z3_l22_t">s'exerçoient en autres façons : depuis onze heures</l>
-      <l corresp="f71_z3_l23_t">on se retiroit pour disner, après, on vous reposoit</l>
-      <l corresp="f71_z3_l24_t">bravement son humanité. Et de hait garson.</l>
-      <l corresp="f71_z3_l25_t">Et quoy, messieurs, vay je dire, ne sera ce jamais</l>
-      <l corresp="f71_z3_l26_t">fait? je croy que, qui ne vous diray hola, ne vous</l>
-      <l corresp="f71_z3_l27_t">deparoloriez de toute ceste relevee. Voulez vous</l>
-      <l corresp="f71_z3_l28_t">que je vous accorde? vous dites tous deux vray,</l>
-      <l corresp="f71_z3_l29_t">mais c'est avec distinction. Il y a des naturels</l>
-      <pb corresp="f73"/>
-      <l corresp="f73_z1_l2_t">S'il vaut mieux n'estre marie que de</l>
-      <l corresp="f73_z1_l3_t">l’estre?</l>
-      <l corresp="f73_z1_l4_t">APRES DISNEE II.</l>
-      <l corresp="f73_z1_l5_t">Au lieu que les champions de nostre premiere</l>
-      <l corresp="f73_z1_l6_t">apres disnee disputoient des privileges, droits et</l>
-      <l corresp="f73_z1_l7_t">prerogatives des venerables dormans, ceste seconde</l>
-      <l corresp="f73_z1_l8_t">apres disnee resveilla toute nostre compaignie d'une</l>
-      <l corresp="f73_z1_l9_t">bien autre façon : le sʳ Rodolphe commence à ouvrir</l>
-      <l corresp="f73_z1_l10_t">Ie jeu, sans y penser : le bon homme y alloit mieux</l>
-      <l corresp="f73_z1_l11_t">à la bonne foy qu’un coupeur de bourse. Il vous</l>
-      <l corresp="f73_z1_l12_t">accoste le sʳ Panthaleon, qui estoit l’un des fins</l>
-      <l corresp="f73_z1_l13_t">marchans de la bande, et qui, avant que quitter</l>
-      <l corresp="f73_z1_l14_t">la partie, nous en donna de bien vertes. Dès qu’ils</l>
-      <l corresp="f73_z1_l15_t">ont esventé que le pauvre sʳ Rodolphe parloit de</l>
-      <l corresp="f73_z1_l16_t">prendre party avec une fille : Messieurs, dit il,</l>
-      <l corresp="f73_z1_l17_t">gaigne sa vie qui pourra, voicy ce bon seigneur qui</l>
-      <l corresp="f73_z1_l18_t">se va au premier jour passer maistre potier ; il va</l>
-      <l corresp="f73_z1_l19_t">faire emploite d’une bonne bague qui luy donnera</l>
-      <l corresp="f73_z1_l20_t">bientost langue et credit en Cornoüailles. Et afin</l>
-      <l corresp="f73_z1_l21_t">que vous cognoissiez que je ne vous chante que la</l>
-      <l corresp="f73_z1_l22_t">verité, je vous prie, que luy mesmes face le discours</l>
-      <pb corresp="f88"/>
-      <l corresp="f88_z3_l1_t">ſoüet; auth. hodie : sous le mesme titre des Adul¬</l>
-      <l corresp="f88_z3_l2_t">tères? N'est-ce pas à cause de leur fragilité et natu¬</l>
-      <l corresp="f88_z3_l3_t">relle inclination? L a propre passion de la femme c’est</l>
-      <l corresp="f88_z3_l4_t">la convoitise. Ce sont brides à veaux que ce que</l>
-      <l corresp="f88_z3_l5_t">vous contez, seigneur Panthaleon, repliqua messer</l>
-      <l corresp="f88_z3_l6_t">Alexandre, je vous renvoie à la pratique ; mais</l>
-      <l corresp="f88_z3_l7_t">voyons que vous estes un subtil ergoteur, vous voulez</l>
-      <l corresp="f88_z3_l8_t">faire accroire que les femmes prennent plaisir qu’on</l>
-      <l corresp="f88_z3_l9_t">bande les estœufs dans leur trou, parce que les loix</l>
-      <l corresp="f88_z3_l10_t">ne sont point si rigoureuses contre elles lors qu’elles</l>
-      <l corresp="f88_z3_l11_t">le permettent que contre les maris. Mais je vous</l>
-      <l corresp="f88_z3_l12_t">respons, que tant nos jurisconsultes anciens que les</l>
-      <l corresp="f88_z3_l13_t">empereurs se sont fort rudement ruez sur ces pau¬</l>
-      <l corresp="f88_z3_l14_t">vres femmes Que je die vray, il n’estoit pas permis</l>
-      <l corresp="f88_z3_l15_t">à la femme, encores qu’elle eut surpris son mary en</l>
-      <l corresp="f88_z3_l16_t">adultere, de l’accuser ou de le tuer, voire de le tou¬</l>
-      <l corresp="f88_z3_l17_t">cher du fin bout du doigt, ainsi que Caton a remar¬</l>
-      <l corresp="f88_z3_l18_t">qué en son harangue du douaire dans Aulu-Gelle,</l>
-      <l corresp="f88_z3_l19_t">livre 10, chap. 23, dont le comique Plaute fait</l>
-      <l corresp="f88_z3_l20_t">plaindre la pauvre Syra en ceste façon :</l>
-      <l corresp="f88_z3_l21_t">Les femmes pour le vray sont bien plus miserables</l>
-      <l corresp="f88_z3_l22_t">Que ne sont les maris, lesquels peuvent mener</l>
-      <l corresp="f88_z3_l23_t">Leurs garses au logis, sans en estre punis :</l>
-      <l corresp="f88_z3_l24_t">Les femmes n’oseroient aller se pourmener;</l>
-      <l corresp="f88_z3_l25_t">D’avec elles soudain ils seroient desunis;</l>
-      <l corresp="f88_z3_l26_t">He Dieux! que ne sont-ils reiglez par loix semblables?</l>
-      <l corresp="f88_z3_l27_t">Pourquoy est-ce que la Dame, qui se sera laissé</l>
-      <l corresp="f88_z3_l28_t">sursaillir à son ecclave, sera grievement punie, et le</l>
-      <l corresp="f88_z3_l29_t">seigneur, qui s’accouple à celle qui lui est esclave</l>
-      <pb corresp="f103"/>
-      <l corresp="f103_z3_l1_t">tronnee en ses Sizains des humeurs de la femme.</l>
-      <l corresp="f103_z3_l2_t">Par la maison elle est pire que la tempeste;</l>
-      <l corresp="f103_z3_l3_t">On peut bien dire alors, Cerbere est en sa teste,</l>
-      <l corresp="f103_z3_l4_t">L'ennemy la gouverne et partout la conduict :</l>
-      <l corresp="f103_z3_l5_t">Elle jure, elle crie, elle est pis que farrouche,</l>
-      <l corresp="f103_z3_l6_t">Elle jette brasiers et flammes par la bouche,</l>
-      <l corresp="f103_z3_l7_t">Et plus que les torrens d’Auvergne a de bruict.</l>
-      <l corresp="f103_z3_l8_t">Elle court, elle fait toute chose au contraire :</l>
-      <l corresp="f103_z3_l9_t">Pere, mere, mary, sœur, voisinage, frere,</l>
-      <l corresp="f103_z3_l10_t">La pensans rapaiser ne la font qu’animer,</l>
-      <l corresp="f103_z3_l11_t">Pareille aux vents emeus et au plus fier orage</l>
-      <l corresp="f103_z3_l12_t">Et au feu ébrandy par tout un maisonnage</l>
-      <l corresp="f103_z3_l13_t">Et au courroux des flots dangereux de la mer.</l>
-      <l corresp="f103_z3_l14_t">Comm' un chien enragé sa bouche elle s’embave,</l>
-      <l corresp="f103_z3_l15_t">Comm' un hors de son sens l'honneur elle deprave</l>
-      <l corresp="f103_z3_l16_t">Son courroux violent est du tout indompté,</l>
-      <l corresp="f103_z3_l17_t">Elle rompt, elle brise, elle frappe et renverse,</l>
-      <l corresp="f103_z3_l18_t">Elle met tout à bas et jette à la traverse,</l>
-      <l corresp="f103_z3_l19_t">Comm' un fleuve courant d’un ravage irrité.</l>
-      <l corresp="f103_z3_l20_t">Tout est en grand desordre et en pauvre mesnage</l>
-      <l corresp="f103_z3_l21_t">Quand la ſemme est tombee en son ardente rage,</l>
-      <l corresp="f103_z3_l22_t">Le lyon eschauſfé n’est pas si furieux.</l>
-      <l corresp="f103_z3_l23_t">J'estime la terreur de l’esclair et tonnerre</l>
-      <l corresp="f103_z3_l24_t">Plus douce que n’est pas la feminine guerre</l>
-      <l corresp="f103_z3_l25_t">Et n’est point tant comm’elle en ses feux dangereux.</l>
-      <l corresp="f103_z3_l26_t">Le courroux de la femme abbat tout et demarre,</l>
-      <l corresp="f103_z3_l27_t">Et meine un si grand bruit et si grand tintamarre</l>
-      <l corresp="f103_z3_l28_t">Que le plus asseure en est tout estonné :</l>
-      <pb corresp="f104"/>
-      <l corresp="f104_z3_l1_t">On ne sçait si ce vient de la troupe infermale</l>
-      <l corresp="f104_z3_l2_t">Qui face (desliés) leur terreur generale</l>
-      <l corresp="f104_z3_l3_t">Ou si c’est la furie, ou si Dieu a tonné.</l>
-      <l corresp="f104_z3_l4_t">Elles ont la caboche si despitement patronnée,</l>
-      <l corresp="f104_z3_l5_t">que, si le mary l’entend jaune, elles le veulent verd;</l>
-      <l corresp="f104_z3_l6_t">s’il le veut de droit fil, elles le prendront de biais ;</l>
-      <l corresp="f104_z3_l7_t">lors que le mary le veut, elles ne le veulent pas ; et</l>
-      <l corresp="f104_z3_l8_t">quand il ne le veut pas, elles le veulent ; ce qui a très¬</l>
-      <l corresp="f104_z3_l9_t">bien este remarqué par Terence en son Eunnuque :</l>
-      <l corresp="f104_z3_l10_t">Novi ingenium mulierum</l>
-      <l corresp="f104_z3_l11_t">Nolunt ubi velis : ubi nolis, cupiunt ultro.</l>
-      <l corresp="f104_z3_l12_t">Et pour ce un sage philosophe nous admonnestoit</l>
-      <l corresp="f104_z3_l13_t">qu’il ne falloit prescrire et ordonner de certaines</l>
-      <l corresp="f104_z3_l14_t">bornes et barrieres à la femme, laquelle n’a aucune</l>
-      <l corresp="f104_z3_l15_t">tenue, et est glissante plus qu’on ne sçauroit estimer.</l>
-      <l corresp="f104_z3_l16_t">Par ainsi, disoit-il, si tu la veux retenir, lasche la;</l>
-      <l corresp="f104_z3_l17_t">si tu la presses pour la mettre à l'estroit tu la perds</l>
-      <l corresp="f104_z3_l18_t">tout de mesmes qu’il advient d’une anguille. Dès</l>
-      <l corresp="f104_z3_l19_t">qu’elles ont pris le ply de faire les bestes, de con¬</l>
-      <l corresp="f104_z3_l20_t">trarier et de tenir bon contre leurs maris, c’est du</l>
-      <l corresp="f104_z3_l21_t">camelot, pour mourir elles ne se changeroient pas.</l>
-      <l corresp="f104_z3_l22_t">Quelques-uns ont voulu recercher la raison pour¬</l>
-      <l corresp="f104_z3_l23_t">quoy elle estoient ainsi acariastres et opiniastres au</l>
-      <l corresp="f104_z3_l24_t">mal, et qu’a tous bouts de champs, lors qu’il estoit</l>
-      <l corresp="f104_z3_l25_t">question du bien elles giroüettoient. Ceux qui ont</l>
-      <l corresp="f104_z3_l26_t">frappé le plus près au blanc ont dit que cela avenoit,</l>
-      <l corresp="f104_z3_l27_t">parce que de leur naturel elles estoient mauvaises,</l>
-      <l corresp="f104_z3_l28_t">ainsi que tantost j’ay rapporté d’Accurse. Les autres,</l>
-      <pb corresp="f109"/>
-      <l corresp="f109_z3_l1_t">O malheureux vieillard, qui, courbe et tout tremblant,</l>
-      <l corresp="f109_z3_l2_t">N'a pas qui te soustienne, et qui, te ressemblant,</l>
-      <l corresp="f109_z3_l3_t">T'ayme serve et honore et comme la cigogne</l>
-      <l corresp="f109_z3_l4_t">Te rende en ta vieillesse une pareille soigne,</l>
-      <l corresp="f109_z3_l5_t">Qui travaille pour toi et te nourrisse lors</l>
-      <l corresp="f109_z3_l6_t">Que les nerfs sont usez de ton impuissant corps.</l>
-      <l corresp="f109_z3_l7_t">He! quel grief creve cœur, quand en l’ame volante</l>
-      <l corresp="f109_z3_l8_t">Le mourable vieillard pense et se represente</l>
-      <l corresp="f109_z3_l9_t">Que ceux qui, heritiers, doivent ses biens avoir</l>
-      <l corresp="f109_z3_l10_t">Voudroient ja prest à mort en la terre je voir?</l>
-      <l corresp="f109_z3_l11_t">Quel creve-cœur encor, quand le bonhomme pense</l>
-      <l corresp="f109_z3_l12_t">S’il ne se haste assez qu’on cerche qui l’avance,</l>
-      <l corresp="f109_z3_l13_t">Mais les enfans bien nais, bien nourris, genereux</l>
-      <l corresp="f109_z3_l14_t">De voir leurs geniteurs se reputent heureux</l>
-      <l corresp="f109_z3_l15_t">Vesqussent-ils autant que de Lamech le pere.</l>
-      <l corresp="f109_z3_l16_t">Si j’etoie grand thoologien je pourrois subtiliser</l>
-      <l corresp="f109_z3_l17_t">sur ce que le mariage a esté pratiqué entre Adam</l>
-      <l corresp="f109_z3_l18_t">et Eve avant qu’il fut aucun bruit du peché.</l>
-      <l corresp="f109_z3_l19_t">Vous en avez assez dit, sʳ Panthaleon, respondit</l>
-      <l corresp="f109_z3_l20_t">messer Alexandre, et plus que je ne pensoie; mais</l>
-      <l corresp="f109_z3_l21_t">j'ay de quoy vous responde : je ne suis de ceux</l>
-      <l corresp="f109_z3_l22_t">qui detestent le mariage, je recognois son institu¬</l>
-      <l corresp="f109_z3_l23_t">tion saincte, louable et à priser, mais les inconve¬</l>
-      <l corresp="f109_z3_l24_t">niens et le coust m’en font perdre le goust; à la</l>
-      <l corresp="f109_z3_l25_t">traduction du sʳ de S. Marthe j’opposeray ce qui a</l>
-      <l corresp="f109_z3_l26_t">esté fait contre le mariage, à vostre belle solitude</l>
-      <l corresp="f109_z3_l27_t">de neiges l’autorité de Petrarque en ses Meditations</l>
-      <l corresp="f109_z3_l28_t">et discours pour le solitaire. Quant aux enfans,</l>
-      <l corresp="f109_z3_l29_t">c'est une grande benediction de Dieu ; mais ils sont</l>
-      <l corresp="f109_z3_l30_t">si difficiles à eslever, à nourrir, à instruire, à en¬</l>
-      <pb corresp="f113"/>
-      <l corresp="f113_z3_l1_t">perdre la vie. Je ne vous mettray en butte que</l>
-      <l corresp="f113_z3_l2_t">Jean Il, grand duc de Moschovie, lequel avoit les</l>
-      <l corresp="f113_z3_l3_t">femmes en si grand horreur, qu'il s'esvanouissoit</l>
-      <l corresp="f113_z3_l4_t">au seul regard des femmes, ainsi qu’escrit le baron</l>
-      <l corresp="f113_z3_l5_t">d’Herbestein, parlant des Moschovites, qui ne voyent</l>
-      <l corresp="f113_z3_l6_t">jamais (dit-il) leurs femmes que le jour des noces.</l>
-      <l corresp="f113_z3_l7_t">Il y en a eu d’autres qui, pour se passer des</l>
-      <l corresp="f113_z3_l8_t">ſemmes, ce sont accointé des bestes brutes. Plu¬</l>
-      <l corresp="f113_z3_l9_t">tarque nous donne tesmoignage d’une execrable</l>
-      <l corresp="f113_z3_l10_t">hippomanie en ses Parallelles, où il parle de Fulvius</l>
-      <l corresp="f113_z3_l11_t">Stettus, lequel, pour la hayne qu’il portoit aux</l>
-      <l corresp="f113_z3_l12_t">femmes, se mesla avec une jument, laquelle du</l>
-      <l corresp="f113_z3_l13_t">depuis lui produisit une fort belle fille, qui fut à</l>
-      <l corresp="f113_z3_l14_t">cette occasion nommee Epone ou Hippone. Encores</l>
-      <l corresp="f113_z3_l15_t">s'il eut suivy la sage modestie de Simonides, il y</l>
-      <l corresp="f113_z3_l16_t">eut eu quelque apparence de je ne sçay quoi de</l>
-      <l corresp="f113_z3_l17_t">louable en ses discours. Ce poëte nous represente</l>
-      <l corresp="f113_z3_l18_t">diverses figures monstreuses des femmes : il veut</l>
-      <l corresp="f113_z3_l19_t">que les unes ayent esté basties d'une truye, les au¬</l>
-      <l corresp="f113_z3_l20_t">tres patronees au naturel d'un regnard, les autres à</l>
-      <l corresp="f113_z3_l21_t">la façon d'un chien, les autres engendrees de la</l>
-      <l corresp="f113_z3_l22_t">mer, les autres forgees ès cendres d’une anesse,</l>
-      <l corresp="f113_z3_l23_t">les autres procrees par une belete, les autres par</l>
-      <l corresp="f113_z3_l24_t">une jument, les autres par un singe. Sous le rideau</l>
-      <l corresp="f113_z3_l25_t">de ces estranges et hideuses productions, il nous fait</l>
-      <l corresp="f113_z3_l26_t">voir la malice et depravé naturel de la femme, mais</l>
-      <l corresp="f113_z3_l27_t">sur la fin il fait prendre air à celle qui est esclose</l>
-      <l corresp="f113_z3_l28_t">par l’abeille, laquelle il prise comme celle qui bien¬</l>
-      <l corresp="f113_z3_l29_t">heure son mary, le resjouit et le console. A tout</l>
-      <l corresp="f113_z3_l30_t">rompre, et quand c’eut esté à bander et à racler, il</l>
-      <pb corresp="f114"/>
-      <l corresp="f114_z3_l1_t">falloit garder pour le moins ceste sobriété, sans don¬</l>
-      <l corresp="f114_z3_l2_t">ner une si rude touche sur les imperfections femi¬</l>
-      <l corresp="f114_z3_l3_t">nines. Voulez vous que je vous die ce que j’estime</l>
-      <l corresp="f114_z3_l4_t">de vostre proposition, sʳ Panthaleon, c’est que vou¬</l>
-      <l corresp="f114_z3_l5_t">driez volontiers pactiser avez ceux, lesquels (au</l>
-      <l corresp="f114_z3_l6_t">rapport de Josephe) faisoient difſiculté de se marier,</l>
-      <l corresp="f114_z3_l7_t">non point qu’ils eussent à mespris une si saincte et</l>
-      <l corresp="f114_z3_l8_t">legitime accouple qu’est la maritale, mais l’intem¬</l>
-      <l corresp="f114_z3_l9_t">perance des ſemmes les en desgoutoit, tellement</l>
-      <l corresp="f114_z3_l10_t">que, parce qu’aucunes estoient peu seures à la des¬</l>
-      <l corresp="f114_z3_l11_t">serre de la croupiere, ils se faisoient entendre qu’il</l>
-      <l corresp="f114_z3_l12_t">estoit impossible, ou bien cé seroit miracle, qu’au¬</l>
-      <l corresp="f114_z3_l13_t">cune d’elles gardast tellement la loyauté à leurs</l>
-      <l corresp="f114_z3_l14_t">maris, juxta illud, extrait du romant de la Rose.</l>
-      <l corresp="f114_z3_l15_t">Toutes estes, serez ou fustes</l>
-      <l corresp="f114_z3_l16_t">De fait ou de volonté putes :</l>
-      <l corresp="f114_z3_l17_t">Et qui bien vous recercheroit</l>
-      <l corresp="f114_z3_l18_t">Toutes putes vous treuveroit.</l>
-      <l corresp="f114_z3_l19_t">Mais qui tiendroit aujourd’huy tel langage, encores</l>
-      <l corresp="f114_z3_l20_t">que nous allions tousjours de mal en pis, si est ce</l>
-      <l corresp="f114_z3_l21_t">que j’ay grand’peur qu’il n’en eschapperoit pas à si</l>
-      <l corresp="f114_z3_l22_t">bon marché que fit Jean Clopinel, dit de Meun.</l>
+      <div>
+        <pb corresp="#f13"/>
+        <fw corresp="#f13_z2" n="NumberingZone"><lb corresp="#f13_z2_l1_t"/>6Y2</fw>
+        <fw corresp="#f13_z2" n="NumberingZone"><lb corresp="#f13_z2_l2_t"/>52759</fw>
+        <pb corresp="#f15"/>
+        <p corresp="#f15_z1" n="MainZone">
+<lb corresp="#f15_z1_l1_t"/>AUX LISEURS.
+<lb corresp="#f15_z1_l2_t"/>Ne pensez, debonnaires liseurs, qu’à tort ce pro¬
+<lb corresp="#f15_z1_l3_t"/>verbe roule parmy nous, que qui refuse après muse :
+<lb corresp="#f15_z1_l4_t"/>Si vous en doutez, il ne vous faut venir que vers
+<lb corresp="#f15_z1_l5_t"/>moy, je vous en estaleray une preuve plus claire que
+<lb corresp="#f15_z1_l6_t"/>Ie jour. Experto (dit le bon homme) crede Roberto.
+<lb corresp="#f15_z1_l7_t"/>J’ai passé par les piques, pour n’avoir bien branslé
+<lb corresp="#f15_z1_l8_t"/>la pique lors qu’il falloit, et n’avoir battu (comme
+<lb corresp="#f15_z1_l9_t"/>I’on dit) le fer lors qu'il estoit chaud ; je me suis
+<lb corresp="#f15_z1_l10_t"/>trouvé de deux selles le cul à terre. Ma Muse avoit
+<lb corresp="#f15_z1_l11_t"/>esclos le frere de ces Apres-disnees, son nom ne
+<lb corresp="#f15_z1_l12_t"/>peut estre ramenteu, son perrain a esté si vilain que
+<lb corresp="#f15_z1_l13_t"/>pour s’exempter de quelques honnestetez, il a desa¬
+<lb corresp="#f15_z1_l14_t"/>voué son filleu, lequel de toutes parts j’estoie prié de
+<lb corresp="#f15_z1_l15_t"/>loger, et bien mieux qu’il n’a rencontré. Plusieurs
+<lb corresp="#f15_z1_l16_t"/>m’offroient leurs logis, mais je me faisoie accroire
+<lb corresp="#f15_z1_l17_t"/>que leur train ne pourroit compatir avec la naturelle
+<lb corresp="#f15_z1_l18_t"/>habitude de mes gayes philosophies, ou que quelques
+<lb corresp="#f15_z1_l19_t"/>uns n’ayant les yeux bien dessillez de grand matin,
+</p>
+        <pb corresp="#f30"/>
+        <fw corresp="#f30_z1" n="NumberingZone"><lb corresp="#f30_z1_l1_t"/>18</fw>
+        <p corresp="#f30_z2" n="MainZone">
+<lb corresp="#f30_z2_l1_t"/>valoir, monstrer à la postérité, qu’ils n’ont esté en
+<lb corresp="#f30_z2_l2_t"/>ce monde creatures inutiles De toutes les façons
+<lb corresp="#f30_z2_l3_t"/>qu’on voudra le prendre, je demeureray tousjours
+<lb corresp="#f30_z2_l4_t"/>droit sur mes deux pieds, puis que j’ay tesmoignage
+<lb corresp="#f30_z2_l5_t"/>en moy mesmes, que la semonce, que je fais, part
+<lb corresp="#f30_z2_l6_t"/>d'une syncerité, pureté et cordiale integrité. En un
+<lb corresp="#f30_z2_l7_t"/>mot, l’amour et affection que je porte à mon pays
+<lb corresp="#f30_z2_l8_t"/>me garantira de tout le reproche qu'on me pourroit
+<lb corresp="#f30_z2_l9_t"/>donner, pour une si hardie entreprise qu’est celle à
+<lb corresp="#f30_z2_l10_t"/>laquelle me lient mes Apres-disnees. L’intention est
+<lb corresp="#f30_z2_l11_t"/>bonne, l’ouvrier ne vise qu’à bien, les moyens ne
+<lb corresp="#f30_z2_l12_t"/>sont que bons : il n’est pas à croire que les effets ne
+<lb corresp="#f30_z2_l13_t"/>participent à la bonté. Goustez à mesmes si nos
+<lb corresp="#f30_z2_l14_t"/>fruits ne sont pas bons.
+<lb corresp="#f30_z2_l15_t"/>AUDENTES FORTUNE JUVAT.
+</p>
+        <fw corresp="#f30_z3" n="RunningTitleZone"><lb corresp="#f30_z3_l1_t"/>AUX LISEURS.</fw>
+        <pb corresp="#f31"/>
+        <pb corresp="#f33"/>
+        <p corresp="#f33_z1" n="MainZone">
+<hi n="HeadingLine"><lb corresp="#f33_z1_l1_t"/>LES APRES DISNEES</hi>
+<hi n="HeadingLine"><lb corresp="#f33_z1_l2_t"/>DU</hi>
+<hi n="HeadingLine"><lb corresp="#f33_z1_l3_t"/>SEIGNEUR DE CHOLIERES.</hi>
+<lb corresp="#f33_z1_l4_t"/>DU VEILLER ET DU DORMIR.
+<lb corresp="#f33_z1_l5_t"/>S’il faut dormir l'apres disnee?
+<lb corresp="#f33_z1_l6_t"/>APRES DISNEE I.
+<lb corresp="#f33_z1_l7_t"/>Les nappes levees le sʳ l’Eveillé, pour faire l’hon¬
+<lb corresp="#f33_z1_l8_t"/>neste et monstrer qu’il avoit l’esprit gaillard et l’œil
+<lb corresp="#f33_z1_l9_t"/>tendu au bois, s’adressant à la compagnie, va dire :
+<lb corresp="#f33_z1_l10_t"/>Quoy que je n’aye pas mené grande pousiere du¬
+<lb corresp="#f33_z1_l11_t"/>rant ja disner, messieurs, peut estre ne treuverez
+<lb corresp="#f33_z1_l12_t"/>vous mauvais que ceste apres-disnee se passe à vous
+<lb corresp="#f33_z1_l13_t"/>resveiller par un discours commun du veiller et du
+<lb corresp="#f33_z1_l14_t"/>dormir. Je suis bien trompé si ce n’est toucher droit
+<lb corresp="#f33_z1_l15_t"/>au poinct, et entamer l’affaire par le costé qu’il faut.
+<lb corresp="#f33_z1_l16_t"/>Vous sçavez que nostre déliberation commune est
+<lb corresp="#f33_z1_l17_t"/>desrober tous les plaisirs que nous pourrons, et
+<lb corresp="#f33_z1_l18_t"/>dresser une escole de philosophie. On a accoustumé
+</p>
+        <pb corresp="#f37"/>
+        <fw corresp="#f37_z1" n="RunningTitleZone"><lb corresp="#f37_z1_l1_t"/>ET DU DORMIR.</fw>
+        <fw corresp="#f37_z2" n="NumberingZone"><lb corresp="#f37_z2_l1_t"/>25</fw>
+        <p corresp="#f37_z3" n="MainZone">
+<lb corresp="#f37_z3_l1_t"/>nicieux ce qui de soy est proffitable aux autres. De
+<lb corresp="#f37_z3_l2_t"/>mesmes que vous en voyez aucuns qui, quoy qu'ils
+<lb corresp="#f37_z3_l3_t"/>ne soient des canes, boi-l’eau et abstemy, dès qu’ils
+<lb corresp="#f37_z3_l4_t"/>se trouvent abattus n’oseroient taster d’une goutte
+<lb corresp="#f37_z3_l5_t"/>de vin. D'autres qui, au fort d’une fievre ardente, se
+<lb corresp="#f37_z3_l6_t"/>sont mis à humer du piot, encores qu’auparavant ils
+<lb corresp="#f37_z3_l7_t"/>en eussent une fort estroite et scrupuleuse absti¬
+<lb corresp="#f37_z3_l8_t"/>nence. Je m’en rapporte au voisin de la Madelaine.
+<lb corresp="#f37_z3_l9_t"/>Si ainsi est que le vin proffite aux uns et nuise aux
+<lb corresp="#f37_z3_l10_t"/>autres, il se pourra bien faire que le dormir vous
+<lb corresp="#f37_z3_l11_t"/>aura esté contraire, encores qu'il soit sain et neces¬
+<lb corresp="#f37_z3_l12_t"/>saire à plusieurs. Si vous me vouliez croire, je vous
+<lb corresp="#f37_z3_l13_t"/>conselleroye de vous servir des moyens qui furent
+<lb corresp="#f37_z3_l14_t"/>gardez à la guerison pantagrueique. Par advenure
+<lb corresp="#f37_z3_l15_t"/>pourroit y avoir dans vostre corps quelque humeur
+<lb corresp="#f37_z3_l16_t"/>qui vous causeroit cette sangreneuse indigestion.
+<lb corresp="#f37_z3_l17_t"/>Ce qui me fait tenir ce langage est, que je trouve
+<lb corresp="#f37_z3_l18_t"/>que les medecins tiennent que le dormir sert gran¬
+<lb corresp="#f37_z3_l19_t"/>dement à la concoction des viandes, et se fondent sur
+<lb corresp="#f37_z3_l20_t"/>deux pincipales raisons : la première est, que la
+<lb corresp="#f37_z3_l21_t"/>composition de l’homme durant qu’il dort est toute
+<lb corresp="#f37_z3_l22_t"/>telle qu’en hyver. On sait qu’en hyver toutes nos par¬
+<lb corresp="#f37_z3_l23_t"/>ties interieures et du milieu sont plus chaudes qu’en
+<lb corresp="#f37_z3_l24_t"/>esté, ad centrum calor frigore ambiente prostigatur.
+<lb corresp="#f37_z3_l25_t"/>De mesmes, lorsque nous sommeillons, le sang se rertire
+<lb corresp="#f37_z3_l26_t"/>en dedans, et par consequent la chaleur naturelle, si
+<lb corresp="#f37_z3_l27_t"/>bien, qu’alors la cuisson et digestion se fait mieux en
+<lb corresp="#f37_z3_l28_t"/>nostre cuisine stomachale. La seconde est dependante
+<lb corresp="#f37_z3_l29_t"/>de la premiere, prise par les effets et événemens,
+<lb corresp="#f37_z3_l30_t"/>attendu que nous voyons, sentons et appercevons que
+</p>
+        <fw corresp="#f37_z4" n="QuireMarksZone"><lb corresp="#f37_z4_l1_t"/>3</fw>
+        <pb corresp="#f41"/>
+        <fw corresp="#f41_z1" n="RunningTitleZone"><lb corresp="#f41_z1_l1_t"/>ET DU DORMIR.</fw>
+        <fw corresp="#f41_z2" n="NumberingZone"><lb corresp="#f41_z2_l1_t"/>29</fw>
+        <p corresp="#f41_z3" n="MainZone">
+<lb corresp="#f41_z3_l1_t"/>Non, non (adjoute le sʳ l'Esveillé), je me paye
+<lb corresp="#f41_z3_l2_t"/>de ces raisons, puis que le voy que sur l'apres-dis¬
+<lb corresp="#f41_z3_l3_t"/>nee et la plus grande chaleur du jour. Si bien que
+<lb corresp="#f41_z3_l4_t"/>nostre chaleur naturelle n'auroit que faire de ses res¬
+<lb corresp="#f41_z3_l5_t"/>serrer si fort que vous criez. Il y a la chaleur de
+<lb corresp="#f41_z3_l6_t"/>l'air qui entoure et elle qui enfermeroit le froid qui
+<lb corresp="#f41_z3_l7_t"/>y auroit esté attiré par les exhalaisons dormitoires.
+<lb corresp="#f41_z3_l8_t"/>Je pourroie enfoncer davantage ce disours, si je ne
+<lb corresp="#f41_z3_l9_t"/>craingnoie d’ennuyer la compagnie par ma prolixité,
+<lb corresp="#f41_z3_l10_t"/>je veux un peu aller veoir vos gras dormeurs, les¬
+<lb corresp="#f41_z3_l11_t"/>quels vous prisez pour la graisse qu'ils s'acceullent
+<lb corresp="#f41_z3_l12_t"/>en domant. Si le prenez là je le quitte, et vous lair¬
+<lb corresp="#f41_z3_l13_t"/>ray abonder ès conceptions de vostre porchesque
+<lb corresp="#f41_z3_l14_t"/>sensualité. Tant que vous épicuriez et teniez que
+<lb corresp="#f41_z3_l15_t"/>l'homme ne vit sinon pour estre gras, cela est user
+<lb corresp="#f41_z3_l16_t"/>des transformations de Circé, sans estre charmeur.
+<lb corresp="#f41_z3_l17_t"/>Nous ne sommes pas voüez à larder, ainsi que les
+<lb corresp="#f41_z3_l18_t"/>pourecaux Telle leçon doit estre preschee aux an¬
+<lb corresp="#f41_z3_l19_t"/>thropophages. Vous cognoissez un principal voisin
+<lb corresp="#f41_z3_l20_t"/>de Marmoustier, le prisez vous davantage pour sa
+<lb corresp="#f41_z3_l21_t"/>graisse que nostre doré Pindare François, duquel à
+<lb corresp="#f41_z3_l22_t"/>se propos je me souviens que le seigneur Pasquier
+<lb corresp="#f41_z3_l23_t"/>chante ces vers hendecasyllabes :
+<lb corresp="#f41_z3_l24_t"/>Auratus meus ille quem videtis,
+<lb corresp="#f41_z3_l25_t"/>Macro corpore, languido, pusillo,
+<lb corresp="#f41_z3_l26_t"/>Jejuna macie et cadaverosa,
+<lb corresp="#f41_z3_l27_t"/>Sed cœlesti animo integraque mente,
+<lb corresp="#f41_z3_l28_t"/>Tantò præ reliquis Poetis major,
+<lb corresp="#f41_z3_l29_t"/>Quantò corpore nactus est minori :
+<lb corresp="#f41_z3_l30_t"/>Tam et scribere græce ut ipsæ Athenæ
+</p>
+        <fw corresp="#f41_z4" n="NumberingZone"><lb corresp="#f41_z4_l1_t"/>3</fw>
+        <pb corresp="#f42"/>
+        <fw corresp="#f42_z1" n="NumberingZone"><lb corresp="#f42_z1_l1_t"/>30</fw>
+        <fw corresp="#f42_z2" n="RunningTitleZone"><lb corresp="#f42_z2_l1_t"/>DU VEILLER</fw>
+        <p corresp="#f42_z3" n="MainZone">
+<lb corresp="#f42_z3_l1_t"/>Non possint magis Atticam referre.
+<lb corresp="#f42_z3_l2_t"/>Tam mirus artifex Latii leporis,
+<lb corresp="#f42_z3_l3_t"/>Ut ipsum sibi vindicent Latini.
+<lb corresp="#f42_z3_l4_t"/>Quin et protulit ejus officina.
+<lb corresp="#f42_z3_l5_t"/>Bonsardum que gravem, Beluneque mollem
+<lb corresp="#f42_z3_l6_t"/>Quales Gallia vidit ante nullos.
+<lb corresp="#f42_z3_l7_t"/>Quantus ergo sit, hinc licet videre
+<lb corresp="#f42_z3_l8_t"/>Scribant carmina cæteri Poetæ,
+<lb corresp="#f42_z3_l9_t"/>Summos at facit hic unus Poetas.
+<lb corresp="#f42_z3_l10_t"/>Je vous veux battre d’autres raisons ; l’experience
+<lb corresp="#f42_z3_l11_t"/>nous apprend qu’une personne grasse n’est point
+<lb corresp="#f42_z3_l12_t"/>si plaisante, gaillarde et à gré qu’une autre qui est
+<lb corresp="#f42_z3_l13_t"/>maigre. C’est la chanson que disoit en table la mais¬
+<lb corresp="#f42_z3_l14_t"/>tresse de L'OEIL D'AVIS, prise, comme j’estime, du
+<lb corresp="#f42_z3_l15_t"/>Iivre intitulé les Controverses des sexes masculin et
+<lb corresp="#f42_z3_l16_t"/>féminin. Là, l’auteur deconselle ainsi de prendre
+<lb corresp="#f42_z3_l17_t"/>femme grasse en son patois.
+<lb corresp="#f42_z3_l18_t"/>Pareillement ne prenez femme grasse
+<lb corresp="#f42_z3_l19_t"/>Quelque maintien quelle ait et bonne grace,
+<lb corresp="#f42_z3_l20_t"/>Grand puanteur au lict vous donnera,
+<lb corresp="#f42_z3_l21_t"/>Car à l’espaule de mouton sentira
+<lb corresp="#f42_z3_l22_t"/>Au faguenas et puanteurs susdites,
+<lb corresp="#f42_z3_l23_t"/>Donc ne prenez telles femmes maudiles.
+<lb corresp="#f42_z3_l24_t"/>Vous estes un fin homme, par ma conscience (res¬
+<lb corresp="#f42_z3_l25_t"/>pond l’Esveillé) de me penser faire peur par ces vers
+<lb corresp="#f42_z3_l26_t"/>de l’ennemy des ſemmes ; a-il traité plus doucement
+<lb corresp="#f42_z3_l27_t"/>vos maigres? Escoutez ce qu’il en dit :
+<lb corresp="#f42_z3_l28_t"/>Touchant des maigres n’en prenez aussi point
+<lb corresp="#f42_z3_l29_t"/>Car il est dit, et notez bien ce poinct,
+</p>
+        <pb corresp="#f43"/>
+        <fw corresp="#f43_z1" n="RunningTitleZone"><lb corresp="#f43_z1_l1_t"/>ET DU DORMIR.</fw>
+        <fw corresp="#f43_z2" n="NumberingZone"><lb corresp="#f43_z2_l1_t"/>31</fw>
+        <p corresp="#f43_z3" n="MainZone">
+<lb corresp="#f43_z3_l1_t"/>Que sont trois choses maigres tres-que mauvaises,
+<lb corresp="#f43_z3_l2_t"/>Fastigieuses, toutes plus qne punaises :
+<lb corresp="#f43_z3_l3_t"/>C'est à scavoir la femme, cheure et l’oye.
+<lb corresp="#f43_z3_l4_t"/>Et qu’est bien pis, je veux que chacun l’oye,
+<lb corresp="#f43_z3_l5_t"/>Disant que c’est morceau si mal duisable
+<lb corresp="#f43_z3_l6_t"/>Quil ne conient à manger qu’au seul diable.
+<lb corresp="#f43_z3_l7_t"/>Ne vous arrestez point, Messieurs, sur cest article,
+<lb corresp="#f43_z3_l8_t"/>vay-je dire, vous n'y ferez que le sang tout clair,
+<lb corresp="#f43_z3_l9_t"/>attendu que ce maistre blasonneur a donné attache
+<lb corresp="#f43_z3_l10_t"/>tant aux grasses qu’aux maigres : et aussi qu'en
+<lb corresp="#f43_z3_l11_t"/>mes partis amoureux je me suis esbattu à débattre
+<lb corresp="#f43_z3_l12_t"/>cette magnifique question : Si le party d’une grasse
+<lb corresp="#f43_z3_l13_t"/>est plustost à prendre que celuy d'une maigre.
+<lb corresp="#f43_z3_l14_t"/>Soit, respondit le sʳ Patelin, je suis content de
+<lb corresp="#f43_z3_l15_t"/>remettre à une autre fois la dispute touchant la
+<lb corresp="#f43_z3_l16_t"/>processence des grases et des maigres, mais je
+<lb corresp="#f43_z3_l17_t"/>voudroie sçavoir à quoy et comment vons concluez.
+<lb corresp="#f43_z3_l18_t"/>Vous pensez enerver mon argument des gras dor¬
+<lb corresp="#f43_z3_l19_t"/>meurs, parce que nous ne sommes pourceaux, je ne
+<lb corresp="#f43_z3_l20_t"/>suis point rotisseur ny marchand de lard, pour
+<lb corresp="#f43_z3_l21_t"/>graisser la porcherie de la façon que vous criez :
+<lb corresp="#f43_z3_l22_t"/>Mais vous changez b mol en b carre et ne prenez
+<lb corresp="#f43_z3_l23_t"/>pas advis que je puis vous battre par vostre propre
+<lb corresp="#f43_z3_l24_t"/>argument. De fait, qu’on l'examine, on trouvera qu’il
+<lb corresp="#f43_z3_l25_t"/>fait pour moy, en ce que maintenant il n’est question
+<lb corresp="#f43_z3_l26_t"/>de la prerogative qui est escheüe aux hommes pour
+<lb corresp="#f43_z3_l27_t"/>l'ame raisonnable dont ls sont doüëz. Les facultez
+<lb corresp="#f43_z3_l28_t"/>animales et naturelles du pourceau ne sont point
+<lb corresp="#f43_z3_l29_t"/>autres (hors l'individu) que sont celles d’un chacun
+<lb corresp="#f43_z3_l30_t"/>de nous. Que ainsi soit vous voyez que l'on est re¬
+</p>
+        <pb corresp="#f51"/>
+        <fw corresp="#f51_z1" n="RunningTitleZone"><lb corresp="#f51_z1_l1_t"/>ET DU DORMIR.</fw>
+        <fw corresp="#f51_z2" n="NumberingZone"><lb corresp="#f51_z2_l1_t"/>39</fw>
+        <p corresp="#f51_z3" n="MainZone">
+<lb corresp="#f51_z3_l1_t"/>Volvendisque libris domi vacare,
+<lb corresp="#f51_z3_l2_t"/>Librorum helluo, Regius patronus,
+<lb corresp="#f51_z3_l3_t"/>Regno et munere nobilis forensi,
+<lb corresp="#f51_z3_l4_t"/>Stertebat media patrune corona,
+<lb corresp="#f51_z3_l5_t"/>Stertebatque domi, palamque clamque,
+<lb corresp="#f51_z3_l6_t"/>Nec tempus vacuum, locus vel ullus,
+<lb corresp="#f51_z3_l7_t"/>Quo non steriteret ille, tamque dormiit,
+<lb corresp="#f51_z3_l8_t"/>Ut mors hunc inopina dormientem
+<lb corresp="#f51_z3_l9_t"/>Interceperit omnium honorum
+<lb corresp="#f51_z3_l10_t"/>Magno cum gemitu, altiore damno.
+<lb corresp="#f51_z3_l11_t"/>Mortuum tamen, ô viator, illum
+<lb corresp="#f51_z3_l12_t"/>Tu ne credideris : quid ergo? verè
+<lb corresp="#f51_z3_l13_t"/>Sommo perpetuo quiescet ille.
+<lb corresp="#f51_z3_l14_t"/>Ce ne sont point contes, Messieurs, vay-je dire, j’ay
+<lb corresp="#f51_z3_l15_t"/>familiarité avec un personnage, lequel a demeuré
+<lb corresp="#f51_z3_l16_t"/>fort longtems avee ce M. Bourdin, il m’en a asseuré
+<lb corresp="#f51_z3_l17_t"/>de choses plus estranges : mesmes que lors qu’il
+<lb corresp="#f51_z3_l18_t"/>vouloit chevir à poinct d'une bonne affaire falloit qu'il
+<lb corresp="#f51_z3_l19_t"/>prist tout bellement son repos. Vous sçavez que je
+<lb corresp="#f51_z3_l20_t"/>suis grand rechercheur et qu’il n’est pas aisé de
+<lb corresp="#f51_z3_l21_t"/>m'en prester une, que je veux estre payé surtout de
+<lb corresp="#f51_z3_l22_t"/>raison, pource j’ay pris plaisir à sonder l’occasion
+<lb corresp="#f51_z3_l23_t"/>pourquoy lors que ces Messieurs dormoient, neant¬
+<lb corresp="#f51_z3_l24_t"/>moins leur esprit ne laissoit d’estre en action perpe¬
+<lb corresp="#f51_z3_l25_t"/>tuelle. En fin j'ay trouvé que c'estoit pour autant
+<lb corresp="#f51_z3_l26_t"/>que leur esprit ne se lassoit au gré, branle, et à la
+<lb corresp="#f51_z3_l27_t"/>cadence du corps. De fait c'est une folie de croire que
+<lb corresp="#f51_z3_l28_t"/>le cerveau soit sensible. C'est une negative tenue
+<lb corresp="#f51_z3_l29_t"/>par tous les philosophes, lesquels sont les mieux
+<lb corresp="#f51_z3_l30_t"/>habillez d’entendement. Ce n’est pas que je veuille
+<lb corresp="#f51_z3_l31_t"/>tenir le cerveau tousjours blandé, je sçay qu’il y a du
+</p>
+        <pb corresp="#f52"/>
+        <fw corresp="#f52_z1" n="NumberingZone"><lb corresp="#f52_z1_l1_t"/>40</fw>
+        <fw corresp="#f52_z2" n="RunningTitleZone"><lb corresp="#f52_z2_l1_t"/>DU VEILLER</fw>
+        <p corresp="#f52_z3" n="MainZone">
+<lb corresp="#f52_z3_l1_t"/>relais, duquel le seigneur Bretonnayau en son
+<lb corresp="#f52_z3_l2_t"/>Temple de l'Ame a tres bien poëtisé parlant de la
+<lb corresp="#f52_z3_l3_t"/>fantaisie: Pource je vous donneray, s’il vous plaist,
+<lb corresp="#f52_z3_l4_t"/>le plaisir de quelques vers qu’il a à ce propos com¬
+<lb corresp="#f52_z3_l5_t"/>posés :
+<lb corresp="#f52_z3_l6_t"/>Quand le commun repose, et l'objet empesché
+<lb corresp="#f52_z3_l7_t"/>N'entre plus par le sens de la vapeur bousché
+<lb corresp="#f52_z3_l8_t"/>Il ressemble un enfant : Ell' a une nourisse,
+<lb corresp="#f52_z3_l9_t"/>Qui chantant son do-do, l’endort, afin qu'Ell' puisse
+<lb corresp="#f52_z3_l10_t"/>S'aller esbattre seule : ainsi ceste cy sort
+<lb corresp="#f52_z3_l11_t"/>Du corps emmailloté du frere de la mort.
+<lb corresp="#f52_z3_l12_t"/>Dont s’escartant de luy solitaire repense
+<lb corresp="#f52_z3_l13_t"/>En ce qui s’est passé depuis sa cognoissance,
+<lb corresp="#f52_z3_l14_t"/>En ce quelle a ouy, de ce qui luy souvient
+<lb corresp="#f52_z3_l15_t"/>Et dedans le miroir que devant elle tient
+<lb corresp="#f52_z3_l16_t"/>Ou de jour et de nuict son image remire
+<lb corresp="#f52_z3_l17_t"/>Des ombres quelle y voit les phantosmes retire,
+<lb corresp="#f52_z3_l18_t"/>Qui si confusement s’offrent tous à la fois,
+<lb corresp="#f52_z3_l19_t"/>Que ranger ne les peut, ny en faire le chois.
+<lb corresp="#f52_z3_l20_t"/>Et comme Ell' en commence quelqu’autre vient se mettre
+<lb corresp="#f52_z3_l21_t"/>Au devant, l’autre après sur le champ demande estre
+<lb corresp="#f52_z3_l22_t"/>Premier expedié, le voulant despecher,
+<lb corresp="#f52_z3_l23_t"/>Une foule en voicy, qui la vient empescher.
+<lb corresp="#f52_z3_l24_t"/>Pour ce imparfaits sont tous, l’un n’aura que la teste
+<lb corresp="#f52_z3_l25_t"/>Et cest autre les pieds, luy manquant tout le reste,
+<lb corresp="#f52_z3_l26_t"/>L’un du corps la moitié, aura tout seulement
+<lb corresp="#f52_z3_l27_t"/>Qui point n’aura de bout ny de commencement.
+<lb corresp="#f52_z3_l28_t"/>Ainsi vous voyez que l’assoupissement du corps
+<lb corresp="#f52_z3_l29_t"/>n’engourdit pas le cerveau, qu’il est tousjours aux
+<lb corresp="#f52_z3_l30_t"/>champs, qu’il chasse, s'il ne prend à tous coups,
+</p>
+        <pb corresp="#f61"/>
+        <fw corresp="#f61_z1" n="RunningTitleZone"><lb corresp="#f61_z1_l1_t"/>ET DU DORMIR.</fw>
+        <fw corresp="#f61_z2" n="NumberingZone"><lb corresp="#f61_z2_l1_t"/>49</fw>
+        <p corresp="#f61_z3" n="MainZone">
+<lb corresp="#f61_z3_l1_t"/>y deviez bien venir pour tordre le nés à l’intention
+<lb corresp="#f61_z3_l2_t"/>d'un si sage escrivain : Vous voyez qu’il seraphise
+<lb corresp="#f61_z3_l3_t"/>ceux qui ne s’assujetissent à vostre beau dormir : si
+<lb corresp="#f61_z3_l4_t"/>ne faut-il pas que je vous laisse on si beau chemin,
+<lb corresp="#f61_z3_l5_t"/>je veux vous donner carriere entiere, et vous mettre
+<lb corresp="#f61_z3_l6_t"/>en butte le seigneur de l'Escale, dans les poësies
+<lb corresp="#f61_z3_l7_t"/>duquel vous trouverez, quil a autrefois donné
+<lb corresp="#f61_z3_l8_t"/>atteinte à vostre sommeil : de fait apres s’estre bersé
+<lb corresp="#f61_z3_l9_t"/>pour s’y accaser enfin il a trouvé qu’il s'y gastoit les
+<lb corresp="#f61_z3_l10_t"/>reins, et qu’il n’y avoit rien tel que d’avoir les yeux
+<lb corresp="#f61_z3_l11_t"/>tendus, ouverts et esveillez. Pource voicy qu’il
+<lb corresp="#f61_z3_l12_t"/>chante :
+<lb corresp="#f61_z3_l13_t"/>Mutanda vox est somme carnifex rerum
+<lb corresp="#f61_z3_l14_t"/>Rubigin sæ inertiæ peme putre,
+<lb corresp="#f61_z3_l15_t"/>Prelos paterque erroris atque terroris
+<lb corresp="#f61_z3_l16_t"/>Qui somniorum turbulenta dirorum
+<lb corresp="#f61_z3_l17_t"/>Momenta das et antè monstra non visa
+<lb corresp="#f61_z3_l18_t"/>Male procax everitor bonæ famæ
+<lb corresp="#f61_z3_l19_t"/>Imago mortis, morte retrior dira.
+<lb corresp="#f61_z3_l20_t"/>Namque illa sævis liberabit à curis,
+<lb corresp="#f61_z3_l21_t"/>Tu post labores semimortuæ vita.
+<lb corresp="#f61_z3_l22_t"/>Et harum acerba vena parricidarum
+<lb corresp="#f61_z3_l23_t"/>Tibi quid imprecemur impotens lurco?
+<lb corresp="#f61_z3_l24_t"/>Sentina stuprorum hospes ebriosorum
+<lb corresp="#f61_z3_l25_t"/>Exul beati cursibus procul cœli?
+<lb corresp="#f61_z3_l26_t"/>Nunquam ut quiescas lassus, et tui oblitus.
+<lb corresp="#f61_z3_l27_t"/>Cela est gratter votre sommeil de la façon qu’il faut,
+<lb corresp="#f61_z3_l28_t"/>et ne se chatouiller point pour se faire rire. Je passe
+<lb corresp="#f61_z3_l29_t"/>par dessus les pollutions nocturnes qui se font lors
+</p>
+        <fw corresp="#f61_z4" n="QuireMarksZone"><lb corresp="#f61_z4_l1_t"/>5</fw>
+        <pb corresp="#f71"/>
+        <fw corresp="#f71_z1" n="RunningTitleZone"><lb corresp="#f71_z1_l1_t"/>ET DU DORMIR.</fw>
+        <fw corresp="#f71_z2" n="NumberingZone"><lb corresp="#f71_z2_l1_t"/>59</fw>
+        <p corresp="#f71_z3" n="MainZone">
+<lb corresp="#f71_z3_l1_t"/>nius: l. 2, ſf. de annuis leg.: nous apprend que
+<lb corresp="#f71_z3_l2_t"/>celuy qui estoit tenu et astraint à donner à un autre
+<lb corresp="#f71_z3_l3_t"/>la corvee ou la besoigne que son esclave eust peu
+<lb corresp="#f71_z3_l4_t"/>faire par un jour, s’il ne l’a envoyé à la tasche du
+<lb corresp="#f71_z3_l5_t"/>grand matin, ains à la sixiesme heure du jour, qui
+<lb corresp="#f71_z3_l6_t"/>est nostre midy : (juxta illud Euangelii nonne sunt
+<lb corresp="#f71_z3_l7_t"/>duodecim horœ diei), pourtant il n’est acquitté et
+<lb corresp="#f71_z3_l8_t"/>deschargé de son obligation : et pour ce, voicy le
+<lb corresp="#f71_z3_l9_t"/>departement du jour que fait Marcial au 8ᵉ epi¬
+<lb corresp="#f71_z3_l10_t"/>gramme de son quatriesme livre :
+<lb corresp="#f71_z3_l11_t"/>Prima salutantes auque altera continet hora :
+<lb corresp="#f71_z3_l12_t"/>Exercet raucos tertia causidicos.
+<lb corresp="#f71_z3_l13_t"/>In quinta varios exercet Roma labores :
+<lb corresp="#f71_z3_l14_t"/>Sexta quies lassis, septima finis erit.
+<lb corresp="#f71_z3_l15_t"/>Comme s'il nous eust voulu apprendre que les
+<lb corresp="#f71_z3_l16_t"/>Romains employoient la matinee de ceste façon :
+<lb corresp="#f71_z3_l17_t"/>c'est que de sept jusqu'a neuf ils s'entresaluoient et
+<lb corresp="#f71_z3_l18_t"/>se donnoient (ce dit ly contes) le bondi signor ; de
+<lb corresp="#f71_z3_l19_t"/>neuf jusqu'a dix on plaidoit à l'audience ; de dix
+<lb corresp="#f71_z3_l20_t"/>jusqu'à onze les uns prenoient la pourmenade, les
+<lb corresp="#f71_z3_l21_t"/>autres achetoient de l’appetit au jeu, les autres
+<lb corresp="#f71_z3_l22_t"/>s'exerçoient en autres façons : depuis onze heures
+<lb corresp="#f71_z3_l23_t"/>on se retiroit pour disner, après, on vous reposoit
+<lb corresp="#f71_z3_l24_t"/>bravement son humanité. Et de hait garson.
+<lb corresp="#f71_z3_l25_t"/>Et quoy, messieurs, vay je dire, ne sera ce jamais
+<lb corresp="#f71_z3_l26_t"/>fait? je croy que, qui ne vous diray hola, ne vous
+<lb corresp="#f71_z3_l27_t"/>deparoloriez de toute ceste relevee. Voulez vous
+<lb corresp="#f71_z3_l28_t"/>que je vous accorde? vous dites tous deux vray,
+<lb corresp="#f71_z3_l29_t"/>mais c'est avec distinction. Il y a des naturels
+</p>
+        <pb corresp="#f73"/>
+        <p corresp="#f73_z1" n="MainZone">
+<hi n="HeadingLine"><lb corresp="#f73_z1_l1_t"/>DU MARIAGE.</hi>
+<lb corresp="#f73_z1_l2_t"/>S'il vaut mieux n'estre marie que de
+<lb corresp="#f73_z1_l3_t"/>l’estre?
+<lb corresp="#f73_z1_l4_t"/>APRES DISNEE II.
+<lb corresp="#f73_z1_l5_t"/>Au lieu que les champions de nostre premiere
+<lb corresp="#f73_z1_l6_t"/>apres disnee disputoient des privileges, droits et
+<lb corresp="#f73_z1_l7_t"/>prerogatives des venerables dormans, ceste seconde
+<lb corresp="#f73_z1_l8_t"/>apres disnee resveilla toute nostre compaignie d'une
+<lb corresp="#f73_z1_l9_t"/>bien autre façon : le sʳ Rodolphe commence à ouvrir
+<lb corresp="#f73_z1_l10_t"/>Ie jeu, sans y penser : le bon homme y alloit mieux
+<lb corresp="#f73_z1_l11_t"/>à la bonne foy qu’un coupeur de bourse. Il vous
+<lb corresp="#f73_z1_l12_t"/>accoste le sʳ Panthaleon, qui estoit l’un des fins
+<lb corresp="#f73_z1_l13_t"/>marchans de la bande, et qui, avant que quitter
+<lb corresp="#f73_z1_l14_t"/>la partie, nous en donna de bien vertes. Dès qu’ils
+<lb corresp="#f73_z1_l15_t"/>ont esventé que le pauvre sʳ Rodolphe parloit de
+<lb corresp="#f73_z1_l16_t"/>prendre party avec une fille : Messieurs, dit il,
+<lb corresp="#f73_z1_l17_t"/>gaigne sa vie qui pourra, voicy ce bon seigneur qui
+<lb corresp="#f73_z1_l18_t"/>se va au premier jour passer maistre potier ; il va
+<lb corresp="#f73_z1_l19_t"/>faire emploite d’une bonne bague qui luy donnera
+<lb corresp="#f73_z1_l20_t"/>bientost langue et credit en Cornoüailles. Et afin
+<lb corresp="#f73_z1_l21_t"/>que vous cognoissiez que je ne vous chante que la
+<lb corresp="#f73_z1_l22_t"/>verité, je vous prie, que luy mesmes face le discours
+</p>
+        <fw corresp="#f73_z2" n="QuireMarksZone"><lb corresp="#f73_z2_l1_t"/>6</fw>
+        <pb corresp="#f88"/>
+        <fw corresp="#f88_z1" n="NumberingZone"><lb corresp="#f88_z1_l1_t"/>76</fw>
+        <fw corresp="#f88_z2" n="RunningTitleZone"><lb corresp="#f88_z2_l1_t"/>DU MARIAGE.</fw>
+        <p corresp="#f88_z3" n="MainZone">
+<lb corresp="#f88_z3_l1_t"/>ſoüet; auth. hodie : sous le mesme titre des Adul¬
+<lb corresp="#f88_z3_l2_t"/>tères? N'est-ce pas à cause de leur fragilité et natu¬
+<lb corresp="#f88_z3_l3_t"/>relle inclination? L a propre passion de la femme c’est
+<lb corresp="#f88_z3_l4_t"/>la convoitise. Ce sont brides à veaux que ce que
+<lb corresp="#f88_z3_l5_t"/>vous contez, seigneur Panthaleon, repliqua messer
+<lb corresp="#f88_z3_l6_t"/>Alexandre, je vous renvoie à la pratique ; mais
+<lb corresp="#f88_z3_l7_t"/>voyons que vous estes un subtil ergoteur, vous voulez
+<lb corresp="#f88_z3_l8_t"/>faire accroire que les femmes prennent plaisir qu’on
+<lb corresp="#f88_z3_l9_t"/>bande les estœufs dans leur trou, parce que les loix
+<lb corresp="#f88_z3_l10_t"/>ne sont point si rigoureuses contre elles lors qu’elles
+<lb corresp="#f88_z3_l11_t"/>le permettent que contre les maris. Mais je vous
+<lb corresp="#f88_z3_l12_t"/>respons, que tant nos jurisconsultes anciens que les
+<lb corresp="#f88_z3_l13_t"/>empereurs se sont fort rudement ruez sur ces pau¬
+<lb corresp="#f88_z3_l14_t"/>vres femmes Que je die vray, il n’estoit pas permis
+<lb corresp="#f88_z3_l15_t"/>à la femme, encores qu’elle eut surpris son mary en
+<lb corresp="#f88_z3_l16_t"/>adultere, de l’accuser ou de le tuer, voire de le tou¬
+<lb corresp="#f88_z3_l17_t"/>cher du fin bout du doigt, ainsi que Caton a remar¬
+<lb corresp="#f88_z3_l18_t"/>qué en son harangue du douaire dans Aulu-Gelle,
+<lb corresp="#f88_z3_l19_t"/>livre 10, chap. 23, dont le comique Plaute fait
+<lb corresp="#f88_z3_l20_t"/>plaindre la pauvre Syra en ceste façon :
+<lb corresp="#f88_z3_l21_t"/>Les femmes pour le vray sont bien plus miserables
+<lb corresp="#f88_z3_l22_t"/>Que ne sont les maris, lesquels peuvent mener
+<lb corresp="#f88_z3_l23_t"/>Leurs garses au logis, sans en estre punis :
+<lb corresp="#f88_z3_l24_t"/>Les femmes n’oseroient aller se pourmener;
+<lb corresp="#f88_z3_l25_t"/>D’avec elles soudain ils seroient desunis;
+<lb corresp="#f88_z3_l26_t"/>He Dieux! que ne sont-ils reiglez par loix semblables?
+<lb corresp="#f88_z3_l27_t"/>Pourquoy est-ce que la Dame, qui se sera laissé
+<lb corresp="#f88_z3_l28_t"/>sursaillir à son ecclave, sera grievement punie, et le
+<lb corresp="#f88_z3_l29_t"/>seigneur, qui s’accouple à celle qui lui est esclave
+</p>
+        <pb corresp="#f103"/>
+        <fw corresp="#f103_z1" n="RunningTitleZone"><lb corresp="#f103_z1_l1_t"/>DU MARIAGE.</fw>
+        <fw corresp="#f103_z2" n="NumberingZone"><lb corresp="#f103_z2_l1_t"/>91</fw>
+        <p corresp="#f103_z3" n="MainZone">
+<lb corresp="#f103_z3_l1_t"/>tronnee en ses Sizains des humeurs de la femme.
+<lb corresp="#f103_z3_l2_t"/>Par la maison elle est pire que la tempeste;
+<lb corresp="#f103_z3_l3_t"/>On peut bien dire alors, Cerbere est en sa teste,
+<lb corresp="#f103_z3_l4_t"/>L'ennemy la gouverne et partout la conduict :
+<lb corresp="#f103_z3_l5_t"/>Elle jure, elle crie, elle est pis que farrouche,
+<lb corresp="#f103_z3_l6_t"/>Elle jette brasiers et flammes par la bouche,
+<lb corresp="#f103_z3_l7_t"/>Et plus que les torrens d’Auvergne a de bruict.
+<lb corresp="#f103_z3_l8_t"/>Elle court, elle fait toute chose au contraire :
+<lb corresp="#f103_z3_l9_t"/>Pere, mere, mary, sœur, voisinage, frere,
+<lb corresp="#f103_z3_l10_t"/>La pensans rapaiser ne la font qu’animer,
+<lb corresp="#f103_z3_l11_t"/>Pareille aux vents emeus et au plus fier orage
+<lb corresp="#f103_z3_l12_t"/>Et au feu ébrandy par tout un maisonnage
+<lb corresp="#f103_z3_l13_t"/>Et au courroux des flots dangereux de la mer.
+<lb corresp="#f103_z3_l14_t"/>Comm' un chien enragé sa bouche elle s’embave,
+<lb corresp="#f103_z3_l15_t"/>Comm' un hors de son sens l'honneur elle deprave
+<lb corresp="#f103_z3_l16_t"/>Son courroux violent est du tout indompté,
+<lb corresp="#f103_z3_l17_t"/>Elle rompt, elle brise, elle frappe et renverse,
+<lb corresp="#f103_z3_l18_t"/>Elle met tout à bas et jette à la traverse,
+<lb corresp="#f103_z3_l19_t"/>Comm' un fleuve courant d’un ravage irrité.
+<lb corresp="#f103_z3_l20_t"/>Tout est en grand desordre et en pauvre mesnage
+<lb corresp="#f103_z3_l21_t"/>Quand la ſemme est tombee en son ardente rage,
+<lb corresp="#f103_z3_l22_t"/>Le lyon eschauſfé n’est pas si furieux.
+<lb corresp="#f103_z3_l23_t"/>J'estime la terreur de l’esclair et tonnerre
+<lb corresp="#f103_z3_l24_t"/>Plus douce que n’est pas la feminine guerre
+<lb corresp="#f103_z3_l25_t"/>Et n’est point tant comm’elle en ses feux dangereux.
+<lb corresp="#f103_z3_l26_t"/>Le courroux de la femme abbat tout et demarre,
+<lb corresp="#f103_z3_l27_t"/>Et meine un si grand bruit et si grand tintamarre
+<lb corresp="#f103_z3_l28_t"/>Que le plus asseure en est tout estonné :
+</p>
+        <pb corresp="#f104"/>
+        <fw corresp="#f104_z1" n="NumberingZone"><lb corresp="#f104_z1_l1_t"/>92</fw>
+        <fw corresp="#f104_z2" n="RunningTitleZone"><lb corresp="#f104_z2_l1_t"/>DU MARIAGE.</fw>
+        <p corresp="#f104_z3" n="MainZone">
+<lb corresp="#f104_z3_l1_t"/>On ne sçait si ce vient de la troupe infermale
+<lb corresp="#f104_z3_l2_t"/>Qui face (desliés) leur terreur generale
+<lb corresp="#f104_z3_l3_t"/>Ou si c’est la furie, ou si Dieu a tonné.
+<lb corresp="#f104_z3_l4_t"/>Elles ont la caboche si despitement patronnée,
+<lb corresp="#f104_z3_l5_t"/>que, si le mary l’entend jaune, elles le veulent verd;
+<lb corresp="#f104_z3_l6_t"/>s’il le veut de droit fil, elles le prendront de biais ;
+<lb corresp="#f104_z3_l7_t"/>lors que le mary le veut, elles ne le veulent pas ; et
+<lb corresp="#f104_z3_l8_t"/>quand il ne le veut pas, elles le veulent ; ce qui a très¬
+<lb corresp="#f104_z3_l9_t"/>bien este remarqué par Terence en son Eunnuque :
+<lb corresp="#f104_z3_l10_t"/>Novi ingenium mulierum
+<lb corresp="#f104_z3_l11_t"/>Nolunt ubi velis : ubi nolis, cupiunt ultro.
+<lb corresp="#f104_z3_l12_t"/>Et pour ce un sage philosophe nous admonnestoit
+<lb corresp="#f104_z3_l13_t"/>qu’il ne falloit prescrire et ordonner de certaines
+<lb corresp="#f104_z3_l14_t"/>bornes et barrieres à la femme, laquelle n’a aucune
+<lb corresp="#f104_z3_l15_t"/>tenue, et est glissante plus qu’on ne sçauroit estimer.
+<lb corresp="#f104_z3_l16_t"/>Par ainsi, disoit-il, si tu la veux retenir, lasche la;
+<lb corresp="#f104_z3_l17_t"/>si tu la presses pour la mettre à l'estroit tu la perds
+<lb corresp="#f104_z3_l18_t"/>tout de mesmes qu’il advient d’une anguille. Dès
+<lb corresp="#f104_z3_l19_t"/>qu’elles ont pris le ply de faire les bestes, de con¬
+<lb corresp="#f104_z3_l20_t"/>trarier et de tenir bon contre leurs maris, c’est du
+<lb corresp="#f104_z3_l21_t"/>camelot, pour mourir elles ne se changeroient pas.
+<lb corresp="#f104_z3_l22_t"/>Quelques-uns ont voulu recercher la raison pour¬
+<lb corresp="#f104_z3_l23_t"/>quoy elle estoient ainsi acariastres et opiniastres au
+<lb corresp="#f104_z3_l24_t"/>mal, et qu’a tous bouts de champs, lors qu’il estoit
+<lb corresp="#f104_z3_l25_t"/>question du bien elles giroüettoient. Ceux qui ont
+<lb corresp="#f104_z3_l26_t"/>frappé le plus près au blanc ont dit que cela avenoit,
+<lb corresp="#f104_z3_l27_t"/>parce que de leur naturel elles estoient mauvaises,
+<lb corresp="#f104_z3_l28_t"/>ainsi que tantost j’ay rapporté d’Accurse. Les autres,
+</p>
+        <pb corresp="#f109"/>
+        <fw corresp="#f109_z1" n="RunningTitleZone"><lb corresp="#f109_z1_l1_t"/>DU MARIAGE.</fw>
+        <fw corresp="#f109_z2" n="NumberingZone"><lb corresp="#f109_z2_l1_t"/>97</fw>
+        <p corresp="#f109_z3" n="MainZone">
+<lb corresp="#f109_z3_l1_t"/>O malheureux vieillard, qui, courbe et tout tremblant,
+<lb corresp="#f109_z3_l2_t"/>N'a pas qui te soustienne, et qui, te ressemblant,
+<lb corresp="#f109_z3_l3_t"/>T'ayme serve et honore et comme la cigogne
+<lb corresp="#f109_z3_l4_t"/>Te rende en ta vieillesse une pareille soigne,
+<lb corresp="#f109_z3_l5_t"/>Qui travaille pour toi et te nourrisse lors
+<lb corresp="#f109_z3_l6_t"/>Que les nerfs sont usez de ton impuissant corps.
+<lb corresp="#f109_z3_l7_t"/>He! quel grief creve cœur, quand en l’ame volante
+<lb corresp="#f109_z3_l8_t"/>Le mourable vieillard pense et se represente
+<lb corresp="#f109_z3_l9_t"/>Que ceux qui, heritiers, doivent ses biens avoir
+<lb corresp="#f109_z3_l10_t"/>Voudroient ja prest à mort en la terre je voir?
+<lb corresp="#f109_z3_l11_t"/>Quel creve-cœur encor, quand le bonhomme pense
+<lb corresp="#f109_z3_l12_t"/>S’il ne se haste assez qu’on cerche qui l’avance,
+<lb corresp="#f109_z3_l13_t"/>Mais les enfans bien nais, bien nourris, genereux
+<lb corresp="#f109_z3_l14_t"/>De voir leurs geniteurs se reputent heureux
+<lb corresp="#f109_z3_l15_t"/>Vesqussent-ils autant que de Lamech le pere.
+<lb corresp="#f109_z3_l16_t"/>Si j’etoie grand thoologien je pourrois subtiliser
+<lb corresp="#f109_z3_l17_t"/>sur ce que le mariage a esté pratiqué entre Adam
+<lb corresp="#f109_z3_l18_t"/>et Eve avant qu’il fut aucun bruit du peché.
+<lb corresp="#f109_z3_l19_t"/>Vous en avez assez dit, sʳ Panthaleon, respondit
+<lb corresp="#f109_z3_l20_t"/>messer Alexandre, et plus que je ne pensoie; mais
+<lb corresp="#f109_z3_l21_t"/>j'ay de quoy vous responde : je ne suis de ceux
+<lb corresp="#f109_z3_l22_t"/>qui detestent le mariage, je recognois son institu¬
+<lb corresp="#f109_z3_l23_t"/>tion saincte, louable et à priser, mais les inconve¬
+<lb corresp="#f109_z3_l24_t"/>niens et le coust m’en font perdre le goust; à la
+<lb corresp="#f109_z3_l25_t"/>traduction du sʳ de S. Marthe j’opposeray ce qui a
+<lb corresp="#f109_z3_l26_t"/>esté fait contre le mariage, à vostre belle solitude
+<lb corresp="#f109_z3_l27_t"/>de neiges l’autorité de Petrarque en ses Meditations
+<lb corresp="#f109_z3_l28_t"/>et discours pour le solitaire. Quant aux enfans,
+<lb corresp="#f109_z3_l29_t"/>c'est une grande benediction de Dieu ; mais ils sont
+<lb corresp="#f109_z3_l30_t"/>si difficiles à eslever, à nourrir, à instruire, à en¬
+</p>
+        <fw corresp="#f109_z4" n="QuireMarksZone"><lb corresp="#f109_z4_l1_t"/>9</fw>
+        <pb corresp="#f113"/>
+        <fw corresp="#f113_z1" n="RunningTitleZone"><lb corresp="#f113_z1_l1_t"/>DU MARIAGE.</fw>
+        <fw corresp="#f113_z2" n="NumberingZone"><lb corresp="#f113_z2_l1_t"/>101</fw>
+        <p corresp="#f113_z3" n="MainZone">
+<lb corresp="#f113_z3_l1_t"/>perdre la vie. Je ne vous mettray en butte que
+<lb corresp="#f113_z3_l2_t"/>Jean Il, grand duc de Moschovie, lequel avoit les
+<lb corresp="#f113_z3_l3_t"/>femmes en si grand horreur, qu'il s'esvanouissoit
+<lb corresp="#f113_z3_l4_t"/>au seul regard des femmes, ainsi qu’escrit le baron
+<lb corresp="#f113_z3_l5_t"/>d’Herbestein, parlant des Moschovites, qui ne voyent
+<lb corresp="#f113_z3_l6_t"/>jamais (dit-il) leurs femmes que le jour des noces.
+<lb corresp="#f113_z3_l7_t"/>Il y en a eu d’autres qui, pour se passer des
+<lb corresp="#f113_z3_l8_t"/>ſemmes, ce sont accointé des bestes brutes. Plu¬
+<lb corresp="#f113_z3_l9_t"/>tarque nous donne tesmoignage d’une execrable
+<lb corresp="#f113_z3_l10_t"/>hippomanie en ses Parallelles, où il parle de Fulvius
+<lb corresp="#f113_z3_l11_t"/>Stettus, lequel, pour la hayne qu’il portoit aux
+<lb corresp="#f113_z3_l12_t"/>femmes, se mesla avec une jument, laquelle du
+<lb corresp="#f113_z3_l13_t"/>depuis lui produisit une fort belle fille, qui fut à
+<lb corresp="#f113_z3_l14_t"/>cette occasion nommee Epone ou Hippone. Encores
+<lb corresp="#f113_z3_l15_t"/>s'il eut suivy la sage modestie de Simonides, il y
+<lb corresp="#f113_z3_l16_t"/>eut eu quelque apparence de je ne sçay quoi de
+<lb corresp="#f113_z3_l17_t"/>louable en ses discours. Ce poëte nous represente
+<lb corresp="#f113_z3_l18_t"/>diverses figures monstreuses des femmes : il veut
+<lb corresp="#f113_z3_l19_t"/>que les unes ayent esté basties d'une truye, les au¬
+<lb corresp="#f113_z3_l20_t"/>tres patronees au naturel d'un regnard, les autres à
+<lb corresp="#f113_z3_l21_t"/>la façon d'un chien, les autres engendrees de la
+<lb corresp="#f113_z3_l22_t"/>mer, les autres forgees ès cendres d’une anesse,
+<lb corresp="#f113_z3_l23_t"/>les autres procrees par une belete, les autres par
+<lb corresp="#f113_z3_l24_t"/>une jument, les autres par un singe. Sous le rideau
+<lb corresp="#f113_z3_l25_t"/>de ces estranges et hideuses productions, il nous fait
+<lb corresp="#f113_z3_l26_t"/>voir la malice et depravé naturel de la femme, mais
+<lb corresp="#f113_z3_l27_t"/>sur la fin il fait prendre air à celle qui est esclose
+<lb corresp="#f113_z3_l28_t"/>par l’abeille, laquelle il prise comme celle qui bien¬
+<lb corresp="#f113_z3_l29_t"/>heure son mary, le resjouit et le console. A tout
+<lb corresp="#f113_z3_l30_t"/>rompre, et quand c’eut esté à bander et à racler, il
+</p>
+        <fw corresp="#f113_z4" n="QuireMarksZone"><lb corresp="#f113_z4_l1_t"/>9.</fw>
+        <pb corresp="#f114"/>
+        <fw corresp="#f114_z1" n="NumberingZone"><lb corresp="#f114_z1_l1_t"/>102</fw>
+        <fw corresp="#f114_z2" n="RunningTitleZone"><lb corresp="#f114_z2_l1_t"/>DU MARIAGE.</fw>
+        <p corresp="#f114_z3" n="MainZone">
+<lb corresp="#f114_z3_l1_t"/>falloit garder pour le moins ceste sobriété, sans don¬
+<lb corresp="#f114_z3_l2_t"/>ner une si rude touche sur les imperfections femi¬
+<lb corresp="#f114_z3_l3_t"/>nines. Voulez vous que je vous die ce que j’estime
+<lb corresp="#f114_z3_l4_t"/>de vostre proposition, sʳ Panthaleon, c’est que vou¬
+<lb corresp="#f114_z3_l5_t"/>driez volontiers pactiser avez ceux, lesquels (au
+<lb corresp="#f114_z3_l6_t"/>rapport de Josephe) faisoient difſiculté de se marier,
+<lb corresp="#f114_z3_l7_t"/>non point qu’ils eussent à mespris une si saincte et
+<lb corresp="#f114_z3_l8_t"/>legitime accouple qu’est la maritale, mais l’intem¬
+<lb corresp="#f114_z3_l9_t"/>perance des ſemmes les en desgoutoit, tellement
+<lb corresp="#f114_z3_l10_t"/>que, parce qu’aucunes estoient peu seures à la des¬
+<lb corresp="#f114_z3_l11_t"/>serre de la croupiere, ils se faisoient entendre qu’il
+<lb corresp="#f114_z3_l12_t"/>estoit impossible, ou bien cé seroit miracle, qu’au¬
+<lb corresp="#f114_z3_l13_t"/>cune d’elles gardast tellement la loyauté à leurs
+<lb corresp="#f114_z3_l14_t"/>maris, juxta illud, extrait du romant de la Rose.
+<lb corresp="#f114_z3_l15_t"/>Toutes estes, serez ou fustes
+<lb corresp="#f114_z3_l16_t"/>De fait ou de volonté putes :
+<lb corresp="#f114_z3_l17_t"/>Et qui bien vous recercheroit
+<lb corresp="#f114_z3_l18_t"/>Toutes putes vous treuveroit.
+<lb corresp="#f114_z3_l19_t"/>Mais qui tiendroit aujourd’huy tel langage, encores
+<lb corresp="#f114_z3_l20_t"/>que nous allions tousjours de mal en pis, si est ce
+<lb corresp="#f114_z3_l21_t"/>que j’ay grand’peur qu’il n’en eschapperoit pas à si
+<lb corresp="#f114_z3_l22_t"/>bon marché que fit Jean Clopinel, dit de Meun.
+</p>
+      </div>
     </body>
   </text>
 </TEI>

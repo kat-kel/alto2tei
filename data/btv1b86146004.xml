@@ -12,12 +12,17 @@
             <ptr type="isni" target="0000000084961458"/>
           </persName>
         </author>
-        <respStmt xml:id="KC">
-          <resp>transformation from ALTO4 to TEI by</resp>
+        <respStmt>
+          <resp>Transformation from ALTO4 to TEI by</resp>
           <persName>
             <forename>Kelly</forename>
             <surname>Christensen</surname>
             <ptr type="orcid" target="000000027236874X"/>
+          </persName>
+          <persName>
+            <forename>Simon</forename>
+            <surname>Gabay</surname>
+            <ptr type="orcid" target="0000000190944475"/>
           </persName>
         </respStmt>
       </titleStmt>
@@ -26,11 +31,11 @@
       </extent>
       <publicationStmt>
         <publisher>Gallic(orpor)a</publisher>
-        <authority>BnF DATAlab</authority>
+        <authority>BnF DATALab</authority>
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-12"/>
+        <date when="2022-05-17"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -2029,434 +2034,510 @@
   </sourceDoc>
   <text>
     <body>
-      <pb corresp="f7"/>
-      <pb corresp="f13"/>
-      <l corresp="f13_z2_l2_t">OLUPTUEUX de tous les âges</l>
-      <l corresp="f13_z2_l3_t">et de tous les sexes, c’est à vous seuls</l>
-      <l corresp="f13_z2_l4_t">que j’offre cet ouvrage; nourrissez-vous</l>
-      <l corresp="f13_z2_l5_t">de ses principes, ils favorisent vos pas¬</l>
-      <l corresp="f13_z2_l6_t">sions, et ces passions, dont de froids et</l>
-      <l corresp="f13_z2_l7_t">plats moralistes vous effrayent, ne sont</l>
-      <l corresp="f13_z2_l8_t">que les moyens que la nature emploie</l>
-      <l corresp="f13_z2_l9_t">pour faire parvenir l’homme aux vues</l>
-      <l corresp="f13_z2_l10_t">qu’elle a sur lui ; n’écoutez que ces pas¬</l>
-      <l corresp="f13_z2_l11_t">sions délicieuses, leur organe est le seul</l>
-      <l corresp="f13_z2_l12_t">qui doive vous conduire au bonheur.</l>
-      <l corresp="f13_z2_l13_t">Femmes lubriques, que la voluptueuse</l>
-      <l corresp="f13_z2_l14_t">Saint-Ange soit votre modèle; méprisez,</l>
-      <l corresp="f13_z2_l15_t">à son exemple, tout ce qui contrarie les</l>
-      <l corresp="f13_z2_l16_t">loix divines du plaisir qui l’enchaînèrent</l>
-      <l corresp="f13_z2_l17_t">toute sa vie.</l>
-      <l corresp="f13_z2_l18_t">Jeunes filles trop long-temps contenues</l>
-      <pb corresp="f14"/>
-      <l corresp="f14_z1_l1_t">dans les liens absurdes et dangereux d’une</l>
-      <l corresp="f14_z1_l2_t">vertu fantastique et d’une religion dégou¬</l>
-      <l corresp="f14_z1_l3_t">tante, imitez l’ardente Eugénie, détrui¬</l>
-      <l corresp="f14_z1_l4_t">sez, foulez aux pieds, avec autant de</l>
-      <l corresp="f14_z1_l5_t">rapidité qu’elle, tous les préceptes ridi¬</l>
-      <l corresp="f14_z1_l6_t">cules, inculqués par d’imbécilles parens.</l>
-      <l corresp="f14_z1_l7_t">Et vous, aimables débauchés, vous</l>
-      <l corresp="f14_z1_l8_t">qui, depuis votre jeunesse, n’avez plus</l>
-      <l corresp="f14_z1_l9_t">d’autres freins que vos desirs, et d’autres</l>
-      <l corresp="f14_z1_l10_t">loix que vos caprices, que le cinique</l>
-      <l corresp="f14_z1_l11_t">Dolmancé vous serve d’exemple ; allez</l>
-      <l corresp="f14_z1_l12_t">aussi loin que lui, si, comme lui, vous</l>
-      <l corresp="f14_z1_l13_t">voulez parcourir toutes les routes de</l>
-      <l corresp="f14_z1_l14_t">fleurs que la lubricité vous prépare; con¬</l>
-      <l corresp="f14_z1_l15_t">vainquez-vous à son école que ce n’est</l>
-      <l corresp="f14_z1_l16_t">qu’en étendant la sphère de ses goûts et</l>
-      <l corresp="f14_z1_l17_t">de ses fantaisies, que ce n’est qu’en sa¬</l>
-      <l corresp="f14_z1_l18_t">crifiant tout à la volupté, que le malheu¬</l>
-      <l corresp="f14_z1_l19_t">reux individu connu Sous le nom d’hom¬</l>
-      <l corresp="f14_z1_l20_t">me; et jeté malgré lui sur ce triste uni¬</l>
-      <l corresp="f14_z1_l21_t">vers, peut réussir à semer quelques roses</l>
-      <l corresp="f14_z1_l22_t">sur les épines de la vie.</l>
-      <pb corresp="f15"/>
-      <l corresp="f15_z1_l7_t">PREMIER DIALOGUE.</l>
-      <l corresp="f15_z1_l8_t">Madame DE SAINT-ANGE, le Chevalier</l>
-      <l corresp="f15_z1_l9_t">DE MIRVEL.</l>
-      <l corresp="f15_z1_l10_t">Madame DE SAINT-ANGE.</l>
-      <l corresp="f15_z1_l11_t">onjour mon frere, eh bien, M. Dolmancé ?</l>
-      <l corresp="f15_z1_l12_t">LE CHEVALIER.</l>
-      <l corresp="f15_z1_l13_t">Il arrivera à quatre heures précises, nous</l>
-      <pb corresp="f16"/>
-      <l corresp="f16_z2_l1_t">ne dînons qu’à sept, nous aurons, comme</l>
-      <l corresp="f16_z2_l2_t">tu vois, tout le temps de jaser.</l>
-      <l corresp="f16_z2_l3_t">Madame DE SAINT-ANGE.</l>
-      <l corresp="f16_z2_l4_t">Sais-tu, mon frère, que je me repents un</l>
-      <l corresp="f16_z2_l5_t">peu, et de ma curiosité, et de tous les pro¬</l>
-      <l corresp="f16_z2_l6_t">jets obscènes formés pour aujourd’hui; en</l>
-      <l corresp="f16_z2_l7_t">verité, mon ami, tu es trop indulgent, plus</l>
-      <l corresp="f16_z2_l8_t">je devrais être raisonnable, plus ma maudite</l>
-      <l corresp="f16_z2_l9_t">tête s’irrite et devient libertine : tu me passes</l>
-      <l corresp="f16_z2_l10_t">tout, cela ne sert qu’a me gâter..... A vingt-</l>
-      <l corresp="f16_z2_l11_t">six ans, je devrais être dejà dévote, et je</l>
-      <l corresp="f16_z2_l12_t">ne suis encore que la plus débordée des</l>
-      <l corresp="f16_z2_l13_t">femmes..... On n’a pas d’idée de ce que je</l>
-      <l corresp="f16_z2_l14_t">conçois, mon ami, de ce que je voudrais</l>
-      <l corresp="f16_z2_l15_t">faire. J’imaginais qu’en m’en tenant aux</l>
-      <l corresp="f16_z2_l16_t">femmes, cela me rendrait sage; .... que mes</l>
-      <l corresp="f16_z2_l17_t">desirs concentrés dans mon sexe, ne s’exha¬</l>
-      <l corresp="f16_z2_l18_t">Ieraient plus vers Ie vôtre; projets chime¬</l>
-      <l corresp="f16_z2_l19_t">riques, mon ami, les plaisirs dont je voulais</l>
-      <l corresp="f16_z2_l20_t">me priver, ne sont venus s’offrir qu’avec plus</l>
-      <l corresp="f16_z2_l21_t">d’ardeur à mon esprit, et j’ai vu que quand</l>
-      <l corresp="f16_z2_l22_t">on était, comme moi, née pour le liberti¬</l>
-      <l corresp="f16_z2_l23_t">nage, il devenait inutile de songer à s’impo¬</l>
-      <l corresp="f16_z2_l24_t">ser des freins, de fongueux desirs les brisent</l>
-      <pb corresp="f17"/>
-      <l corresp="f17_z1_l1_t">bientôt. Enfin, mon cher, je suis un animal</l>
-      <l corresp="f17_z1_l2_t">amphibie, j’aime tout, je m’amuse de tout,</l>
-      <l corresp="f17_z1_l3_t">je veux reunir tous les genres; mais, avoue-</l>
-      <l corresp="f17_z1_l4_t">le, mon frère, n’est-ce pas une extravagance</l>
-      <l corresp="f17_z1_l5_t">complette à moi, que de vouloir connaître</l>
-      <l corresp="f17_z1_l6_t">ce singulier Dolmancé qui de ses jours, dis-</l>
-      <l corresp="f17_z1_l7_t">tu, n’a pu voir une femme comme l’usage le</l>
-      <l corresp="f17_z1_l8_t">prescrit, qui, sodomite par principe, non-</l>
-      <l corresp="f17_z1_l9_t">seulement est idolâtre de son sexe, mais ne</l>
-      <l corresp="f17_z1_l10_t">cède même au nôtre, que sous la clause spé¬</l>
-      <l corresp="f17_z1_l11_t">ciale de lui livrer les attraits chéris dont il</l>
-      <l corresp="f17_z1_l12_t">est accoutumé de se servir chez les hommes.</l>
-      <l corresp="f17_z1_l13_t">Vois, mon frère, quelle est ma bizarre fan¬</l>
-      <l corresp="f17_z1_l14_t">taisie ! je veux être le Ganimède de ce nou¬</l>
-      <l corresp="f17_z1_l15_t">veau Jupiter, je veux jouir de ses goûts, de</l>
-      <l corresp="f17_z1_l16_t">ses débauches, je veux être la victime de ses</l>
-      <l corresp="f17_z1_l17_t">erreurs : jusqu’à présent tu le sais, mon cher,</l>
-      <l corresp="f17_z1_l18_t">je ne me suis livrée ainsi, qu’à toi, par com¬</l>
-      <l corresp="f17_z1_l19_t">plaisance, ou qu’à quelqu’un de mes gens</l>
-      <l corresp="f17_z1_l20_t">qui, payé pour me traiter de cette façon, ne</l>
-      <l corresp="f17_z1_l21_t">s’y prêtait que par intérêt; aujourd’hui ce</l>
-      <l corresp="f17_z1_l22_t">n’est plut ni la complaisance, ni le caprice,</l>
-      <l corresp="f17_z1_l23_t">c’est le goût seul qui me détermine..... Je</l>
-      <l corresp="f17_z1_l24_t">crois, entre les procédés qui m’ont asservie,</l>
-      <pb corresp="f18"/>
-      <l corresp="f18_z2_l1_t">et ceux qui vont m’asservir à cette manie</l>
-      <l corresp="f18_z2_l2_t">bizarre, une inconcevable difference, et je</l>
-      <l corresp="f18_z2_l3_t">veux la connaître. Peins-moi ton Dolmancé,</l>
-      <l corresp="f18_z2_l4_t">je t’en conjure, afin que je l’aye bien dans la</l>
-      <l corresp="f18_z2_l5_t">tête avant que de le voir arriver; car tu sais</l>
-      <l corresp="f18_z2_l6_t">que je ne le connais que pour l’avoir rencon¬</l>
-      <l corresp="f18_z2_l7_t">tré l’autre jour dans une maison où je ne fus</l>
-      <l corresp="f18_z2_l8_t">que quelques minutes avec lui.</l>
-      <l corresp="f18_z2_l9_t">LE CHEVALIER.</l>
-      <l corresp="f18_z2_l10_t">Dolmancé, ma sœur, vient d’atteindre sa</l>
-      <l corresp="f18_z2_l11_t">trente-sixième année, il est grand, d’une</l>
-      <l corresp="f18_z2_l12_t">fort belle figure, des yeux très-vifs et très-</l>
-      <l corresp="f18_z2_l13_t">spirituels, mais quelque chose d’un peu dur</l>
-      <l corresp="f18_z2_l14_t">et d’un peu méchant se peint malgré lui dans</l>
-      <l corresp="f18_z2_l15_t">ses traits; il a les plus belles dents du monde,</l>
-      <l corresp="f18_z2_l16_t">un peu de mollesse dans la taille et dans la</l>
-      <l corresp="f18_z2_l17_t">tournure, par l’habitude, sans doute, qu’il</l>
-      <l corresp="f18_z2_l18_t">a de prendre si souvent des airs feminins; il</l>
-      <l corresp="f18_z2_l19_t">est d’une élégance extrême, une jolie voix,</l>
-      <l corresp="f18_z2_l20_t">des talens, et principalement beaucoup de</l>
-      <l corresp="f18_z2_l21_t">philosophie dans l’esprit.</l>
-      <l corresp="f18_z2_l22_t">Madame DE SAINT-ANGE.</l>
-      <l corresp="f18_z2_l23_t">Il ne croit pas en Dieu, j’espère?</l>
-      <pb corresp="f19"/>
-      <l corresp="f19_z2_l1_t">LE CHEVALIER.</l>
-      <l corresp="f19_z2_l2_t">Ah ! que dis-tu là? c'est le plus célèbre</l>
-      <l corresp="f19_z2_l3_t">athée, l'homme le plus immoral..... Oh !</l>
-      <l corresp="f19_z2_l4_t">c’est bien la corruption la plus complette</l>
-      <l corresp="f19_z2_l5_t">et la plus entière, l’individu le plus méchant</l>
-      <l corresp="f19_z2_l6_t">et le plus scélérat qui puisse exister au</l>
-      <l corresp="f19_z2_l7_t">monde.</l>
-      <l corresp="f19_z2_l8_t">Madame DE SAINT-ANGE.</l>
-      <l corresp="f19_z2_l9_t">Comme tout cela m’échauffe,  je vais raffo¬</l>
-      <l corresp="f19_z2_l10_t">ler de cet homme, et ses goûts, mon frère ?</l>
-      <l corresp="f19_z2_l11_t">LE CHEVALIER.</l>
-      <l corresp="f19_z2_l12_t">Tu les sais ; les délices de Sodome lui sont</l>
-      <l corresp="f19_z2_l13_t">aussi chers comme agent que comme patient;</l>
-      <l corresp="f19_z2_l14_t">il n’aime que les hommes dans ses plaisirs,</l>
-      <l corresp="f19_z2_l15_t">et si quelquefois néanmoins il consent à es¬</l>
-      <l corresp="f19_z2_l16_t">sayer des femmes, ce n’est qu’aux conditions</l>
-      <l corresp="f19_z2_l17_t">qu’elles seront assez complaisantes pour chan¬</l>
-      <l corresp="f19_z2_l18_t">ger de sexe avec lui. Je lui ai parlé de toi,</l>
-      <l corresp="f19_z2_l19_t">je l’ai prévenu de tes intentions, il accepte,</l>
-      <l corresp="f19_z2_l20_t">et t’avertit à son tour des clauses du marché</l>
-      <l corresp="f19_z2_l21_t">Je t'en préviens, ma sœur, il te refusera</l>
-      <l corresp="f19_z2_l22_t">tout net, si tu prétends l’engager à autre</l>
-      <l corresp="f19_z2_l23_t">chose : ce que je consens à faire avec votre</l>
-      <pb corresp="f20"/>
-      <l corresp="f20_z2_l1_t">sœur, est, prétend-il, une licence,... une</l>
-      <l corresp="f20_z2_l2_t">incartade dont on ne se souille que rarement</l>
-      <l corresp="f20_z2_l3_t">et avec beaucoup de précautions.</l>
-      <l corresp="f20_z2_l4_t">Madame DE SAINT-ANGE.</l>
-      <l corresp="f20_z2_l5_t">Se souiller ! .... des précautions ! j'aime à la</l>
-      <l corresp="f20_z2_l6_t">folie le langage de ces aimables gens ; entre</l>
-      <l corresp="f20_z2_l7_t">nous autres femmes, nous avons aussi de ces</l>
-      <l corresp="f20_z2_l8_t">mots exclusifs qui prouvent comme ceux-là,</l>
-      <l corresp="f20_z2_l9_t">l’horreur profonde dont elles sont pénétrées</l>
-      <l corresp="f20_z2_l10_t">pour tout ce qui ne tient pas au culte admis...</l>
-      <l corresp="f20_z2_l11_t">Eh, dis-moi, mon cher,... il t’a eu? avec</l>
-      <l corresp="f20_z2_l12_t">ta delicieuse figure et tes vingt ans; on peut,</l>
-      <l corresp="f20_z2_l13_t">je crois, captiver un tel homme?</l>
-      <l corresp="f20_z2_l14_t">LE CHEVALIER.</l>
-      <l corresp="f20_z2_l15_t">Je ne te cacherai point mes extravagances</l>
-      <l corresp="f20_z2_l16_t">avec lui, tu as trop d’esprit pour les blamer.</l>
-      <l corresp="f20_z2_l17_t">Dans le fait, j’aime les femmes moi, et je</l>
-      <l corresp="f20_z2_l18_t">ne me livre à ces goûts bizarres que quand un</l>
-      <l corresp="f20_z2_l19_t">homme aimable m’en presse. Il n’y a rien que</l>
-      <l corresp="f20_z2_l20_t">je ne fasse alors ; je suis loin de cette morgue</l>
-      <l corresp="f20_z2_l21_t">ridicule qui fait croire à nos jeunes fréluquets</l>
-      <l corresp="f20_z2_l22_t">qu’il faut repondre par des coups de canne à</l>
-      <pb corresp="f21"/>
-      <l corresp="f21_z2_l1_t">de semblables propositions; l’homme est-il</l>
-      <l corresp="f21_z2_l2_t">Ie maître de ses goûts ? Il faut plaindre ceux</l>
-      <l corresp="f21_z2_l3_t">qui en ont de singuliers, mais ne les insulter</l>
-      <l corresp="f21_z2_l4_t">jamais, leur tort est celui de la nature, ils</l>
-      <l corresp="f21_z2_l5_t">n’etaient pas plus les maîtres d’arriver au</l>
-      <l corresp="f21_z2_l6_t">monde avec des goûts différens, que nous ne</l>
-      <l corresp="f21_z2_l7_t">Ie sommes de naître ou bancal ou bienfait.</l>
-      <l corresp="f21_z2_l8_t">Un homme vous dit-il d’ailleurs une chose de¬</l>
-      <l corresp="f21_z2_l9_t">sagréable en vous témoignant le desir qu’il a</l>
-      <l corresp="f21_z2_l10_t">de jouir de vous? non sans doute, c’est un</l>
-      <l corresp="f21_z2_l11_t">compliment qu’il vous fait; pourquoi donc</l>
-      <l corresp="f21_z2_l12_t">y répondre par des injures ou des insultes?</l>
-      <l corresp="f21_z2_l13_t">Il n’y a que les sots qui puissent penser ainsi,</l>
-      <l corresp="f21_z2_l14_t">jamais un homme raisonnable ne parlera sur</l>
-      <l corresp="f21_z2_l15_t">cette matière différemment que je ne fais ;</l>
-      <l corresp="f21_z2_l16_t">mais c’est que le monde est peuplé de plats</l>
-      <l corresp="f21_z2_l17_t">imbéciles qui croyent que c’est leur manquer</l>
-      <l corresp="f21_z2_l18_t">que de leur avouer qu’on les trouve propres</l>
-      <l corresp="f21_z2_l19_t">à des plaisirs, et qui gâtés par les femmes,</l>
-      <l corresp="f21_z2_l20_t">toujours jalouses de ce qui a l’air d’attenter</l>
-      <l corresp="f21_z2_l21_t">à leurs droits, s’imaginent être les Doms</l>
-      <l corresp="f21_z2_l22_t">Quichottes de ces droits ordinaires, en bru¬</l>
-      <l corresp="f21_z2_l23_t">talisant ceux qui n’en reconnainssent pas toute</l>
-      <l corresp="f21_z2_l24_t">l'étendue.</l>
-      <pb corresp="f22"/>
-      <l corresp="f22_z2_l1_t">Madame de 8AINT-ANGE.</l>
-      <l corresp="f22_z2_l2_t">Ah! mon ami, baise-moi, tu ne serais pas</l>
-      <l corresp="f22_z2_l3_t">mon frère si tu pensais différemment ; mais</l>
-      <l corresp="f22_z2_l4_t">un peu de détail, je t’en conjure, et sur le</l>
-      <l corresp="f22_z2_l5_t">physique de cet homme et sur ces plaisirs avec</l>
-      <l corresp="f22_z2_l6_t">toi.</l>
-      <l corresp="f22_z2_l7_t">LE CHEVALIER.</l>
-      <l corresp="f22_z2_l8_t">M. Dolmancé était instruit par un de mes</l>
-      <l corresp="f22_z2_l9_t">amis, du superbe membre dont tu sais que</l>
-      <l corresp="f22_z2_l10_t">je suis pourvu, il engagea le marquis de V...</l>
-      <l corresp="f22_z2_l11_t">à me donner à souper avec lui. Une fois là, il</l>
-      <l corresp="f22_z2_l12_t">fallut bien exhiber ce que je portais; la curio¬</l>
-      <l corresp="f22_z2_l13_t">sité parut d’abord être Ie seul motif, un très-</l>
-      <l corresp="f22_z2_l14_t">beau cul qu’on me tourna, et dont on me</l>
-      <l corresp="f22_z2_l15_t">supplia de jouir, me fit bientôt voir que le</l>
-      <l corresp="f22_z2_l16_t">goût seul avait eu part à cet examen. Je pré¬</l>
-      <l corresp="f22_z2_l17_t">vins Dolmancé de toutes les difficultés de l’en¬</l>
-      <l corresp="f22_z2_l18_t">treprise, rien ne l’effaroucha. Je suis à l’é¬</l>
-      <l corresp="f22_z2_l19_t">preuve du bélier, me dit-il, et vous n’aurez</l>
-      <l corresp="f22_z2_l20_t">même pas la gloire d’être le plus redoutable</l>
-      <l corresp="f22_z2_l21_t">des hommes qui perforèrent le cul que je vous</l>
-      <l corresp="f22_z2_l22_t">offre. Le Marquis était là, il nous encoura¬</l>
-      <l corresp="f22_z2_l23_t">geait en tripotant, maniant, baisant tout ce</l>
-      <l corresp="f22_z2_l24_t">que nous mettions au jour l’un et l’autre. Je</l>
-      <pb corresp="f23"/>
-      <l corresp="f23_z2_l1_t">me présente....  je veux au moins quelques</l>
-      <l corresp="f23_z2_l2_t">apprêts ; gardez-vous en bien, me dit le Mar¬</l>
-      <l corresp="f23_z2_l3_t">quis, vous ôteriez la moitié des sensations</l>
-      <l corresp="f23_z2_l4_t">que Dolmancé attend de vous ; il veut qu’on</l>
-      <l corresp="f23_z2_l5_t">le pourfende.... il veut qu’on le déchire ; il</l>
-      <l corresp="f23_z2_l6_t">sera satisfait, dis-je, en une plongeant aveu¬</l>
-      <l corresp="f23_z2_l7_t">glément dans le gouffre.... et tu crois peut-</l>
-      <l corresp="f23_z2_l8_t">être, ma sœur, que j’eus beaucoup de peine...</l>
-      <l corresp="f23_z2_l9_t">pas un mot ; mon vit, tout énorme qu’il est,</l>
-      <l corresp="f23_z2_l10_t">disparut sans que je m’en doutasse, et je</l>
-      <l corresp="f23_z2_l11_t">touchais le fond de ses entrailles sans que le</l>
-      <l corresp="f23_z2_l12_t">bougre eût l’air de le sentir. Je traitai Dol¬</l>
-      <l corresp="f23_z2_l13_t">mancé en ami, l’excessive volupté qu’il goû¬</l>
-      <l corresp="f23_z2_l14_t">tait, ses frétillemens, ses propos délicieux,</l>
-      <l corresp="f23_z2_l15_t">tout me rendit bientôt heureux moi-méme,</l>
-      <l corresp="f23_z2_l16_t">et je l’inondai. A peine fus-je dehors que Dol¬</l>
-      <l corresp="f23_z2_l17_t">mancé se retournant vers moi échévelé, rouge</l>
-      <l corresp="f23_z2_l18_t">comme une bacchante : tu vois l’état où tu</l>
-      <l corresp="f23_z2_l19_t">m’as mis cher Chevalier, me dit-il, en m’of¬</l>
-      <l corresp="f23_z2_l20_t">frant un vit sec et mutin, fort long, et d’au</l>
-      <l corresp="f23_z2_l21_t">moins six pouces de tour, daigne, je t’en</l>
-      <l corresp="f23_z2_l22_t">conjure, ô mon amour, me servir de femme</l>
-      <l corresp="f23_z2_l23_t">après avoir été mon amant, et que je puisse</l>
-      <l corresp="f23_z2_l24_t">dire que j'ai goûté dans tes bras divins tous</l>
-      <pb corresp="f24"/>
-      <l corresp="f24_z2_l1_t">Ies plaisirs du goût que je chéris avec tant</l>
-      <l corresp="f24_z2_l2_t">d’empire. Trouvant aussi peu de difficulté à</l>
-      <l corresp="f24_z2_l3_t">l’un qu’à l’autre, je me prêtai ; le Marquis se</l>
-      <l corresp="f24_z2_l4_t">déculottant à mes yeux, me conjura de vou¬</l>
-      <l corresp="f24_z2_l5_t">loir bien être encore un peu homme avec lui</l>
-      <l corresp="f24_z2_l6_t">pendant que j’allais être la femme de son</l>
-      <l corresp="f24_z2_l7_t">ami ; je le traitai comme Dolmancé, qui me</l>
-      <l corresp="f24_z2_l8_t">rendant au centuple toutes les secouses dont</l>
-      <l corresp="f24_z2_l9_t">j’accablais notre tiers, exhala bientôt au fond</l>
-      <l corresp="f24_z2_l10_t">de mon cul, cette liqueur enchanteresse dont</l>
-      <l corresp="f24_z2_l11_t">j’arrosais, presqu’en même temps celui de</l>
-      <l corresp="f24_z2_l12_t">V....</l>
-      <l corresp="f24_z2_l13_t">Madame DE SAINT-ANGE.</l>
-      <l corresp="f24_z2_l14_t">Tu dois avoir eu le plus grand plaisir,</l>
-      <l corresp="f24_z2_l15_t">mon frère, à te trouver ainsi entre deux, on</l>
-      <l corresp="f24_z2_l16_t">dit que c’est charmant.</l>
-      <l corresp="f24_z2_l17_t">LE CHEVALIER.</l>
-      <l corresp="f24_z2_l18_t">Il est bien certain, mon ange, que c'est la</l>
-      <l corresp="f24_z2_l19_t">meilleure place; mais quoi qu’on en puisse</l>
-      <l corresp="f24_z2_l20_t">dire, tout cela sont des extravagances que je</l>
-      <l corresp="f24_z2_l21_t">ne préférerai jamais au plaisir des femmes.</l>
-      <l corresp="f24_z2_l22_t">Madame DE SAINT-ANGE.</l>
-      <l corresp="f24_z2_l23_t">Eh bien, mon cher amour, pour récom¬</l>
-      <pb corresp="f25"/>
-      <l corresp="f25_z2_l1_t">penser aujourd’hui ta délicate complaisance,</l>
-      <l corresp="f25_z2_l2_t">je vais livrer à tes ardeurs une jeune fille</l>
-      <l corresp="f25_z2_l3_t">vierge, et plus belle que l’amour.</l>
-      <l corresp="f25_z2_l4_t">LE CHEVALIER.</l>
-      <l corresp="f25_z2_l5_t">Comment, avec Dolmancé.... tu fais ve¬</l>
-      <l corresp="f25_z2_l6_t">nir une femme chez toi?</l>
-      <l corresp="f25_z2_l7_t">Madame DE SAINT-ANGE.</l>
-      <l corresp="f25_z2_l8_t">Il s'agit d'une éducation, c’est une petite</l>
-      <l corresp="f25_z2_l9_t">fille que j’ai connue au couvent l’automne</l>
-      <l corresp="f25_z2_l10_t">dernier, pendant que mon mari était aux</l>
-      <l corresp="f25_z2_l11_t">eaux. Là nous ne pûmes rien, nous n’osâ¬</l>
-      <l corresp="f25_z2_l12_t">mes rien, trop de yeux étaient fixés sur nous,</l>
-      <l corresp="f25_z2_l13_t">mais nous nous promîmes de nous réunir dès</l>
-      <l corresp="f25_z2_l14_t">que cela serait possible ; uniquement occu¬</l>
-      <l corresp="f25_z2_l15_t">pée de ce desir j’ai, pour y satisfaire, fait</l>
-      <l corresp="f25_z2_l16_t">connaissance avec sa famille. Son père est un</l>
-      <l corresp="f25_z2_l17_t">Iibertin.... que j’ai captivé. Enfin la belle</l>
-      <l corresp="f25_z2_l18_t">vient, je l’attends, nous passerons deux jours</l>
-      <l corresp="f25_z2_l19_t">ensemble.... deux jours délicieux, la meil¬</l>
-      <l corresp="f25_z2_l20_t">leure partie de ce temps, je l’emploie à édu¬</l>
-      <l corresp="f25_z2_l21_t">quer cette jeune personne. Dolmancé et moi</l>
-      <l corresp="f25_z2_l22_t">nous placerons dans cette jolie petite tête,</l>
-      <l corresp="f25_z2_l23_t">tous les principes du libertinage le plus ef¬</l>
-      <pb corresp="f26"/>
-      <l corresp="f26_z1_l1_t">fréné, nous l’embrâserons de nos feux, nous</l>
-      <l corresp="f26_z1_l2_t">l’alimenterons de notre philosophie , nous lui</l>
-      <l corresp="f26_z1_l3_t">inspirerons nos désirs , et comme je veux join¬</l>
-      <l corresp="f26_z1_l4_t">dre un peu de pratique à la théorie, comme</l>
-      <l corresp="f26_z1_l5_t">je veux qu’on démontre à mesure qu’on dis¬</l>
-      <l corresp="f26_z1_l6_t">sertera, je t’ai destiné, mon frére, à la mois¬</l>
-      <l corresp="f26_z1_l7_t">son des myrthes de Cythère, Dolmancé à</l>
-      <l corresp="f26_z1_l8_t">celle des roses de Sodome. J’aurai deux plai¬</l>
-      <l corresp="f26_z1_l9_t">sirs à la fois, celui de jouir moi-même de ces</l>
-      <l corresp="f26_z1_l10_t">voluptés criminelles et celui d’en donner des</l>
-      <l corresp="f26_z1_l11_t">leçons, d’en inspirer les goûts à l’aimable</l>
-      <l corresp="f26_z1_l12_t">innocente que j’attire dans nos filets. Eh bien,</l>
-      <l corresp="f26_z1_l13_t">Chevalier, ce projet est-il digne de mon ima¬</l>
-      <l corresp="f26_z1_l14_t">gination ?</l>
-      <l corresp="f26_z1_l15_t">LE CHEVALIER.</l>
-      <l corresp="f26_z1_l16_t">Il ne peut être conçu que par elle , il est</l>
-      <l corresp="f26_z1_l17_t">divin, ma sœur, et je te promets d’y rem¬</l>
-      <l corresp="f26_z1_l18_t">plir à merveille le rôle charmant que tu m’y</l>
-      <l corresp="f26_z1_l19_t">destine. Ah ! friponne, comme tu vas jouir</l>
-      <l corresp="f26_z1_l20_t">du plaisir d’eduquer cette enfant ; quelles dé¬</l>
-      <l corresp="f26_z1_l21_t">lices pour toi de la corrompre, d’étouffer</l>
-      <l corresp="f26_z1_l22_t">dans ce jeune cœur toutes les semences de</l>
-      <l corresp="f26_z1_l23_t">vertu et de religion qu’y placèrent ses insti¬</l>
-      <l corresp="f26_z1_l24_t">tutrices. En verité cela est trop roué pour moi.</l>
-      <pb corresp="f27"/>
-      <l corresp="f27_z2_l1_t">Madame DE SAINT-ANGE.</l>
-      <l corresp="f27_z2_l2_t">Il est bien sûr que je n’épargnerai rien pour</l>
-      <l corresp="f27_z2_l3_t">la pervertir, pour dégrader, pour culbuter</l>
-      <l corresp="f27_z2_l4_t">dans elle tous les faux principes de morale</l>
-      <l corresp="f27_z2_l5_t">dont on aurait pu déjà l’étourdir ; je veux ,</l>
-      <l corresp="f27_z2_l6_t">en deux leçons, la rendre aussi scélérate que</l>
-      <l corresp="f27_z2_l7_t">moi.... aussi impie.... aussi débauchée. Pré¬</l>
-      <l corresp="f27_z2_l8_t">viens Dolmancé, mets-le au fait dès qu’il</l>
-      <l corresp="f27_z2_l9_t">arrivera, pour que le venin de ses immora¬</l>
-      <l corresp="f27_z2_l10_t">lités circulant dans ce jeune cœur avec celui</l>
-      <l corresp="f27_z2_l11_t">que j’y lancerai, parvienne à déraciner dans</l>
-      <l corresp="f27_z2_l12_t">peu d’instans toutes les semences de vertu qui</l>
-      <l corresp="f27_z2_l13_t">pourraient y germer sans nous.</l>
-      <l corresp="f27_z2_l14_t">LE CHEVALIER.</l>
-      <l corresp="f27_z2_l15_t">Il était impossible de mieux trouver l’hom¬</l>
-      <l corresp="f27_z2_l16_t">me qu’il te fallait, l’irréligion, l’impiété,</l>
-      <l corresp="f27_z2_l17_t">l'inhumanité, le libertinage découlent des</l>
-      <l corresp="f27_z2_l18_t">Ièvres de Dolmancé, comme autrefois l’onc¬</l>
-      <l corresp="f27_z2_l19_t">tion mystique, de celles du célèbre archévêque</l>
-      <l corresp="f27_z2_l20_t">de Cambrai ; c’est le plus profond séducteur,</l>
-      <l corresp="f27_z2_l21_t">l'homme le plus corrompu, le plus dange¬</l>
-      <l corresp="f27_z2_l22_t">reux.... Ah ! ma chère amie, que ton élève</l>
-      <l corresp="f27_z2_l23_t">réponde aux soins de l’instituteur, et je te</l>
-      <l corresp="f27_z2_l24_t">la garantis bientôt perdue.</l>
-      <pb corresp="f28"/>
-      <l corresp="f28_z2_l1_t">Madame DE SAINT-ANGE.</l>
-      <l corresp="f28_z2_l2_t">Cela ne sera sûrement pas long avec les dis¬</l>
-      <l corresp="f28_z2_l3_t">positions que je lui connais....</l>
-      <l corresp="f28_z2_l4_t">LE CHEVALIER.</l>
-      <l corresp="f28_z2_l5_t">Mais dis-moi, chère sœur, ne redoutes-tu</l>
-      <l corresp="f28_z2_l6_t">rien des parens ? Si cette petite fille venait à</l>
-      <l corresp="f28_z2_l7_t">jaser quand elle retournera chez elle.</l>
-      <l corresp="f28_z2_l8_t">Madame DE SAINT-ANGE.</l>
-      <l corresp="f28_z2_l9_t">Ne crains rien, j’ai séduit le pére.... il est</l>
-      <l corresp="f28_z2_l10_t">à moi, faut-il enfin te l’avouer , je me suis</l>
-      <l corresp="f28_z2_l11_t">livrée à lui pour qu’il fermât les yeux, il</l>
-      <l corresp="f28_z2_l12_t">ignore mes desseins, mais il n’osera jamais</l>
-      <l corresp="f28_z2_l13_t">les approfondir.... Je le tiens.</l>
-      <l corresp="f28_z2_l14_t">LE CHEVALIER.</l>
-      <l corresp="f28_z2_l15_t">Tes moyens sont affreux.</l>
-      <l corresp="f28_z2_l16_t">Madame DE SAINT-ANGE.</l>
-      <l corresp="f28_z2_l17_t">Voila comme il les faut pour qu’ils soient</l>
-      <l corresp="f28_z2_l18_t">sûrs.</l>
-      <l corresp="f28_z2_l19_t">LE CHEVALIER.</l>
-      <l corresp="f28_z2_l20_t">Eh dis-moi, je te prie, quelle est cette</l>
-      <l corresp="f28_z2_l21_t">jeune personne ?</l>
-      <l corresp="f28_z2_l22_t">Madame DE SAINT-ANGE.</l>
-      <l corresp="f28_z2_l23_t">On la nomme Eugénie, elle est la fille d’un</l>
-      <pb corresp="f29"/>
-      <l corresp="f29_z2_l1_t">certain Mistival, l’un des plus riches traitans</l>
-      <l corresp="f29_z2_l2_t">de la capitale, agé d’environ trente-six ans ;</l>
-      <l corresp="f29_z2_l3_t">la mère en a tout au plus trente-deux, et la</l>
-      <l corresp="f29_z2_l4_t">petite fille quinze. Mistival est aussi libertin</l>
-      <l corresp="f29_z2_l5_t">que sa femme est dévote. Pour Eugenie, ce</l>
-      <l corresp="f29_z2_l6_t">serait en vain, mon ami, que j'essaierais de</l>
-      <l corresp="f29_z2_l7_t">te la peindre ; elle est au-dessus de mes pin¬</l>
-      <l corresp="f29_z2_l8_t">ceaux, qu’il te suffise d’être convaincu que</l>
-      <l corresp="f29_z2_l9_t">ni toi, ni moi n’avons certainement jamais</l>
-      <l corresp="f29_z2_l10_t">vu rien d’aussi délicieux au monde.</l>
-      <l corresp="f29_z2_l11_t">LE CHEVALIER.</l>
-      <l corresp="f29_z2_l12_t">Mais esquisse au moins, si tu ne peux pein¬</l>
-      <l corresp="f29_z2_l13_t">dre, afin que sachant à-peu-près à qui je</l>
-      <l corresp="f29_z2_l14_t">vais avoir à faire, je me remplisse mieux</l>
-      <l corresp="f29_z2_l15_t">l’imagination de l’idole où je dois sacrifer.</l>
-      <l corresp="f29_z2_l16_t">Madame DE SAINT-ANGE.</l>
-      <l corresp="f29_z2_l17_t">Eh bien, mon ami, ses cheveux châtains</l>
-      <l corresp="f29_z2_l18_t">qu’à peine on peut empoigner, lui descen¬</l>
-      <l corresp="f29_z2_l19_t">dent au bas des fesses, son teint est d’une</l>
-      <l corresp="f29_z2_l20_t">blancheur éblouissante, son nez un peu</l>
-      <l corresp="f29_z2_l21_t">aquilin, ses yeux d'un noir d’ébène , et</l>
-      <l corresp="f29_z2_l22_t">d’une ardeur...., oh, mon ami, il n’est</l>
-      <l corresp="f29_z2_l23_t">pas possible de tenir à ces yeux-là.....,</l>
-      <l corresp="f29_z2_l24_t">tu n’imagines point toutes les sottises qu’ils</l>
-      <pb corresp="f30"/>
-      <l corresp="f30_z2_l1_t">m’ont fait faire..., si tu voyais les jolis sour¬</l>
-      <l corresp="f30_z2_l2_t">cils qui les couronnent...., Ies intéressantes</l>
-      <l corresp="f30_z2_l3_t">paupières qui les bordent, sa bouche est très-</l>
-      <l corresp="f30_z2_l4_t">petite, ses dents superbes, et tout cela d’une</l>
-      <l corresp="f30_z2_l5_t">fraîcheur.... Une de ses beautés est la ma¬</l>
-      <l corresp="f30_z2_l6_t">nière élégante dont sa belle tête est attachée</l>
-      <l corresp="f30_z2_l7_t">sur ses épaules, l’air de noblesse qu’elle a</l>
-      <l corresp="f30_z2_l8_t">quand elle la tourne......... Eugénie est</l>
-      <l corresp="f30_z2_l9_t">grande pour son âge, on lui donnerait dix-</l>
-      <l corresp="f30_z2_l10_t">sept ans, sa taille est un modèle d’élégance</l>
-      <l corresp="f30_z2_l11_t">et de finesse, sa gorge délicieuse...., ce sont</l>
-      <l corresp="f30_z2_l12_t">bien les deux plus jolis petits tetons...., à</l>
-      <l corresp="f30_z2_l13_t">peine y a-t-il de quoi remplir la main, mais</l>
-      <l corresp="f30_z2_l14_t">si doux...., si frais...., si blancs ; vingt fois</l>
-      <l corresp="f30_z2_l15_t">j’ai perdu la tête en les baisant, et si tu avais</l>
-      <l corresp="f30_z2_l16_t">vu comme elle s’animait sous mes caresses...,</l>
-      <l corresp="f30_z2_l17_t">comme ses deux grands yeux me peignaient</l>
-      <l corresp="f30_z2_l18_t">l’état de son ame... ; mon ami, je ne sais pas</l>
-      <l corresp="f30_z2_l19_t">comme est le reste. Ah! s’il en faut juger par</l>
-      <l corresp="f30_z2_l20_t">ce que je connais, jamais l’Olimpe n’eut une</l>
-      <l corresp="f30_z2_l21_t">divinité qui la valût.... Mais je l'entends....</l>
-      <l corresp="f30_z2_l22_t">Laisse-nous, sors par le jardin pour ne la</l>
-      <l corresp="f30_z2_l23_t">point rencontrer, et sois exact au rendez-</l>
-      <l corresp="f30_z2_l24_t">vous.</l>
-      <pb corresp="f31"/>
-      <l corresp="f31_z2_l1_t">LE CHEVALIER.</l>
-      <l corresp="f31_z2_l2_t">Le tableau que tu viens de me faire te</l>
-      <l corresp="f31_z2_l3_t">répond de mon exactitude.... Oh ciel ! sor¬</l>
-      <l corresp="f31_z2_l4_t">tir.... te quitter dans l'état où je suis....</l>
-      <l corresp="f31_z2_l5_t">Adieu.... un baiser.... un seul baiser, ma</l>
-      <l corresp="f31_z2_l6_t">sœur, pour me satisfaire au-moins jusque-là.</l>
-      <l corresp="f31_z2_l7_t">( Elle le baise, touche son vit au travers de sa</l>
-      <l corresp="f31_z2_l8_t">culotte, et le jeune homme sort avec précipita¬</l>
-      <l corresp="f31_z2_l9_t">tion.)</l>
+      <div>
+        <pb corresp="#f7"/>
+        <note corresp="#f7_z1" n="MarginTextZone"><lb corresp="#f7_z1_l1_t"/>La philosophie dans</note>
+        <note corresp="#f7_z1" n="MarginTextZone"><lb corresp="#f7_z1_l2_t"/>le Boudoir</note>
+        <note corresp="#f7_z1" n="MarginTextZone"><lb corresp="#f7_z1_l3_t"/>par De Sade</note>
+        <note corresp="#f7_z1" n="MarginTextZone"><lb corresp="#f7_z1_l4_t"/>pere de justine</note>
+        <pb corresp="#f13"/>
+        <p corresp="#f13_z2" n="MainZone">
+<hi n="HeadingLine"><lb corresp="#f13_z2_l1_t"/>AUX LIBERTINS.</hi>
+<lb corresp="#f13_z2_l2_t"/>OLUPTUEUX de tous les âges
+<lb corresp="#f13_z2_l3_t"/>et de tous les sexes, c’est à vous seuls
+<lb corresp="#f13_z2_l4_t"/>que j’offre cet ouvrage; nourrissez-vous
+<lb corresp="#f13_z2_l5_t"/>de ses principes, ils favorisent vos pas¬
+<lb corresp="#f13_z2_l6_t"/>sions, et ces passions, dont de froids et
+<lb corresp="#f13_z2_l7_t"/>plats moralistes vous effrayent, ne sont
+<lb corresp="#f13_z2_l8_t"/>que les moyens que la nature emploie
+<lb corresp="#f13_z2_l9_t"/>pour faire parvenir l’homme aux vues
+<lb corresp="#f13_z2_l10_t"/>qu’elle a sur lui ; n’écoutez que ces pas¬
+<lb corresp="#f13_z2_l11_t"/>sions délicieuses, leur organe est le seul
+<lb corresp="#f13_z2_l12_t"/>qui doive vous conduire au bonheur.
+<lb corresp="#f13_z2_l13_t"/>Femmes lubriques, que la voluptueuse
+<lb corresp="#f13_z2_l14_t"/>Saint-Ange soit votre modèle; méprisez,
+<lb corresp="#f13_z2_l15_t"/>à son exemple, tout ce qui contrarie les
+<lb corresp="#f13_z2_l16_t"/>loix divines du plaisir qui l’enchaînèrent
+<lb corresp="#f13_z2_l17_t"/>toute sa vie.
+<lb corresp="#f13_z2_l18_t"/>Jeunes filles trop long-temps contenues
+</p>
+        <pb corresp="#f14"/>
+        <p corresp="#f14_z1" n="MainZone">
+<lb corresp="#f14_z1_l1_t"/>dans les liens absurdes et dangereux d’une
+<lb corresp="#f14_z1_l2_t"/>vertu fantastique et d’une religion dégou¬
+<lb corresp="#f14_z1_l3_t"/>tante, imitez l’ardente Eugénie, détrui¬
+<lb corresp="#f14_z1_l4_t"/>sez, foulez aux pieds, avec autant de
+<lb corresp="#f14_z1_l5_t"/>rapidité qu’elle, tous les préceptes ridi¬
+<lb corresp="#f14_z1_l6_t"/>cules, inculqués par d’imbécilles parens.
+<lb corresp="#f14_z1_l7_t"/>Et vous, aimables débauchés, vous
+<lb corresp="#f14_z1_l8_t"/>qui, depuis votre jeunesse, n’avez plus
+<lb corresp="#f14_z1_l9_t"/>d’autres freins que vos desirs, et d’autres
+<lb corresp="#f14_z1_l10_t"/>loix que vos caprices, que le cinique
+<lb corresp="#f14_z1_l11_t"/>Dolmancé vous serve d’exemple ; allez
+<lb corresp="#f14_z1_l12_t"/>aussi loin que lui, si, comme lui, vous
+<lb corresp="#f14_z1_l13_t"/>voulez parcourir toutes les routes de
+<lb corresp="#f14_z1_l14_t"/>fleurs que la lubricité vous prépare; con¬
+<lb corresp="#f14_z1_l15_t"/>vainquez-vous à son école que ce n’est
+<lb corresp="#f14_z1_l16_t"/>qu’en étendant la sphère de ses goûts et
+<lb corresp="#f14_z1_l17_t"/>de ses fantaisies, que ce n’est qu’en sa¬
+<lb corresp="#f14_z1_l18_t"/>crifiant tout à la volupté, que le malheu¬
+<lb corresp="#f14_z1_l19_t"/>reux individu connu Sous le nom d’hom¬
+<lb corresp="#f14_z1_l20_t"/>me; et jeté malgré lui sur ce triste uni¬
+<lb corresp="#f14_z1_l21_t"/>vers, peut réussir à semer quelques roses
+<lb corresp="#f14_z1_l22_t"/>sur les épines de la vie.
+</p>
+        <pb corresp="#f15"/>
+        <p corresp="#f15_z1" n="MainZone">
+<hi n="HeadingLine"><lb corresp="#f15_z1_l1_t"/>LA PHILOSOPHIE</hi>
+<hi n="HeadingLine"><lb corresp="#f15_z1_l2_t"/>DANS LE BOUDOIR,</hi>
+<hi n="HeadingLine"><lb corresp="#f15_z1_l3_t"/>LES INSTITUTEURS IMMORAUX,</hi>
+<hi n="HeadingLine"><lb corresp="#f15_z1_l4_t"/>OU</hi>
+<hi n="HeadingLine"><lb corresp="#f15_z1_l5_t"/>DIALOGUES</hi>
+<hi n="HeadingLine"><lb corresp="#f15_z1_l6_t"/>Destinés à l’éducation des jeunes Demoiselles.</hi>
+<lb corresp="#f15_z1_l7_t"/>PREMIER DIALOGUE.
+<lb corresp="#f15_z1_l8_t"/>Madame DE SAINT-ANGE, le Chevalier
+<lb corresp="#f15_z1_l9_t"/>DE MIRVEL.
+<lb corresp="#f15_z1_l10_t"/>Madame DE SAINT-ANGE.
+<lb corresp="#f15_z1_l11_t"/>onjour mon frere, eh bien, M. Dolmancé ?
+<lb corresp="#f15_z1_l12_t"/>LE CHEVALIER.
+<lb corresp="#f15_z1_l13_t"/>Il arrivera à quatre heures précises, nous
+</p>
+        <fw corresp="#f15_z3" n="QuireMarksZone"><lb corresp="#f15_z3_l1_t"/>Tome I.</fw>
+        <fw corresp="#f15_z4" n="QuireMarksZone"><lb corresp="#f15_z4_l1_t"/>A</fw>
+        <pb corresp="#f16"/>
+        <fw corresp="#f16_z1" n="NumberingZone"><lb corresp="#f16_z1_l1_t"/>(2)</fw>
+        <p corresp="#f16_z2" n="MainZone">
+<lb corresp="#f16_z2_l1_t"/>ne dînons qu’à sept, nous aurons, comme
+<lb corresp="#f16_z2_l2_t"/>tu vois, tout le temps de jaser.
+<lb corresp="#f16_z2_l3_t"/>Madame DE SAINT-ANGE.
+<lb corresp="#f16_z2_l4_t"/>Sais-tu, mon frère, que je me repents un
+<lb corresp="#f16_z2_l5_t"/>peu, et de ma curiosité, et de tous les pro¬
+<lb corresp="#f16_z2_l6_t"/>jets obscènes formés pour aujourd’hui; en
+<lb corresp="#f16_z2_l7_t"/>verité, mon ami, tu es trop indulgent, plus
+<lb corresp="#f16_z2_l8_t"/>je devrais être raisonnable, plus ma maudite
+<lb corresp="#f16_z2_l9_t"/>tête s’irrite et devient libertine : tu me passes
+<lb corresp="#f16_z2_l10_t"/>tout, cela ne sert qu’a me gâter..... A vingt-
+<lb corresp="#f16_z2_l11_t"/>six ans, je devrais être dejà dévote, et je
+<lb corresp="#f16_z2_l12_t"/>ne suis encore que la plus débordée des
+<lb corresp="#f16_z2_l13_t"/>femmes..... On n’a pas d’idée de ce que je
+<lb corresp="#f16_z2_l14_t"/>conçois, mon ami, de ce que je voudrais
+<lb corresp="#f16_z2_l15_t"/>faire. J’imaginais qu’en m’en tenant aux
+<lb corresp="#f16_z2_l16_t"/>femmes, cela me rendrait sage; .... que mes
+<lb corresp="#f16_z2_l17_t"/>desirs concentrés dans mon sexe, ne s’exha¬
+<lb corresp="#f16_z2_l18_t"/>Ieraient plus vers Ie vôtre; projets chime¬
+<lb corresp="#f16_z2_l19_t"/>riques, mon ami, les plaisirs dont je voulais
+<lb corresp="#f16_z2_l20_t"/>me priver, ne sont venus s’offrir qu’avec plus
+<lb corresp="#f16_z2_l21_t"/>d’ardeur à mon esprit, et j’ai vu que quand
+<lb corresp="#f16_z2_l22_t"/>on était, comme moi, née pour le liberti¬
+<lb corresp="#f16_z2_l23_t"/>nage, il devenait inutile de songer à s’impo¬
+<lb corresp="#f16_z2_l24_t"/>ser des freins, de fongueux desirs les brisent
+</p>
+        <pb corresp="#f17"/>
+        <p corresp="#f17_z1" n="MainZone">
+<lb corresp="#f17_z1_l1_t"/>bientôt. Enfin, mon cher, je suis un animal
+<lb corresp="#f17_z1_l2_t"/>amphibie, j’aime tout, je m’amuse de tout,
+<lb corresp="#f17_z1_l3_t"/>je veux reunir tous les genres; mais, avoue-
+<lb corresp="#f17_z1_l4_t"/>le, mon frère, n’est-ce pas une extravagance
+<lb corresp="#f17_z1_l5_t"/>complette à moi, que de vouloir connaître
+<lb corresp="#f17_z1_l6_t"/>ce singulier Dolmancé qui de ses jours, dis-
+<lb corresp="#f17_z1_l7_t"/>tu, n’a pu voir une femme comme l’usage le
+<lb corresp="#f17_z1_l8_t"/>prescrit, qui, sodomite par principe, non-
+<lb corresp="#f17_z1_l9_t"/>seulement est idolâtre de son sexe, mais ne
+<lb corresp="#f17_z1_l10_t"/>cède même au nôtre, que sous la clause spé¬
+<lb corresp="#f17_z1_l11_t"/>ciale de lui livrer les attraits chéris dont il
+<lb corresp="#f17_z1_l12_t"/>est accoutumé de se servir chez les hommes.
+<lb corresp="#f17_z1_l13_t"/>Vois, mon frère, quelle est ma bizarre fan¬
+<lb corresp="#f17_z1_l14_t"/>taisie ! je veux être le Ganimède de ce nou¬
+<lb corresp="#f17_z1_l15_t"/>veau Jupiter, je veux jouir de ses goûts, de
+<lb corresp="#f17_z1_l16_t"/>ses débauches, je veux être la victime de ses
+<lb corresp="#f17_z1_l17_t"/>erreurs : jusqu’à présent tu le sais, mon cher,
+<lb corresp="#f17_z1_l18_t"/>je ne me suis livrée ainsi, qu’à toi, par com¬
+<lb corresp="#f17_z1_l19_t"/>plaisance, ou qu’à quelqu’un de mes gens
+<lb corresp="#f17_z1_l20_t"/>qui, payé pour me traiter de cette façon, ne
+<lb corresp="#f17_z1_l21_t"/>s’y prêtait que par intérêt; aujourd’hui ce
+<lb corresp="#f17_z1_l22_t"/>n’est plut ni la complaisance, ni le caprice,
+<lb corresp="#f17_z1_l23_t"/>c’est le goût seul qui me détermine..... Je
+<lb corresp="#f17_z1_l24_t"/>crois, entre les procédés qui m’ont asservie,
+</p>
+        <fw corresp="#f17_z2" n="NumberingZone"><lb corresp="#f17_z2_l1_t"/>(3)</fw>
+        <fw corresp="#f17_z3" n="QuireMarksZone"><lb corresp="#f17_z3_l1_t"/>A ij</fw>
+        <pb corresp="#f18"/>
+        <fw corresp="#f18_z1" n="NumberingZone"><lb corresp="#f18_z1_l1_t"/>(4)</fw>
+        <p corresp="#f18_z2" n="MainZone">
+<lb corresp="#f18_z2_l1_t"/>et ceux qui vont m’asservir à cette manie
+<lb corresp="#f18_z2_l2_t"/>bizarre, une inconcevable difference, et je
+<lb corresp="#f18_z2_l3_t"/>veux la connaître. Peins-moi ton Dolmancé,
+<lb corresp="#f18_z2_l4_t"/>je t’en conjure, afin que je l’aye bien dans la
+<lb corresp="#f18_z2_l5_t"/>tête avant que de le voir arriver; car tu sais
+<lb corresp="#f18_z2_l6_t"/>que je ne le connais que pour l’avoir rencon¬
+<lb corresp="#f18_z2_l7_t"/>tré l’autre jour dans une maison où je ne fus
+<lb corresp="#f18_z2_l8_t"/>que quelques minutes avec lui.
+<lb corresp="#f18_z2_l9_t"/>LE CHEVALIER.
+<lb corresp="#f18_z2_l10_t"/>Dolmancé, ma sœur, vient d’atteindre sa
+<lb corresp="#f18_z2_l11_t"/>trente-sixième année, il est grand, d’une
+<lb corresp="#f18_z2_l12_t"/>fort belle figure, des yeux très-vifs et très-
+<lb corresp="#f18_z2_l13_t"/>spirituels, mais quelque chose d’un peu dur
+<lb corresp="#f18_z2_l14_t"/>et d’un peu méchant se peint malgré lui dans
+<lb corresp="#f18_z2_l15_t"/>ses traits; il a les plus belles dents du monde,
+<lb corresp="#f18_z2_l16_t"/>un peu de mollesse dans la taille et dans la
+<lb corresp="#f18_z2_l17_t"/>tournure, par l’habitude, sans doute, qu’il
+<lb corresp="#f18_z2_l18_t"/>a de prendre si souvent des airs feminins; il
+<lb corresp="#f18_z2_l19_t"/>est d’une élégance extrême, une jolie voix,
+<lb corresp="#f18_z2_l20_t"/>des talens, et principalement beaucoup de
+<lb corresp="#f18_z2_l21_t"/>philosophie dans l’esprit.
+<lb corresp="#f18_z2_l22_t"/>Madame DE SAINT-ANGE.
+<lb corresp="#f18_z2_l23_t"/>Il ne croit pas en Dieu, j’espère?
+</p>
+        <pb corresp="#f19"/>
+        <fw corresp="#f19_z1" n="NumberingZone"><lb corresp="#f19_z1_l1_t"/>(5)</fw>
+        <p corresp="#f19_z2" n="MainZone">
+<lb corresp="#f19_z2_l1_t"/>LE CHEVALIER.
+<lb corresp="#f19_z2_l2_t"/>Ah ! que dis-tu là? c'est le plus célèbre
+<lb corresp="#f19_z2_l3_t"/>athée, l'homme le plus immoral..... Oh !
+<lb corresp="#f19_z2_l4_t"/>c’est bien la corruption la plus complette
+<lb corresp="#f19_z2_l5_t"/>et la plus entière, l’individu le plus méchant
+<lb corresp="#f19_z2_l6_t"/>et le plus scélérat qui puisse exister au
+<lb corresp="#f19_z2_l7_t"/>monde.
+<lb corresp="#f19_z2_l8_t"/>Madame DE SAINT-ANGE.
+<lb corresp="#f19_z2_l9_t"/>Comme tout cela m’échauffe,  je vais raffo¬
+<lb corresp="#f19_z2_l10_t"/>ler de cet homme, et ses goûts, mon frère ?
+<lb corresp="#f19_z2_l11_t"/>LE CHEVALIER.
+<lb corresp="#f19_z2_l12_t"/>Tu les sais ; les délices de Sodome lui sont
+<lb corresp="#f19_z2_l13_t"/>aussi chers comme agent que comme patient;
+<lb corresp="#f19_z2_l14_t"/>il n’aime que les hommes dans ses plaisirs,
+<lb corresp="#f19_z2_l15_t"/>et si quelquefois néanmoins il consent à es¬
+<lb corresp="#f19_z2_l16_t"/>sayer des femmes, ce n’est qu’aux conditions
+<lb corresp="#f19_z2_l17_t"/>qu’elles seront assez complaisantes pour chan¬
+<lb corresp="#f19_z2_l18_t"/>ger de sexe avec lui. Je lui ai parlé de toi,
+<lb corresp="#f19_z2_l19_t"/>je l’ai prévenu de tes intentions, il accepte,
+<lb corresp="#f19_z2_l20_t"/>et t’avertit à son tour des clauses du marché
+<lb corresp="#f19_z2_l21_t"/>Je t'en préviens, ma sœur, il te refusera
+<lb corresp="#f19_z2_l22_t"/>tout net, si tu prétends l’engager à autre
+<lb corresp="#f19_z2_l23_t"/>chose : ce que je consens à faire avec votre
+</p>
+        <fw corresp="#f19_z3" n="QuireMarksZone"><lb corresp="#f19_z3_l1_t"/>A iij</fw>
+        <pb corresp="#f20"/>
+        <fw corresp="#f20_z1" n="NumberingZone"><lb corresp="#f20_z1_l1_t"/>(6)</fw>
+        <p corresp="#f20_z2" n="MainZone">
+<lb corresp="#f20_z2_l1_t"/>sœur, est, prétend-il, une licence,... une
+<lb corresp="#f20_z2_l2_t"/>incartade dont on ne se souille que rarement
+<lb corresp="#f20_z2_l3_t"/>et avec beaucoup de précautions.
+<lb corresp="#f20_z2_l4_t"/>Madame DE SAINT-ANGE.
+<lb corresp="#f20_z2_l5_t"/>Se souiller ! .... des précautions ! j'aime à la
+<lb corresp="#f20_z2_l6_t"/>folie le langage de ces aimables gens ; entre
+<lb corresp="#f20_z2_l7_t"/>nous autres femmes, nous avons aussi de ces
+<lb corresp="#f20_z2_l8_t"/>mots exclusifs qui prouvent comme ceux-là,
+<lb corresp="#f20_z2_l9_t"/>l’horreur profonde dont elles sont pénétrées
+<lb corresp="#f20_z2_l10_t"/>pour tout ce qui ne tient pas au culte admis...
+<lb corresp="#f20_z2_l11_t"/>Eh, dis-moi, mon cher,... il t’a eu? avec
+<lb corresp="#f20_z2_l12_t"/>ta delicieuse figure et tes vingt ans; on peut,
+<lb corresp="#f20_z2_l13_t"/>je crois, captiver un tel homme?
+<lb corresp="#f20_z2_l14_t"/>LE CHEVALIER.
+<lb corresp="#f20_z2_l15_t"/>Je ne te cacherai point mes extravagances
+<lb corresp="#f20_z2_l16_t"/>avec lui, tu as trop d’esprit pour les blamer.
+<lb corresp="#f20_z2_l17_t"/>Dans le fait, j’aime les femmes moi, et je
+<lb corresp="#f20_z2_l18_t"/>ne me livre à ces goûts bizarres que quand un
+<lb corresp="#f20_z2_l19_t"/>homme aimable m’en presse. Il n’y a rien que
+<lb corresp="#f20_z2_l20_t"/>je ne fasse alors ; je suis loin de cette morgue
+<lb corresp="#f20_z2_l21_t"/>ridicule qui fait croire à nos jeunes fréluquets
+<lb corresp="#f20_z2_l22_t"/>qu’il faut repondre par des coups de canne à
+</p>
+        <pb corresp="#f21"/>
+        <fw corresp="#f21_z1" n="NumberingZone"><lb corresp="#f21_z1_l1_t"/>(7)</fw>
+        <p corresp="#f21_z2" n="MainZone">
+<lb corresp="#f21_z2_l1_t"/>de semblables propositions; l’homme est-il
+<lb corresp="#f21_z2_l2_t"/>Ie maître de ses goûts ? Il faut plaindre ceux
+<lb corresp="#f21_z2_l3_t"/>qui en ont de singuliers, mais ne les insulter
+<lb corresp="#f21_z2_l4_t"/>jamais, leur tort est celui de la nature, ils
+<lb corresp="#f21_z2_l5_t"/>n’etaient pas plus les maîtres d’arriver au
+<lb corresp="#f21_z2_l6_t"/>monde avec des goûts différens, que nous ne
+<lb corresp="#f21_z2_l7_t"/>Ie sommes de naître ou bancal ou bienfait.
+<lb corresp="#f21_z2_l8_t"/>Un homme vous dit-il d’ailleurs une chose de¬
+<lb corresp="#f21_z2_l9_t"/>sagréable en vous témoignant le desir qu’il a
+<lb corresp="#f21_z2_l10_t"/>de jouir de vous? non sans doute, c’est un
+<lb corresp="#f21_z2_l11_t"/>compliment qu’il vous fait; pourquoi donc
+<lb corresp="#f21_z2_l12_t"/>y répondre par des injures ou des insultes?
+<lb corresp="#f21_z2_l13_t"/>Il n’y a que les sots qui puissent penser ainsi,
+<lb corresp="#f21_z2_l14_t"/>jamais un homme raisonnable ne parlera sur
+<lb corresp="#f21_z2_l15_t"/>cette matière différemment que je ne fais ;
+<lb corresp="#f21_z2_l16_t"/>mais c’est que le monde est peuplé de plats
+<lb corresp="#f21_z2_l17_t"/>imbéciles qui croyent que c’est leur manquer
+<lb corresp="#f21_z2_l18_t"/>que de leur avouer qu’on les trouve propres
+<lb corresp="#f21_z2_l19_t"/>à des plaisirs, et qui gâtés par les femmes,
+<lb corresp="#f21_z2_l20_t"/>toujours jalouses de ce qui a l’air d’attenter
+<lb corresp="#f21_z2_l21_t"/>à leurs droits, s’imaginent être les Doms
+<lb corresp="#f21_z2_l22_t"/>Quichottes de ces droits ordinaires, en bru¬
+<lb corresp="#f21_z2_l23_t"/>talisant ceux qui n’en reconnainssent pas toute
+<lb corresp="#f21_z2_l24_t"/>l'étendue.
+</p>
+        <pb corresp="#f22"/>
+        <fw corresp="#f22_z1" n="NumberingZone"><lb corresp="#f22_z1_l1_t"/>(8)</fw>
+        <p corresp="#f22_z2" n="MainZone">
+<lb corresp="#f22_z2_l1_t"/>Madame de 8AINT-ANGE.
+<lb corresp="#f22_z2_l2_t"/>Ah! mon ami, baise-moi, tu ne serais pas
+<lb corresp="#f22_z2_l3_t"/>mon frère si tu pensais différemment ; mais
+<lb corresp="#f22_z2_l4_t"/>un peu de détail, je t’en conjure, et sur le
+<lb corresp="#f22_z2_l5_t"/>physique de cet homme et sur ces plaisirs avec
+<lb corresp="#f22_z2_l6_t"/>toi.
+<lb corresp="#f22_z2_l7_t"/>LE CHEVALIER.
+<lb corresp="#f22_z2_l8_t"/>M. Dolmancé était instruit par un de mes
+<lb corresp="#f22_z2_l9_t"/>amis, du superbe membre dont tu sais que
+<lb corresp="#f22_z2_l10_t"/>je suis pourvu, il engagea le marquis de V...
+<lb corresp="#f22_z2_l11_t"/>à me donner à souper avec lui. Une fois là, il
+<lb corresp="#f22_z2_l12_t"/>fallut bien exhiber ce que je portais; la curio¬
+<lb corresp="#f22_z2_l13_t"/>sité parut d’abord être Ie seul motif, un très-
+<lb corresp="#f22_z2_l14_t"/>beau cul qu’on me tourna, et dont on me
+<lb corresp="#f22_z2_l15_t"/>supplia de jouir, me fit bientôt voir que le
+<lb corresp="#f22_z2_l16_t"/>goût seul avait eu part à cet examen. Je pré¬
+<lb corresp="#f22_z2_l17_t"/>vins Dolmancé de toutes les difficultés de l’en¬
+<lb corresp="#f22_z2_l18_t"/>treprise, rien ne l’effaroucha. Je suis à l’é¬
+<lb corresp="#f22_z2_l19_t"/>preuve du bélier, me dit-il, et vous n’aurez
+<lb corresp="#f22_z2_l20_t"/>même pas la gloire d’être le plus redoutable
+<lb corresp="#f22_z2_l21_t"/>des hommes qui perforèrent le cul que je vous
+<lb corresp="#f22_z2_l22_t"/>offre. Le Marquis était là, il nous encoura¬
+<lb corresp="#f22_z2_l23_t"/>geait en tripotant, maniant, baisant tout ce
+<lb corresp="#f22_z2_l24_t"/>que nous mettions au jour l’un et l’autre. Je
+</p>
+        <pb corresp="#f23"/>
+        <fw corresp="#f23_z1" n="NumberingZone"><lb corresp="#f23_z1_l1_t"/>(9)</fw>
+        <p corresp="#f23_z2" n="MainZone">
+<lb corresp="#f23_z2_l1_t"/>me présente....  je veux au moins quelques
+<lb corresp="#f23_z2_l2_t"/>apprêts ; gardez-vous en bien, me dit le Mar¬
+<lb corresp="#f23_z2_l3_t"/>quis, vous ôteriez la moitié des sensations
+<lb corresp="#f23_z2_l4_t"/>que Dolmancé attend de vous ; il veut qu’on
+<lb corresp="#f23_z2_l5_t"/>le pourfende.... il veut qu’on le déchire ; il
+<lb corresp="#f23_z2_l6_t"/>sera satisfait, dis-je, en une plongeant aveu¬
+<lb corresp="#f23_z2_l7_t"/>glément dans le gouffre.... et tu crois peut-
+<lb corresp="#f23_z2_l8_t"/>être, ma sœur, que j’eus beaucoup de peine...
+<lb corresp="#f23_z2_l9_t"/>pas un mot ; mon vit, tout énorme qu’il est,
+<lb corresp="#f23_z2_l10_t"/>disparut sans que je m’en doutasse, et je
+<lb corresp="#f23_z2_l11_t"/>touchais le fond de ses entrailles sans que le
+<lb corresp="#f23_z2_l12_t"/>bougre eût l’air de le sentir. Je traitai Dol¬
+<lb corresp="#f23_z2_l13_t"/>mancé en ami, l’excessive volupté qu’il goû¬
+<lb corresp="#f23_z2_l14_t"/>tait, ses frétillemens, ses propos délicieux,
+<lb corresp="#f23_z2_l15_t"/>tout me rendit bientôt heureux moi-méme,
+<lb corresp="#f23_z2_l16_t"/>et je l’inondai. A peine fus-je dehors que Dol¬
+<lb corresp="#f23_z2_l17_t"/>mancé se retournant vers moi échévelé, rouge
+<lb corresp="#f23_z2_l18_t"/>comme une bacchante : tu vois l’état où tu
+<lb corresp="#f23_z2_l19_t"/>m’as mis cher Chevalier, me dit-il, en m’of¬
+<lb corresp="#f23_z2_l20_t"/>frant un vit sec et mutin, fort long, et d’au
+<lb corresp="#f23_z2_l21_t"/>moins six pouces de tour, daigne, je t’en
+<lb corresp="#f23_z2_l22_t"/>conjure, ô mon amour, me servir de femme
+<lb corresp="#f23_z2_l23_t"/>après avoir été mon amant, et que je puisse
+<lb corresp="#f23_z2_l24_t"/>dire que j'ai goûté dans tes bras divins tous
+</p>
+        <pb corresp="#f24"/>
+        <fw corresp="#f24_z1" n="NumberingZone"><lb corresp="#f24_z1_l1_t"/>(10)</fw>
+        <p corresp="#f24_z2" n="MainZone">
+<lb corresp="#f24_z2_l1_t"/>Ies plaisirs du goût que je chéris avec tant
+<lb corresp="#f24_z2_l2_t"/>d’empire. Trouvant aussi peu de difficulté à
+<lb corresp="#f24_z2_l3_t"/>l’un qu’à l’autre, je me prêtai ; le Marquis se
+<lb corresp="#f24_z2_l4_t"/>déculottant à mes yeux, me conjura de vou¬
+<lb corresp="#f24_z2_l5_t"/>loir bien être encore un peu homme avec lui
+<lb corresp="#f24_z2_l6_t"/>pendant que j’allais être la femme de son
+<lb corresp="#f24_z2_l7_t"/>ami ; je le traitai comme Dolmancé, qui me
+<lb corresp="#f24_z2_l8_t"/>rendant au centuple toutes les secouses dont
+<lb corresp="#f24_z2_l9_t"/>j’accablais notre tiers, exhala bientôt au fond
+<lb corresp="#f24_z2_l10_t"/>de mon cul, cette liqueur enchanteresse dont
+<lb corresp="#f24_z2_l11_t"/>j’arrosais, presqu’en même temps celui de
+<lb corresp="#f24_z2_l12_t"/>V....
+<lb corresp="#f24_z2_l13_t"/>Madame DE SAINT-ANGE.
+<lb corresp="#f24_z2_l14_t"/>Tu dois avoir eu le plus grand plaisir,
+<lb corresp="#f24_z2_l15_t"/>mon frère, à te trouver ainsi entre deux, on
+<lb corresp="#f24_z2_l16_t"/>dit que c’est charmant.
+<lb corresp="#f24_z2_l17_t"/>LE CHEVALIER.
+<lb corresp="#f24_z2_l18_t"/>Il est bien certain, mon ange, que c'est la
+<lb corresp="#f24_z2_l19_t"/>meilleure place; mais quoi qu’on en puisse
+<lb corresp="#f24_z2_l20_t"/>dire, tout cela sont des extravagances que je
+<lb corresp="#f24_z2_l21_t"/>ne préférerai jamais au plaisir des femmes.
+<lb corresp="#f24_z2_l22_t"/>Madame DE SAINT-ANGE.
+<lb corresp="#f24_z2_l23_t"/>Eh bien, mon cher amour, pour récom¬
+</p>
+        <pb corresp="#f25"/>
+        <fw corresp="#f25_z1" n="NumberingZone"><lb corresp="#f25_z1_l1_t"/>(11)</fw>
+        <p corresp="#f25_z2" n="MainZone">
+<lb corresp="#f25_z2_l1_t"/>penser aujourd’hui ta délicate complaisance,
+<lb corresp="#f25_z2_l2_t"/>je vais livrer à tes ardeurs une jeune fille
+<lb corresp="#f25_z2_l3_t"/>vierge, et plus belle que l’amour.
+<lb corresp="#f25_z2_l4_t"/>LE CHEVALIER.
+<lb corresp="#f25_z2_l5_t"/>Comment, avec Dolmancé.... tu fais ve¬
+<lb corresp="#f25_z2_l6_t"/>nir une femme chez toi?
+<lb corresp="#f25_z2_l7_t"/>Madame DE SAINT-ANGE.
+<lb corresp="#f25_z2_l8_t"/>Il s'agit d'une éducation, c’est une petite
+<lb corresp="#f25_z2_l9_t"/>fille que j’ai connue au couvent l’automne
+<lb corresp="#f25_z2_l10_t"/>dernier, pendant que mon mari était aux
+<lb corresp="#f25_z2_l11_t"/>eaux. Là nous ne pûmes rien, nous n’osâ¬
+<lb corresp="#f25_z2_l12_t"/>mes rien, trop de yeux étaient fixés sur nous,
+<lb corresp="#f25_z2_l13_t"/>mais nous nous promîmes de nous réunir dès
+<lb corresp="#f25_z2_l14_t"/>que cela serait possible ; uniquement occu¬
+<lb corresp="#f25_z2_l15_t"/>pée de ce desir j’ai, pour y satisfaire, fait
+<lb corresp="#f25_z2_l16_t"/>connaissance avec sa famille. Son père est un
+<lb corresp="#f25_z2_l17_t"/>Iibertin.... que j’ai captivé. Enfin la belle
+<lb corresp="#f25_z2_l18_t"/>vient, je l’attends, nous passerons deux jours
+<lb corresp="#f25_z2_l19_t"/>ensemble.... deux jours délicieux, la meil¬
+<lb corresp="#f25_z2_l20_t"/>leure partie de ce temps, je l’emploie à édu¬
+<lb corresp="#f25_z2_l21_t"/>quer cette jeune personne. Dolmancé et moi
+<lb corresp="#f25_z2_l22_t"/>nous placerons dans cette jolie petite tête,
+<lb corresp="#f25_z2_l23_t"/>tous les principes du libertinage le plus ef¬
+</p>
+        <pb corresp="#f26"/>
+        <p corresp="#f26_z1" n="MainZone">
+<lb corresp="#f26_z1_l1_t"/>fréné, nous l’embrâserons de nos feux, nous
+<lb corresp="#f26_z1_l2_t"/>l’alimenterons de notre philosophie , nous lui
+<lb corresp="#f26_z1_l3_t"/>inspirerons nos désirs , et comme je veux join¬
+<lb corresp="#f26_z1_l4_t"/>dre un peu de pratique à la théorie, comme
+<lb corresp="#f26_z1_l5_t"/>je veux qu’on démontre à mesure qu’on dis¬
+<lb corresp="#f26_z1_l6_t"/>sertera, je t’ai destiné, mon frére, à la mois¬
+<lb corresp="#f26_z1_l7_t"/>son des myrthes de Cythère, Dolmancé à
+<lb corresp="#f26_z1_l8_t"/>celle des roses de Sodome. J’aurai deux plai¬
+<lb corresp="#f26_z1_l9_t"/>sirs à la fois, celui de jouir moi-même de ces
+<lb corresp="#f26_z1_l10_t"/>voluptés criminelles et celui d’en donner des
+<lb corresp="#f26_z1_l11_t"/>leçons, d’en inspirer les goûts à l’aimable
+<lb corresp="#f26_z1_l12_t"/>innocente que j’attire dans nos filets. Eh bien,
+<lb corresp="#f26_z1_l13_t"/>Chevalier, ce projet est-il digne de mon ima¬
+<lb corresp="#f26_z1_l14_t"/>gination ?
+<lb corresp="#f26_z1_l15_t"/>LE CHEVALIER.
+<lb corresp="#f26_z1_l16_t"/>Il ne peut être conçu que par elle , il est
+<lb corresp="#f26_z1_l17_t"/>divin, ma sœur, et je te promets d’y rem¬
+<lb corresp="#f26_z1_l18_t"/>plir à merveille le rôle charmant que tu m’y
+<lb corresp="#f26_z1_l19_t"/>destine. Ah ! friponne, comme tu vas jouir
+<lb corresp="#f26_z1_l20_t"/>du plaisir d’eduquer cette enfant ; quelles dé¬
+<lb corresp="#f26_z1_l21_t"/>lices pour toi de la corrompre, d’étouffer
+<lb corresp="#f26_z1_l22_t"/>dans ce jeune cœur toutes les semences de
+<lb corresp="#f26_z1_l23_t"/>vertu et de religion qu’y placèrent ses insti¬
+<lb corresp="#f26_z1_l24_t"/>tutrices. En verité cela est trop roué pour moi.
+</p>
+        <fw corresp="#f26_z2" n="NumberingZone"><lb corresp="#f26_z2_l1_t"/>(12)</fw>
+        <fw corresp="#f26_z3" n="QuireMarksZone"><lb corresp="#f26_z3_l1_t"/>Madame</fw>
+        <pb corresp="#f27"/>
+        <fw corresp="#f27_z1" n="NumberingZone"><lb corresp="#f27_z1_l1_t"/>(13)</fw>
+        <p corresp="#f27_z2" n="MainZone">
+<lb corresp="#f27_z2_l1_t"/>Madame DE SAINT-ANGE.
+<lb corresp="#f27_z2_l2_t"/>Il est bien sûr que je n’épargnerai rien pour
+<lb corresp="#f27_z2_l3_t"/>la pervertir, pour dégrader, pour culbuter
+<lb corresp="#f27_z2_l4_t"/>dans elle tous les faux principes de morale
+<lb corresp="#f27_z2_l5_t"/>dont on aurait pu déjà l’étourdir ; je veux ,
+<lb corresp="#f27_z2_l6_t"/>en deux leçons, la rendre aussi scélérate que
+<lb corresp="#f27_z2_l7_t"/>moi.... aussi impie.... aussi débauchée. Pré¬
+<lb corresp="#f27_z2_l8_t"/>viens Dolmancé, mets-le au fait dès qu’il
+<lb corresp="#f27_z2_l9_t"/>arrivera, pour que le venin de ses immora¬
+<lb corresp="#f27_z2_l10_t"/>lités circulant dans ce jeune cœur avec celui
+<lb corresp="#f27_z2_l11_t"/>que j’y lancerai, parvienne à déraciner dans
+<lb corresp="#f27_z2_l12_t"/>peu d’instans toutes les semences de vertu qui
+<lb corresp="#f27_z2_l13_t"/>pourraient y germer sans nous.
+<lb corresp="#f27_z2_l14_t"/>LE CHEVALIER.
+<lb corresp="#f27_z2_l15_t"/>Il était impossible de mieux trouver l’hom¬
+<lb corresp="#f27_z2_l16_t"/>me qu’il te fallait, l’irréligion, l’impiété,
+<lb corresp="#f27_z2_l17_t"/>l'inhumanité, le libertinage découlent des
+<lb corresp="#f27_z2_l18_t"/>Ièvres de Dolmancé, comme autrefois l’onc¬
+<lb corresp="#f27_z2_l19_t"/>tion mystique, de celles du célèbre archévêque
+<lb corresp="#f27_z2_l20_t"/>de Cambrai ; c’est le plus profond séducteur,
+<lb corresp="#f27_z2_l21_t"/>l'homme le plus corrompu, le plus dange¬
+<lb corresp="#f27_z2_l22_t"/>reux.... Ah ! ma chère amie, que ton élève
+<lb corresp="#f27_z2_l23_t"/>réponde aux soins de l’instituteur, et je te
+<lb corresp="#f27_z2_l24_t"/>la garantis bientôt perdue.
+</p>
+        <fw corresp="#f27_z3" n="QuireMarksZone"><lb corresp="#f27_z3_l1_t"/>Tome I.</fw>
+        <fw corresp="#f27_z4" n="QuireMarksZone"><lb corresp="#f27_z4_l1_t"/>B</fw>
+        <pb corresp="#f28"/>
+        <fw corresp="#f28_z1" n="NumberingZone"><lb corresp="#f28_z1_l1_t"/>(14)</fw>
+        <p corresp="#f28_z2" n="MainZone">
+<lb corresp="#f28_z2_l1_t"/>Madame DE SAINT-ANGE.
+<lb corresp="#f28_z2_l2_t"/>Cela ne sera sûrement pas long avec les dis¬
+<lb corresp="#f28_z2_l3_t"/>positions que je lui connais....
+<lb corresp="#f28_z2_l4_t"/>LE CHEVALIER.
+<lb corresp="#f28_z2_l5_t"/>Mais dis-moi, chère sœur, ne redoutes-tu
+<lb corresp="#f28_z2_l6_t"/>rien des parens ? Si cette petite fille venait à
+<lb corresp="#f28_z2_l7_t"/>jaser quand elle retournera chez elle.
+<lb corresp="#f28_z2_l8_t"/>Madame DE SAINT-ANGE.
+<lb corresp="#f28_z2_l9_t"/>Ne crains rien, j’ai séduit le pére.... il est
+<lb corresp="#f28_z2_l10_t"/>à moi, faut-il enfin te l’avouer , je me suis
+<lb corresp="#f28_z2_l11_t"/>livrée à lui pour qu’il fermât les yeux, il
+<lb corresp="#f28_z2_l12_t"/>ignore mes desseins, mais il n’osera jamais
+<lb corresp="#f28_z2_l13_t"/>les approfondir.... Je le tiens.
+<lb corresp="#f28_z2_l14_t"/>LE CHEVALIER.
+<lb corresp="#f28_z2_l15_t"/>Tes moyens sont affreux.
+<lb corresp="#f28_z2_l16_t"/>Madame DE SAINT-ANGE.
+<lb corresp="#f28_z2_l17_t"/>Voila comme il les faut pour qu’ils soient
+<lb corresp="#f28_z2_l18_t"/>sûrs.
+<lb corresp="#f28_z2_l19_t"/>LE CHEVALIER.
+<lb corresp="#f28_z2_l20_t"/>Eh dis-moi, je te prie, quelle est cette
+<lb corresp="#f28_z2_l21_t"/>jeune personne ?
+<lb corresp="#f28_z2_l22_t"/>Madame DE SAINT-ANGE.
+<lb corresp="#f28_z2_l23_t"/>On la nomme Eugénie, elle est la fille d’un
+</p>
+        <pb corresp="#f29"/>
+        <fw corresp="#f29_z1" n="NumberingZone"><lb corresp="#f29_z1_l1_t"/>(15)</fw>
+        <p corresp="#f29_z2" n="MainZone">
+<lb corresp="#f29_z2_l1_t"/>certain Mistival, l’un des plus riches traitans
+<lb corresp="#f29_z2_l2_t"/>de la capitale, agé d’environ trente-six ans ;
+<lb corresp="#f29_z2_l3_t"/>la mère en a tout au plus trente-deux, et la
+<lb corresp="#f29_z2_l4_t"/>petite fille quinze. Mistival est aussi libertin
+<lb corresp="#f29_z2_l5_t"/>que sa femme est dévote. Pour Eugenie, ce
+<lb corresp="#f29_z2_l6_t"/>serait en vain, mon ami, que j'essaierais de
+<lb corresp="#f29_z2_l7_t"/>te la peindre ; elle est au-dessus de mes pin¬
+<lb corresp="#f29_z2_l8_t"/>ceaux, qu’il te suffise d’être convaincu que
+<lb corresp="#f29_z2_l9_t"/>ni toi, ni moi n’avons certainement jamais
+<lb corresp="#f29_z2_l10_t"/>vu rien d’aussi délicieux au monde.
+<lb corresp="#f29_z2_l11_t"/>LE CHEVALIER.
+<lb corresp="#f29_z2_l12_t"/>Mais esquisse au moins, si tu ne peux pein¬
+<lb corresp="#f29_z2_l13_t"/>dre, afin que sachant à-peu-près à qui je
+<lb corresp="#f29_z2_l14_t"/>vais avoir à faire, je me remplisse mieux
+<lb corresp="#f29_z2_l15_t"/>l’imagination de l’idole où je dois sacrifer.
+<lb corresp="#f29_z2_l16_t"/>Madame DE SAINT-ANGE.
+<lb corresp="#f29_z2_l17_t"/>Eh bien, mon ami, ses cheveux châtains
+<lb corresp="#f29_z2_l18_t"/>qu’à peine on peut empoigner, lui descen¬
+<lb corresp="#f29_z2_l19_t"/>dent au bas des fesses, son teint est d’une
+<lb corresp="#f29_z2_l20_t"/>blancheur éblouissante, son nez un peu
+<lb corresp="#f29_z2_l21_t"/>aquilin, ses yeux d'un noir d’ébène , et
+<lb corresp="#f29_z2_l22_t"/>d’une ardeur...., oh, mon ami, il n’est
+<lb corresp="#f29_z2_l23_t"/>pas possible de tenir à ces yeux-là.....,
+<lb corresp="#f29_z2_l24_t"/>tu n’imagines point toutes les sottises qu’ils
+</p>
+        <fw corresp="#f29_z3" n="QuireMarksZone"><lb corresp="#f29_z3_l1_t"/>B ij</fw>
+        <pb corresp="#f30"/>
+        <fw corresp="#f30_z1" n="NumberingZone"><lb corresp="#f30_z1_l1_t"/>(16)</fw>
+        <p corresp="#f30_z2" n="MainZone">
+<lb corresp="#f30_z2_l1_t"/>m’ont fait faire..., si tu voyais les jolis sour¬
+<lb corresp="#f30_z2_l2_t"/>cils qui les couronnent...., Ies intéressantes
+<lb corresp="#f30_z2_l3_t"/>paupières qui les bordent, sa bouche est très-
+<lb corresp="#f30_z2_l4_t"/>petite, ses dents superbes, et tout cela d’une
+<lb corresp="#f30_z2_l5_t"/>fraîcheur.... Une de ses beautés est la ma¬
+<lb corresp="#f30_z2_l6_t"/>nière élégante dont sa belle tête est attachée
+<lb corresp="#f30_z2_l7_t"/>sur ses épaules, l’air de noblesse qu’elle a
+<lb corresp="#f30_z2_l8_t"/>quand elle la tourne......... Eugénie est
+<lb corresp="#f30_z2_l9_t"/>grande pour son âge, on lui donnerait dix-
+<lb corresp="#f30_z2_l10_t"/>sept ans, sa taille est un modèle d’élégance
+<lb corresp="#f30_z2_l11_t"/>et de finesse, sa gorge délicieuse...., ce sont
+<lb corresp="#f30_z2_l12_t"/>bien les deux plus jolis petits tetons...., à
+<lb corresp="#f30_z2_l13_t"/>peine y a-t-il de quoi remplir la main, mais
+<lb corresp="#f30_z2_l14_t"/>si doux...., si frais...., si blancs ; vingt fois
+<lb corresp="#f30_z2_l15_t"/>j’ai perdu la tête en les baisant, et si tu avais
+<lb corresp="#f30_z2_l16_t"/>vu comme elle s’animait sous mes caresses...,
+<lb corresp="#f30_z2_l17_t"/>comme ses deux grands yeux me peignaient
+<lb corresp="#f30_z2_l18_t"/>l’état de son ame... ; mon ami, je ne sais pas
+<lb corresp="#f30_z2_l19_t"/>comme est le reste. Ah! s’il en faut juger par
+<lb corresp="#f30_z2_l20_t"/>ce que je connais, jamais l’Olimpe n’eut une
+<lb corresp="#f30_z2_l21_t"/>divinité qui la valût.... Mais je l'entends....
+<lb corresp="#f30_z2_l22_t"/>Laisse-nous, sors par le jardin pour ne la
+<lb corresp="#f30_z2_l23_t"/>point rencontrer, et sois exact au rendez-
+<lb corresp="#f30_z2_l24_t"/>vous.
+</p>
+        <pb corresp="#f31"/>
+        <fw corresp="#f31_z1" n="NumberingZone"><lb corresp="#f31_z1_l1_t"/>(17)</fw>
+        <p corresp="#f31_z2" n="MainZone">
+<lb corresp="#f31_z2_l1_t"/>LE CHEVALIER.
+<lb corresp="#f31_z2_l2_t"/>Le tableau que tu viens de me faire te
+<lb corresp="#f31_z2_l3_t"/>répond de mon exactitude.... Oh ciel ! sor¬
+<lb corresp="#f31_z2_l4_t"/>tir.... te quitter dans l'état où je suis....
+<lb corresp="#f31_z2_l5_t"/>Adieu.... un baiser.... un seul baiser, ma
+<lb corresp="#f31_z2_l6_t"/>sœur, pour me satisfaire au-moins jusque-là.
+<lb corresp="#f31_z2_l7_t"/>( Elle le baise, touche son vit au travers de sa
+<lb corresp="#f31_z2_l8_t"/>culotte, et le jeune homme sort avec précipita¬
+<lb corresp="#f31_z2_l9_t"/>tion.)
+</p>
+        <fw corresp="#f31_z3" n="QuireMarksZone"><lb corresp="#f31_z3_l1_t"/>B iij</fw>
+      </div>
     </body>
   </text>
 </TEI>

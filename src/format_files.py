@@ -1,0 +1,13 @@
+from lxml import etree
+import re
+from collections import namedtuple
+
+class Files:
+    def __init__(self, document, filepaths):
+        self.d = document
+        self.fl = filepaths  # list
+
+    def order_files(self):
+        File = namedtuple("File", ["num", "filepath"])
+        ordered_files = sorted([File(int(re.search(r"(.*f)(\d+)", f.name).group(2)), f)for f in self.fl])
+        return ordered_files

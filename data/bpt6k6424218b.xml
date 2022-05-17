@@ -11,12 +11,17 @@
             <ptr type="isni" target="0000000120990126"/>
           </persName>
         </author>
-        <respStmt xml:id="KC">
-          <resp>transformation from ALTO4 to TEI by</resp>
+        <respStmt>
+          <resp>Transformation from ALTO4 to TEI by</resp>
           <persName>
             <forename>Kelly</forename>
             <surname>Christensen</surname>
             <ptr type="orcid" target="000000027236874X"/>
+          </persName>
+          <persName>
+            <forename>Simon</forename>
+            <surname>Gabay</surname>
+            <ptr type="orcid" target="0000000190944475"/>
           </persName>
         </respStmt>
       </titleStmt>
@@ -25,11 +30,11 @@
       </extent>
       <publicationStmt>
         <publisher>Gallic(orpor)a</publisher>
-        <authority>BnF DATAlab</authority>
+        <authority>BnF DATALab</authority>
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-12"/>
+        <date when="2022-05-17"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -2400,495 +2405,598 @@
   </sourceDoc>
   <text>
     <body>
-      <pb corresp="f15"/>
-      <l corresp="f15_z1_l4_t">E Soleil avoit acheué</l>
-      <l corresp="f15_z1_l5_t">plus de la moitié de ſa</l>
-      <l corresp="f15_z1_l7_t">courſe, &amp; ſon char ayant</l>
-      <l corresp="f15_z1_l8_t">attrappé le penchant du</l>
-      <l corresp="f15_z1_l9_t">monde roulloit plus viſte qu’il ne</l>
-      <l corresp="f15_z1_l10_t">vouloit. Si ſes cheuaux euſſent vou¬</l>
-      <l corresp="f15_z1_l11_t">lu profiter de la pente du chemin,</l>
-      <l corresp="f15_z1_l12_t">ils euſſent acheué ce qui reſtoit du</l>
-      <l corresp="f15_z1_l13_t">iour en moins d’vn demy-quart</l>
-      <pb corresp="f16"/>
-      <l corresp="f16_z1_l1_t">2</l>
-      <l corresp="f16_z1_l2_t">te leur force, ils ne s’amuſoient qu’à</l>
-      <l corresp="f16_z1_l3_t">faire des courbettes; reſpirant vn</l>
-      <l corresp="f16_z1_l4_t">air marin qui les faiſoit hannir, &amp;</l>
-      <l corresp="f16_z1_l5_t">les aduertiſſoit que la mer eſtoit</l>
-      <l corresp="f16_z1_l6_t">Proche, où l’on dit que leur Maiſtre</l>
-      <l corresp="f16_z1_l7_t">ſe couche toutes les nuits. Pour par¬</l>
-      <l corresp="f16_z1_l8_t">ler plus humainement &amp; plus intel¬</l>
-      <l corresp="f16_z1_l9_t">ligiblement, il eſtoit entre cinq &amp;</l>
-      <l corresp="f16_z1_l10_t">ſix; quand vne charette entra dans</l>
-      <l corresp="f16_z1_l11_t">les Halles du Mans. Cette charette</l>
-      <l corresp="f16_z1_l12_t">eſtoit attellée de quatre bœufs fort</l>
-      <l corresp="f16_z1_l13_t">maigres, conduits par vne Iument</l>
-      <l corresp="f16_z1_l14_t">Poulliniere, dont le poullain al¬</l>
-      <l corresp="f16_z1_l15_t">loit &amp; venoit à l’entour de la charet¬</l>
-      <l corresp="f16_z1_l16_t">te, comme vn petit fou qu’il eſtoit.</l>
-      <l corresp="f16_z1_l17_t">La charette eſtoit pleine de cof¬</l>
-      <l corresp="f16_z1_l18_t">fres, de malles &amp; de gros pa¬</l>
-      <l corresp="f16_z1_l19_t">quets de toilles peintes, qui faiſo¬</l>
-      <l corresp="f16_z1_l20_t">ient comme vne Pyramide, au haut</l>
-      <l corresp="f16_z1_l21_t">de laquelle paroiſſoit vne Demoi¬</l>
-      <l corresp="f16_z1_l22_t">ſelle, habillée moitié ville, moitié</l>
-      <l corresp="f16_z1_l23_t">campagne. Vn ieune homme auſ¬</l>
-      <l corresp="f16_z1_l24_t">ſi pauure d'habits que riche de mi¬</l>
-      <l corresp="f16_z1_l25_t">ne,</l>
-      <pb corresp="f17"/>
-      <l corresp="f17_z1_l1_t">ne, marchoit à coſté de la charette;</l>
-      <l corresp="f17_z1_l2_t">il auoit vne grande emplaſtre ſur le</l>
-      <l corresp="f17_z1_l3_t">viſage qui luy couuroit vn œil &amp; la</l>
-      <l corresp="f17_z1_l4_t">moitié de la ioüe, &amp; portoit vn</l>
-      <l corresp="f17_z1_l5_t">grand fuzil ſur ſon eſpaule, dont il</l>
-      <l corresp="f17_z1_l6_t">auoit aſſaſſiné pluſieurs Pies, Geais</l>
-      <l corresp="f17_z1_l7_t">&amp; Corneilles, qui luy faiſoient</l>
-      <l corresp="f17_z1_l8_t">comme vne bandoülliere, au bas de</l>
-      <l corresp="f17_z1_l9_t">laquelle pendoient par les pieds vne</l>
-      <l corresp="f17_z1_l10_t">poulle &amp; vn oyzon, qui auoient</l>
-      <l corresp="f17_z1_l11_t">bien la mine d’auoir eſté pris à la</l>
-      <l corresp="f17_z1_l12_t">petite guerre. Au lieu de chappeau</l>
-      <l corresp="f17_z1_l13_t">Il n’auoit qu’vn bonnet de nuit, en¬</l>
-      <l corresp="f17_z1_l14_t">tortillé de jarretieres de differentes</l>
-      <l corresp="f17_z1_l15_t">couleurs; &amp; cét habillement de</l>
-      <l corresp="f17_z1_l16_t">teſte eſtoit ſans doute vn Turban</l>
-      <l corresp="f17_z1_l17_t">qui n’eſtoit encore qu’esbauché, &amp;</l>
-      <l corresp="f17_z1_l18_t">auquel on n’auoit pas encore donné</l>
-      <l corresp="f17_z1_l19_t">la derniere main. Son pourpoint</l>
-      <l corresp="f17_z1_l20_t">eſtoit vne caſaque de griſette, cein¬</l>
-      <l corresp="f17_z1_l21_t">te auec vne courroye, laquelle luy</l>
-      <l corresp="f17_z1_l22_t">ſeruoit auſſi à ſouſtenir vne eſpée</l>
-      <l corresp="f17_z1_l23_t">qui eſtoit ſilõgue qu’on ne s’enpou¬</l>
-      <l corresp="f17_z1_l24_t">uoit aider adroitement ſans four¬</l>
-      <l corresp="f17_z1_l25_t">chette;</l>
-      <pb corresp="f18"/>
-      <l corresp="f18_z2_l1_t">chette; il portoit des chauſſes trouſ¬</l>
-      <l corresp="f18_z2_l2_t">ſées à bas d’attache comme celles</l>
-      <l corresp="f18_z2_l3_t">des Comediens quand ils repreſen¬</l>
-      <l corresp="f18_z2_l4_t">tent vn Heros de l’antiquité, &amp; il</l>
-      <l corresp="f18_z2_l5_t">auoit au lieu de ſoulliers des bro¬</l>
-      <l corresp="f18_z2_l6_t">dequins à l’antique, que les bouës</l>
-      <l corresp="f18_z2_l7_t">auoient gaſtez iuiſqu’à la cheuille</l>
-      <l corresp="f18_z2_l8_t">du pied. Vn vieillard veſtu plus re¬</l>
-      <l corresp="f18_z2_l9_t">gulierement, quoy que tres-mal,</l>
-      <l corresp="f18_z2_l10_t">marchoit à coſté de luy. Il portoit</l>
-      <l corresp="f18_z2_l11_t">ſur ſes eſpaules vne baſſe de viole,</l>
-      <l corresp="f18_z2_l12_t">&amp; parce qu’il ſe courboit vn peu en</l>
-      <l corresp="f18_z2_l13_t">marchant, on l’euſt pris de loing</l>
-      <l corresp="f18_z2_l14_t">pour vne groſſe Tortuë, qui mar¬</l>
-      <l corresp="f18_z2_l15_t">choit ſur les jambes de derriere.</l>
-      <l corresp="f18_z2_l16_t">Quelque Critique murmurera de</l>
-      <l corresp="f18_z2_l17_t">la comparaiſon à cauſe du peu de</l>
-      <l corresp="f18_z2_l18_t">proportion qu’il y a d’vne Tortuë à</l>
-      <l corresp="f18_z2_l19_t">vn homme: mais i’entens parler des</l>
-      <l corresp="f18_z2_l20_t">grandes Tortuës qui ſe trouuent</l>
-      <l corresp="f18_z2_l21_t">dans les Indes, &amp; de plus, ie m’en</l>
-      <l corresp="f18_z2_l22_t">ſers de ma ſeule authorité. Rerour¬</l>
-      <l corresp="f18_z2_l23_t">nons à noſtre Carauanne. Elle paſ¬</l>
-      <l corresp="f18_z2_l24_t">ſa deuant le Tripot de la Biche, à la</l>
-      <l corresp="f18_z2_l25_t">porte</l>
-      <pb corresp="f19"/>
-      <l corresp="f19_z1_l1_t">porte du quel eſtoient aſſemblez</l>
-      <l corresp="f19_z1_l2_t">quantité des plus gros Bourgeois</l>
-      <l corresp="f19_z1_l3_t">de la Ville. La nouueauté de l’atti¬</l>
-      <l corresp="f19_z1_l4_t">rail, &amp; le bruit de la canaille qui s’e¬</l>
-      <l corresp="f19_z1_l5_t">ſtoit aſſemblée à l’entour de la cha¬</l>
-      <l corresp="f19_z1_l6_t">rette; furent cauſe que tous ces hon¬</l>
-      <l corresp="f19_z1_l7_t">norables Bourgue-maiſtres iette¬</l>
-      <l corresp="f19_z1_l8_t">rent les veux ſur nos Inconnus. Vn</l>
-      <l corresp="f19_z1_l9_t">Lieutenant de Preuoſt entr’autres,</l>
-      <l corresp="f19_z1_l10_t">nommé la Rappiniere, les vint ac¬</l>
-      <l corresp="f19_z1_l11_t">coſter, &amp; leur demanda auec vne</l>
-      <l corresp="f19_z1_l12_t">authorité de Magiſtrat, quelles</l>
-      <l corresp="f19_z1_l13_t">gens ils eſtoient. Le ieune hom¬</l>
-      <l corresp="f19_z1_l14_t">me dont ie vous viens de parler,</l>
-      <l corresp="f19_z1_l15_t">&amp; ſans mettre les mains au Tur¬</l>
-      <l corresp="f19_z1_l16_t">ban, parce que de l’vne il tenoit ſon</l>
-      <l corresp="f19_z1_l17_t">fuzil, &amp; de l’autre la garde de ſon</l>
-      <l corresp="f19_z1_l18_t">eſpée, de peur qu’elle ne luy battiſt</l>
-      <l corresp="f19_z1_l19_t">les jambes, luy dit; Qu’ils eſtoient</l>
-      <l corresp="f19_z1_l20_t">François de naiſſance, Comediens</l>
-      <l corresp="f19_z1_l21_t">de profeſſion, qu’il s’appelloit De¬</l>
-      <l corresp="f19_z1_l22_t">ſtin en ſon nom de Theatre, ſon</l>
-      <l corresp="f19_z1_l23_t">vieil camarade la Rancune, &amp; la</l>
-      <l corresp="f19_z1_l24_t">Demoiſelle qui eſtoit iuchée com¬</l>
-      <l corresp="f19_z1_l25_t">me</l>
-      <pb corresp="f20"/>
-      <l corresp="f20_z2_l1_t">me vne poulle au haut de leur baga¬</l>
-      <l corresp="f20_z2_l2_t">ge, la Cauerne. Ce nom bizarre fit</l>
-      <l corresp="f20_z2_l3_t">rire quelques-vns de la compagnie;</l>
-      <l corresp="f20_z2_l4_t">ſur quoy le ieune Comedien adiou¬</l>
-      <l corresp="f20_z2_l5_t">ſta, que le nom de Cauerne ne de¬</l>
-      <l corresp="f20_z2_l6_t">uoit pas ſembler plus eſtrange à des</l>
-      <l corresp="f20_z2_l7_t">hommes d’eſprit que ceux de la</l>
-      <l corresp="f20_z2_l8_t">Montagne, la Vallée, la Roze, ou</l>
-      <l corresp="f20_z2_l9_t">l'Eſpine. La conuerſation finit par</l>
-      <l corresp="f20_z2_l10_t">quelques coups de poing &amp; iure-</l>
-      <l corresp="f20_z2_l11_t">mens de Dieu, que l'on entendit</l>
-      <l corresp="f20_z2_l12_t">audeuant de la charette: c'eſtoit le</l>
-      <l corresp="f20_z2_l13_t">valet du Tripot, qui auoit battu le</l>
-      <l corresp="f20_z2_l14_t">Charretier ſans dire garre; parce</l>
-      <l corresp="f20_z2_l15_t">que ſes bœufs &amp; ſa jument vſoient</l>
-      <l corresp="f20_z2_l16_t">trop librement d'vn amas de foin</l>
-      <l corresp="f20_z2_l17_t">qui eſtoit deuant la porte. On ap¬</l>
-      <l corresp="f20_z2_l18_t">paiſa la noiſe, &amp; la Maiſtreſſe du</l>
-      <l corresp="f20_z2_l19_t">Tripot qui aimoit la Comedie plus</l>
-      <l corresp="f20_z2_l20_t">que Sermon ny Veſpres, par vne</l>
-      <l corresp="f20_z2_l21_t">generoſité inoüie en vne Maiſtreſſe</l>
-      <l corresp="f20_z2_l22_t">de Tripot, dit au Charretier qu’il</l>
-      <l corresp="f20_z2_l23_t">fiſt manger ſes beſtes tout leur ſa¬</l>
-      <l corresp="f20_z2_l24_t">oul. Il accepta l'offre qu'elle luy fit;</l>
-      <l corresp="f20_z2_l25_t">&amp;</l>
-      <pb corresp="f21"/>
-      <l corresp="f21_z1_l1_t">&amp; cependant que ſes beſtes man¬</l>
-      <l corresp="f21_z1_l2_t">gerent, l’Auteur ſe repoſa quelque</l>
-      <l corresp="f21_z1_l3_t">temps, &amp; ſe mit à ſonger à ce qu’il</l>
-      <l corresp="f21_z1_l4_t">diroit dans le ſecond Chapitre.</l>
-      <l corresp="f21_z1_l8_t">E Sieur de la Rappiniere eſtoit</l>
-      <l corresp="f21_z1_l9_t">L</l>
-      <l corresp="f21_z1_l10_t">lors le Rieur de la ville du</l>
-      <l corresp="f21_z1_l11_t">Mans. Il n’y a point de petite ville</l>
-      <l corresp="f21_z1_l12_t">qui n’ait ſon Rieur. La ville de Pa¬</l>
-      <l corresp="f21_z1_l13_t">ris n’en n’a pas pour vn; elle en a</l>
-      <l corresp="f21_z1_l14_t">dans chaque quartier, moy-meſme</l>
-      <l corresp="f21_z1_l15_t">qui vous parle ie l’aurois eſté du</l>
-      <l corresp="f21_z1_l16_t">mien ſi i’auois voulu; mais il y a</l>
-      <l corresp="f21_z1_l17_t">long-temps, comme tout le monde</l>
-      <l corresp="f21_z1_l18_t">ſçait, que i’ay renoncé à toutes</l>
-      <l corresp="f21_z1_l19_t">les vanitez du monde. Pour reuenir</l>
-      <l corresp="f21_z1_l20_t">au Sieur de la Rapiniere, il renoüa</l>
-      <l corresp="f21_z1_l21_t">bien-toſt la conuerſation que les</l>
-      <l corresp="f21_z1_l22_t">coups de poing auoient interrom¬</l>
-      <l corresp="f21_z1_l23_t">puë, &amp; demanda au ieune Come¬</l>
-      <l corresp="f21_z1_l24_t">dien</l>
-      <pb corresp="f22"/>
-      <l corresp="f22_z2_l1_t">dien ſi leur troupe n’eſtoit compo¬</l>
-      <l corresp="f22_z2_l2_t">ſée que de Mademoiſelle de la</l>
-      <l corresp="f22_z2_l3_t">Cauerne, de Monſieur de la Ran¬</l>
-      <l corresp="f22_z2_l4_t">cune, &amp; de luy. Noſtre troupe eſt</l>
-      <l corresp="f22_z2_l5_t">auſſi complette quecelle du Prince</l>
-      <l corresp="f22_z2_l6_t">d’Orange, ou de ſon Alteſſe d’E¬</l>
-      <l corresp="f22_z2_l7_t">ſpernon: Mais par vne diſgrace qui</l>
-      <l corresp="f22_z2_l8_t">nous eſt arriuée à Tours, où no¬</l>
-      <l corresp="f22_z2_l9_t">ſtre eſtourdy de Portier a tué vn</l>
-      <l corresp="f22_z2_l10_t">des Fuzeliers de l’Intendant de la</l>
-      <l corresp="f22_z2_l11_t">Prouince, nous auons eſté contra¬</l>
-      <l corresp="f22_z2_l12_t">ints de nous ſauuer vn pied chauſſé</l>
-      <l corresp="f22_z2_l13_t">&amp; l’autre nud, en l’eſquipage que</l>
-      <l corresp="f22_z2_l14_t">vous nous voyez. Ces Fuzeliers</l>
-      <l corresp="f22_z2_l15_t">de Monſieur l’Intendant en ont</l>
-      <l corresp="f22_z2_l16_t">fait autant à la Fleſche, dit la Rap¬</l>
-      <l corresp="f22_z2_l17_t">piniere. Que le feu ſainct Antoine</l>
-      <l corresp="f22_z2_l18_t">les arde, dit la Tripotiere, ils ſont</l>
-      <l corresp="f22_z2_l19_t">cauſe que nous n’aurons pas la Co¬</l>
-      <l corresp="f22_z2_l20_t">medie. Il ne tiendroit pas à nous,</l>
-      <l corresp="f22_z2_l21_t">répondit le vieil Comedien, ſi nous</l>
-      <l corresp="f22_z2_l22_t">auions les clefs de nos coffres pour</l>
-      <l corresp="f22_z2_l23_t">auoir nos habits, &amp; nous diuerti¬</l>
-      <l corresp="f22_z2_l24_t">rions quatre ou cinq iours Meſieurs</l>
-      <l corresp="f22_z2_l25_t">de</l>
-      <pb corresp="f23"/>
-      <l corresp="f23_z1_l1_t">de la ville, deuant que de gagner</l>
-      <l corresp="f23_z1_l2_t">Alençon, où le reſte de la Troupe</l>
-      <l corresp="f23_z1_l3_t">a le rendez-vous. La reſponſe du¬</l>
-      <l corresp="f23_z1_l4_t">Comedien fit ouurir les oreilles à</l>
-      <l corresp="f23_z1_l5_t">tout le monde: La Rappiniere of¬</l>
-      <l corresp="f23_z1_l6_t">frit vne vieille robe de ſa femme à la¬</l>
-      <l corresp="f23_z1_l7_t">Cauerne, &amp; la Tripotiere deux ou</l>
-      <l corresp="f23_z1_l8_t">trois paires d’habits qu’elle auoit en</l>
-      <l corresp="f23_z1_l9_t">gage, à Deſtin, &amp; à la Rancune.</l>
-      <l corresp="f23_z1_l10_t">Mais, adiouſta quelqu’vn de la</l>
-      <l corresp="f23_z1_l11_t">compagnie, vous n'eſtes que trois;</l>
-      <l corresp="f23_z1_l12_t">L'ayioüé vne piece moy ſeul, dit la</l>
-      <l corresp="f23_z1_l13_t">Rancune, &amp; ay fait en meſme temps</l>
-      <l corresp="f23_z1_l14_t">le Roy, la Reyne &amp; l’Ambaſſa¬</l>
-      <l corresp="f23_z1_l15_t">deur; ie parlois en fauſſet, quand ie</l>
-      <l corresp="f23_z1_l16_t">faiſois la Reyne, ie parlois du nez</l>
-      <l corresp="f23_z1_l17_t">pour l’Ambaſſadeur, &amp; me tournois</l>
-      <l corresp="f23_z1_l18_t">vers ma Couronne que ie poſois</l>
-      <l corresp="f23_z1_l19_t">ſur vne chaiſe, &amp; pour le Roy, ie</l>
-      <l corresp="f23_z1_l20_t">reprenois mon ſiege, ma Couronne</l>
-      <l corresp="f23_z1_l21_t">&amp; ma grauité en groſſiſſant vn peu</l>
-      <l corresp="f23_z1_l22_t">ma voix; &amp; qu’ainſi ne ſoit, ſi vous</l>
-      <l corresp="f23_z1_l23_t">voulez contenter noſtre Charretier</l>
-      <l corresp="f23_z1_l24_t">&amp; payer noſtre deſpence en l’hoſtel¬</l>
-      <l corresp="f23_z1_l25_t">lerie¬</l>
-      <pb corresp="f24"/>
-      <l corresp="f24_z1_l1_t">lerie, fourniſſez vos habits &amp; nous</l>
-      <l corresp="f24_z1_l2_t">jouërons deuant que la nuit vien¬</l>
-      <l corresp="f24_z1_l3_t">ne; ou bien nous irons boire auec</l>
-      <l corresp="f24_z1_l4_t">voſtre permiſſion, ou nous repoſer,</l>
-      <l corresp="f24_z1_l5_t">car nous auons fait vne grande iour¬</l>
-      <l corresp="f24_z1_l6_t">née. Le party pleut à la compagnie,</l>
-      <l corresp="f24_z1_l7_t">&amp; le Diable de la Rappiniere qui</l>
-      <l corresp="f24_z1_l8_t">s’auiſoit touſiours de quelque ma¬</l>
-      <l corresp="f24_z1_l9_t">Iice, dit qu’il ne falloit point d’au¬</l>
-      <l corresp="f24_z1_l10_t">tres habits que ceux de deux ieu¬</l>
-      <l corresp="f24_z1_l11_t">nes hommes de la ville, qui io¬</l>
-      <l corresp="f24_z1_l12_t">üoient vne partie dans le Tripot,</l>
-      <l corresp="f24_z1_l13_t">&amp; que Mademoiſelle de la Cauer¬</l>
-      <l corresp="f24_z1_l14_t">ne en ſon habit ordinaire, pourroit</l>
-      <l corresp="f24_z1_l15_t">paſſer pour tout ce que l’on voud¬</l>
-      <l corresp="f24_z1_l16_t">roit en vne Comedie. Auſſi-toſt</l>
-      <l corresp="f24_z1_l17_t">dit, auſſi-toſt fait; en moins d’vn</l>
-      <l corresp="f24_z1_l18_t">demy quart d’heure, les Come¬</l>
-      <l corresp="f24_z1_l19_t">diens eurent beu chacun deux ou</l>
-      <l corresp="f24_z1_l20_t">trois coups, furent traueſtis, &amp; l’aſ¬</l>
-      <l corresp="f24_z1_l21_t">ſemblée qui s’eſtoit groſſie ayant</l>
-      <l corresp="f24_z1_l22_t">pris place en vne chambre haute;</l>
-      <l corresp="f24_z1_l23_t">on vit derriere vn drap ſalle que</l>
-      <l corresp="f24_z1_l24_t">l’on leua, le Comodien Deſtin,</l>
-      <l corresp="f24_z1_l25_t">couché</l>
-      <pb corresp="f25"/>
-      <l corresp="f25_z1_l1_t">couché ſur vn matelas, vn cor¬</l>
-      <l corresp="f25_z1_l2_t">billon dans la teſte qui luy ſeruoit</l>
-      <l corresp="f25_z1_l3_t">de couronne, ſe frottant vn peu les</l>
-      <l corresp="f25_z1_l4_t">yeux, comme vn homme qui s’e¬</l>
-      <l corresp="f25_z1_l5_t">ſueille, &amp; recitant du ton de Mon¬</l>
-      <l corresp="f25_z1_l6_t">dory le roolle d’Herode, qui com¬</l>
-      <l corresp="f25_z1_l7_t">mence par,</l>
-      <l corresp="f25_z1_l8_t">Fantoſme iniurieux qui troubles</l>
-      <l corresp="f25_z1_l9_t">mon repos.</l>
-      <l corresp="f25_z1_l10_t">L’emplaſtre qui luy couuroit la</l>
-      <l corresp="f25_z1_l11_t">moitié du viſage, ne l’empeſcha</l>
-      <l corresp="f25_z1_l12_t">point de faire voir qu’il eſtoit excel¬</l>
-      <l corresp="f25_z1_l13_t">lent Comedien; Mademoiſelle de</l>
-      <l corresp="f25_z1_l14_t">la Cauerne fit des merueilles dans</l>
-      <l corresp="f25_z1_l15_t">les roolles de Mariane &amp; de Salo¬</l>
-      <l corresp="f25_z1_l16_t">me; la Rancune ſatis-fit tout le¬</l>
-      <l corresp="f25_z1_l17_t">monde dans les autres, &amp; la piece</l>
-      <l corresp="f25_z1_l18_t">s’en alloit eſtre conduite à bonne</l>
-      <l corresp="f25_z1_l19_t">fin, quand le Diable qui ne dort ia¬</l>
-      <l corresp="f25_z1_l20_t">mais, s’en méla, &amp; fit fnir la Tra¬</l>
-      <l corresp="f25_z1_l21_t">gedie, non pas par la mort de Ma¬</l>
-      <l corresp="f25_z1_l22_t">riane &amp; les deſeſpoirs d’Herode;</l>
-      <l corresp="f25_z1_l23_t">mais par mille coups de poing au¬</l>
-      <l corresp="f25_z1_l24_t">tant deſoufflers, vn nombre effro¬</l>
-      <l corresp="f25_z1_l25_t">yable</l>
-      <pb corresp="f26"/>
-      <l corresp="f26_z3_l1_t">yable de coups de pieds, des iure¬</l>
-      <l corresp="f26_z3_l2_t">mens qui ne ſe peuuent compter, &amp;</l>
-      <l corresp="f26_z3_l3_t">en ſuitte vne belle information,</l>
-      <l corresp="f26_z3_l4_t">que fit faire le ſieur de la Rappinie¬</l>
-      <l corresp="f26_z3_l5_t">re, le plus expert de tous les hom¬</l>
-      <l corresp="f26_z3_l6_t">mes en pareille matiere.</l>
-      <l corresp="f26_z3_l10_t">Ans toutes les villes ſubalter¬</l>
-      <l corresp="f26_z3_l12_t">nes du Royaume, il y a d’or¬</l>
-      <l corresp="f26_z3_l13_t">dinaire vn Tripot, où s’aſſemblent</l>
-      <l corresp="f26_z3_l14_t">tous les iours les faineans de la vil¬</l>
-      <l corresp="f26_z3_l15_t">le; les vns pour ioüer, les autres</l>
-      <l corresp="f26_z3_l16_t">pour regarder ceux qui ioüent.</l>
-      <l corresp="f26_z3_l17_t">C’eſt l’à que l’on rime richement</l>
-      <l corresp="f26_z3_l18_t">en Dieu, que l’on eſpargne fort peu</l>
-      <l corresp="f26_z3_l19_t">le prochain, &amp; que les abſens ſont</l>
-      <l corresp="f26_z3_l20_t">aaſſaſſinez à coups de langue; on n’y</l>
-      <l corresp="f26_z3_l21_t">fait quartier à perſonne, tout le</l>
-      <l corresp="f26_z3_l22_t">monde y vit de Turc à Maure, &amp;</l>
-      <l corresp="f26_z3_l23_t">chacun y eſt receu pour railler, ſe¬</l>
-      <l corresp="f26_z3_l24_t">lon</l>
-      <pb corresp="f27"/>
-      <l corresp="f27_z1_l1_t">Ion le talent qu’il en a eu du Seig¬</l>
-      <l corresp="f27_z1_l2_t">neur. C’eſt en vn de ſes Tripots là,</l>
-      <l corresp="f27_z1_l3_t">ſi ie m’en ſouuiens, que i’ay laiſſé</l>
-      <l corresp="f27_z1_l4_t">trois perſonnes comiques, recitant</l>
-      <l corresp="f27_z1_l5_t">la Mariane deuant vne honorable</l>
-      <l corresp="f27_z1_l6_t">compagnie, à laquelle preſidoit le</l>
-      <l corresp="f27_z1_l7_t">ſieur de la Rappiniere. Au meſ¬</l>
-      <l corresp="f27_z1_l8_t">me temps qu’Herode &amp; Maria¬</l>
-      <l corresp="f27_z1_l9_t">ne s’entrediſoient leurs veritez, les</l>
-      <l corresp="f27_z1_l10_t">deux ieunes hommes, de qui l’on</l>
-      <l corresp="f27_z1_l11_t">auoit pris ſi librement les habits,</l>
-      <l corresp="f27_z1_l12_t">entrerent dans la chambre, en calle¬</l>
-      <l corresp="f27_z1_l13_t">çons, &amp; chacun ſa raquette à la</l>
-      <l corresp="f27_z1_l14_t">main. Ils auoient negligé de ſe faire</l>
-      <l corresp="f27_z1_l15_t">frotter pour venir entendre la Co¬</l>
-      <l corresp="f27_z1_l16_t">medie: leurs habits que portoient</l>
-      <l corresp="f27_z1_l17_t">Herode, &amp; Pherore, leur frappe¬</l>
-      <l corresp="f27_z1_l18_t">rent bien-toſt la veuë, le plus colere</l>
-      <l corresp="f27_z1_l19_t">des deux, s’adreſſant au valet du¬</l>
-      <l corresp="f27_z1_l20_t">Tripot: Fils de chienne, luy dit¬</l>
-      <l corresp="f27_z1_l21_t">il, pourquoy as-tu donné mon ha¬</l>
-      <l corresp="f27_z1_l22_t">bit à ce Baſtelleur; Le pauure vallet</l>
-      <l corresp="f27_z1_l23_t">qui le connoiſſoit pour vn grand</l>
-      <l corresp="f27_z1_l24_t">brutal, luy dit en toute humilité,</l>
-      <l corresp="f27_z1_l25_t">que</l>
-      <pb corresp="f28"/>
-      <l corresp="f28_z1_l1_t">que ce n’eſtoit pas luy; Et qui donc?</l>
-      <l corresp="f28_z1_l2_t">barbe de cocu; adiouſta-t’il. Le pau¬</l>
-      <l corresp="f28_z1_l3_t">ure valet n’oſoit en accuſer la Rap¬</l>
-      <l corresp="f28_z1_l4_t">piniere en ſa preſences: mais luy qui</l>
-      <l corresp="f28_z1_l5_t">eſtoit le plus inſolent de tous les</l>
-      <l corresp="f28_z1_l6_t">hommes, luy dit en ſe leuant deſa</l>
-      <l corresp="f28_z1_l7_t">chaize; C’eſt moy, qu’en voulez¬</l>
-      <l corresp="f28_z1_l8_t">vous dire? Que vous eſtes vn ſot,</l>
-      <l corresp="f28_z1_l9_t">repartit l’autre, en luy deſchargeant</l>
-      <l corresp="f28_z1_l10_t">vn demeſuré coup de ſa raquete ſur</l>
-      <l corresp="f28_z1_l11_t">les aureilles. La Rappiniere fut ſi</l>
-      <l corresp="f28_z1_l12_t">ſurpris d’eſtre preuenu d’vn coup,</l>
-      <l corresp="f28_z1_l13_t">luy qui auoit accouſtumé d’en vſer</l>
-      <l corresp="f28_z1_l14_t">ainſi, qu’il demeura comme immo¬</l>
-      <l corresp="f28_z1_l15_t">bile, ou d’admiration, ou parce</l>
-      <l corresp="f28_z1_l16_t">qu’il n’eſtoit pas encor aſſez en co¬</l>
-      <l corresp="f28_z1_l17_t">lere, &amp; qu’il luy en falloit beau¬</l>
-      <l corresp="f28_z1_l18_t">coup pour ſe reſoudre à ſe battre,</l>
-      <l corresp="f28_z1_l19_t">ne fut-ce qu’à coups de poing, &amp;</l>
-      <l corresp="f28_z1_l20_t">peut-eſtre que la choſe en fuſt de¬</l>
-      <l corresp="f28_z1_l21_t">meurée là, ſiſon valet qui auoit plus</l>
-      <l corresp="f28_z1_l22_t">de colere que luy, ne ſe fuſt ietté ſur</l>
-      <l corresp="f28_z1_l23_t">l’aggreſſeur, en luy donnant vn coup</l>
-      <l corresp="f28_z1_l24_t">de poing auec toutes ſes circonſtan¬</l>
-      <l corresp="f28_z1_l25_t">ces,</l>
-      <pb corresp="f29"/>
-      <l corresp="f29_z1_l1_t">ces, dans le beau milieu du viſage,</l>
-      <l corresp="f29_z1_l2_t">en ſuite vne grande quantité d’au¬</l>
-      <l corresp="f29_z1_l3_t">tres où ils peurent aller. La Rappi¬</l>
-      <l corresp="f29_z1_l4_t">niere le prit en queuë, &amp; ſe mit à</l>
-      <l corresp="f29_z1_l5_t">trauailler ſur luy en coups de poings</l>
-      <l corresp="f29_z1_l6_t">comme vn homme qui a eſté oſ¬</l>
-      <l corresp="f29_z1_l7_t">fencé le premier; vn Parent de ſon</l>
-      <l corresp="f29_z1_l8_t">aduerſaire prit la Rappiniere de la</l>
-      <l corresp="f29_z1_l9_t">meſme façon, ce parent ſut inueſty</l>
-      <l corresp="f29_z1_l10_t">par vn Amy de la Rappiniere pour</l>
-      <l corresp="f29_z1_l11_t">faire diuerſion, cettuy-cy le fut</l>
-      <l corresp="f29_z1_l12_t">d'vn autre, &amp; celuy-là d’vn autre;</l>
-      <l corresp="f29_z1_l13_t">Enfin tout le monde prit party dans</l>
-      <l corresp="f29_z1_l14_t">la chambre, l’vn juroit, l’autre in¬</l>
-      <l corresp="f29_z1_l15_t">jurioit, tous s’entrebattoient; La</l>
-      <l corresp="f29_z1_l16_t">Trippotiere qui voyoit rompre ſes</l>
-      <l corresp="f29_z1_l17_t">meubles, empliſſoit l’air de cris</l>
-      <l corresp="f29_z1_l18_t">pitoyables: vray ſemblablement</l>
-      <l corresp="f29_z1_l19_t">ils deuoient tous perir par coups</l>
-      <l corresp="f29_z1_l20_t">d’eſcabeaux, de pieds, &amp; de poings</l>
-      <l corresp="f29_z1_l21_t">ſi quelques-vns des Magiſtrats de</l>
-      <l corresp="f29_z1_l22_t">la ville qui ſe promenoient ſous les</l>
-      <l corresp="f29_z1_l23_t">Halles auec le Seneſchal du May¬</l>
-      <l corresp="f29_z1_l24_t">ne, des Eſſars, ne fuſſent accourus à</l>
-      <l corresp="f29_z1_l25_t">la</l>
-      <pb corresp="f30"/>
-      <l corresp="f30_z2_l1_t">la rumeur. Quelques vns furent</l>
-      <l corresp="f30_z2_l2_t">d’auis de jetter deux ou trois ſeaux</l>
-      <l corresp="f30_z2_l3_t">d’eau ſur les combattans, &amp; le re¬</l>
-      <l corresp="f30_z2_l4_t">mede euſt peut-eſtre reüſſi, mais</l>
-      <l corresp="f30_z2_l5_t">ils ſe ſeparerent de laſſitude: outre</l>
-      <l corresp="f30_z2_l6_t">que deux Peres Capucins, qui ſe</l>
-      <l corresp="f30_z2_l7_t">jetterent par charité dans le champ</l>
-      <l corresp="f30_z2_l8_t">de bataille, mirent, non pas vne paix</l>
-      <l corresp="f30_z2_l9_t">bien affſermie, entre les combatans,</l>
-      <l corresp="f30_z2_l10_t">mais firent accorder quelques treſ¬</l>
-      <l corresp="f30_z2_l11_t">ues, pendant leſquelles on peuſt</l>
-      <l corresp="f30_z2_l12_t">negocier, ſans prejudice des infor¬</l>
-      <l corresp="f30_z2_l13_t">mations qui ſe firent de part &amp;</l>
-      <l corresp="f30_z2_l14_t">d’autre. Le Comedien Deſtin ſit</l>
-      <l corresp="f30_z2_l15_t">des proüeſſes à coups de poing</l>
-      <l corresp="f30_z2_l16_t">dont l’on parle encore dans la ville</l>
-      <l corresp="f30_z2_l17_t">du Mans, ſuiuant ce qu’en ont ra¬</l>
-      <l corresp="f30_z2_l18_t">conté les deux jouuenceaux, au¬</l>
-      <l corresp="f30_z2_l19_t">theurs de la querelle auec leſquels</l>
-      <l corresp="f30_z2_l20_t">il eut particulierement à faire, &amp;</l>
-      <l corresp="f30_z2_l21_t">qu’il penſa roüer de coups, outre</l>
-      <l corresp="f30_z2_l22_t">quantité d’autres du party contrai¬</l>
-      <l corresp="f30_z2_l23_t">re qu’il mit hors de combat du pre¬</l>
-      <l corresp="f30_z2_l24_t">mier coup. Il perdit ſon emplaſtre</l>
-      <l corresp="f30_z2_l25_t">durant</l>
-      <pb corresp="f31"/>
-      <l corresp="f31_z1_l1_t">durant la meſlée, &amp; l’on remarqua</l>
-      <l corresp="f31_z1_l2_t">qu’il auoit le viſage auſſi beau que</l>
-      <l corresp="f31_z1_l3_t">la taille riche. Les muzeaux ſan¬</l>
-      <l corresp="f31_z1_l4_t">glants furent lauez d’eau fraiſche,</l>
-      <l corresp="f31_z1_l5_t">les collets dechirez furent changés,</l>
-      <l corresp="f31_z1_l6_t">on appliqua quelques cataplaſmes,</l>
-      <l corresp="f31_z1_l7_t">&amp; meſine l’on fit quelques points</l>
-      <l corresp="f31_z1_l8_t">d’aiguille, les meubles furent auſſi</l>
-      <l corresp="f31_z1_l9_t">remis en leur place, non pas du tout</l>
-      <l corresp="f31_z1_l10_t">ſi entiers qu’alors qu’on les deſa¬</l>
-      <l corresp="f31_z1_l11_t">rengea. Enfin vn moment apres</l>
-      <l corresp="f31_z1_l12_t">il ne reſta plus rien du combat que</l>
-      <l corresp="f31_z1_l13_t">beaucoup d’animoſité qui paroiſ¬</l>
-      <l corresp="f31_z1_l14_t">ſoit ſur le viſage des vns &amp; des au¬</l>
-      <l corresp="f31_z1_l15_t">tres. Les pauures Comediens ſor¬</l>
-      <l corresp="f31_z1_l16_t">tirent long-temps apres auec la</l>
-      <l corresp="f31_z1_l17_t">Rappiniere, qui verbaliſa le der¬</l>
-      <l corresp="f31_z1_l18_t">nier: Comme ils paſſoient du Tri¬</l>
-      <l corresp="f31_z1_l19_t">pot ſous les Halles, ils furent inue¬</l>
-      <l corresp="f31_z1_l20_t">ſtis par ſept ou huict braues, l’eſpée</l>
-      <l corresp="f31_z1_l21_t">à la main; La Rapiniere ſelon ſa</l>
-      <l corresp="f31_z1_l22_t">couſtume eut grande peur, &amp; pen¬</l>
-      <l corresp="f31_z1_l23_t">ſa bien auoir quelque choſe de pis,</l>
-      <l corresp="f31_z1_l24_t">ſi Deſtin ne ſe fuſt genereuſement</l>
-      <l corresp="f31_z1_l25_t">jetté</l>
-      <pb corresp="f32"/>
-      <l corresp="f32_z1_l1_t">jetté au deuant d’un coup d’eſpée¬</l>
-      <l corresp="f32_z1_l2_t">qui luy alloit paſſer au trauers du</l>
-      <l corresp="f32_z1_l3_t">corps, il ne peut pourtant ſi bien le</l>
-      <l corresp="f32_z1_l4_t">parer, qu’il ne receuſt vne legere</l>
-      <l corresp="f32_z1_l5_t">bleſſeure dans le bras: Il mit l’eſpée</l>
-      <l corresp="f32_z1_l6_t">à la main en meſme temps, &amp; en</l>
-      <l corresp="f32_z1_l7_t">moins de rien fit voller à terre deux</l>
-      <l corresp="f32_z1_l8_t">eſpées, ouurit deux ou trois teſtes,</l>
-      <l corresp="f32_z1_l9_t">donna force coups ſur les aureilles;</l>
-      <l corresp="f32_z1_l10_t">&amp; deconfit ſi bien Meſſieurs de</l>
-      <l corresp="f32_z1_l11_t">I’embuſcade, que tous les affiſtans</l>
-      <l corresp="f32_z1_l12_t">aduoüerent qu’ils n’auoient iamais</l>
-      <l corresp="f32_z1_l13_t">veu vn ſi vaillant homme. Cette</l>
-      <l corresp="f32_z1_l14_t">partie ainſi auortée, auoit eſté dreſ¬</l>
-      <l corresp="f32_z1_l15_t">ſée à la Rappiniere par deux petits</l>
-      <l corresp="f32_z1_l16_t">Nobles, dont l’vn auoit eſpouſé la</l>
-      <l corresp="f32_z1_l17_t">ſœur de celuy qui commenca le</l>
-      <l corresp="f32_z1_l18_t">combat par vn grand coup de ra¬</l>
-      <l corresp="f32_z1_l19_t">quette: &amp; vravſemblablement la</l>
-      <l corresp="f32_z1_l20_t">Rappiniere eſtoit gaſté ſans le vail¬</l>
-      <l corresp="f32_z1_l21_t">Iant deffenſeur que Dieu luy ſuſcita</l>
-      <l corresp="f32_z1_l22_t">en noſtre vaillant Comedien. Le</l>
-      <l corresp="f32_z1_l23_t">bienfait trouua place en ſon cœur</l>
-      <l corresp="f32_z1_l24_t">de roche, &amp; ſans vouloir permettre</l>
-      <l corresp="f32_z1_l25_t">que</l>
-      <pb corresp="f33"/>
-      <l corresp="f33_z3_l1_t">que ces pauures reſtes d’vne troupe</l>
-      <l corresp="f33_z3_l2_t">deſlabrée allaſſent loger en vne ho¬</l>
-      <l corresp="f33_z3_l3_t">ſtellerie, il les emmena chez luy,</l>
-      <l corresp="f33_z3_l4_t">où le chartier deſchargea le bagage</l>
-      <l corresp="f33_z3_l5_t">comique, &amp; s’en retourna en ſon</l>
-      <l corresp="f33_z3_l6_t">viſlage.</l>
-      <l corresp="f33_z3_l12_t">Adamoiſelle de la Rappinie¬</l>
-      <l corresp="f33_z3_l13_t">re receut la compagnie auec¬</l>
-      <l corresp="f33_z3_l14_t">que grande ciuilité, comme elle</l>
-      <l corresp="f33_z3_l15_t">eſtoit la femme du monde qui ſe</l>
-      <l corresp="f33_z3_l16_t">ſoubmettoit le plus facilement,elle</l>
-      <l corresp="f33_z3_l17_t">n’eſtoit pas laide, quoy que ſi mai¬</l>
-      <l corresp="f33_z3_l18_t">gre &amp; ſi ſeiche, qu’elle n’auoit ia¬</l>
-      <l corresp="f33_z3_l19_t">mais mouché de chandelle auec les</l>
-      <l corresp="f33_z3_l20_t">doigts, que le feu ny priſt; l’en</l>
-      <l corresp="f33_z3_l21_t">pourrois dire cent choſes rares que</l>
-      <l corresp="f33_z3_l22_t">ie laiſſe de peur d’eſtre trop long.</l>
-      <l corresp="f33_z3_l23_t">En moins de rien les deux dames</l>
-      <l corresp="f33_z3_l24_t">ſurent</l>
-      <pb corresp="f34"/>
-      <l corresp="f34_z1_l1_t">furent ſi</l>
-      <l corresp="f34_z1_l2_t">grandes camarades, qu’el¬</l>
-      <l corresp="f34_z1_l3_t">les s’entr’appellerent ma chere, &amp;</l>
-      <l corresp="f34_z1_l4_t">ma fidelle. La Rappiniere qui auoit</l>
-      <l corresp="f34_z1_l5_t">de la mauuaiſe gloire autant que</l>
-      <l corresp="f34_z1_l6_t">barbier de la ville, diſt en entrant</l>
-      <l corresp="f34_z1_l7_t">qu’on allaſt à la cuiſine, &amp; a l’office,</l>
-      <l corresp="f34_z1_l8_t">faire haſter le ſouper. C’eſtoit vne</l>
-      <l corresp="f34_z1_l9_t">pure rodomontade, outte ſon vieil</l>
-      <l corresp="f34_z1_l10_t">valet qui penſoit meſme ſes che¬</l>
-      <l corresp="f34_z1_l11_t">uaux, il n’y auoit dans le logis qu’vne</l>
-      <l corresp="f34_z1_l12_t">ieune ſeruante, &amp; vne vieille boit¬</l>
-      <l corresp="f34_z1_l13_t">teuſe qui auoit du mal comme vn</l>
-      <l corresp="f34_z1_l14_t">chien. Sa vanité fut punie par vne</l>
-      <l corresp="f34_z1_l15_t">grande confuſion qui luy arriua: Il</l>
-      <l corresp="f34_z1_l16_t">mangeoit d’ordinaire au cabaret,</l>
-      <l corresp="f34_z1_l17_t">aux deſpens des ſots, ſa femme &amp;</l>
-      <l corresp="f34_z1_l18_t">ſon train ſi reiglé, eſtoient reduits</l>
-      <l corresp="f34_z1_l19_t">au potage aux choux ſelon la cou¬</l>
-      <l corresp="f34_z1_l20_t">ſtume du païs; voulant paroiſtre</l>
-      <l corresp="f34_z1_l21_t">deuant ſes hoſtes, &amp; les regaller, il</l>
-      <l corresp="f34_z1_l22_t">penſa couler par derriere ſon dos</l>
-      <l corresp="f34_z1_l23_t">quelque monnoye à ſon valet pour</l>
-      <l corresp="f34_z1_l24_t">aller querir dequoy ſouper: par la</l>
-      <l corresp="f34_z1_l25_t">faute du valet, ou du maiſtre, l’ar¬</l>
+      <div>
+        <pb corresp="#f15"/>
+        <p corresp="#f15_z1" n="MainZone">
+<hi n="HeadingLine"><lb corresp="#f15_z1_l1_t"/>CHAPITRE I.</hi>
+<hi n="HeadingLine"><lb corresp="#f15_z1_l2_t"/>Vne trouppe de Comediens arriue dans</hi>
+<hi n="HeadingLine"><lb corresp="#f15_z1_l3_t"/>la ville du Mans.</hi>
+<lb corresp="#f15_z1_l4_t"/>E Soleil avoit acheué
+<lb corresp="#f15_z1_l5_t"/>plus de la moitié de ſa
+<hi n="DropCapitalLine"><lb corresp="#f15_z1_l6_t"/>L</hi>
+<lb corresp="#f15_z1_l7_t"/>courſe, &amp; ſon char ayant
+<lb corresp="#f15_z1_l8_t"/>attrappé le penchant du
+<lb corresp="#f15_z1_l9_t"/>monde roulloit plus viſte qu’il ne
+<lb corresp="#f15_z1_l10_t"/>vouloit. Si ſes cheuaux euſſent vou¬
+<lb corresp="#f15_z1_l11_t"/>lu profiter de la pente du chemin,
+<lb corresp="#f15_z1_l12_t"/>ils euſſent acheué ce qui reſtoit du
+<lb corresp="#f15_z1_l13_t"/>iour en moins d’vn demy-quart
+</p>
+        <fw corresp="#f15_z2" n="NumberingZone"><lb corresp="#f15_z2_l1_t"/>I</fw>
+        <fw corresp="#f15_z6" n="QuireMarksZone"><lb corresp="#f15_z6_l1_t"/>A</fw>
+        <fw corresp="#f15_z6" n="QuireMarksZone"><lb corresp="#f15_z6_l2_t"/>d’heure:</fw>
+        <pb corresp="#f16"/>
+        <p corresp="#f16_z1" n="MainZone">
+<lb corresp="#f16_z1_l1_t"/>2
+<lb corresp="#f16_z1_l2_t"/>te leur force, ils ne s’amuſoient qu’à
+<lb corresp="#f16_z1_l3_t"/>faire des courbettes; reſpirant vn
+<lb corresp="#f16_z1_l4_t"/>air marin qui les faiſoit hannir, &amp;
+<lb corresp="#f16_z1_l5_t"/>les aduertiſſoit que la mer eſtoit
+<lb corresp="#f16_z1_l6_t"/>Proche, où l’on dit que leur Maiſtre
+<lb corresp="#f16_z1_l7_t"/>ſe couche toutes les nuits. Pour par¬
+<lb corresp="#f16_z1_l8_t"/>ler plus humainement &amp; plus intel¬
+<lb corresp="#f16_z1_l9_t"/>ligiblement, il eſtoit entre cinq &amp;
+<lb corresp="#f16_z1_l10_t"/>ſix; quand vne charette entra dans
+<lb corresp="#f16_z1_l11_t"/>les Halles du Mans. Cette charette
+<lb corresp="#f16_z1_l12_t"/>eſtoit attellée de quatre bœufs fort
+<lb corresp="#f16_z1_l13_t"/>maigres, conduits par vne Iument
+<lb corresp="#f16_z1_l14_t"/>Poulliniere, dont le poullain al¬
+<lb corresp="#f16_z1_l15_t"/>loit &amp; venoit à l’entour de la charet¬
+<lb corresp="#f16_z1_l16_t"/>te, comme vn petit fou qu’il eſtoit.
+<lb corresp="#f16_z1_l17_t"/>La charette eſtoit pleine de cof¬
+<lb corresp="#f16_z1_l18_t"/>fres, de malles &amp; de gros pa¬
+<lb corresp="#f16_z1_l19_t"/>quets de toilles peintes, qui faiſo¬
+<lb corresp="#f16_z1_l20_t"/>ient comme vne Pyramide, au haut
+<lb corresp="#f16_z1_l21_t"/>de laquelle paroiſſoit vne Demoi¬
+<lb corresp="#f16_z1_l22_t"/>ſelle, habillée moitié ville, moitié
+<lb corresp="#f16_z1_l23_t"/>campagne. Vn ieune homme auſ¬
+<lb corresp="#f16_z1_l24_t"/>ſi pauure d'habits que riche de mi¬
+<lb corresp="#f16_z1_l25_t"/>ne,
+</p>
+        <fw corresp="#f16_z2" n="RunningTitleZone"><lb corresp="#f16_z2_l1_t"/>LE ROMANT</fw>
+        <fw corresp="#f16_z3" n="NumberingZone"><lb corresp="#f16_z3_l1_t"/>d’heure : Mais au lieu detirer de tou¬</fw>
+        <pb corresp="#f17"/>
+        <p corresp="#f17_z1" n="MainZone">
+<lb corresp="#f17_z1_l1_t"/>ne, marchoit à coſté de la charette;
+<lb corresp="#f17_z1_l2_t"/>il auoit vne grande emplaſtre ſur le
+<lb corresp="#f17_z1_l3_t"/>viſage qui luy couuroit vn œil &amp; la
+<lb corresp="#f17_z1_l4_t"/>moitié de la ioüe, &amp; portoit vn
+<lb corresp="#f17_z1_l5_t"/>grand fuzil ſur ſon eſpaule, dont il
+<lb corresp="#f17_z1_l6_t"/>auoit aſſaſſiné pluſieurs Pies, Geais
+<lb corresp="#f17_z1_l7_t"/>&amp; Corneilles, qui luy faiſoient
+<lb corresp="#f17_z1_l8_t"/>comme vne bandoülliere, au bas de
+<lb corresp="#f17_z1_l9_t"/>laquelle pendoient par les pieds vne
+<lb corresp="#f17_z1_l10_t"/>poulle &amp; vn oyzon, qui auoient
+<lb corresp="#f17_z1_l11_t"/>bien la mine d’auoir eſté pris à la
+<lb corresp="#f17_z1_l12_t"/>petite guerre. Au lieu de chappeau
+<lb corresp="#f17_z1_l13_t"/>Il n’auoit qu’vn bonnet de nuit, en¬
+<lb corresp="#f17_z1_l14_t"/>tortillé de jarretieres de differentes
+<lb corresp="#f17_z1_l15_t"/>couleurs; &amp; cét habillement de
+<lb corresp="#f17_z1_l16_t"/>teſte eſtoit ſans doute vn Turban
+<lb corresp="#f17_z1_l17_t"/>qui n’eſtoit encore qu’esbauché, &amp;
+<lb corresp="#f17_z1_l18_t"/>auquel on n’auoit pas encore donné
+<lb corresp="#f17_z1_l19_t"/>la derniere main. Son pourpoint
+<lb corresp="#f17_z1_l20_t"/>eſtoit vne caſaque de griſette, cein¬
+<lb corresp="#f17_z1_l21_t"/>te auec vne courroye, laquelle luy
+<lb corresp="#f17_z1_l22_t"/>ſeruoit auſſi à ſouſtenir vne eſpée
+<lb corresp="#f17_z1_l23_t"/>qui eſtoit ſilõgue qu’on ne s’enpou¬
+<lb corresp="#f17_z1_l24_t"/>uoit aider adroitement ſans four¬
+<lb corresp="#f17_z1_l25_t"/>chette;
+</p>
+        <fw corresp="#f17_z2" n="RunningTitleZone"><lb corresp="#f17_z2_l1_t"/>COMIQVE.</fw>
+        <fw corresp="#f17_z3" n="QuireMarksZone"><lb corresp="#f17_z3_l1_t"/>A 2</fw>
+        <fw corresp="#f17_z4" n="NumberingZone"><lb corresp="#f17_z4_l1_t"/>3</fw>
+        <pb corresp="#f18"/>
+        <fw corresp="#f18_z1" n="NumberingZone"><lb corresp="#f18_z1_l1_t"/>4</fw>
+        <p corresp="#f18_z2" n="MainZone">
+<lb corresp="#f18_z2_l1_t"/>chette; il portoit des chauſſes trouſ¬
+<lb corresp="#f18_z2_l2_t"/>ſées à bas d’attache comme celles
+<lb corresp="#f18_z2_l3_t"/>des Comediens quand ils repreſen¬
+<lb corresp="#f18_z2_l4_t"/>tent vn Heros de l’antiquité, &amp; il
+<lb corresp="#f18_z2_l5_t"/>auoit au lieu de ſoulliers des bro¬
+<lb corresp="#f18_z2_l6_t"/>dequins à l’antique, que les bouës
+<lb corresp="#f18_z2_l7_t"/>auoient gaſtez iuiſqu’à la cheuille
+<lb corresp="#f18_z2_l8_t"/>du pied. Vn vieillard veſtu plus re¬
+<lb corresp="#f18_z2_l9_t"/>gulierement, quoy que tres-mal,
+<lb corresp="#f18_z2_l10_t"/>marchoit à coſté de luy. Il portoit
+<lb corresp="#f18_z2_l11_t"/>ſur ſes eſpaules vne baſſe de viole,
+<lb corresp="#f18_z2_l12_t"/>&amp; parce qu’il ſe courboit vn peu en
+<lb corresp="#f18_z2_l13_t"/>marchant, on l’euſt pris de loing
+<lb corresp="#f18_z2_l14_t"/>pour vne groſſe Tortuë, qui mar¬
+<lb corresp="#f18_z2_l15_t"/>choit ſur les jambes de derriere.
+<lb corresp="#f18_z2_l16_t"/>Quelque Critique murmurera de
+<lb corresp="#f18_z2_l17_t"/>la comparaiſon à cauſe du peu de
+<lb corresp="#f18_z2_l18_t"/>proportion qu’il y a d’vne Tortuë à
+<lb corresp="#f18_z2_l19_t"/>vn homme: mais i’entens parler des
+<lb corresp="#f18_z2_l20_t"/>grandes Tortuës qui ſe trouuent
+<lb corresp="#f18_z2_l21_t"/>dans les Indes, &amp; de plus, ie m’en
+<lb corresp="#f18_z2_l22_t"/>ſers de ma ſeule authorité. Rerour¬
+<lb corresp="#f18_z2_l23_t"/>nons à noſtre Carauanne. Elle paſ¬
+<lb corresp="#f18_z2_l24_t"/>ſa deuant le Tripot de la Biche, à la
+<lb corresp="#f18_z2_l25_t"/>porte
+</p>
+        <fw corresp="#f18_z3" n="RunningTitleZone"><lb corresp="#f18_z3_l1_t"/>LE ROMANT</fw>
+        <pb corresp="#f19"/>
+        <p corresp="#f19_z1" n="MainZone">
+<lb corresp="#f19_z1_l1_t"/>porte du quel eſtoient aſſemblez
+<lb corresp="#f19_z1_l2_t"/>quantité des plus gros Bourgeois
+<lb corresp="#f19_z1_l3_t"/>de la Ville. La nouueauté de l’atti¬
+<lb corresp="#f19_z1_l4_t"/>rail, &amp; le bruit de la canaille qui s’e¬
+<lb corresp="#f19_z1_l5_t"/>ſtoit aſſemblée à l’entour de la cha¬
+<lb corresp="#f19_z1_l6_t"/>rette; furent cauſe que tous ces hon¬
+<lb corresp="#f19_z1_l7_t"/>norables Bourgue-maiſtres iette¬
+<lb corresp="#f19_z1_l8_t"/>rent les veux ſur nos Inconnus. Vn
+<lb corresp="#f19_z1_l9_t"/>Lieutenant de Preuoſt entr’autres,
+<lb corresp="#f19_z1_l10_t"/>nommé la Rappiniere, les vint ac¬
+<lb corresp="#f19_z1_l11_t"/>coſter, &amp; leur demanda auec vne
+<lb corresp="#f19_z1_l12_t"/>authorité de Magiſtrat, quelles
+<lb corresp="#f19_z1_l13_t"/>gens ils eſtoient. Le ieune hom¬
+<lb corresp="#f19_z1_l14_t"/>me dont ie vous viens de parler,
+<lb corresp="#f19_z1_l15_t"/>&amp; ſans mettre les mains au Tur¬
+<lb corresp="#f19_z1_l16_t"/>ban, parce que de l’vne il tenoit ſon
+<lb corresp="#f19_z1_l17_t"/>fuzil, &amp; de l’autre la garde de ſon
+<lb corresp="#f19_z1_l18_t"/>eſpée, de peur qu’elle ne luy battiſt
+<lb corresp="#f19_z1_l19_t"/>les jambes, luy dit; Qu’ils eſtoient
+<lb corresp="#f19_z1_l20_t"/>François de naiſſance, Comediens
+<lb corresp="#f19_z1_l21_t"/>de profeſſion, qu’il s’appelloit De¬
+<lb corresp="#f19_z1_l22_t"/>ſtin en ſon nom de Theatre, ſon
+<lb corresp="#f19_z1_l23_t"/>vieil camarade la Rancune, &amp; la
+<lb corresp="#f19_z1_l24_t"/>Demoiſelle qui eſtoit iuchée com¬
+<lb corresp="#f19_z1_l25_t"/>me
+</p>
+        <fw corresp="#f19_z2" n="RunningTitleZone"><lb corresp="#f19_z2_l1_t"/>COMIQVE.</fw>
+        <fw corresp="#f19_z3" n="QuireMarksZone"><lb corresp="#f19_z3_l1_t"/>A 3</fw>
+        <fw corresp="#f19_z4" n="NumberingZone"><lb corresp="#f19_z4_l1_t"/>5</fw>
+        <pb corresp="#f20"/>
+        <fw corresp="#f20_z1" n="NumberingZone"><lb corresp="#f20_z1_l1_t"/>6</fw>
+        <p corresp="#f20_z2" n="MainZone">
+<lb corresp="#f20_z2_l1_t"/>me vne poulle au haut de leur baga¬
+<lb corresp="#f20_z2_l2_t"/>ge, la Cauerne. Ce nom bizarre fit
+<lb corresp="#f20_z2_l3_t"/>rire quelques-vns de la compagnie;
+<lb corresp="#f20_z2_l4_t"/>ſur quoy le ieune Comedien adiou¬
+<lb corresp="#f20_z2_l5_t"/>ſta, que le nom de Cauerne ne de¬
+<lb corresp="#f20_z2_l6_t"/>uoit pas ſembler plus eſtrange à des
+<lb corresp="#f20_z2_l7_t"/>hommes d’eſprit que ceux de la
+<lb corresp="#f20_z2_l8_t"/>Montagne, la Vallée, la Roze, ou
+<lb corresp="#f20_z2_l9_t"/>l'Eſpine. La conuerſation finit par
+<lb corresp="#f20_z2_l10_t"/>quelques coups de poing &amp; iure-
+<lb corresp="#f20_z2_l11_t"/>mens de Dieu, que l'on entendit
+<lb corresp="#f20_z2_l12_t"/>audeuant de la charette: c'eſtoit le
+<lb corresp="#f20_z2_l13_t"/>valet du Tripot, qui auoit battu le
+<lb corresp="#f20_z2_l14_t"/>Charretier ſans dire garre; parce
+<lb corresp="#f20_z2_l15_t"/>que ſes bœufs &amp; ſa jument vſoient
+<lb corresp="#f20_z2_l16_t"/>trop librement d'vn amas de foin
+<lb corresp="#f20_z2_l17_t"/>qui eſtoit deuant la porte. On ap¬
+<lb corresp="#f20_z2_l18_t"/>paiſa la noiſe, &amp; la Maiſtreſſe du
+<lb corresp="#f20_z2_l19_t"/>Tripot qui aimoit la Comedie plus
+<lb corresp="#f20_z2_l20_t"/>que Sermon ny Veſpres, par vne
+<lb corresp="#f20_z2_l21_t"/>generoſité inoüie en vne Maiſtreſſe
+<lb corresp="#f20_z2_l22_t"/>de Tripot, dit au Charretier qu’il
+<lb corresp="#f20_z2_l23_t"/>fiſt manger ſes beſtes tout leur ſa¬
+<lb corresp="#f20_z2_l24_t"/>oul. Il accepta l'offre qu'elle luy fit;
+<lb corresp="#f20_z2_l25_t"/>&amp;
+</p>
+        <fw corresp="#f20_z3" n="RunningTitleZone"><lb corresp="#f20_z3_l1_t"/>LE ROMANT</fw>
+        <pb corresp="#f21"/>
+        <p corresp="#f21_z1" n="MainZone">
+<lb corresp="#f21_z1_l1_t"/>&amp; cependant que ſes beſtes man¬
+<lb corresp="#f21_z1_l2_t"/>gerent, l’Auteur ſe repoſa quelque
+<lb corresp="#f21_z1_l3_t"/>temps, &amp; ſe mit à ſonger à ce qu’il
+<lb corresp="#f21_z1_l4_t"/>diroit dans le ſecond Chapitre.
+<hi n="HeadingLine"><lb corresp="#f21_z1_l5_t"/>CHAPITRE II.</hi>
+<hi n="HeadingLine"><lb corresp="#f21_z1_l6_t"/>Quel homme eſtoit le Sieur de la</hi>
+<hi n="HeadingLine"><lb corresp="#f21_z1_l7_t"/>Rappiniere.</hi>
+<lb corresp="#f21_z1_l8_t"/>E Sieur de la Rappiniere eſtoit
+<lb corresp="#f21_z1_l9_t"/>L
+<lb corresp="#f21_z1_l10_t"/>lors le Rieur de la ville du
+<lb corresp="#f21_z1_l11_t"/>Mans. Il n’y a point de petite ville
+<lb corresp="#f21_z1_l12_t"/>qui n’ait ſon Rieur. La ville de Pa¬
+<lb corresp="#f21_z1_l13_t"/>ris n’en n’a pas pour vn; elle en a
+<lb corresp="#f21_z1_l14_t"/>dans chaque quartier, moy-meſme
+<lb corresp="#f21_z1_l15_t"/>qui vous parle ie l’aurois eſté du
+<lb corresp="#f21_z1_l16_t"/>mien ſi i’auois voulu; mais il y a
+<lb corresp="#f21_z1_l17_t"/>long-temps, comme tout le monde
+<lb corresp="#f21_z1_l18_t"/>ſçait, que i’ay renoncé à toutes
+<lb corresp="#f21_z1_l19_t"/>les vanitez du monde. Pour reuenir
+<lb corresp="#f21_z1_l20_t"/>au Sieur de la Rapiniere, il renoüa
+<lb corresp="#f21_z1_l21_t"/>bien-toſt la conuerſation que les
+<lb corresp="#f21_z1_l22_t"/>coups de poing auoient interrom¬
+<lb corresp="#f21_z1_l23_t"/>puë, &amp; demanda au ieune Come¬
+<lb corresp="#f21_z1_l24_t"/>dien
+</p>
+        <fw corresp="#f21_z2" n="RunningTitleZone"><lb corresp="#f21_z2_l1_t"/>COMIQVE.</fw>
+        <fw corresp="#f21_z3" n="NumberingZone"><lb corresp="#f21_z3_l1_t"/>7</fw>
+        <fw corresp="#f21_z4" n="QuireMarksZone"><lb corresp="#f21_z4_l1_t"/>A 4</fw>
+        <pb corresp="#f22"/>
+        <fw corresp="#f22_z1" n="NumberingZone"><lb corresp="#f22_z1_l1_t"/>8</fw>
+        <p corresp="#f22_z2" n="MainZone">
+<lb corresp="#f22_z2_l1_t"/>dien ſi leur troupe n’eſtoit compo¬
+<lb corresp="#f22_z2_l2_t"/>ſée que de Mademoiſelle de la
+<lb corresp="#f22_z2_l3_t"/>Cauerne, de Monſieur de la Ran¬
+<lb corresp="#f22_z2_l4_t"/>cune, &amp; de luy. Noſtre troupe eſt
+<lb corresp="#f22_z2_l5_t"/>auſſi complette quecelle du Prince
+<lb corresp="#f22_z2_l6_t"/>d’Orange, ou de ſon Alteſſe d’E¬
+<lb corresp="#f22_z2_l7_t"/>ſpernon: Mais par vne diſgrace qui
+<lb corresp="#f22_z2_l8_t"/>nous eſt arriuée à Tours, où no¬
+<lb corresp="#f22_z2_l9_t"/>ſtre eſtourdy de Portier a tué vn
+<lb corresp="#f22_z2_l10_t"/>des Fuzeliers de l’Intendant de la
+<lb corresp="#f22_z2_l11_t"/>Prouince, nous auons eſté contra¬
+<lb corresp="#f22_z2_l12_t"/>ints de nous ſauuer vn pied chauſſé
+<lb corresp="#f22_z2_l13_t"/>&amp; l’autre nud, en l’eſquipage que
+<lb corresp="#f22_z2_l14_t"/>vous nous voyez. Ces Fuzeliers
+<lb corresp="#f22_z2_l15_t"/>de Monſieur l’Intendant en ont
+<lb corresp="#f22_z2_l16_t"/>fait autant à la Fleſche, dit la Rap¬
+<lb corresp="#f22_z2_l17_t"/>piniere. Que le feu ſainct Antoine
+<lb corresp="#f22_z2_l18_t"/>les arde, dit la Tripotiere, ils ſont
+<lb corresp="#f22_z2_l19_t"/>cauſe que nous n’aurons pas la Co¬
+<lb corresp="#f22_z2_l20_t"/>medie. Il ne tiendroit pas à nous,
+<lb corresp="#f22_z2_l21_t"/>répondit le vieil Comedien, ſi nous
+<lb corresp="#f22_z2_l22_t"/>auions les clefs de nos coffres pour
+<lb corresp="#f22_z2_l23_t"/>auoir nos habits, &amp; nous diuerti¬
+<lb corresp="#f22_z2_l24_t"/>rions quatre ou cinq iours Meſieurs
+<lb corresp="#f22_z2_l25_t"/>de
+</p>
+        <fw corresp="#f22_z3" n="RunningTitleZone"><lb corresp="#f22_z3_l1_t"/>LE ROMANT</fw>
+        <pb corresp="#f23"/>
+        <p corresp="#f23_z1" n="MainZone">
+<lb corresp="#f23_z1_l1_t"/>de la ville, deuant que de gagner
+<lb corresp="#f23_z1_l2_t"/>Alençon, où le reſte de la Troupe
+<lb corresp="#f23_z1_l3_t"/>a le rendez-vous. La reſponſe du¬
+<lb corresp="#f23_z1_l4_t"/>Comedien fit ouurir les oreilles à
+<lb corresp="#f23_z1_l5_t"/>tout le monde: La Rappiniere of¬
+<lb corresp="#f23_z1_l6_t"/>frit vne vieille robe de ſa femme à la¬
+<lb corresp="#f23_z1_l7_t"/>Cauerne, &amp; la Tripotiere deux ou
+<lb corresp="#f23_z1_l8_t"/>trois paires d’habits qu’elle auoit en
+<lb corresp="#f23_z1_l9_t"/>gage, à Deſtin, &amp; à la Rancune.
+<lb corresp="#f23_z1_l10_t"/>Mais, adiouſta quelqu’vn de la
+<lb corresp="#f23_z1_l11_t"/>compagnie, vous n'eſtes que trois;
+<lb corresp="#f23_z1_l12_t"/>L'ayioüé vne piece moy ſeul, dit la
+<lb corresp="#f23_z1_l13_t"/>Rancune, &amp; ay fait en meſme temps
+<lb corresp="#f23_z1_l14_t"/>le Roy, la Reyne &amp; l’Ambaſſa¬
+<lb corresp="#f23_z1_l15_t"/>deur; ie parlois en fauſſet, quand ie
+<lb corresp="#f23_z1_l16_t"/>faiſois la Reyne, ie parlois du nez
+<lb corresp="#f23_z1_l17_t"/>pour l’Ambaſſadeur, &amp; me tournois
+<lb corresp="#f23_z1_l18_t"/>vers ma Couronne que ie poſois
+<lb corresp="#f23_z1_l19_t"/>ſur vne chaiſe, &amp; pour le Roy, ie
+<lb corresp="#f23_z1_l20_t"/>reprenois mon ſiege, ma Couronne
+<lb corresp="#f23_z1_l21_t"/>&amp; ma grauité en groſſiſſant vn peu
+<lb corresp="#f23_z1_l22_t"/>ma voix; &amp; qu’ainſi ne ſoit, ſi vous
+<lb corresp="#f23_z1_l23_t"/>voulez contenter noſtre Charretier
+<lb corresp="#f23_z1_l24_t"/>&amp; payer noſtre deſpence en l’hoſtel¬
+<lb corresp="#f23_z1_l25_t"/>lerie¬
+</p>
+        <fw corresp="#f23_z2" n="RunningTitleZone"><lb corresp="#f23_z2_l1_t"/>COMIQVE.</fw>
+        <fw corresp="#f23_z3" n="QuireMarksZone"><lb corresp="#f23_z3_l1_t"/>A5</fw>
+        <fw corresp="#f23_z4" n="NumberingZone"><lb corresp="#f23_z4_l1_t"/>9</fw>
+        <pb corresp="#f24"/>
+        <p corresp="#f24_z1" n="MainZone">
+<lb corresp="#f24_z1_l1_t"/>lerie, fourniſſez vos habits &amp; nous
+<lb corresp="#f24_z1_l2_t"/>jouërons deuant que la nuit vien¬
+<lb corresp="#f24_z1_l3_t"/>ne; ou bien nous irons boire auec
+<lb corresp="#f24_z1_l4_t"/>voſtre permiſſion, ou nous repoſer,
+<lb corresp="#f24_z1_l5_t"/>car nous auons fait vne grande iour¬
+<lb corresp="#f24_z1_l6_t"/>née. Le party pleut à la compagnie,
+<lb corresp="#f24_z1_l7_t"/>&amp; le Diable de la Rappiniere qui
+<lb corresp="#f24_z1_l8_t"/>s’auiſoit touſiours de quelque ma¬
+<lb corresp="#f24_z1_l9_t"/>Iice, dit qu’il ne falloit point d’au¬
+<lb corresp="#f24_z1_l10_t"/>tres habits que ceux de deux ieu¬
+<lb corresp="#f24_z1_l11_t"/>nes hommes de la ville, qui io¬
+<lb corresp="#f24_z1_l12_t"/>üoient vne partie dans le Tripot,
+<lb corresp="#f24_z1_l13_t"/>&amp; que Mademoiſelle de la Cauer¬
+<lb corresp="#f24_z1_l14_t"/>ne en ſon habit ordinaire, pourroit
+<lb corresp="#f24_z1_l15_t"/>paſſer pour tout ce que l’on voud¬
+<lb corresp="#f24_z1_l16_t"/>roit en vne Comedie. Auſſi-toſt
+<lb corresp="#f24_z1_l17_t"/>dit, auſſi-toſt fait; en moins d’vn
+<lb corresp="#f24_z1_l18_t"/>demy quart d’heure, les Come¬
+<lb corresp="#f24_z1_l19_t"/>diens eurent beu chacun deux ou
+<lb corresp="#f24_z1_l20_t"/>trois coups, furent traueſtis, &amp; l’aſ¬
+<lb corresp="#f24_z1_l21_t"/>ſemblée qui s’eſtoit groſſie ayant
+<lb corresp="#f24_z1_l22_t"/>pris place en vne chambre haute;
+<lb corresp="#f24_z1_l23_t"/>on vit derriere vn drap ſalle que
+<lb corresp="#f24_z1_l24_t"/>l’on leua, le Comodien Deſtin,
+<lb corresp="#f24_z1_l25_t"/>couché
+</p>
+        <fw corresp="#f24_z2" n="NumberingZone"><lb corresp="#f24_z2_l1_t"/>10</fw>
+        <fw corresp="#f24_z3" n="RunningTitleZone"><lb corresp="#f24_z3_l1_t"/>LE ROMANT</fw>
+        <pb corresp="#f25"/>
+        <p corresp="#f25_z1" n="MainZone">
+<lb corresp="#f25_z1_l1_t"/>couché ſur vn matelas, vn cor¬
+<lb corresp="#f25_z1_l2_t"/>billon dans la teſte qui luy ſeruoit
+<lb corresp="#f25_z1_l3_t"/>de couronne, ſe frottant vn peu les
+<lb corresp="#f25_z1_l4_t"/>yeux, comme vn homme qui s’e¬
+<lb corresp="#f25_z1_l5_t"/>ſueille, &amp; recitant du ton de Mon¬
+<lb corresp="#f25_z1_l6_t"/>dory le roolle d’Herode, qui com¬
+<lb corresp="#f25_z1_l7_t"/>mence par,
+<lb corresp="#f25_z1_l8_t"/>Fantoſme iniurieux qui troubles
+<lb corresp="#f25_z1_l9_t"/>mon repos.
+<lb corresp="#f25_z1_l10_t"/>L’emplaſtre qui luy couuroit la
+<lb corresp="#f25_z1_l11_t"/>moitié du viſage, ne l’empeſcha
+<lb corresp="#f25_z1_l12_t"/>point de faire voir qu’il eſtoit excel¬
+<lb corresp="#f25_z1_l13_t"/>lent Comedien; Mademoiſelle de
+<lb corresp="#f25_z1_l14_t"/>la Cauerne fit des merueilles dans
+<lb corresp="#f25_z1_l15_t"/>les roolles de Mariane &amp; de Salo¬
+<lb corresp="#f25_z1_l16_t"/>me; la Rancune ſatis-fit tout le¬
+<lb corresp="#f25_z1_l17_t"/>monde dans les autres, &amp; la piece
+<lb corresp="#f25_z1_l18_t"/>s’en alloit eſtre conduite à bonne
+<lb corresp="#f25_z1_l19_t"/>fin, quand le Diable qui ne dort ia¬
+<lb corresp="#f25_z1_l20_t"/>mais, s’en méla, &amp; fit fnir la Tra¬
+<lb corresp="#f25_z1_l21_t"/>gedie, non pas par la mort de Ma¬
+<lb corresp="#f25_z1_l22_t"/>riane &amp; les deſeſpoirs d’Herode;
+<lb corresp="#f25_z1_l23_t"/>mais par mille coups de poing au¬
+<lb corresp="#f25_z1_l24_t"/>tant deſoufflers, vn nombre effro¬
+<lb corresp="#f25_z1_l25_t"/>yable
+</p>
+        <fw corresp="#f25_z2" n="RunningTitleZone"><lb corresp="#f25_z2_l1_t"/>COMIQVE.</fw>
+        <fw corresp="#f25_z3" n="NumberingZone"><lb corresp="#f25_z3_l1_t"/>11</fw>
+        <pb corresp="#f26"/>
+        <fw corresp="#f26_z1" n="NumberingZone"><lb corresp="#f26_z1_l1_t"/>12</fw>
+        <fw corresp="#f26_z2" n="RunningTitleZone"><lb corresp="#f26_z2_l1_t"/>LE ROMANT</fw>
+        <p corresp="#f26_z3" n="MainZone">
+<lb corresp="#f26_z3_l1_t"/>yable de coups de pieds, des iure¬
+<lb corresp="#f26_z3_l2_t"/>mens qui ne ſe peuuent compter, &amp;
+<lb corresp="#f26_z3_l3_t"/>en ſuitte vne belle information,
+<lb corresp="#f26_z3_l4_t"/>que fit faire le ſieur de la Rappinie¬
+<lb corresp="#f26_z3_l5_t"/>re, le plus expert de tous les hom¬
+<lb corresp="#f26_z3_l6_t"/>mes en pareille matiere.
+<hi n="HeadingLine"><lb corresp="#f26_z3_l7_t"/>CHAPITRE III.</hi>
+<hi n="HeadingLine"><lb corresp="#f26_z3_l8_t"/>Le deplorable ſuccez qu’eut la</hi>
+<hi n="HeadingLine"><lb corresp="#f26_z3_l9_t"/>Comedie.</hi>
+<lb corresp="#f26_z3_l10_t"/>Ans toutes les villes ſubalter¬
+<hi n="DropCapitalLine"><lb corresp="#f26_z3_l11_t"/>D</hi>
+<lb corresp="#f26_z3_l12_t"/>nes du Royaume, il y a d’or¬
+<lb corresp="#f26_z3_l13_t"/>dinaire vn Tripot, où s’aſſemblent
+<lb corresp="#f26_z3_l14_t"/>tous les iours les faineans de la vil¬
+<lb corresp="#f26_z3_l15_t"/>le; les vns pour ioüer, les autres
+<lb corresp="#f26_z3_l16_t"/>pour regarder ceux qui ioüent.
+<lb corresp="#f26_z3_l17_t"/>C’eſt l’à que l’on rime richement
+<lb corresp="#f26_z3_l18_t"/>en Dieu, que l’on eſpargne fort peu
+<lb corresp="#f26_z3_l19_t"/>le prochain, &amp; que les abſens ſont
+<lb corresp="#f26_z3_l20_t"/>aaſſaſſinez à coups de langue; on n’y
+<lb corresp="#f26_z3_l21_t"/>fait quartier à perſonne, tout le
+<lb corresp="#f26_z3_l22_t"/>monde y vit de Turc à Maure, &amp;
+<lb corresp="#f26_z3_l23_t"/>chacun y eſt receu pour railler, ſe¬
+<lb corresp="#f26_z3_l24_t"/>lon
+</p>
+        <pb corresp="#f27"/>
+        <p corresp="#f27_z1" n="MainZone">
+<lb corresp="#f27_z1_l1_t"/>Ion le talent qu’il en a eu du Seig¬
+<lb corresp="#f27_z1_l2_t"/>neur. C’eſt en vn de ſes Tripots là,
+<lb corresp="#f27_z1_l3_t"/>ſi ie m’en ſouuiens, que i’ay laiſſé
+<lb corresp="#f27_z1_l4_t"/>trois perſonnes comiques, recitant
+<lb corresp="#f27_z1_l5_t"/>la Mariane deuant vne honorable
+<lb corresp="#f27_z1_l6_t"/>compagnie, à laquelle preſidoit le
+<lb corresp="#f27_z1_l7_t"/>ſieur de la Rappiniere. Au meſ¬
+<lb corresp="#f27_z1_l8_t"/>me temps qu’Herode &amp; Maria¬
+<lb corresp="#f27_z1_l9_t"/>ne s’entrediſoient leurs veritez, les
+<lb corresp="#f27_z1_l10_t"/>deux ieunes hommes, de qui l’on
+<lb corresp="#f27_z1_l11_t"/>auoit pris ſi librement les habits,
+<lb corresp="#f27_z1_l12_t"/>entrerent dans la chambre, en calle¬
+<lb corresp="#f27_z1_l13_t"/>çons, &amp; chacun ſa raquette à la
+<lb corresp="#f27_z1_l14_t"/>main. Ils auoient negligé de ſe faire
+<lb corresp="#f27_z1_l15_t"/>frotter pour venir entendre la Co¬
+<lb corresp="#f27_z1_l16_t"/>medie: leurs habits que portoient
+<lb corresp="#f27_z1_l17_t"/>Herode, &amp; Pherore, leur frappe¬
+<lb corresp="#f27_z1_l18_t"/>rent bien-toſt la veuë, le plus colere
+<lb corresp="#f27_z1_l19_t"/>des deux, s’adreſſant au valet du¬
+<lb corresp="#f27_z1_l20_t"/>Tripot: Fils de chienne, luy dit¬
+<lb corresp="#f27_z1_l21_t"/>il, pourquoy as-tu donné mon ha¬
+<lb corresp="#f27_z1_l22_t"/>bit à ce Baſtelleur; Le pauure vallet
+<lb corresp="#f27_z1_l23_t"/>qui le connoiſſoit pour vn grand
+<lb corresp="#f27_z1_l24_t"/>brutal, luy dit en toute humilité,
+<lb corresp="#f27_z1_l25_t"/>que
+</p>
+        <fw corresp="#f27_z2" n="RunningTitleZone"><lb corresp="#f27_z2_l1_t"/>COMIQVE.</fw>
+        <fw corresp="#f27_z3" n="NumberingZone"><lb corresp="#f27_z3_l1_t"/>13</fw>
+        <pb corresp="#f28"/>
+        <p corresp="#f28_z1" n="MainZone">
+<lb corresp="#f28_z1_l1_t"/>que ce n’eſtoit pas luy; Et qui donc?
+<lb corresp="#f28_z1_l2_t"/>barbe de cocu; adiouſta-t’il. Le pau¬
+<lb corresp="#f28_z1_l3_t"/>ure valet n’oſoit en accuſer la Rap¬
+<lb corresp="#f28_z1_l4_t"/>piniere en ſa preſences: mais luy qui
+<lb corresp="#f28_z1_l5_t"/>eſtoit le plus inſolent de tous les
+<lb corresp="#f28_z1_l6_t"/>hommes, luy dit en ſe leuant deſa
+<lb corresp="#f28_z1_l7_t"/>chaize; C’eſt moy, qu’en voulez¬
+<lb corresp="#f28_z1_l8_t"/>vous dire? Que vous eſtes vn ſot,
+<lb corresp="#f28_z1_l9_t"/>repartit l’autre, en luy deſchargeant
+<lb corresp="#f28_z1_l10_t"/>vn demeſuré coup de ſa raquete ſur
+<lb corresp="#f28_z1_l11_t"/>les aureilles. La Rappiniere fut ſi
+<lb corresp="#f28_z1_l12_t"/>ſurpris d’eſtre preuenu d’vn coup,
+<lb corresp="#f28_z1_l13_t"/>luy qui auoit accouſtumé d’en vſer
+<lb corresp="#f28_z1_l14_t"/>ainſi, qu’il demeura comme immo¬
+<lb corresp="#f28_z1_l15_t"/>bile, ou d’admiration, ou parce
+<lb corresp="#f28_z1_l16_t"/>qu’il n’eſtoit pas encor aſſez en co¬
+<lb corresp="#f28_z1_l17_t"/>lere, &amp; qu’il luy en falloit beau¬
+<lb corresp="#f28_z1_l18_t"/>coup pour ſe reſoudre à ſe battre,
+<lb corresp="#f28_z1_l19_t"/>ne fut-ce qu’à coups de poing, &amp;
+<lb corresp="#f28_z1_l20_t"/>peut-eſtre que la choſe en fuſt de¬
+<lb corresp="#f28_z1_l21_t"/>meurée là, ſiſon valet qui auoit plus
+<lb corresp="#f28_z1_l22_t"/>de colere que luy, ne ſe fuſt ietté ſur
+<lb corresp="#f28_z1_l23_t"/>l’aggreſſeur, en luy donnant vn coup
+<lb corresp="#f28_z1_l24_t"/>de poing auec toutes ſes circonſtan¬
+<lb corresp="#f28_z1_l25_t"/>ces,
+</p>
+        <fw corresp="#f28_z2" n="RunningTitleZone"><lb corresp="#f28_z2_l1_t"/>LE ROMANT</fw>
+        <fw corresp="#f28_z3" n="NumberingZone"><lb corresp="#f28_z3_l1_t"/>14</fw>
+        <pb corresp="#f29"/>
+        <p corresp="#f29_z1" n="MainZone">
+<lb corresp="#f29_z1_l1_t"/>ces, dans le beau milieu du viſage,
+<lb corresp="#f29_z1_l2_t"/>en ſuite vne grande quantité d’au¬
+<lb corresp="#f29_z1_l3_t"/>tres où ils peurent aller. La Rappi¬
+<lb corresp="#f29_z1_l4_t"/>niere le prit en queuë, &amp; ſe mit à
+<lb corresp="#f29_z1_l5_t"/>trauailler ſur luy en coups de poings
+<lb corresp="#f29_z1_l6_t"/>comme vn homme qui a eſté oſ¬
+<lb corresp="#f29_z1_l7_t"/>fencé le premier; vn Parent de ſon
+<lb corresp="#f29_z1_l8_t"/>aduerſaire prit la Rappiniere de la
+<lb corresp="#f29_z1_l9_t"/>meſme façon, ce parent ſut inueſty
+<lb corresp="#f29_z1_l10_t"/>par vn Amy de la Rappiniere pour
+<lb corresp="#f29_z1_l11_t"/>faire diuerſion, cettuy-cy le fut
+<lb corresp="#f29_z1_l12_t"/>d'vn autre, &amp; celuy-là d’vn autre;
+<lb corresp="#f29_z1_l13_t"/>Enfin tout le monde prit party dans
+<lb corresp="#f29_z1_l14_t"/>la chambre, l’vn juroit, l’autre in¬
+<lb corresp="#f29_z1_l15_t"/>jurioit, tous s’entrebattoient; La
+<lb corresp="#f29_z1_l16_t"/>Trippotiere qui voyoit rompre ſes
+<lb corresp="#f29_z1_l17_t"/>meubles, empliſſoit l’air de cris
+<lb corresp="#f29_z1_l18_t"/>pitoyables: vray ſemblablement
+<lb corresp="#f29_z1_l19_t"/>ils deuoient tous perir par coups
+<lb corresp="#f29_z1_l20_t"/>d’eſcabeaux, de pieds, &amp; de poings
+<lb corresp="#f29_z1_l21_t"/>ſi quelques-vns des Magiſtrats de
+<lb corresp="#f29_z1_l22_t"/>la ville qui ſe promenoient ſous les
+<lb corresp="#f29_z1_l23_t"/>Halles auec le Seneſchal du May¬
+<lb corresp="#f29_z1_l24_t"/>ne, des Eſſars, ne fuſſent accourus à
+<lb corresp="#f29_z1_l25_t"/>la
+</p>
+        <fw corresp="#f29_z2" n="RunningTitleZone"><lb corresp="#f29_z2_l1_t"/>COMIQVE.</fw>
+        <fw corresp="#f29_z3" n="NumberingZone"><lb corresp="#f29_z3_l1_t"/>15</fw>
+        <pb corresp="#f30"/>
+        <fw corresp="#f30_z1" n="NumberingZone"><lb corresp="#f30_z1_l1_t"/>16</fw>
+        <p corresp="#f30_z2" n="MainZone">
+<lb corresp="#f30_z2_l1_t"/>la rumeur. Quelques vns furent
+<lb corresp="#f30_z2_l2_t"/>d’auis de jetter deux ou trois ſeaux
+<lb corresp="#f30_z2_l3_t"/>d’eau ſur les combattans, &amp; le re¬
+<lb corresp="#f30_z2_l4_t"/>mede euſt peut-eſtre reüſſi, mais
+<lb corresp="#f30_z2_l5_t"/>ils ſe ſeparerent de laſſitude: outre
+<lb corresp="#f30_z2_l6_t"/>que deux Peres Capucins, qui ſe
+<lb corresp="#f30_z2_l7_t"/>jetterent par charité dans le champ
+<lb corresp="#f30_z2_l8_t"/>de bataille, mirent, non pas vne paix
+<lb corresp="#f30_z2_l9_t"/>bien affſermie, entre les combatans,
+<lb corresp="#f30_z2_l10_t"/>mais firent accorder quelques treſ¬
+<lb corresp="#f30_z2_l11_t"/>ues, pendant leſquelles on peuſt
+<lb corresp="#f30_z2_l12_t"/>negocier, ſans prejudice des infor¬
+<lb corresp="#f30_z2_l13_t"/>mations qui ſe firent de part &amp;
+<lb corresp="#f30_z2_l14_t"/>d’autre. Le Comedien Deſtin ſit
+<lb corresp="#f30_z2_l15_t"/>des proüeſſes à coups de poing
+<lb corresp="#f30_z2_l16_t"/>dont l’on parle encore dans la ville
+<lb corresp="#f30_z2_l17_t"/>du Mans, ſuiuant ce qu’en ont ra¬
+<lb corresp="#f30_z2_l18_t"/>conté les deux jouuenceaux, au¬
+<lb corresp="#f30_z2_l19_t"/>theurs de la querelle auec leſquels
+<lb corresp="#f30_z2_l20_t"/>il eut particulierement à faire, &amp;
+<lb corresp="#f30_z2_l21_t"/>qu’il penſa roüer de coups, outre
+<lb corresp="#f30_z2_l22_t"/>quantité d’autres du party contrai¬
+<lb corresp="#f30_z2_l23_t"/>re qu’il mit hors de combat du pre¬
+<lb corresp="#f30_z2_l24_t"/>mier coup. Il perdit ſon emplaſtre
+<lb corresp="#f30_z2_l25_t"/>durant
+</p>
+        <fw corresp="#f30_z3" n="RunningTitleZone"><lb corresp="#f30_z3_l1_t"/>LE ROMANT</fw>
+        <pb corresp="#f31"/>
+        <p corresp="#f31_z1" n="MainZone">
+<lb corresp="#f31_z1_l1_t"/>durant la meſlée, &amp; l’on remarqua
+<lb corresp="#f31_z1_l2_t"/>qu’il auoit le viſage auſſi beau que
+<lb corresp="#f31_z1_l3_t"/>la taille riche. Les muzeaux ſan¬
+<lb corresp="#f31_z1_l4_t"/>glants furent lauez d’eau fraiſche,
+<lb corresp="#f31_z1_l5_t"/>les collets dechirez furent changés,
+<lb corresp="#f31_z1_l6_t"/>on appliqua quelques cataplaſmes,
+<lb corresp="#f31_z1_l7_t"/>&amp; meſine l’on fit quelques points
+<lb corresp="#f31_z1_l8_t"/>d’aiguille, les meubles furent auſſi
+<lb corresp="#f31_z1_l9_t"/>remis en leur place, non pas du tout
+<lb corresp="#f31_z1_l10_t"/>ſi entiers qu’alors qu’on les deſa¬
+<lb corresp="#f31_z1_l11_t"/>rengea. Enfin vn moment apres
+<lb corresp="#f31_z1_l12_t"/>il ne reſta plus rien du combat que
+<lb corresp="#f31_z1_l13_t"/>beaucoup d’animoſité qui paroiſ¬
+<lb corresp="#f31_z1_l14_t"/>ſoit ſur le viſage des vns &amp; des au¬
+<lb corresp="#f31_z1_l15_t"/>tres. Les pauures Comediens ſor¬
+<lb corresp="#f31_z1_l16_t"/>tirent long-temps apres auec la
+<lb corresp="#f31_z1_l17_t"/>Rappiniere, qui verbaliſa le der¬
+<lb corresp="#f31_z1_l18_t"/>nier: Comme ils paſſoient du Tri¬
+<lb corresp="#f31_z1_l19_t"/>pot ſous les Halles, ils furent inue¬
+<lb corresp="#f31_z1_l20_t"/>ſtis par ſept ou huict braues, l’eſpée
+<lb corresp="#f31_z1_l21_t"/>à la main; La Rapiniere ſelon ſa
+<lb corresp="#f31_z1_l22_t"/>couſtume eut grande peur, &amp; pen¬
+<lb corresp="#f31_z1_l23_t"/>ſa bien auoir quelque choſe de pis,
+<lb corresp="#f31_z1_l24_t"/>ſi Deſtin ne ſe fuſt genereuſement
+<lb corresp="#f31_z1_l25_t"/>jetté
+</p>
+        <fw corresp="#f31_z2" n="RunningTitleZone"><lb corresp="#f31_z2_l1_t"/>COMIQVE.</fw>
+        <fw corresp="#f31_z3" n="NumberingZone"><lb corresp="#f31_z3_l1_t"/>17</fw>
+        <pb corresp="#f32"/>
+        <p corresp="#f32_z1" n="MainZone">
+<lb corresp="#f32_z1_l1_t"/>jetté au deuant d’un coup d’eſpée¬
+<lb corresp="#f32_z1_l2_t"/>qui luy alloit paſſer au trauers du
+<lb corresp="#f32_z1_l3_t"/>corps, il ne peut pourtant ſi bien le
+<lb corresp="#f32_z1_l4_t"/>parer, qu’il ne receuſt vne legere
+<lb corresp="#f32_z1_l5_t"/>bleſſeure dans le bras: Il mit l’eſpée
+<lb corresp="#f32_z1_l6_t"/>à la main en meſme temps, &amp; en
+<lb corresp="#f32_z1_l7_t"/>moins de rien fit voller à terre deux
+<lb corresp="#f32_z1_l8_t"/>eſpées, ouurit deux ou trois teſtes,
+<lb corresp="#f32_z1_l9_t"/>donna force coups ſur les aureilles;
+<lb corresp="#f32_z1_l10_t"/>&amp; deconfit ſi bien Meſſieurs de
+<lb corresp="#f32_z1_l11_t"/>I’embuſcade, que tous les affiſtans
+<lb corresp="#f32_z1_l12_t"/>aduoüerent qu’ils n’auoient iamais
+<lb corresp="#f32_z1_l13_t"/>veu vn ſi vaillant homme. Cette
+<lb corresp="#f32_z1_l14_t"/>partie ainſi auortée, auoit eſté dreſ¬
+<lb corresp="#f32_z1_l15_t"/>ſée à la Rappiniere par deux petits
+<lb corresp="#f32_z1_l16_t"/>Nobles, dont l’vn auoit eſpouſé la
+<lb corresp="#f32_z1_l17_t"/>ſœur de celuy qui commenca le
+<lb corresp="#f32_z1_l18_t"/>combat par vn grand coup de ra¬
+<lb corresp="#f32_z1_l19_t"/>quette: &amp; vravſemblablement la
+<lb corresp="#f32_z1_l20_t"/>Rappiniere eſtoit gaſté ſans le vail¬
+<lb corresp="#f32_z1_l21_t"/>Iant deffenſeur que Dieu luy ſuſcita
+<lb corresp="#f32_z1_l22_t"/>en noſtre vaillant Comedien. Le
+<lb corresp="#f32_z1_l23_t"/>bienfait trouua place en ſon cœur
+<lb corresp="#f32_z1_l24_t"/>de roche, &amp; ſans vouloir permettre
+<lb corresp="#f32_z1_l25_t"/>que
+</p>
+        <fw corresp="#f32_z2" n="RunningTitleZone"><lb corresp="#f32_z2_l1_t"/>LE ROMANT</fw>
+        <fw corresp="#f32_z3" n="NumberingZone"><lb corresp="#f32_z3_l1_t"/>18</fw>
+        <pb corresp="#f33"/>
+        <fw corresp="#f33_z1" n="RunningTitleZone"><lb corresp="#f33_z1_l1_t"/>COMIQVE.</fw>
+        <fw corresp="#f33_z2" n="NumberingZone"><lb corresp="#f33_z2_l1_t"/>19</fw>
+        <p corresp="#f33_z3" n="MainZone">
+<lb corresp="#f33_z3_l1_t"/>que ces pauures reſtes d’vne troupe
+<lb corresp="#f33_z3_l2_t"/>deſlabrée allaſſent loger en vne ho¬
+<lb corresp="#f33_z3_l3_t"/>ſtellerie, il les emmena chez luy,
+<lb corresp="#f33_z3_l4_t"/>où le chartier deſchargea le bagage
+<lb corresp="#f33_z3_l5_t"/>comique, &amp; s’en retourna en ſon
+<lb corresp="#f33_z3_l6_t"/>viſlage.
+<hi n="HeadingLine"><lb corresp="#f33_z3_l7_t"/>CHAPITRE IV.</hi>
+<hi n="HeadingLine"><lb corresp="#f33_z3_l8_t"/>Dans lequel on continuë à parler du ſieur</hi>
+<hi n="HeadingLine"><lb corresp="#f33_z3_l9_t"/>de la Rappiniere, &amp; de ce qui arriua la</hi>
+<hi n="HeadingLine"><lb corresp="#f33_z3_l10_t"/>nuict en ſa maiſon¬</hi>
+<hi n="DropCapitalLine"><lb corresp="#f33_z3_l11_t"/>M</hi>
+<lb corresp="#f33_z3_l12_t"/>Adamoiſelle de la Rappinie¬
+<lb corresp="#f33_z3_l13_t"/>re receut la compagnie auec¬
+<lb corresp="#f33_z3_l14_t"/>que grande ciuilité, comme elle
+<lb corresp="#f33_z3_l15_t"/>eſtoit la femme du monde qui ſe
+<lb corresp="#f33_z3_l16_t"/>ſoubmettoit le plus facilement,elle
+<lb corresp="#f33_z3_l17_t"/>n’eſtoit pas laide, quoy que ſi mai¬
+<lb corresp="#f33_z3_l18_t"/>gre &amp; ſi ſeiche, qu’elle n’auoit ia¬
+<lb corresp="#f33_z3_l19_t"/>mais mouché de chandelle auec les
+<lb corresp="#f33_z3_l20_t"/>doigts, que le feu ny priſt; l’en
+<lb corresp="#f33_z3_l21_t"/>pourrois dire cent choſes rares que
+<lb corresp="#f33_z3_l22_t"/>ie laiſſe de peur d’eſtre trop long.
+<lb corresp="#f33_z3_l23_t"/>En moins de rien les deux dames
+<lb corresp="#f33_z3_l24_t"/>ſurent
+</p>
+        <pb corresp="#f34"/>
+        <p corresp="#f34_z1" n="MainZone">
+<lb corresp="#f34_z1_l1_t"/>furent ſi
+<lb corresp="#f34_z1_l2_t"/>grandes camarades, qu’el¬
+<lb corresp="#f34_z1_l3_t"/>les s’entr’appellerent ma chere, &amp;
+<lb corresp="#f34_z1_l4_t"/>ma fidelle. La Rappiniere qui auoit
+<lb corresp="#f34_z1_l5_t"/>de la mauuaiſe gloire autant que
+<lb corresp="#f34_z1_l6_t"/>barbier de la ville, diſt en entrant
+<lb corresp="#f34_z1_l7_t"/>qu’on allaſt à la cuiſine, &amp; a l’office,
+<lb corresp="#f34_z1_l8_t"/>faire haſter le ſouper. C’eſtoit vne
+<lb corresp="#f34_z1_l9_t"/>pure rodomontade, outte ſon vieil
+<lb corresp="#f34_z1_l10_t"/>valet qui penſoit meſme ſes che¬
+<lb corresp="#f34_z1_l11_t"/>uaux, il n’y auoit dans le logis qu’vne
+<lb corresp="#f34_z1_l12_t"/>ieune ſeruante, &amp; vne vieille boit¬
+<lb corresp="#f34_z1_l13_t"/>teuſe qui auoit du mal comme vn
+<lb corresp="#f34_z1_l14_t"/>chien. Sa vanité fut punie par vne
+<lb corresp="#f34_z1_l15_t"/>grande confuſion qui luy arriua: Il
+<lb corresp="#f34_z1_l16_t"/>mangeoit d’ordinaire au cabaret,
+<lb corresp="#f34_z1_l17_t"/>aux deſpens des ſots, ſa femme &amp;
+<lb corresp="#f34_z1_l18_t"/>ſon train ſi reiglé, eſtoient reduits
+<lb corresp="#f34_z1_l19_t"/>au potage aux choux ſelon la cou¬
+<lb corresp="#f34_z1_l20_t"/>ſtume du païs; voulant paroiſtre
+<lb corresp="#f34_z1_l21_t"/>deuant ſes hoſtes, &amp; les regaller, il
+<lb corresp="#f34_z1_l22_t"/>penſa couler par derriere ſon dos
+<lb corresp="#f34_z1_l23_t"/>quelque monnoye à ſon valet pour
+<lb corresp="#f34_z1_l24_t"/>aller querir dequoy ſouper: par la
+<lb corresp="#f34_z1_l25_t"/>faute du valet, ou du maiſtre, l’ar¬
+</p>
+        <fw corresp="#f34_z2" n="RunningTitleZone"><lb corresp="#f34_z2_l1_t"/>LE ROMANT</fw>
+        <fw corresp="#f34_z3" n="NumberingZone"><lb corresp="#f34_z3_l1_t"/>20</fw>
+      </div>
     </body>
   </text>
 </TEI>
