@@ -3,6 +3,7 @@ data:
   path: "./data"
 
 responsibility:
+  text: "Transformation from ALTO4 to TEI by"
   # create a dictionary for each contributor in your project, featuring
   # their first name (forename), last name (surname), and ORCID (ptr)
   resp: [{"forename":"Kelly", 
@@ -11,7 +12,12 @@ responsibility:
 
         {"forename":"Simon",
         "surname":"Gabay", 
-        "ptr":{"type":"orcid","target":"0000000190944475"}}]
+        "ptr":{"type":"orcid","target":"0000000190944475"}},
+
+        {"forename":"Ariane",
+        "surname":"Pinche",
+        "ptr":{"type":"orcid","target":"0000000278435050"}}
+        ]
 
   # name the publisher of this digital edition (project name)
   publisher: "Gallic(orpor)a"

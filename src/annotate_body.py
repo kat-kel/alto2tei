@@ -26,24 +26,24 @@ class Body:
             
             
             if line.zone_type == "NumberingZone" or line.zone_type == "QuireMarksZone" or line.zone_type == "RunningTitleZone": 
-                fw = etree.Element("fw", corresp=f"#{line.zone_id}", n=line.zone_type)
+                fw = etree.Element("fw", corresp=f"#{line.zone_id}", type=line.zone_type)
                 div[-1].addnext(fw)
                 fw.append(lb)
                 lb.tail = ln.text
             
             elif line.zone_type == "MarginTextZone":
-                note = etree.Element("note", corresp=f"#{line.zone_id}", n=line.zone_type)
+                note = etree.Element("note", corresp=f"#{line.zone_id}", type=line.zone_type)
                 div[-1].addnext(note)
                 note.append(lb)
                 lb.tail = ln.text
             
             elif line.zone_type == "MainZone":
                 if div[-1].tag != "p":
-                    p = etree.Element("p", corresp=f"#{line.zone_id}", n=line.zone_type)
+                    p = etree.Element("p", corresp=f"#{line.zone_id}")
                     p.text = "\n"
                     div[-1].addnext(p)
                 if line.type == "DropCapitalLine" or line.type == "HeadingLine":
-                    hi = etree.Element("hi", n=line.type)
+                    hi = etree.Element("hi", type=line.type)
                     hi.tail = "\n"
                     div[-1].append(hi)
                     hi.append(lb)
@@ -59,7 +59,7 @@ class Line:
         self.lines = lines
         self.line = line
         self.i = count
-        id = self.line.get("{http://www.w3.org/XML/1998/namespace}id")
+        id = self.line.getparent().get("{http://www.w3.org/XML/1998/namespace}id")
         self.att = {"corresp":f"#{id}"}
         self.type = self.line.getparent().get("type")
         self.zone_type = self.line.getparent().getparent().get("type")

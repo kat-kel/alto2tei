@@ -13,8 +13,6 @@ class SRU_API:
 
     def request(self):
             """Request metadata from the BnF's SRU API.
-            Args:
-                ark (str): the document's ARK in the BnF's catalogue
             Returns:
                 root (etree_Element): parsed XML tree of requested Unimarc data
                 perfect_match (boolean): True if request was completed with Gallica ark / directory basename

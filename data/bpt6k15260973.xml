@@ -23,6 +23,11 @@
             <surname>Gabay</surname>
             <ptr type="orcid" target="0000000190944475"/>
           </persName>
+          <persName>
+            <forename>Ariane</forename>
+            <surname>Pinche</surname>
+            <ptr type="orcid" target="0000000278435050"/>
+          </persName>
         </respStmt>
       </titleStmt>
       <extent>
@@ -34,7 +39,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-17"/>
+        <date when="2022-05-18"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -1909,474 +1914,474 @@
       <div>
         <pb corresp="#f9"/>
         <pb corresp="#f10"/>
-        <p corresp="#f10_z1" n="MainZone">
-<hi n="HeadingLine"><lb corresp="#f10_z1_l1_t"/>¶ Enſuyuent  pluſieurs menus propos</hi>
-<hi n="HeadingLine"><lb corresp="#f10_z1_l2_t"/>moraulx et ioyeulx</hi>
-<lb corresp="#f10_z1_l3_t"/>Treſ illuſtre et hault prince excellent
-<lb corresp="#f10_z1_l4_t"/>Triumphateur de paix beniuolent
-<hi n="DropCapitalLine"><lb corresp="#f10_z1_l5_t"/>O</hi>
-<lb corresp="#f10_z1_l6_t"/>Treſobey en ton noble dommaine
-<lb corresp="#f10_z1_l7_t"/>Anthoine duc de Calabre et Lorraine
-<lb corresp="#f10_z1_l8_t"/>Auſſi de Bar marchis marquis du Pont
-<lb corresp="#f10_z1_l9_t"/>Et de Prouence auecques Daudemont
-<lb corresp="#f10_z1_l10_t"/>Conte et ſeigneur prens en gre ceſte hyſtoire
-<lb corresp="#f10_z1_l11_t"/>De ton herault nomme Pierre Gringoire
-<lb corresp="#f10_z1_l12_t"/>Dit Daudemont petit preſent te faict
-<lb corresp="#f10_z1_l13_t"/>Conſiderant quil neſt homme parfaict
-<lb corresp="#f10_z1_l14_t"/>Ceſt ingere dung treſardant couraige
-<lb corresp="#f10_z1_l15_t"/>De compoſer ceſtuy petit ouuraige
-<lb corresp="#f10_z1_l16_t"/>Intitule pluſieurs menus propos
-<lb corresp="#f10_z1_l17_t"/>Mieulx uault ueiller que prendre long repos
-<lb corresp="#f10_z1_l18_t"/>⁋Pource que aucuns figurent ariſtote
-<lb corresp="#f10_z1_l19_t"/>A quatre pieds et une femme ſotte
-<lb corresp="#f10_z1_l20_t"/>Sur icelluy faignant lacheuaucher
-<lb corresp="#f10_z1_l21_t"/>Vng uiateur mon grant amy treſcher
-<lb corresp="#f10_z1_l22_t"/>Ma ſupplie que vers mondains procure
-<lb corresp="#f10_z1_l23_t"/>Si poſſible eſt luy oſter ceſte iniure
-<lb corresp="#f10_z1_l24_t"/>Deu que ung tel homme en ſcience parfaict
-<lb corresp="#f10_z1_l25_t"/>Ne permiſt onc commettre ung laſche faict
-<lb corresp="#f10_z1_l26_t"/>Philoſophie auoit en ſoy moralle
-<lb corresp="#f10_z1_l27_t"/>En expoſant auſſi la naturalle
+        <p corresp="#f10_z1">
+<hi type="HeadingLine"><lb corresp="#f10_z1_l1"/>¶ Enſuyuent  pluſieurs menus propos</hi>
+<hi type="HeadingLine"><lb corresp="#f10_z1_l2"/>moraulx et ioyeulx</hi>
+<lb corresp="#f10_z1_l3"/>Treſ illuſtre et hault prince excellent
+<lb corresp="#f10_z1_l4"/>Triumphateur de paix beniuolent
+<hi type="DropCapitalLine"><lb corresp="#f10_z1_l5"/>O</hi>
+<lb corresp="#f10_z1_l6"/>Treſobey en ton noble dommaine
+<lb corresp="#f10_z1_l7"/>Anthoine duc de Calabre et Lorraine
+<lb corresp="#f10_z1_l8"/>Auſſi de Bar marchis marquis du Pont
+<lb corresp="#f10_z1_l9"/>Et de Prouence auecques Daudemont
+<lb corresp="#f10_z1_l10"/>Conte et ſeigneur prens en gre ceſte hyſtoire
+<lb corresp="#f10_z1_l11"/>De ton herault nomme Pierre Gringoire
+<lb corresp="#f10_z1_l12"/>Dit Daudemont petit preſent te faict
+<lb corresp="#f10_z1_l13"/>Conſiderant quil neſt homme parfaict
+<lb corresp="#f10_z1_l14"/>Ceſt ingere dung treſardant couraige
+<lb corresp="#f10_z1_l15"/>De compoſer ceſtuy petit ouuraige
+<lb corresp="#f10_z1_l16"/>Intitule pluſieurs menus propos
+<lb corresp="#f10_z1_l17"/>Mieulx uault ueiller que prendre long repos
+<lb corresp="#f10_z1_l18"/>⁋Pource que aucuns figurent ariſtote
+<lb corresp="#f10_z1_l19"/>A quatre pieds et une femme ſotte
+<lb corresp="#f10_z1_l20"/>Sur icelluy faignant lacheuaucher
+<lb corresp="#f10_z1_l21"/>Vng uiateur mon grant amy treſcher
+<lb corresp="#f10_z1_l22"/>Ma ſupplie que vers mondains procure
+<lb corresp="#f10_z1_l23"/>Si poſſible eſt luy oſter ceſte iniure
+<lb corresp="#f10_z1_l24"/>Deu que ung tel homme en ſcience parfaict
+<lb corresp="#f10_z1_l25"/>Ne permiſt onc commettre ung laſche faict
+<lb corresp="#f10_z1_l26"/>Philoſophie auoit en ſoy moralle
+<lb corresp="#f10_z1_l27"/>En expoſant auſſi la naturalle
 </p>
         <pb corresp="#f11"/>
-        <p corresp="#f11_z1" n="MainZone">
-<lb corresp="#f11_z1_l1_t"/>Parquoy lon doit mettre ſur luy raiſon
-<lb corresp="#f11_z1_l2_t"/>Comme voyez, car ceſt ſon droit blaſon
-<lb corresp="#f11_z1_l3_t"/>⁋Raiſon deſſus la figure de Aristote
-<hi n="DropCapitalLine"><lb corresp="#f11_z1_l4_t"/>R</hi>
-<lb corresp="#f11_z1_l5_t"/>Aiſon ſuis ſubtile et argute
-<lb corresp="#f11_z1_l6_t"/>Qui du faulx et du vray diſpute
-<lb corresp="#f11_z1_l7_t"/>Affin de bien et clerement
-<lb corresp="#f11_z1_l8_t"/>Appliquer tout predicament
+        <p corresp="#f11_z1">
+<lb corresp="#f11_z1_l1"/>Parquoy lon doit mettre ſur luy raiſon
+<lb corresp="#f11_z1_l2"/>Comme voyez, car ceſt ſon droit blaſon
+<lb corresp="#f11_z1_l3"/>⁋Raiſon deſſus la figure de Aristote
+<hi type="DropCapitalLine"><lb corresp="#f11_z1_l4"/>R</hi>
+<lb corresp="#f11_z1_l5"/>Aiſon ſuis ſubtile et argute
+<lb corresp="#f11_z1_l6"/>Qui du faulx et du vray diſpute
+<lb corresp="#f11_z1_l7"/>Affin de bien et clerement
+<lb corresp="#f11_z1_l8"/>Appliquer tout predicament
 </p>
-        <fw corresp="#f11_z2" n="QuireMarksZone"><lb corresp="#f11_z2_l1_t"/>a.ii.</fw>
+        <fw corresp="#f11_z2" type="QuireMarksZone"><lb corresp="#f11_z2_l1"/>a.ii.</fw>
         <pb corresp="#f12"/>
-        <p corresp="#f12_z1" n="MainZone">
-<lb corresp="#f12_z1_l1_t"/>Et determiner des ſecretz
-<lb corresp="#f12_z1_l2_t"/>De droitz mundiaulx et decretz
-<lb corresp="#f12_z1_l3_t"/>Et reprimer toutes iniures
-<lb corresp="#f12_z1_l4_t"/>Les faulx poix et faulces meſures
-<lb corresp="#f12_z1_l5_t"/>Quietement proſperera
-<lb corresp="#f12_z1_l6_t"/>Qui par moy ſe gouuernera
-<hi n="HeadingLine"><lb corresp="#f12_z1_l7_t"/>¶Lacteur.</hi>
-<hi n="HeadingLine"><lb corresp="#f12_z1_l8_t"/>¶ Pere Ariſtote en la philoſophie</hi>
-<lb corresp="#f12_z1_l9_t"/>Et de tous ars et naturelle vie
-<lb corresp="#f12_z1_l10_t"/>En tous ſes faitz ſe ſubmiſt a raiſon
-<lb corresp="#f12_z1_l11_t"/>Parquoy ſcient fut ſans comparaiſon
-<lb corresp="#f12_z1_l12_t"/>Car par icelle enquerant verite
-<lb corresp="#f12_z1_l13_t"/>Magnifia uertus et equite
-<lb corresp="#f12_z1_l14_t"/>Et doit marcher ſur lhomme et le garder
-<lb corresp="#f12_z1_l15_t"/>De trop menger, parler et brocarder
-<lb corresp="#f12_z1_l16_t"/>Et refrener ſa vouente mobille
-<lb corresp="#f12_z1_l17_t"/>De fouruoyer aux champs et a la ville
-<lb corresp="#f12_z1_l18_t"/>Pour non tumber au dãger des brigans
-<lb corresp="#f12_z1_l19_t"/>Tenebreux cieux du monde latitans
-<hi n="HeadingLine"><lb corresp="#f12_z1_l20_t"/>¶ Raiſon par tout</hi>
-<lb corresp="#f12_z1_l21_t"/>¶ Cronique du temps preſent
-<hi n="DropCapitalLine"><lb corresp="#f12_z1_l22_t"/>L</hi>
-<lb corresp="#f12_z1_l23_t"/>An mil cinq cens uingt et ung paix regna
-<lb corresp="#f12_z1_l24_t"/>Dont le dieu marsſi treſfort ſe indigna
-<lb corresp="#f12_z1_l25_t"/>Quil deſploya le ſtandard de follie
-<lb corresp="#f12_z1_l26_t"/>Dont fiſt preſent, par rigueur le donna
+        <p corresp="#f12_z1">
+<lb corresp="#f12_z1_l1"/>Et determiner des ſecretz
+<lb corresp="#f12_z1_l2"/>De droitz mundiaulx et decretz
+<lb corresp="#f12_z1_l3"/>Et reprimer toutes iniures
+<lb corresp="#f12_z1_l4"/>Les faulx poix et faulces meſures
+<lb corresp="#f12_z1_l5"/>Quietement proſperera
+<lb corresp="#f12_z1_l6"/>Qui par moy ſe gouuernera
+<hi type="HeadingLine"><lb corresp="#f12_z1_l7"/>¶Lacteur.</hi>
+<hi type="HeadingLine"><lb corresp="#f12_z1_l8"/>¶ Pere Ariſtote en la philoſophie</hi>
+<lb corresp="#f12_z1_l9"/>Et de tous ars et naturelle vie
+<lb corresp="#f12_z1_l10"/>En tous ſes faitz ſe ſubmiſt a raiſon
+<lb corresp="#f12_z1_l11"/>Parquoy ſcient fut ſans comparaiſon
+<lb corresp="#f12_z1_l12"/>Car par icelle enquerant verite
+<lb corresp="#f12_z1_l13"/>Magnifia uertus et equite
+<lb corresp="#f12_z1_l14"/>Et doit marcher ſur lhomme et le garder
+<lb corresp="#f12_z1_l15"/>De trop menger, parler et brocarder
+<lb corresp="#f12_z1_l16"/>Et refrener ſa vouente mobille
+<lb corresp="#f12_z1_l17"/>De fouruoyer aux champs et a la ville
+<lb corresp="#f12_z1_l18"/>Pour non tumber au dãger des brigans
+<lb corresp="#f12_z1_l19"/>Tenebreux cieux du monde latitans
+<hi type="HeadingLine"><lb corresp="#f12_z1_l20"/>¶ Raiſon par tout</hi>
+<lb corresp="#f12_z1_l21"/>¶ Cronique du temps preſent
+<hi type="DropCapitalLine"><lb corresp="#f12_z1_l22"/>L</hi>
+<lb corresp="#f12_z1_l23"/>An mil cinq cens uingt et ung paix regna
+<lb corresp="#f12_z1_l24"/>Dont le dieu marsſi treſfort ſe indigna
+<lb corresp="#f12_z1_l25"/>Quil deſploya le ſtandard de follie
+<lb corresp="#f12_z1_l26"/>Dont fiſt preſent, par rigueur le donna
 </p>
         <pb corresp="#f13"/>
-        <p corresp="#f13_z1" n="MainZone">
-<lb corresp="#f13_z1_l1_t"/>A ſes enſans:auſquelz il ordonna
-<lb corresp="#f13_z1_l2_t"/>De mettre a mort paix qui princes allie
-<lb corresp="#f13_z1_l3_t"/>Quant paix te ſceut de France fiſt ſaillie
-<lb corresp="#f13_z1_l4_t"/>Et dallemaigne eut ſa place en Lorraine
-<lb corresp="#f13_z1_l5_t"/>Dieu moyennant, ⁊ le bon duc Anthoine.
-<hi n="HeadingLine"><lb corresp="#f13_z1_l6_t"/>¶En ce dit an il y eut deux ſouldare</hi>
-<lb corresp="#f13_z1_l7_t"/>Qui mirent ſus guidons et eſtandare
-<lb corresp="#f13_z1_l8_t"/>En eſmouuant une folle querelle
-<lb corresp="#f13_z1_l9_t"/>A fors diſcorde empoigna lance et dars
-<lb corresp="#f13_z1_l10_t"/>Les pouruoyant de picques auſſi de arcs
-<lb corresp="#f13_z1_l11_t"/>Dont fit preſens a gens pareilz a elle
-<lb corresp="#f13_z1_l12_t"/>Ainſi ſe eſmeut guerre non trop cruelle
-<lb corresp="#f13_z1_l13_t"/>Car ſe neſtoit que pour ung uireton
-<lb corresp="#f13_z1_l14_t"/>Maint eſt batu de ſon propre baſton.
-<hi n="HeadingLine"><lb corresp="#f13_z1_l15_t"/>¶Di aduint il aue ſoubz umbre de bien</hi>
-<lb corresp="#f13_z1_l16_t"/>Laigle uolla diſant trouuer moyen
-<lb corresp="#f13_z1_l17_t"/>De briſer,rompre,abolir et deſtruire
-<lb corresp="#f13_z1_l18_t"/>Lieux ſarcineux ⁊ ny eſpargnoit rien
-<lb corresp="#f13_z1_l19_t"/>Tant que on diſoit que per le terrien
-<lb corresp="#f13_z1_l20_t"/>Seroit tenu deſſoubz luy ſe reduyre
-<lb corresp="#f13_z1_l21_t"/>Deu quil prenoit plaiſir a ſoy deduyre
-<lb corresp="#f13_z1_l22_t"/>Que marchandiſe allaſt par ſe chemin
-<lb corresp="#f13_z1_l23_t"/>Bien cõmencer uault peu ſans bonne fin
-<hi n="HeadingLine"><lb corresp="#f13_z1_l24_t"/>¶Lyon de ſable eſtant a laigle uny</hi>
+        <p corresp="#f13_z1">
+<lb corresp="#f13_z1_l1"/>A ſes enſans:auſquelz il ordonna
+<lb corresp="#f13_z1_l2"/>De mettre a mort paix qui princes allie
+<lb corresp="#f13_z1_l3"/>Quant paix te ſceut de France fiſt ſaillie
+<lb corresp="#f13_z1_l4"/>Et dallemaigne eut ſa place en Lorraine
+<lb corresp="#f13_z1_l5"/>Dieu moyennant, ⁊ le bon duc Anthoine.
+<hi type="HeadingLine"><lb corresp="#f13_z1_l6"/>¶En ce dit an il y eut deux ſouldare</hi>
+<lb corresp="#f13_z1_l7"/>Qui mirent ſus guidons et eſtandare
+<lb corresp="#f13_z1_l8"/>En eſmouuant une folle querelle
+<lb corresp="#f13_z1_l9"/>A fors diſcorde empoigna lance et dars
+<lb corresp="#f13_z1_l10"/>Les pouruoyant de picques auſſi de arcs
+<lb corresp="#f13_z1_l11"/>Dont fit preſens a gens pareilz a elle
+<lb corresp="#f13_z1_l12"/>Ainſi ſe eſmeut guerre non trop cruelle
+<lb corresp="#f13_z1_l13"/>Car ſe neſtoit que pour ung uireton
+<lb corresp="#f13_z1_l14"/>Maint eſt batu de ſon propre baſton.
+<hi type="HeadingLine"><lb corresp="#f13_z1_l15"/>¶Di aduint il aue ſoubz umbre de bien</hi>
+<lb corresp="#f13_z1_l16"/>Laigle uolla diſant trouuer moyen
+<lb corresp="#f13_z1_l17"/>De briſer,rompre,abolir et deſtruire
+<lb corresp="#f13_z1_l18"/>Lieux ſarcineux ⁊ ny eſpargnoit rien
+<lb corresp="#f13_z1_l19"/>Tant que on diſoit que per le terrien
+<lb corresp="#f13_z1_l20"/>Seroit tenu deſſoubz luy ſe reduyre
+<lb corresp="#f13_z1_l21"/>Deu quil prenoit plaiſir a ſoy deduyre
+<lb corresp="#f13_z1_l22"/>Que marchandiſe allaſt par ſe chemin
+<lb corresp="#f13_z1_l23"/>Bien cõmencer uault peu ſans bonne fin
+<hi type="HeadingLine"><lb corresp="#f13_z1_l24"/>¶Lyon de ſable eſtant a laigle uny</hi>
 </p>
-        <fw corresp="#f13_z2" n="QuireMarksZone"><lb corresp="#f13_z2_l1_t"/>a.iii.</fw>
+        <fw corresp="#f13_z2" type="QuireMarksZone"><lb corresp="#f13_z2_l1"/>a.iii.</fw>
         <pb corresp="#f18"/>
-        <p corresp="#f18_z1" n="MainZone">
-<lb corresp="#f18_z1_l1_t"/>Nourrir amour entre eulx ⁊ publier
-<lb corresp="#f18_z1_l2_t"/>Guerre et debatz deſſoubz le pied plier
-<lb corresp="#f18_z1_l3_t"/>Oſtant flateurs de aupres ď leur  perſõne
-<lb corresp="#f18_z1_l4_t"/>Recognoiſſant que dieu uictoire donne
-<lb corresp="#f18_z1_l5_t"/>Et gloire auſſi ce ne fault oublier.
-<hi n="HeadingLine"><lb corresp="#f18_z1_l6_t"/>¶Rondeau</hi>
-<lb corresp="#f18_z1_l7_t"/>¶ Sainct Pierre print le glaiue de ſainct Pol
-<lb corresp="#f18_z1_l8_t"/>Dont de rechief cuyda coupper le coſ
-<lb corresp="#f18_z1_l9_t"/>A ſainct Denys, car ſainct Jacque en galice
-<lb corresp="#f18_z1_l10_t"/>Appetoit fort luy faire preiudice
-<lb corresp="#f18_z1_l11_t"/>De ſon bourdon dont il fiſt ung flaiol.
-<lb corresp="#f18_z1_l12_t"/>¶ Sainct Marc le ſceut il luy deſpleut du dol
-<lb corresp="#f18_z1_l13_t"/>Et de la fraulde aſors dung gros licol
-<lb corresp="#f18_z1_l14_t"/>Lya Remmains,congnoiſſant le malice
-<lb corresp="#f18_z1_l15_t"/>fainct.
-<lb corresp="#f18_z1_l16_t"/>¶Sainct Andre uint en ſecret de plain uol
-<lb corresp="#f18_z1_l17_t"/>Cuydant trouuer ſainct Frãcois laſche ⁊ mol
-<lb corresp="#f18_z1_l18_t"/>Qui deſira ſoy uenger dung tel uice
-<lb corresp="#f18_z1_l19_t"/>Sainct George y fut comme chef de iuſtice
-<lb corresp="#f18_z1_l20_t"/>Apperceut bien que lung de eulx eſtoit fol
-<lb corresp="#f18_z1_l21_t"/>fainct
-<lb corresp="#f18_z1_l22_t"/>¶Raiſon par tout.
-<hi n="HeadingLine"><lb corresp="#f18_z1_l23_t"/>¶ Menus propos de la maniere de ſoy</hi>
-<hi n="HeadingLine"><lb corresp="#f18_z1_l24_t"/>gouuuerner es cours des princes</hi>
+        <p corresp="#f18_z1">
+<lb corresp="#f18_z1_l1"/>Nourrir amour entre eulx ⁊ publier
+<lb corresp="#f18_z1_l2"/>Guerre et debatz deſſoubz le pied plier
+<lb corresp="#f18_z1_l3"/>Oſtant flateurs de aupres ď leur  perſõne
+<lb corresp="#f18_z1_l4"/>Recognoiſſant que dieu uictoire donne
+<lb corresp="#f18_z1_l5"/>Et gloire auſſi ce ne fault oublier.
+<hi type="HeadingLine"><lb corresp="#f18_z1_l6"/>¶Rondeau</hi>
+<lb corresp="#f18_z1_l7"/>¶ Sainct Pierre print le glaiue de ſainct Pol
+<lb corresp="#f18_z1_l8"/>Dont de rechief cuyda coupper le coſ
+<lb corresp="#f18_z1_l9"/>A ſainct Denys, car ſainct Jacque en galice
+<lb corresp="#f18_z1_l10"/>Appetoit fort luy faire preiudice
+<lb corresp="#f18_z1_l11"/>De ſon bourdon dont il fiſt ung flaiol.
+<lb corresp="#f18_z1_l12"/>¶ Sainct Marc le ſceut il luy deſpleut du dol
+<lb corresp="#f18_z1_l13"/>Et de la fraulde aſors dung gros licol
+<lb corresp="#f18_z1_l14"/>Lya Remmains,congnoiſſant le malice
+<lb corresp="#f18_z1_l15"/>fainct.
+<lb corresp="#f18_z1_l16"/>¶Sainct Andre uint en ſecret de plain uol
+<lb corresp="#f18_z1_l17"/>Cuydant trouuer ſainct Frãcois laſche ⁊ mol
+<lb corresp="#f18_z1_l18"/>Qui deſira ſoy uenger dung tel uice
+<lb corresp="#f18_z1_l19"/>Sainct George y fut comme chef de iuſtice
+<lb corresp="#f18_z1_l20"/>Apperceut bien que lung de eulx eſtoit fol
+<lb corresp="#f18_z1_l21"/>fainct
+<lb corresp="#f18_z1_l22"/>¶Raiſon par tout.
+<hi type="HeadingLine"><lb corresp="#f18_z1_l23"/>¶ Menus propos de la maniere de ſoy</hi>
+<hi type="HeadingLine"><lb corresp="#f18_z1_l24"/>gouuuerner es cours des princes</hi>
 </p>
         <pb corresp="#f19"/>
-        <p corresp="#f19_z1" n="MainZone">
-<hi n="HeadingLine"><lb corresp="#f19_z1_l1_t"/>¶Le curial.</hi>
-<hi n="DropCapitalLine"><lb corresp="#f19_z1_l2_t"/>H</hi>
-<lb corresp="#f19_z1_l3_t"/>Omme qui ueult ſoy mettre en ſeruitude
-<lb corresp="#f19_z1_l4_t"/>Cuydant auoir aux princes habitude
-<lb corresp="#f19_z1_l5_t"/>Suyuant la court doit regarder comment
-<lb corresp="#f19_z1_l6_t"/>Pourra complaire a une multitude
-<lb corresp="#f19_z1_l7_t"/>De gens qui ſont differendz en eſtude
-<lb corresp="#f19_z1_l8_t"/>Par diuers ſens et prompt entendement
-<lb corresp="#f19_z1_l9_t"/>Sa liberte laiſſe totallement
+        <p corresp="#f19_z1">
+<hi type="HeadingLine"><lb corresp="#f19_z1_l1"/>¶Le curial.</hi>
+<hi type="DropCapitalLine"><lb corresp="#f19_z1_l2"/>H</hi>
+<lb corresp="#f19_z1_l3"/>Omme qui ueult ſoy mettre en ſeruitude
+<lb corresp="#f19_z1_l4"/>Cuydant auoir aux princes habitude
+<lb corresp="#f19_z1_l5"/>Suyuant la court doit regarder comment
+<lb corresp="#f19_z1_l6"/>Pourra complaire a une multitude
+<lb corresp="#f19_z1_l7"/>De gens qui ſont differendz en eſtude
+<lb corresp="#f19_z1_l8"/>Par diuers ſens et prompt entendement
+<lb corresp="#f19_z1_l9"/>Sa liberte laiſſe totallement
 </p>
         <pb corresp="#f24"/>
-        <p corresp="#f24_z1" n="MainZone">
-<lb corresp="#f24_z1_l1_t"/>Tes eſcoliers te feront maintz oultraiges
-<lb corresp="#f24_z1_l2_t"/>Car ilz prendront a te greuer deduitz
-<lb corresp="#f24_z1_l3_t"/>Te faire mal deplaiſirs et ennuitz
-<lb corresp="#f24_z1_l4_t"/>Tenant ſuſpectz tes enſeignemẽs ſaiges
-<lb corresp="#f24_z1_l5_t"/>Ainſi ta uie uſeras en langaiges
-<lb corresp="#f24_z1_l6_t"/>En en danger auec gens enuieulx
-<lb corresp="#f24_z1_l7_t"/>Leſtat de court plꝰ que autre eſt perilleux
-<hi n="HeadingLine"><lb corresp="#f24_z1_l8_t"/>¶ Sil te prenoit conſiderant ta uie</hi>
-<lb corresp="#f24_z1_l9_t"/>De te uenger de leur cruelle enuie
-<lb corresp="#f24_z1_l10_t"/>Tant pis uauldroit que ſans difficulte
-<lb corresp="#f24_z1_l11_t"/>Ton uengement ne ſeroit que follie
-<lb corresp="#f24_z1_l12_t"/>Qui cauſetoit en toy contumelie
-<lb corresp="#f24_z1_l13_t"/>Debatz:tenſons et plus dauerſitez
-<lb corresp="#f24_z1_l14_t"/>Que par autant uaines auctoritez
-<lb corresp="#f24_z1_l15_t"/>Folz curiaulx les deſirent et priſent
-<lb corresp="#f24_z1_l16_t"/>Ceulx ont le bruit qͥ en court temporiſent
-<hi n="HeadingLine"><lb corresp="#f24_z1_l17_t"/>¶Les grans abus des cours et la maniere</hi>
-<lb corresp="#f24_z1_l18_t"/>Des curiaulx ſont telz quil ny a guiere
-<lb corresp="#f24_z1_l19_t"/>Homme qui ſoit ſouffert ſoy eſleuer
-<lb corresp="#f24_z1_l20_t"/>Se corrompable il neſt par belle chere
-<lb corresp="#f24_z1_l21_t"/>Du par flater ou railler en derriere
-<lb corresp="#f24_z1_l22_t"/>Du en ſecret ung menſonge trouuer
-<lb corresp="#f24_z1_l23_t"/>Les uertueulx on taſche de greuer
-<lb corresp="#f24_z1_l24_t"/>Aux folz deſplaiſt ouyr ung bon notable
+        <p corresp="#f24_z1">
+<lb corresp="#f24_z1_l1"/>Tes eſcoliers te feront maintz oultraiges
+<lb corresp="#f24_z1_l2"/>Car ilz prendront a te greuer deduitz
+<lb corresp="#f24_z1_l3"/>Te faire mal deplaiſirs et ennuitz
+<lb corresp="#f24_z1_l4"/>Tenant ſuſpectz tes enſeignemẽs ſaiges
+<lb corresp="#f24_z1_l5"/>Ainſi ta uie uſeras en langaiges
+<lb corresp="#f24_z1_l6"/>En en danger auec gens enuieulx
+<lb corresp="#f24_z1_l7"/>Leſtat de court plꝰ que autre eſt perilleux
+<hi type="HeadingLine"><lb corresp="#f24_z1_l8"/>¶ Sil te prenoit conſiderant ta uie</hi>
+<lb corresp="#f24_z1_l9"/>De te uenger de leur cruelle enuie
+<lb corresp="#f24_z1_l10"/>Tant pis uauldroit que ſans difficulte
+<lb corresp="#f24_z1_l11"/>Ton uengement ne ſeroit que follie
+<lb corresp="#f24_z1_l12"/>Qui cauſetoit en toy contumelie
+<lb corresp="#f24_z1_l13"/>Debatz:tenſons et plus dauerſitez
+<lb corresp="#f24_z1_l14"/>Que par autant uaines auctoritez
+<lb corresp="#f24_z1_l15"/>Folz curiaulx les deſirent et priſent
+<lb corresp="#f24_z1_l16"/>Ceulx ont le bruit qͥ en court temporiſent
+<hi type="HeadingLine"><lb corresp="#f24_z1_l17"/>¶Les grans abus des cours et la maniere</hi>
+<lb corresp="#f24_z1_l18"/>Des curiaulx ſont telz quil ny a guiere
+<lb corresp="#f24_z1_l19"/>Homme qui ſoit ſouffert ſoy eſleuer
+<lb corresp="#f24_z1_l20"/>Se corrompable il neſt par belle chere
+<lb corresp="#f24_z1_l21"/>Du par flater ou railler en derriere
+<lb corresp="#f24_z1_l22"/>Du en ſecret ung menſonge trouuer
+<lb corresp="#f24_z1_l23"/>Les uertueulx on taſche de greuer
+<lb corresp="#f24_z1_l24"/>Aux folz deſplaiſt ouyr ung bon notable
 </p>
         <pb corresp="#f27"/>
-        <p corresp="#f27_z1" n="MainZone">
-<lb corresp="#f27_z1_l1_t"/>¶Car les grans uentz qui ſont es haultes cours
-<lb corresp="#f27_z1_l2_t"/>Ont tel facon que ceulx qui ont le cours
-<lb corresp="#f27_z1_l3_t"/>Et laudiui en mondain habitacle
-<lb corresp="#f27_z1_l4_t"/>Ne ſouffriront touſiours auoir ſecours
-<lb corresp="#f27_z1_l5_t"/>Mais ſouffleront pour les mettre a decours
-<lb corresp="#f27_z1_l6_t"/>Tombant en bas eulx et leur habitacle
-<lb corresp="#f27_z1_l7_t"/>Eulx hors de bruit ſeront comme ung ſpectacle
-<lb corresp="#f27_z1_l8_t"/>Faict par enuie et par detraction
-<lb corresp="#f27_z1_l9_t"/>A hault monter ne giſt perfection
-<lb corresp="#f27_z1_l10_t"/>¶Et ſil aduient que ceulx qui ont eu nom
-<lb corresp="#f27_z1_l11_t"/>De dominer perdent bruit et renom
-<lb corresp="#f27_z1_l12_t"/>Et rauallez hors de court on les uoye
-<lb corresp="#f27_z1_l13_t"/>Du peuple auront bientoſt quelque lardon
-<lb corresp="#f27_z1_l14_t"/>Voila leur fin et leur dernier guerdon
-<lb corresp="#f27_z1_l15_t"/>Fortune ainſi ceulx que a mis hault deſuoye.
-<lb corresp="#f27_z1_l16_t"/>Chaſcun ſen rit et mocque par la uoyz
-<lb corresp="#f27_z1_l17_t"/>Ses faicts paſſez on taſche a eſplucher
-<lb corresp="#f27_z1_l18_t"/>Plus lhomme eſt hault plus craint a treſbucher
-<lb corresp="#f27_z1_l19_t"/>¶ Aucuneffois fortune ueult monter
-<lb corresp="#f27_z1_l20_t"/>Quelque poure homme et le faict ſurmonter
-<lb corresp="#f27_z1_l21_t"/>Ses compagnons qui neſt qun ualidire
-<lb corresp="#f27_z1_l22_t"/>Sitl ſenrichiſt par prendre ou meſcompter
-<lb corresp="#f27_z1_l23_t"/>Et puis deſcend ſans les degrez compter
-<lb corresp="#f27_z1_l24_t"/>Fortune alors ne ſen faict que ſoubzrire
+        <p corresp="#f27_z1">
+<lb corresp="#f27_z1_l1"/>¶Car les grans uentz qui ſont es haultes cours
+<lb corresp="#f27_z1_l2"/>Ont tel facon que ceulx qui ont le cours
+<lb corresp="#f27_z1_l3"/>Et laudiui en mondain habitacle
+<lb corresp="#f27_z1_l4"/>Ne ſouffriront touſiours auoir ſecours
+<lb corresp="#f27_z1_l5"/>Mais ſouffleront pour les mettre a decours
+<lb corresp="#f27_z1_l6"/>Tombant en bas eulx et leur habitacle
+<lb corresp="#f27_z1_l7"/>Eulx hors de bruit ſeront comme ung ſpectacle
+<lb corresp="#f27_z1_l8"/>Faict par enuie et par detraction
+<lb corresp="#f27_z1_l9"/>A hault monter ne giſt perfection
+<lb corresp="#f27_z1_l10"/>¶Et ſil aduient que ceulx qui ont eu nom
+<lb corresp="#f27_z1_l11"/>De dominer perdent bruit et renom
+<lb corresp="#f27_z1_l12"/>Et rauallez hors de court on les uoye
+<lb corresp="#f27_z1_l13"/>Du peuple auront bientoſt quelque lardon
+<lb corresp="#f27_z1_l14"/>Voila leur fin et leur dernier guerdon
+<lb corresp="#f27_z1_l15"/>Fortune ainſi ceulx que a mis hault deſuoye.
+<lb corresp="#f27_z1_l16"/>Chaſcun ſen rit et mocque par la uoyz
+<lb corresp="#f27_z1_l17"/>Ses faicts paſſez on taſche a eſplucher
+<lb corresp="#f27_z1_l18"/>Plus lhomme eſt hault plus craint a treſbucher
+<lb corresp="#f27_z1_l19"/>¶ Aucuneffois fortune ueult monter
+<lb corresp="#f27_z1_l20"/>Quelque poure homme et le faict ſurmonter
+<lb corresp="#f27_z1_l21"/>Ses compagnons qui neſt qun ualidire
+<lb corresp="#f27_z1_l22"/>Sitl ſenrichiſt par prendre ou meſcompter
+<lb corresp="#f27_z1_l23"/>Et puis deſcend ſans les degrez compter
+<lb corresp="#f27_z1_l24"/>Fortune alors ne ſen faict que ſoubzrire
 </p>
-        <fw corresp="#f27_z2" n="QuireMarksZone"><lb corresp="#f27_z2_l1_t"/>b.ii.</fw>
+        <fw corresp="#f27_z2" type="QuireMarksZone"><lb corresp="#f27_z2_l1"/>b.ii.</fw>
         <pb corresp="#f28"/>
-        <p corresp="#f28_z1" n="MainZone">
-<lb corresp="#f28_z1_l1_t"/>Mais des plus grans que eſfeue ie ie puis dire
-<lb corresp="#f28_z1_l2_t"/>Que a gueulle bee en rit ſes paulmes bat
-<lb corresp="#f28_z1_l3_t"/>Lorgueil mondain dieu le hait et rabat
-<lb corresp="#f28_z1_l4_t"/>¶Qui ſert en court laiſſe pour le iourdhuy
-<lb corresp="#f28_z1_l5_t"/>Ses propres meurs pour complaire a aultruy
-<lb corresp="#f28_z1_l6_t"/>Ce qui peu uault il lhonore et le priſe
-<lb corresp="#f28_z1_l7_t"/>Sil ayme bohneur deſhonneur uient uers luy
-<lb corresp="#f28_z1_l8_t"/>Se eſt patient ſouffrette a pour appuy
-<lb corresp="#f28_z1_l9_t"/>Le ueritable on tempte de faintiſe
-<lb corresp="#f28_z1_l10_t"/>Et ſil ne ueult faire quelque entrepriſe
-<lb corresp="#f28_z1_l11_t"/>De demander il ſera ſouffreteux
-<lb corresp="#f28_z1_l12_t"/>Qui hante es cours ne doit eſtre honteux
-<lb corresp="#f28_z1_l13_t"/>Se couſtume as,de manger ſobrement
-<lb corresp="#f28_z1_l14_t"/>Ton train fauldra changer totallement
-<lb corresp="#f28_z1_l15_t"/>Et delaiſſer ta maniere de uiure
-<lb corresp="#f28_z1_l16_t"/>Qui ueult repos peine aura largement
-<lb corresp="#f28_z1_l17_t"/>Et qui eſt clerc en uoulant prudemment
-<lb corresp="#f28_z1_l18_t"/>Eſtudier ou lire en quelcque liure
-<lb corresp="#f28_z1_l19_t"/>Diſeux ſera attendant que on luy liure
-<lb corresp="#f28_z1_l20_t"/>Le cabinet du prince ou lhuis ouuert
-<lb corresp="#f28_z1_l21_t"/>Le temps perdu neſt iamais recouuert
-<lb corresp="#f28_z1_l22_t"/>Seruans de court ne font que uiuoter
-<lb corresp="#f28_z1_l23_t"/>Soubz le uouloir daltruy et fault noter
+        <p corresp="#f28_z1">
+<lb corresp="#f28_z1_l1"/>Mais des plus grans que eſfeue ie ie puis dire
+<lb corresp="#f28_z1_l2"/>Que a gueulle bee en rit ſes paulmes bat
+<lb corresp="#f28_z1_l3"/>Lorgueil mondain dieu le hait et rabat
+<lb corresp="#f28_z1_l4"/>¶Qui ſert en court laiſſe pour le iourdhuy
+<lb corresp="#f28_z1_l5"/>Ses propres meurs pour complaire a aultruy
+<lb corresp="#f28_z1_l6"/>Ce qui peu uault il lhonore et le priſe
+<lb corresp="#f28_z1_l7"/>Sil ayme bohneur deſhonneur uient uers luy
+<lb corresp="#f28_z1_l8"/>Se eſt patient ſouffrette a pour appuy
+<lb corresp="#f28_z1_l9"/>Le ueritable on tempte de faintiſe
+<lb corresp="#f28_z1_l10"/>Et ſil ne ueult faire quelque entrepriſe
+<lb corresp="#f28_z1_l11"/>De demander il ſera ſouffreteux
+<lb corresp="#f28_z1_l12"/>Qui hante es cours ne doit eſtre honteux
+<lb corresp="#f28_z1_l13"/>Se couſtume as,de manger ſobrement
+<lb corresp="#f28_z1_l14"/>Ton train fauldra changer totallement
+<lb corresp="#f28_z1_l15"/>Et delaiſſer ta maniere de uiure
+<lb corresp="#f28_z1_l16"/>Qui ueult repos peine aura largement
+<lb corresp="#f28_z1_l17"/>Et qui eſt clerc en uoulant prudemment
+<lb corresp="#f28_z1_l18"/>Eſtudier ou lire en quelcque liure
+<lb corresp="#f28_z1_l19"/>Diſeux ſera attendant que on luy liure
+<lb corresp="#f28_z1_l20"/>Le cabinet du prince ou lhuis ouuert
+<lb corresp="#f28_z1_l21"/>Le temps perdu neſt iamais recouuert
+<lb corresp="#f28_z1_l22"/>Seruans de court ne font que uiuoter
+<lb corresp="#f28_z1_l23"/>Soubz le uouloir daltruy et fault noter
 </p>
         <pb corresp="#f37"/>
-        <p corresp="#f37_z1" n="MainZone">
-<hi n="HeadingLine"><lb corresp="#f37_z1_l1_t"/>¶Lacteur.</hi>
-<lb corresp="#f37_z1_l2_t"/>¶Bratuler don de tous princes la grace
-<lb corresp="#f37_z1_l3_t"/>Rememorant les grans dangiers des cours
-<lb corresp="#f37_z1_l4_t"/>Iournellement chaſcun ſon cas pourchaſſe
-<lb corresp="#f37_z1_l5_t"/>Royſes y ſont on y trompe et cabaſſe
-<lb corresp="#f37_z1_l6_t"/>Gloire y a bruyt audace y eſt en cours
-<lb corresp="#f37_z1_l7_t"/>Dultraige nuyt,ſimple a repas a cours
-<lb corresp="#f37_z1_l8_t"/>Raiſon par tout faict ſur le texte ⁊ gloſe
-<lb corresp="#f37_z1_l9_t"/>En court ne aduient tout ce que lon propoſe
-<lb corresp="#f37_z1_l10_t"/>Raiſon par tout.
+        <p corresp="#f37_z1">
+<hi type="HeadingLine"><lb corresp="#f37_z1_l1"/>¶Lacteur.</hi>
+<lb corresp="#f37_z1_l2"/>¶Bratuler don de tous princes la grace
+<lb corresp="#f37_z1_l3"/>Rememorant les grans dangiers des cours
+<lb corresp="#f37_z1_l4"/>Iournellement chaſcun ſon cas pourchaſſe
+<lb corresp="#f37_z1_l5"/>Royſes y ſont on y trompe et cabaſſe
+<lb corresp="#f37_z1_l6"/>Gloire y a bruyt audace y eſt en cours
+<lb corresp="#f37_z1_l7"/>Dultraige nuyt,ſimple a repas a cours
+<lb corresp="#f37_z1_l8"/>Raiſon par tout faict ſur le texte ⁊ gloſe
+<lb corresp="#f37_z1_l9"/>En court ne aduient tout ce que lon propoſe
+<lb corresp="#f37_z1_l10"/>Raiſon par tout.
 </p>
         <pb corresp="#f38"/>
-        <p corresp="#f38_z1" n="MainZone">
-<hi n="HeadingLine"><lb corresp="#f38_z1_l1_t"/>¶ Menus propos ſur la chaſſe du cerf moralle-</hi>
-<hi n="HeadingLine"><lb corresp="#f38_z1_l2_t"/>ment et ſelon lart de uenerie</hi>
-<hi n="DropCapitalLine"><lb corresp="#f38_z1_l3_t"/>L</hi>
-<lb corresp="#f38_z1_l4_t"/>E temps treuue fauoriſe
-<lb corresp="#f38_z1_l5_t"/>Entretenir guerre ſur terre
-<lb corresp="#f38_z1_l6_t"/>Mais ce que lhomme a ꝓpoſe
-<lb corresp="#f38_z1_l7_t"/>Dieu en a touſieurs diſpoſe
-<lb corresp="#f38_z1_l8_t"/>Et diſpoſe ſans plus enquerre
-<lb corresp="#f38_z1_l9_t"/>Quant querelles eſmeuuent guerre
-<lb corresp="#f38_z1_l10_t"/>Par champs on uoit armes reluire
-<lb corresp="#f38_z1_l11_t"/>Le petit peult bien au grant nuire
-<lb corresp="#f38_z1_l12_t"/>¶ Pour ſimple cas ie uous prometz
-<lb corresp="#f38_z1_l13_t"/>Que aucuneſfois uient grant dommage
-<lb corresp="#f38_z1_l14_t"/>Rigueur en ſort pour entremetz
-<lb corresp="#f38_z1_l15_t"/>Tel lachepte qui nen peult mais
-<lb corresp="#f38_z1_l16_t"/>On le dit en commun langaige
-<lb corresp="#f38_z1_l17_t"/>Et pource celluy quieſt ſaige
-<lb corresp="#f38_z1_l18_t"/>Doit bien noter ce mot pour preuue
-<lb corresp="#f38_z1_l19_t"/>Qui bien ſe garde bien ſe treuue
-<lb corresp="#f38_z1_l20_t"/>¶Le plus ſouuent les plus uaillans
-<lb corresp="#f38_z1_l21_t"/>Ront la uictoire en la bataille
-<lb corresp="#f38_z1_l22_t"/>On uoit uaillans contre uaillans
-<lb corresp="#f38_z1_l23_t"/>Rompre taillans contre taillans
-<lb corresp="#f38_z1_l24_t"/>Laſſer tours:abatre muiraille
-<lb corresp="#f38_z1_l25_t"/>Souuent ſans crier baille,baille
+        <p corresp="#f38_z1">
+<hi type="HeadingLine"><lb corresp="#f38_z1_l1"/>¶ Menus propos ſur la chaſſe du cerf moralle-</hi>
+<hi type="HeadingLine"><lb corresp="#f38_z1_l2"/>ment et ſelon lart de uenerie</hi>
+<hi type="DropCapitalLine"><lb corresp="#f38_z1_l3"/>L</hi>
+<lb corresp="#f38_z1_l4"/>E temps treuue fauoriſe
+<lb corresp="#f38_z1_l5"/>Entretenir guerre ſur terre
+<lb corresp="#f38_z1_l6"/>Mais ce que lhomme a ꝓpoſe
+<lb corresp="#f38_z1_l7"/>Dieu en a touſieurs diſpoſe
+<lb corresp="#f38_z1_l8"/>Et diſpoſe ſans plus enquerre
+<lb corresp="#f38_z1_l9"/>Quant querelles eſmeuuent guerre
+<lb corresp="#f38_z1_l10"/>Par champs on uoit armes reluire
+<lb corresp="#f38_z1_l11"/>Le petit peult bien au grant nuire
+<lb corresp="#f38_z1_l12"/>¶ Pour ſimple cas ie uous prometz
+<lb corresp="#f38_z1_l13"/>Que aucuneſfois uient grant dommage
+<lb corresp="#f38_z1_l14"/>Rigueur en ſort pour entremetz
+<lb corresp="#f38_z1_l15"/>Tel lachepte qui nen peult mais
+<lb corresp="#f38_z1_l16"/>On le dit en commun langaige
+<lb corresp="#f38_z1_l17"/>Et pource celluy quieſt ſaige
+<lb corresp="#f38_z1_l18"/>Doit bien noter ce mot pour preuue
+<lb corresp="#f38_z1_l19"/>Qui bien ſe garde bien ſe treuue
+<lb corresp="#f38_z1_l20"/>¶Le plus ſouuent les plus uaillans
+<lb corresp="#f38_z1_l21"/>Ront la uictoire en la bataille
+<lb corresp="#f38_z1_l22"/>On uoit uaillans contre uaillans
+<lb corresp="#f38_z1_l23"/>Rompre taillans contre taillans
+<lb corresp="#f38_z1_l24"/>Laſſer tours:abatre muiraille
+<lb corresp="#f38_z1_l25"/>Souuent ſans crier baille,baille
 </p>
         <pb corresp="#f41"/>
-        <p corresp="#f41_z1" n="MainZone">
-<lb corresp="#f41_z1_l1_t"/>Commiſe par eulx et loultraige
-<lb corresp="#f41_z1_l2_t"/>Si par ce moyen on uoyaige
-<lb corresp="#f41_z1_l3_t"/>lentreprinſe ſera treſbonne
-<lb corresp="#f41_z1_l4_t"/>Ainſi quon dit la fin couronne
-<lb corresp="#f41_z1_l5_t"/>¶ Toutes guerres ſont  redoubtables
-<lb corresp="#f41_z1_l6_t"/>Quant orgueil en eſt conſentant
-<lb corresp="#f41_z1_l7_t"/>Et ne acquiert on gloires louables
-<lb corresp="#f41_z1_l8_t"/>Au corps ne a lame prouffitables
-<lb corresp="#f41_z1_l9_t"/>Si ſen droit on ua combatant
-<lb corresp="#f41_z1_l10_t"/>Mais au temps preſent le contant
-<lb corresp="#f41_z1_l11_t"/>faict la foy tres laſche et debile
-<lb corresp="#f41_z1_l12_t"/>Nobleſſe doit eſtre ſtabille
-<lb corresp="#f41_z1_l13_t"/>¶Ce propos nous conuient laiſſer
-<lb corresp="#f41_z1_l14_t"/>Dieu vueille que tout bien ſe face
-<lb corresp="#f41_z1_l15_t"/>Et deſormais nous ſault penſer
-<lb corresp="#f41_z1_l16_t"/>Si poſſible eſt recommencer
-<lb corresp="#f41_z1_l17_t"/>Aller paſſer temps a la chaſſe
-<lb corresp="#f41_z1_l18_t"/>Nobleſſe teleſtat pourchaſſe
-<lb corresp="#f41_z1_l19_t"/>Et nompas guerres et debatz
-<lb corresp="#f41_z1_l20_t"/>Selon le temps ſont les eſbatz
-<lb corresp="#f41_z1_l21_t"/>¶Quant les cerfz ſont en uenoiſon
-<lb corresp="#f41_z1_l22_t"/>Fiertez monſtrent et arrogances
-<lb corresp="#f41_z1_l23_t"/>Et nya rime ne raiſon
-<lb corresp="#f41_z1_l24_t"/>En iceulx durant la ſaiſon
+        <p corresp="#f41_z1">
+<lb corresp="#f41_z1_l1"/>Commiſe par eulx et loultraige
+<lb corresp="#f41_z1_l2"/>Si par ce moyen on uoyaige
+<lb corresp="#f41_z1_l3"/>lentreprinſe ſera treſbonne
+<lb corresp="#f41_z1_l4"/>Ainſi quon dit la fin couronne
+<lb corresp="#f41_z1_l5"/>¶ Toutes guerres ſont  redoubtables
+<lb corresp="#f41_z1_l6"/>Quant orgueil en eſt conſentant
+<lb corresp="#f41_z1_l7"/>Et ne acquiert on gloires louables
+<lb corresp="#f41_z1_l8"/>Au corps ne a lame prouffitables
+<lb corresp="#f41_z1_l9"/>Si ſen droit on ua combatant
+<lb corresp="#f41_z1_l10"/>Mais au temps preſent le contant
+<lb corresp="#f41_z1_l11"/>faict la foy tres laſche et debile
+<lb corresp="#f41_z1_l12"/>Nobleſſe doit eſtre ſtabille
+<lb corresp="#f41_z1_l13"/>¶Ce propos nous conuient laiſſer
+<lb corresp="#f41_z1_l14"/>Dieu vueille que tout bien ſe face
+<lb corresp="#f41_z1_l15"/>Et deſormais nous ſault penſer
+<lb corresp="#f41_z1_l16"/>Si poſſible eſt recommencer
+<lb corresp="#f41_z1_l17"/>Aller paſſer temps a la chaſſe
+<lb corresp="#f41_z1_l18"/>Nobleſſe teleſtat pourchaſſe
+<lb corresp="#f41_z1_l19"/>Et nompas guerres et debatz
+<lb corresp="#f41_z1_l20"/>Selon le temps ſont les eſbatz
+<lb corresp="#f41_z1_l21"/>¶Quant les cerfz ſont en uenoiſon
+<lb corresp="#f41_z1_l22"/>Fiertez monſtrent et arrogances
+<lb corresp="#f41_z1_l23"/>Et nya rime ne raiſon
+<lb corresp="#f41_z1_l24"/>En iceulx durant la ſaiſon
 </p>
-        <fw corresp="#f41_z2" n="QuireMarksZone"><lb corresp="#f41_z2_l1_t"/>c.i.</fw>
+        <fw corresp="#f41_z2" type="QuireMarksZone"><lb corresp="#f41_z2_l1"/>c.i.</fw>
         <pb corresp="#f43"/>
-        <p corresp="#f43_z1" n="MainZone">
-<lb corresp="#f43_z1_l1_t"/>Mais que nous entendons leur change
-<lb corresp="#f43_z1_l2_t"/>Souuent repoſent a la fange
-<lb corresp="#f43_z1_l3_t"/>En la riuiere ou en eſtangs
-<lb corresp="#f43_z1_l4_t"/>A bien parler cerfz ne ſont francs
-<lb corresp="#f43_z1_l5_t"/>Long temps ya ie men recorde,
-<lb corresp="#f43_z1_l6_t"/>Quil uint des cerfz deuant nancy
-<lb corresp="#f43_z1_l7_t"/>Plains de rigueur hayant concorde
-<lb corresp="#f43_z1_l8_t"/>Qui uoulurent prendre diſcorde
-<lb corresp="#f43_z1_l9_t"/>A ung ieune ueneur, auſſi
-<lb corresp="#f43_z1_l10_t"/>Il leur en print mal dieu mercy
-<lb corresp="#f43_z1_l11_t"/>Le fief cerf au ruiſſeau mourut
-<lb corresp="#f43_z1_l12_t"/>Car dieu le ueneur ſecourut
-<lb corresp="#f43_z1_l13_t"/>¶Les cerfz Dardanne courent fort
-<lb corresp="#f43_z1_l14_t"/>Cuyz ont ferme et les teſtes dures
-<lb corresp="#f43_z1_l15_t"/>Mais quant lung des cerfz du boys ſort
-<lb corresp="#f43_z1_l16_t"/>On en peult faire le rapport
-<lb corresp="#f43_z1_l17_t"/>Du pied de ma marche ou rammeures
-<lb corresp="#f43_z1_l18_t"/>Par deliberations meures
-<lb corresp="#f43_z1_l19_t"/>Treuue ſe  moyen et facon
-<lb corresp="#f43_z1_l20_t"/>Soy retirer en ſon buiſſon
-<lb corresp="#f43_z1_l21_t"/>¶Des cerfz on treuue aucuneffois
-<lb corresp="#f43_z1_l22_t"/>Qui ne uallent pas que on les chaſſe
-<lb corresp="#f43_z1_l23_t"/>Et ſi taſchent auoir le chois
-<lb corresp="#f43_z1_l24_t"/>Des buiſſons ſont cerſz mal courtois
+        <p corresp="#f43_z1">
+<lb corresp="#f43_z1_l1"/>Mais que nous entendons leur change
+<lb corresp="#f43_z1_l2"/>Souuent repoſent a la fange
+<lb corresp="#f43_z1_l3"/>En la riuiere ou en eſtangs
+<lb corresp="#f43_z1_l4"/>A bien parler cerfz ne ſont francs
+<lb corresp="#f43_z1_l5"/>Long temps ya ie men recorde,
+<lb corresp="#f43_z1_l6"/>Quil uint des cerfz deuant nancy
+<lb corresp="#f43_z1_l7"/>Plains de rigueur hayant concorde
+<lb corresp="#f43_z1_l8"/>Qui uoulurent prendre diſcorde
+<lb corresp="#f43_z1_l9"/>A ung ieune ueneur, auſſi
+<lb corresp="#f43_z1_l10"/>Il leur en print mal dieu mercy
+<lb corresp="#f43_z1_l11"/>Le fief cerf au ruiſſeau mourut
+<lb corresp="#f43_z1_l12"/>Car dieu le ueneur ſecourut
+<lb corresp="#f43_z1_l13"/>¶Les cerfz Dardanne courent fort
+<lb corresp="#f43_z1_l14"/>Cuyz ont ferme et les teſtes dures
+<lb corresp="#f43_z1_l15"/>Mais quant lung des cerfz du boys ſort
+<lb corresp="#f43_z1_l16"/>On en peult faire le rapport
+<lb corresp="#f43_z1_l17"/>Du pied de ma marche ou rammeures
+<lb corresp="#f43_z1_l18"/>Par deliberations meures
+<lb corresp="#f43_z1_l19"/>Treuue ſe  moyen et facon
+<lb corresp="#f43_z1_l20"/>Soy retirer en ſon buiſſon
+<lb corresp="#f43_z1_l21"/>¶Des cerfz on treuue aucuneffois
+<lb corresp="#f43_z1_l22"/>Qui ne uallent pas que on les chaſſe
+<lb corresp="#f43_z1_l23"/>Et ſi taſchent auoir le chois
+<lb corresp="#f43_z1_l24"/>Des buiſſons ſont cerſz mal courtois
 </p>
-        <fw corresp="#f43_z2" n="QuireMarksZone"><lb corresp="#f43_z2_l1_t"/>c.ii.</fw>
+        <fw corresp="#f43_z2" type="QuireMarksZone"><lb corresp="#f43_z2_l1"/>c.ii.</fw>
         <pb corresp="#f46"/>
-        <p corresp="#f46_z1" n="MainZone">
-<lb corresp="#f46_z1_l1_t"/>Dont la foreſt franche on eſbranche
-<lb corresp="#f46_z1_l2_t"/>La uoulant porter branche a branche
-<lb corresp="#f46_z1_l3_t"/>En une foreſt qui eſt loing
-<lb corresp="#f46_z1_l4_t"/>Bon droit de bonne ayde a beſoing
-<lb corresp="#f46_z1_l5_t"/>¶Si le ueneur faict des tailliz
-<lb corresp="#f46_z1_l6_t"/>De ſes fortz ceſt en eſperance
-<lb corresp="#f46_z1_l7_t"/>Que ces cerfz nauront cueurs failliz
-<lb corresp="#f46_z1_l8_t"/>Enclorre en brief temps de paliz
-<lb corresp="#f46_z1_l9_t"/>Leſtrange foreſt par puiſſance
-<lb corresp="#f46_z1_l10_t"/>Puis de ſes tailliz habondance
-<lb corresp="#f46_z1_l11_t"/>Haultes fuſtayes baſtira
-<lb corresp="#f46_z1_l12_t"/>Qui penſe bien,bien ſentira.
-<lb corresp="#f46_z1_l13_t"/>¶Dieu  le cueur du ueneur inſpire
-<lb corresp="#f46_z1_l14_t"/>Car il le tient dedans ſa main
-<lb corresp="#f46_z1_l15_t"/>Et ſi contre luy lon conſpire
-<lb corresp="#f46_z1_l16_t"/>Conſpirateurs auront du pire
-<lb corresp="#f46_z1_l17_t"/>Se en conſpirant ont le cueur uain
-<lb corresp="#f46_z1_l18_t"/>Et fauldra que cueur inhumain
-<lb corresp="#f46_z1_l19_t"/>Le ueneur monſtre quoy quil couſte
-<lb corresp="#f46_z1_l20_t"/>Toute entrepriſe giſt en doubte.
-<lb corresp="#f46_z1_l21_t"/>¶A ceſte chaſſe penſerons
-<lb corresp="#f46_z1_l22_t"/>Et ſur le texte mettrons gloſe
-<lb corresp="#f46_z1_l23_t"/>Quant ſes mots conſidererons
-<lb corresp="#f46_z1_l24_t"/>En noſtre cueur les noterons
+        <p corresp="#f46_z1">
+<lb corresp="#f46_z1_l1"/>Dont la foreſt franche on eſbranche
+<lb corresp="#f46_z1_l2"/>La uoulant porter branche a branche
+<lb corresp="#f46_z1_l3"/>En une foreſt qui eſt loing
+<lb corresp="#f46_z1_l4"/>Bon droit de bonne ayde a beſoing
+<lb corresp="#f46_z1_l5"/>¶Si le ueneur faict des tailliz
+<lb corresp="#f46_z1_l6"/>De ſes fortz ceſt en eſperance
+<lb corresp="#f46_z1_l7"/>Que ces cerfz nauront cueurs failliz
+<lb corresp="#f46_z1_l8"/>Enclorre en brief temps de paliz
+<lb corresp="#f46_z1_l9"/>Leſtrange foreſt par puiſſance
+<lb corresp="#f46_z1_l10"/>Puis de ſes tailliz habondance
+<lb corresp="#f46_z1_l11"/>Haultes fuſtayes baſtira
+<lb corresp="#f46_z1_l12"/>Qui penſe bien,bien ſentira.
+<lb corresp="#f46_z1_l13"/>¶Dieu  le cueur du ueneur inſpire
+<lb corresp="#f46_z1_l14"/>Car il le tient dedans ſa main
+<lb corresp="#f46_z1_l15"/>Et ſi contre luy lon conſpire
+<lb corresp="#f46_z1_l16"/>Conſpirateurs auront du pire
+<lb corresp="#f46_z1_l17"/>Se en conſpirant ont le cueur uain
+<lb corresp="#f46_z1_l18"/>Et fauldra que cueur inhumain
+<lb corresp="#f46_z1_l19"/>Le ueneur monſtre quoy quil couſte
+<lb corresp="#f46_z1_l20"/>Toute entrepriſe giſt en doubte.
+<lb corresp="#f46_z1_l21"/>¶A ceſte chaſſe penſerons
+<lb corresp="#f46_z1_l22"/>Et ſur le texte mettrons gloſe
+<lb corresp="#f46_z1_l23"/>Quant ſes mots conſidererons
+<lb corresp="#f46_z1_l24"/>En noſtre cueur les noterons
 </p>
         <pb corresp="#f47"/>
-        <p corresp="#f47_z1" n="MainZone">
-<lb corresp="#f47_z1_l1_t"/>Se neſt pas trop commune choſe
-<lb corresp="#f47_z1_l2_t"/>Chaſſer ſouuent on ſe diſpoſe
-<lb corresp="#f47_z1_l3_t"/>Etſi couſte cher uiſ ion
-<lb corresp="#f47_z1_l4_t"/>Il fault auoir par tout raiſon
-<hi n="HeadingLine"><lb corresp="#f47_z1_l5_t"/>¶Menus propos ſur la chaſſe</hi>
-<hi n="HeadingLine"><lb corresp="#f47_z1_l6_t"/>du ſanglier moraliſee.</hi>
+        <p corresp="#f47_z1">
+<lb corresp="#f47_z1_l1"/>Se neſt pas trop commune choſe
+<lb corresp="#f47_z1_l2"/>Chaſſer ſouuent on ſe diſpoſe
+<lb corresp="#f47_z1_l3"/>Etſi couſte cher uiſ ion
+<lb corresp="#f47_z1_l4"/>Il fault auoir par tout raiſon
+<hi type="HeadingLine"><lb corresp="#f47_z1_l5"/>¶Menus propos ſur la chaſſe</hi>
+<hi type="HeadingLine"><lb corresp="#f47_z1_l6"/>du ſanglier moraliſee.</hi>
 </p>
-        <fw corresp="#f47_z2" n="QuireMarksZone"><lb corresp="#f47_z2_l1_t"/>c.iii.</fw>
+        <fw corresp="#f47_z2" type="QuireMarksZone"><lb corresp="#f47_z2_l1"/>c.iii.</fw>
         <pb corresp="#f48"/>
-        <p corresp="#f48_z1" n="MainZone">
-<hi n="DropCapitalLine"><lb corresp="#f48_z1_l1_t"/>I</hi>
-<lb corresp="#f48_z1_l2_t"/>E ueis la paix regner pour ung eſpaſſe
-<lb corresp="#f48_z1_l3_t"/>Par le uouloir diuin qui tout compaſſe
-<lb corresp="#f48_z1_l4_t"/>Pan faiſoit lors ſes armonicques chantz
-<lb corresp="#f48_z1_l5_t"/>Simples bergiers et de ruſticque race
-<lb corresp="#f48_z1_l6_t"/>Par prez et boys donnerent grant audace
-<lb corresp="#f48_z1_l7_t"/>Aux fauniens que diſons dieux des chãps
-<lb corresp="#f48_z1_l8_t"/>Mais mars miſt ſus un tas ď gẽs meſchãs
-<lb corresp="#f48_z1_l9_t"/>Qui aux buiſſons ſecretz ſe latiterent
-<lb corresp="#f48_z1_l10_t"/>Et ſans le ſceu de Minerue inciterent
-<lb corresp="#f48_z1_l11_t"/>Pluſieurs chaſſeurs a prendre uenoiſon
-<lb corresp="#f48_z1_l12_t"/>Quãt par les boys ⁊ buyſſõs ſaſſemblerẽt
-<lb corresp="#f48_z1_l13_t"/>Les gens de paix et ſes amys troublerent
-<lb corresp="#f48_z1_l14_t"/>Plus que de Medee au depart de Iaſon
-<lb corresp="#f48_z1_l15_t"/>Tel eſt grant clerc qui ne uſe de raiſon
-<lb corresp="#f48_z1_l16_t"/>Demogorgon print a Lahos diſcord
-<lb corresp="#f48_z1_l17_t"/>Les elemenes ne peurent faire accord
-<lb corresp="#f48_z1_l18_t"/>Chaſcun diceulx ſe diſoit ſans droicture
-<lb corresp="#f48_z1_l19_t"/>Premier moteur:fuſt a droit ou a tort
-<lb corresp="#f48_z1_l20_t"/>Eternite qui bruſle:rompt:ou tord
-<lb corresp="#f48_z1_l21_t"/>Le qui luy plaiſt allegua leur nature
-<lb corresp="#f48_z1_l22_t"/>Et que la terre auoit la couuerture
-<lb corresp="#f48_z1_l23_t"/>Par ſon moyen mer nourriſſoit poiſſons
-<lb corresp="#f48_z1_l24_t"/>Dyſeaulx en lair par diuerſes faſſons
-<lb corresp="#f48_z1_l25_t"/>Auoir crees:auiſſi les clements
-<lb corresp="#f48_z1_l26_t"/>Pout ſon plaiſir faiſoit:neiges:glaſſons
-<lb corresp="#f48_z1_l27_t"/>Et ſouſtenoit tous humains:or penſons
+        <p corresp="#f48_z1">
+<hi type="DropCapitalLine"><lb corresp="#f48_z1_l1"/>I</hi>
+<lb corresp="#f48_z1_l2"/>E ueis la paix regner pour ung eſpaſſe
+<lb corresp="#f48_z1_l3"/>Par le uouloir diuin qui tout compaſſe
+<lb corresp="#f48_z1_l4"/>Pan faiſoit lors ſes armonicques chantz
+<lb corresp="#f48_z1_l5"/>Simples bergiers et de ruſticque race
+<lb corresp="#f48_z1_l6"/>Par prez et boys donnerent grant audace
+<lb corresp="#f48_z1_l7"/>Aux fauniens que diſons dieux des chãps
+<lb corresp="#f48_z1_l8"/>Mais mars miſt ſus un tas ď gẽs meſchãs
+<lb corresp="#f48_z1_l9"/>Qui aux buiſſons ſecretz ſe latiterent
+<lb corresp="#f48_z1_l10"/>Et ſans le ſceu de Minerue inciterent
+<lb corresp="#f48_z1_l11"/>Pluſieurs chaſſeurs a prendre uenoiſon
+<lb corresp="#f48_z1_l12"/>Quãt par les boys ⁊ buyſſõs ſaſſemblerẽt
+<lb corresp="#f48_z1_l13"/>Les gens de paix et ſes amys troublerent
+<lb corresp="#f48_z1_l14"/>Plus que de Medee au depart de Iaſon
+<lb corresp="#f48_z1_l15"/>Tel eſt grant clerc qui ne uſe de raiſon
+<lb corresp="#f48_z1_l16"/>Demogorgon print a Lahos diſcord
+<lb corresp="#f48_z1_l17"/>Les elemenes ne peurent faire accord
+<lb corresp="#f48_z1_l18"/>Chaſcun diceulx ſe diſoit ſans droicture
+<lb corresp="#f48_z1_l19"/>Premier moteur:fuſt a droit ou a tort
+<lb corresp="#f48_z1_l20"/>Eternite qui bruſle:rompt:ou tord
+<lb corresp="#f48_z1_l21"/>Le qui luy plaiſt allegua leur nature
+<lb corresp="#f48_z1_l22"/>Et que la terre auoit la couuerture
+<lb corresp="#f48_z1_l23"/>Par ſon moyen mer nourriſſoit poiſſons
+<lb corresp="#f48_z1_l24"/>Dyſeaulx en lair par diuerſes faſſons
+<lb corresp="#f48_z1_l25"/>Auoir crees:auiſſi les clements
+<lb corresp="#f48_z1_l26"/>Pout ſon plaiſir faiſoit:neiges:glaſſons
+<lb corresp="#f48_z1_l27"/>Et ſouſtenoit tous humains:or penſons
 </p>
         <pb corresp="#f54"/>
-        <p corresp="#f54_z1" n="MainZone">
-<lb corresp="#f54_z1_l1_t"/>Se neſt pas or tout ce quon uoit reluire
-<lb corresp="#f54_z1_l2_t"/>¶Quant le ſanglier eſt prins et mis a mort
-<lb corresp="#f54_z1_l3_t"/>Et tire hors de ſon buiſſon ou ſort
-<lb corresp="#f54_z1_l4_t"/>Le ueneur doit prendre et couper ſa hure
-<lb corresp="#f54_z1_l5_t"/>Apres de oſter ſes traſſes faire effort
-<lb corresp="#f54_z1_l6_t"/>Puie ſoit fouaille et batu pat laccord
-<lb corresp="#f54_z1_l7_t"/>Des aſſiſtens qui le prendre ont prins cure
-<lb corresp="#f54_z1_l8_t"/>Oſtant ſon poil en le gardant dardure
-<lb corresp="#f54_z1_l9_t"/>Treſ bien frote le reſte ſoit deffaict
-<lb corresp="#f54_z1_l10_t"/>Comme eſt requis, en apres cela faict
-<lb corresp="#f54_z1_l11_t"/>Droit de ueneurs et de chiens conuient rendre
-<lb corresp="#f54_z1_l12_t"/>Si le ſanglier par ſes armes a faict
-<lb corresp="#f54_z1_l13_t"/>Maulx infiniz ie conclus en effect
-<lb corresp="#f54_z1_l14_t"/>Que chaſcun ueult le bien de lautruy prendre
-<lb corresp="#f54_z1_l15_t"/>Raiſon par tout chaſcun ne ueult entendre
-<lb corresp="#f54_z1_l16_t"/>Raiſon par tout
-<lb corresp="#f54_z1_l17_t"/>Nobleſſe uoy qui taſche ſe allier
-<hi n="HeadingLine"><lb corresp="#f54_z1_l18_t"/>¶ Balade</hi>
-<lb corresp="#f54_z1_l19_t"/>Auec legliſe et par amour lier
-<lb corresp="#f54_z1_l20_t"/>Pource que peuple eſt deſpit et rebelle
-<lb corresp="#f54_z1_l21_t"/>Et ne ſe ueult a droit humilier
-<lb corresp="#f54_z1_l22_t"/>Nya raiſon,uilles uoy palier
-<lb corresp="#f54_z1_l23_t"/>En eſcoutaut maint different libelle
-<lb corresp="#f54_z1_l24_t"/>Proueſſe abruit par minerue et cibelle
-<lb corresp="#f54_z1_l25_t"/>Sol retrrograde en oſtant ſa chaleur
+        <p corresp="#f54_z1">
+<lb corresp="#f54_z1_l1"/>Se neſt pas or tout ce quon uoit reluire
+<lb corresp="#f54_z1_l2"/>¶Quant le ſanglier eſt prins et mis a mort
+<lb corresp="#f54_z1_l3"/>Et tire hors de ſon buiſſon ou ſort
+<lb corresp="#f54_z1_l4"/>Le ueneur doit prendre et couper ſa hure
+<lb corresp="#f54_z1_l5"/>Apres de oſter ſes traſſes faire effort
+<lb corresp="#f54_z1_l6"/>Puie ſoit fouaille et batu pat laccord
+<lb corresp="#f54_z1_l7"/>Des aſſiſtens qui le prendre ont prins cure
+<lb corresp="#f54_z1_l8"/>Oſtant ſon poil en le gardant dardure
+<lb corresp="#f54_z1_l9"/>Treſ bien frote le reſte ſoit deffaict
+<lb corresp="#f54_z1_l10"/>Comme eſt requis, en apres cela faict
+<lb corresp="#f54_z1_l11"/>Droit de ueneurs et de chiens conuient rendre
+<lb corresp="#f54_z1_l12"/>Si le ſanglier par ſes armes a faict
+<lb corresp="#f54_z1_l13"/>Maulx infiniz ie conclus en effect
+<lb corresp="#f54_z1_l14"/>Que chaſcun ueult le bien de lautruy prendre
+<lb corresp="#f54_z1_l15"/>Raiſon par tout chaſcun ne ueult entendre
+<lb corresp="#f54_z1_l16"/>Raiſon par tout
+<lb corresp="#f54_z1_l17"/>Nobleſſe uoy qui taſche ſe allier
+<hi type="HeadingLine"><lb corresp="#f54_z1_l18"/>¶ Balade</hi>
+<lb corresp="#f54_z1_l19"/>Auec legliſe et par amour lier
+<lb corresp="#f54_z1_l20"/>Pource que peuple eſt deſpit et rebelle
+<lb corresp="#f54_z1_l21"/>Et ne ſe ueult a droit humilier
+<lb corresp="#f54_z1_l22"/>Nya raiſon,uilles uoy palier
+<lb corresp="#f54_z1_l23"/>En eſcoutaut maint different libelle
+<lb corresp="#f54_z1_l24"/>Proueſſe abruit par minerue et cibelle
+<lb corresp="#f54_z1_l25"/>Sol retrrograde en oſtant ſa chaleur
 </p>
         <pb corresp="#f56"/>
-        <p corresp="#f56_z1" n="MainZone">
-<lb corresp="#f56_z1_l1_t"/>Pour les mutins tenir ſoubz ſa tutelle
-<lb corresp="#f56_z1_l2_t"/>Ιaſon ne peut refourrer ſa cotelle
-<lb corresp="#f56_z1_l3_t"/>De la toiſon dont il fut conquefteur,
-<lb corresp="#f56_z1_l4_t"/>Car Charlemaigne eſt le mediateur
-<lb corresp="#f56_z1_l5_t"/>Deuers celluy que nobleſſe rauoye
-<lb corresp="#f56_z1_l6_t"/>En commettant dauid royal paſteur
-<lb corresp="#f56_z1_l7_t"/>Pour y eſlire ung nouueau zelateur
-<lb corresp="#f56_z1_l8_t"/>Qui fera cry de ſainct Denis montioye
-<lb corresp="#f56_z1_l9_t"/>Tout bon uouloir dieu cõduit ⁊ pouruoye
-<lb corresp="#f56_z1_l10_t"/>¶Sanxon le fort ſera le uray ducteur
-<lb corresp="#f56_z1_l11_t"/>Melchiſedech de biens miniſtrateur
-<lb corresp="#f56_z1_l12_t"/>Le bon Iacob ſes ouailles y employe
-<lb corresp="#f56_z1_l13_t"/>Auſſi Noe de la uigne planteur
-<lb corresp="#f56_z1_l14_t"/>De ſa liqueur uerrons augmentateur
-<lb corresp="#f56_z1_l15_t"/>Se iuſte droit ſon eſtendard deſpoye
-<lb corresp="#f56_z1_l16_t"/>Tout bõ uouloir dieu conduit et pouruoye
-<lb corresp="#f56_z1_l17_t"/>¶Raison par tout
-<hi n="HeadingLine"><lb corresp="#f56_z1_l18_t"/>¶ Lacteur</hi>
-<lb corresp="#f56_z1_l19_t"/>¶ Triſte et penſif aggraue de ſoucy
-<lb corresp="#f56_z1_l20_t"/>En repoſant et dormant a Nancy
-<lb corresp="#f56_z1_l21_t"/>Ap̃s que ie euz contemple quelque hiſtoire
-<lb corresp="#f56_z1_l22_t"/>Me fut aduis que en ung ſonge tranſy
-<lb corresp="#f56_z1_l23_t"/>Ie ueiz Dauid qui me dit ces motz cy
-<lb corresp="#f56_z1_l24_t"/>Lieue toy ſus herault darmes Gringoire
-<lb corresp="#f56_z1_l25_t"/>Prens ton papier ta plume et eſcriptoire
-<lb corresp="#f56_z1_l26_t"/>Metz par eſcript ce beau pſeaulme icy
+        <p corresp="#f56_z1">
+<lb corresp="#f56_z1_l1"/>Pour les mutins tenir ſoubz ſa tutelle
+<lb corresp="#f56_z1_l2"/>Ιaſon ne peut refourrer ſa cotelle
+<lb corresp="#f56_z1_l3"/>De la toiſon dont il fut conquefteur,
+<lb corresp="#f56_z1_l4"/>Car Charlemaigne eſt le mediateur
+<lb corresp="#f56_z1_l5"/>Deuers celluy que nobleſſe rauoye
+<lb corresp="#f56_z1_l6"/>En commettant dauid royal paſteur
+<lb corresp="#f56_z1_l7"/>Pour y eſlire ung nouueau zelateur
+<lb corresp="#f56_z1_l8"/>Qui fera cry de ſainct Denis montioye
+<lb corresp="#f56_z1_l9"/>Tout bon uouloir dieu cõduit ⁊ pouruoye
+<lb corresp="#f56_z1_l10"/>¶Sanxon le fort ſera le uray ducteur
+<lb corresp="#f56_z1_l11"/>Melchiſedech de biens miniſtrateur
+<lb corresp="#f56_z1_l12"/>Le bon Iacob ſes ouailles y employe
+<lb corresp="#f56_z1_l13"/>Auſſi Noe de la uigne planteur
+<lb corresp="#f56_z1_l14"/>De ſa liqueur uerrons augmentateur
+<lb corresp="#f56_z1_l15"/>Se iuſte droit ſon eſtendard deſpoye
+<lb corresp="#f56_z1_l16"/>Tout bõ uouloir dieu conduit et pouruoye
+<lb corresp="#f56_z1_l17"/>¶Raison par tout
+<hi type="HeadingLine"><lb corresp="#f56_z1_l18"/>¶ Lacteur</hi>
+<lb corresp="#f56_z1_l19"/>¶ Triſte et penſif aggraue de ſoucy
+<lb corresp="#f56_z1_l20"/>En repoſant et dormant a Nancy
+<lb corresp="#f56_z1_l21"/>Ap̃s que ie euz contemple quelque hiſtoire
+<lb corresp="#f56_z1_l22"/>Me fut aduis que en ung ſonge tranſy
+<lb corresp="#f56_z1_l23"/>Ie ueiz Dauid qui me dit ces motz cy
+<lb corresp="#f56_z1_l24"/>Lieue toy ſus herault darmes Gringoire
+<lb corresp="#f56_z1_l25"/>Prens ton papier ta plume et eſcriptoire
+<lb corresp="#f56_z1_l26"/>Metz par eſcript ce beau pſeaulme icy
 </p>
         <pb corresp="#f57"/>
-        <p corresp="#f57_z1" n="MainZone">
-<lb corresp="#f57_z1_l1_t"/>Que feis ung iour pour le triumphe et gloire
-<lb corresp="#f57_z1_l2_t"/>Duroy francois qui obtiendra uictoire
-<lb corresp="#f57_z1_l3_t"/>Sil ſe ſubmet ſoubz diuine mercy
-<lb corresp="#f57_z1_l4_t"/>Ioyeulx reſueil faict le cueur et clarcy
-<hi n="HeadingLine"><lb corresp="#f57_z1_l5_t"/>¶ Menus ꝓpos ſur le pſeaulme Benedictus do</hi>
-<hi n="HeadingLine"><lb corresp="#f57_z1_l6_t"/>minus deus meus qui docet manus meas ad pre</hi>
-<hi n="HeadingLine"><lb corresp="#f57_z1_l7_t"/>lium:et digitos meos ad bellum</hi>
-<lb corresp="#f57_z1_l8_t"/>Eenoiſtz ſont ceulx qui ueullẽt dominer
-<lb corresp="#f57_z1_l9_t"/>Gardans la loy cuidant faire regner
-<hi n="DropCapitalLine"><lb corresp="#f57_z1_l10_t"/>B</hi>
-<lb corresp="#f57_z1_l11_t"/>Amour et paix en augmentant iuſtice
-<lb corresp="#f57_z1_l12_t"/>Beinoiſtz ſont ceulx a qui dieu ueult donner
-<lb corresp="#f57_z1_l13_t"/>Les mains et doigz pour bataille ordonner
-<lb corresp="#f57_z1_l14_t"/>Et corriger gens remplis de malice
-<lb corresp="#f57_z1_l15_t"/>Affin que de eulx lerreur et le malyſſe
-<lb corresp="#f57_z1_l16_t"/>Qui en peche les contrainct cheminer
-<lb corresp="#f57_z1_l17_t"/>Dont toy ſeulas congnoiſſance et notice
-<lb corresp="#f57_z1_l18_t"/>Mon dieu permetz que ta foy ie accompliſſes
-<lb corresp="#f57_z1_l19_t"/>Sans contre moy par courroux te indigner
-<lb corresp="#f57_z1_l20_t"/>Selon raiſon on doit ſon train mener
-<lb corresp="#f57_z1_l21_t"/>¶O monſeigneur quant tes faictz ie recorde
-<lb corresp="#f57_z1_l22_t"/>Mon refuge es et ma miſericorde
-<lb corresp="#f57_z1_l23_t"/>Tout mon ſalut, mon bien et ſuſcepteur
-<lb corresp="#f57_z1_l24_t"/>Qui hais orgueil deſpiteuſe diſcrorde
-<lb corresp="#f57_z1_l25_t"/>Mettant en bruit aimable concorde
+        <p corresp="#f57_z1">
+<lb corresp="#f57_z1_l1"/>Que feis ung iour pour le triumphe et gloire
+<lb corresp="#f57_z1_l2"/>Duroy francois qui obtiendra uictoire
+<lb corresp="#f57_z1_l3"/>Sil ſe ſubmet ſoubz diuine mercy
+<lb corresp="#f57_z1_l4"/>Ioyeulx reſueil faict le cueur et clarcy
+<hi type="HeadingLine"><lb corresp="#f57_z1_l5"/>¶ Menus ꝓpos ſur le pſeaulme Benedictus do</hi>
+<hi type="HeadingLine"><lb corresp="#f57_z1_l6"/>minus deus meus qui docet manus meas ad pre</hi>
+<hi type="HeadingLine"><lb corresp="#f57_z1_l7"/>lium:et digitos meos ad bellum</hi>
+<lb corresp="#f57_z1_l8"/>Eenoiſtz ſont ceulx qui ueullẽt dominer
+<lb corresp="#f57_z1_l9"/>Gardans la loy cuidant faire regner
+<hi type="DropCapitalLine"><lb corresp="#f57_z1_l10"/>B</hi>
+<lb corresp="#f57_z1_l11"/>Amour et paix en augmentant iuſtice
+<lb corresp="#f57_z1_l12"/>Beinoiſtz ſont ceulx a qui dieu ueult donner
+<lb corresp="#f57_z1_l13"/>Les mains et doigz pour bataille ordonner
+<lb corresp="#f57_z1_l14"/>Et corriger gens remplis de malice
+<lb corresp="#f57_z1_l15"/>Affin que de eulx lerreur et le malyſſe
+<lb corresp="#f57_z1_l16"/>Qui en peche les contrainct cheminer
+<lb corresp="#f57_z1_l17"/>Dont toy ſeulas congnoiſſance et notice
+<lb corresp="#f57_z1_l18"/>Mon dieu permetz que ta foy ie accompliſſes
+<lb corresp="#f57_z1_l19"/>Sans contre moy par courroux te indigner
+<lb corresp="#f57_z1_l20"/>Selon raiſon on doit ſon train mener
+<lb corresp="#f57_z1_l21"/>¶O monſeigneur quant tes faictz ie recorde
+<lb corresp="#f57_z1_l22"/>Mon refuge es et ma miſericorde
+<lb corresp="#f57_z1_l23"/>Tout mon ſalut, mon bien et ſuſcepteur
+<lb corresp="#f57_z1_l24"/>Qui hais orgueil deſpiteuſe diſcrorde
+<lb corresp="#f57_z1_l25"/>Mettant en bruit aimable concorde
 </p>
-        <fw corresp="#f57_z2" n="QuireMarksZone"><lb corresp="#f57_z2_l1_t"/>d.i.</fw>
+        <fw corresp="#f57_z2" type="QuireMarksZone"><lb corresp="#f57_z2_l1"/>d.i.</fw>
       </div>
     </body>
   </text>

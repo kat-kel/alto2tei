@@ -37,7 +37,7 @@ class DefaultTree:
             ts_author.text = default_text
         respStmt = etree.SubElement(titleStmt, "respStmt")
         resp = etree.SubElement(respStmt, "resp")
-        resp.text = "Transformation from ALTO4 to TEI by"
+        resp.text = config["responsibility"]["text"]
         for i in range(len(config["responsibility"]["resp"])):
             persName = etree.SubElement(respStmt, "persName")
             forename = etree.SubElement(persName, "forename")

@@ -22,6 +22,11 @@
             <surname>Gabay</surname>
             <ptr type="orcid" target="0000000190944475"/>
           </persName>
+          <persName>
+            <forename>Ariane</forename>
+            <surname>Pinche</surname>
+            <ptr type="orcid" target="0000000278435050"/>
+          </persName>
         </respStmt>
       </titleStmt>
       <extent>
@@ -33,7 +38,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-17"/>
+        <date when="2022-05-18"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -2244,550 +2249,550 @@
     <body>
       <div>
         <pb corresp="#f11"/>
-        <p corresp="#f11_z1" n="MainZone">
-<hi n="HeadingLine"><lb corresp="#f11_z1_l1_t"/>⁋ S enfuit les apologues de Laurentius</hi>
-<hi n="HeadingLine"><lb corresp="#f11_z1_l2_t"/>ualla et cõmence le prologue de l acteur</hi>
-<hi n="HeadingLine"><lb corresp="#f11_z1_l3_t"/>en latin. Laurentius ualla.</hi>
-<lb corresp="#f11_z2_l1_t"/>Aurens ualle de-
-<lb corresp="#f11_z2_l2_t"/>sire salut et pro-
-<lb corresp="#f11_z2_l3_t"/>sperite a noble hõ
-<hi n="DropCapitalLine"><lb corresp="#f11_z2_l4_t"/>L</hi>
-<lb corresp="#f11_z2_l5_t"/>me arnoul de fou
-<lb corresp="#f11_z3_l1_t"/>elle son chier et singulier amy.
-<lb corresp="#f11_z3_l2_t"/>⁋ Tres chier et feal amy; Je te
-<lb corresp="#f11_z3_l3_t"/>auoye n a pas longtemps pro-
-<lb corresp="#f11_z3_l4_t"/>mis enuoyer certaines caille ᷤ ⁊
+        <p corresp="#f11_z1">
+<hi type="HeadingLine"><lb corresp="#f11_z1_l1"/>⁋ S enfuit les apologues de Laurentius</hi>
+<hi type="HeadingLine"><lb corresp="#f11_z1_l2"/>ualla et cõmence le prologue de l acteur</hi>
+<hi type="HeadingLine"><lb corresp="#f11_z1_l3"/>en latin. Laurentius ualla.</hi>
+<lb corresp="#f11_z2_l1"/>Aurens ualle de-
+<lb corresp="#f11_z2_l2"/>sire salut et pro-
+<lb corresp="#f11_z2_l3"/>sperite a noble hõ
+<hi type="DropCapitalLine"><lb corresp="#f11_z2_l4"/>L</hi>
+<lb corresp="#f11_z2_l5"/>me arnoul de fou
+<lb corresp="#f11_z3_l1"/>elle son chier et singulier amy.
+<lb corresp="#f11_z3_l2"/>⁋ Tres chier et feal amy; Je te
+<lb corresp="#f11_z3_l3"/>auoye n a pas longtemps pro-
+<lb corresp="#f11_z3_l4"/>mis enuoyer certaines caille ᷤ ⁊
 </p>
-        <fw corresp="#f11_z4" n="QuireMarksZone"><lb corresp="#f11_z4_l1_t"/>A ii</fw>
+        <fw corresp="#f11_z4" type="QuireMarksZone"><lb corresp="#f11_z4_l1"/>A ii</fw>
         <pb corresp="#f12"/>
-        <p corresp="#f12_z1" n="MainZone">
-<lb corresp="#f12_z1_l1_t"/>oyseaux lesq̃lz ie esperoye pren
-<lb corresp="#f12_z1_l2_t"/>dre en passant temps a la chas-
-<lb corresp="#f12_z1_l3_t"/>se. Mais pour ce que ie suis por
-<lb corresp="#f12_z1_l4_t"/>le present hõme mal ĩstruit en
-<lb corresp="#f12_z1_l5_t"/>fait de chasse et de gibier; et que
-<lb corresp="#f12_z1_l6_t"/>suis du tout desacoustume de
-<lb corresp="#f12_z1_l7_t"/>l usaige et industrie de la dicte
-<lb corresp="#f12_z1_l8_t"/>chasse. A ce ᷤ cause ᷤ n ay sceu prẽ
-<lb corresp="#f12_z1_l9_t"/>dre les dictes cailles; et me suis
-<lb corresp="#f12_z1_l10_t"/>transffere ⁊ transporte a chasser
-<lb corresp="#f12_z1_l11_t"/>une autre proie; ⁊ faire ma chas
-<lb corresp="#f12_z1_l12_t"/>se acoustumee. C est uacquer a
-<lb corresp="#f12_z1_l13_t"/>l estude des lettres. Et pour ce
-<lb corresp="#f12_z1_l14_t"/>par ca ᷤ d auẽture est uenu entre
-<lb corresp="#f12_z1_l15_t"/>mes main ᷤ ung petit liure grec
-<lb corresp="#f12_z1_l16_t"/>lequel a este recouuert et trou-
-<lb corresp="#f12_z1_l17_t"/>ue de une proye ⁊ bataille faic-
-<lb corresp="#f12_z1_l18_t"/>te sur mer; lequel liure cõtient
-<lb corresp="#f12_z1_l19_t"/>en soy trente ⁊ trois petites fa-
-<lb corresp="#f12_z1_l20_t"/>bles, facecies ou apologues de
-<lb corresp="#f12_z1_l21_t"/>Ezope poete grec. Ie les ay tou
-<lb corresp="#f12_z1_l22_t"/>tes chassee ᷤ et prinses ou temp ᷤ
-<lb corresp="#f12_z1_l23_t"/>et espace de deux iours; et icelle ᷤ
-<lb corresp="#f12_z1_l24_t"/>conuerties de grec en latin. Et
-<lb corresp="#f12_z1_l25_t"/>pourtant chier ⁊ parfait amy ie
-<lb corresp="#f12_z1_l26_t"/>te enuoye les dicte ᷤ trẽte ⁊ trois
-<lb corresp="#f12_z1_l27_t"/>petites fables ou cailles (se mi
-<lb corresp="#f12_z1_l28_t"/>eulx cailles q̃ fables les ueulx
-<lb corresp="#f12_z1_l29_t"/>appeller) en la prĩse ⁊ proye des
-<lb corresp="#f12_z1_l30_t"/>quelles tu te puisse iouer, delec
-<lb corresp="#f12_z1_l31_t"/>ter et recreer. Et certes se nous
-<lb corresp="#f12_z1_l32_t"/>lisons q̃ octouian cesar ⁊ marcꝰ
-<lb corresp="#f12_z1_l33_t"/>antonius prĩces ⁊ empereur ᷤ de
-<lb corresp="#f12_z2_l1_t"/>la terre se sont autreffois esiou
-<lb corresp="#f12_z2_l2_t"/>ys et qu ilz ont prins plaisir au
-<lb corresp="#f12_z2_l3_t"/>gibier et esbat des cailles, toy qͥ
-<lb corresp="#f12_z2_l4_t"/>aymes le ᷤ lettres tres parfaicte
-<lb corresp="#f12_z2_l5_t"/>ment te esiouyras en ceste nou
-<lb corresp="#f12_z2_l6_t"/>uelle maniere de chasse littera
-<lb corresp="#f12_z2_l7_t"/>le. Et ainsi que se aucun chas-
-<lb corresp="#f12_z2_l8_t"/>seur eust donne aux dessus dits
-<lb corresp="#f12_z2_l9_t"/>octouian et marc ung des di ᷤ oy
-<lb corresp="#f12_z2_l10_t"/>seaux il leur eust fait chose tres
-<lb corresp="#f12_z2_l11_t"/>agreable et plaine de ioye; Ie te
-<lb corresp="#f12_z2_l12_t"/>Deueray estre agreable et faire
-<lb corresp="#f12_z2_l13_t"/>ioye se ie te enuoye en pur don
-<lb corresp="#f12_z2_l14_t"/>plus de trente oyseaux de la des
-<lb corresp="#f12_z2_l15_t"/>sus dicte maniere de chasser. Et
-<lb corresp="#f12_z2_l16_t"/>sans doubte ces presentes peti-
-<lb corresp="#f12_z2_l17_t"/>tes fables ou cailles nourrissẽt
-<lb corresp="#f12_z2_l18_t"/>grandemẽt et n ont pas en soy
-<lb corresp="#f12_z2_l19_t"/>moin ᷤ de fleur q̃ de fruit. Mais
-<lb corresp="#f12_z2_l20_t"/>pour ce que cest chose insolente
-<lb corresp="#f12_z2_l21_t"/>et peu agreable quãt aucũ loue
-<lb corresp="#f12_z2_l22_t"/>attolle ou eslieue son don, a ce-
-<lb corresp="#f12_z2_l23_t"/>ste cause ie feray cy fin et cesse-
-<lb corresp="#f12_z2_l24_t"/>ray la louenge des dictes fable ᷤ
-<lb corresp="#f12_z2_l25_t"/>Touteffoi ᷤ rescri ᷤ moy se tu ai
-<lb corresp="#f12_z2_l26_t"/>mes mieulx auoir Des cailles
-<lb corresp="#f12_z2_l27_t"/>urayes et naturelles que ces p̃
-<lb corresp="#f12_z2_l28_t"/>sente ᷤ fable ᷤ, car quant ainsi se
-<lb corresp="#f12_z2_l29_t"/>roit ie ne te enuoieroye pas seu
-<lb corresp="#f12_z2_l30_t"/>lement Des cailles mais auec
-<lb corresp="#f12_z2_l31_t"/>ques ce Des perdris. Escript en
-<lb corresp="#f12_z2_l32_t"/>la cite de cayete ces kalende ᷤ de
-<lb corresp="#f12_z2_l33_t"/>may mil iiii.C.xxxuiii.
+        <p corresp="#f12_z1">
+<lb corresp="#f12_z1_l1"/>oyseaux lesq̃lz ie esperoye pren
+<lb corresp="#f12_z1_l2"/>dre en passant temps a la chas-
+<lb corresp="#f12_z1_l3"/>se. Mais pour ce que ie suis por
+<lb corresp="#f12_z1_l4"/>le present hõme mal ĩstruit en
+<lb corresp="#f12_z1_l5"/>fait de chasse et de gibier; et que
+<lb corresp="#f12_z1_l6"/>suis du tout desacoustume de
+<lb corresp="#f12_z1_l7"/>l usaige et industrie de la dicte
+<lb corresp="#f12_z1_l8"/>chasse. A ce ᷤ cause ᷤ n ay sceu prẽ
+<lb corresp="#f12_z1_l9"/>dre les dictes cailles; et me suis
+<lb corresp="#f12_z1_l10"/>transffere ⁊ transporte a chasser
+<lb corresp="#f12_z1_l11"/>une autre proie; ⁊ faire ma chas
+<lb corresp="#f12_z1_l12"/>se acoustumee. C est uacquer a
+<lb corresp="#f12_z1_l13"/>l estude des lettres. Et pour ce
+<lb corresp="#f12_z1_l14"/>par ca ᷤ d auẽture est uenu entre
+<lb corresp="#f12_z1_l15"/>mes main ᷤ ung petit liure grec
+<lb corresp="#f12_z1_l16"/>lequel a este recouuert et trou-
+<lb corresp="#f12_z1_l17"/>ue de une proye ⁊ bataille faic-
+<lb corresp="#f12_z1_l18"/>te sur mer; lequel liure cõtient
+<lb corresp="#f12_z1_l19"/>en soy trente ⁊ trois petites fa-
+<lb corresp="#f12_z1_l20"/>bles, facecies ou apologues de
+<lb corresp="#f12_z1_l21"/>Ezope poete grec. Ie les ay tou
+<lb corresp="#f12_z1_l22"/>tes chassee ᷤ et prinses ou temp ᷤ
+<lb corresp="#f12_z1_l23"/>et espace de deux iours; et icelle ᷤ
+<lb corresp="#f12_z1_l24"/>conuerties de grec en latin. Et
+<lb corresp="#f12_z1_l25"/>pourtant chier ⁊ parfait amy ie
+<lb corresp="#f12_z1_l26"/>te enuoye les dicte ᷤ trẽte ⁊ trois
+<lb corresp="#f12_z1_l27"/>petites fables ou cailles (se mi
+<lb corresp="#f12_z1_l28"/>eulx cailles q̃ fables les ueulx
+<lb corresp="#f12_z1_l29"/>appeller) en la prĩse ⁊ proye des
+<lb corresp="#f12_z1_l30"/>quelles tu te puisse iouer, delec
+<lb corresp="#f12_z1_l31"/>ter et recreer. Et certes se nous
+<lb corresp="#f12_z1_l32"/>lisons q̃ octouian cesar ⁊ marcꝰ
+<lb corresp="#f12_z1_l33"/>antonius prĩces ⁊ empereur ᷤ de
+<lb corresp="#f12_z2_l1"/>la terre se sont autreffois esiou
+<lb corresp="#f12_z2_l2"/>ys et qu ilz ont prins plaisir au
+<lb corresp="#f12_z2_l3"/>gibier et esbat des cailles, toy qͥ
+<lb corresp="#f12_z2_l4"/>aymes le ᷤ lettres tres parfaicte
+<lb corresp="#f12_z2_l5"/>ment te esiouyras en ceste nou
+<lb corresp="#f12_z2_l6"/>uelle maniere de chasse littera
+<lb corresp="#f12_z2_l7"/>le. Et ainsi que se aucun chas-
+<lb corresp="#f12_z2_l8"/>seur eust donne aux dessus dits
+<lb corresp="#f12_z2_l9"/>octouian et marc ung des di ᷤ oy
+<lb corresp="#f12_z2_l10"/>seaux il leur eust fait chose tres
+<lb corresp="#f12_z2_l11"/>agreable et plaine de ioye; Ie te
+<lb corresp="#f12_z2_l12"/>Deueray estre agreable et faire
+<lb corresp="#f12_z2_l13"/>ioye se ie te enuoye en pur don
+<lb corresp="#f12_z2_l14"/>plus de trente oyseaux de la des
+<lb corresp="#f12_z2_l15"/>sus dicte maniere de chasser. Et
+<lb corresp="#f12_z2_l16"/>sans doubte ces presentes peti-
+<lb corresp="#f12_z2_l17"/>tes fables ou cailles nourrissẽt
+<lb corresp="#f12_z2_l18"/>grandemẽt et n ont pas en soy
+<lb corresp="#f12_z2_l19"/>moin ᷤ de fleur q̃ de fruit. Mais
+<lb corresp="#f12_z2_l20"/>pour ce que cest chose insolente
+<lb corresp="#f12_z2_l21"/>et peu agreable quãt aucũ loue
+<lb corresp="#f12_z2_l22"/>attolle ou eslieue son don, a ce-
+<lb corresp="#f12_z2_l23"/>ste cause ie feray cy fin et cesse-
+<lb corresp="#f12_z2_l24"/>ray la louenge des dictes fable ᷤ
+<lb corresp="#f12_z2_l25"/>Touteffoi ᷤ rescri ᷤ moy se tu ai
+<lb corresp="#f12_z2_l26"/>mes mieulx auoir Des cailles
+<lb corresp="#f12_z2_l27"/>urayes et naturelles que ces p̃
+<lb corresp="#f12_z2_l28"/>sente ᷤ fable ᷤ, car quant ainsi se
+<lb corresp="#f12_z2_l29"/>roit ie ne te enuoieroye pas seu
+<lb corresp="#f12_z2_l30"/>lement Des cailles mais auec
+<lb corresp="#f12_z2_l31"/>ques ce Des perdris. Escript en
+<lb corresp="#f12_z2_l32"/>la cite de cayete ces kalende ᷤ de
+<lb corresp="#f12_z2_l33"/>may mil iiii.C.xxxuiii.
 </p>
         <pb corresp="#f13"/>
-        <p corresp="#f13_z1" n="MainZone">
-<hi n="HeadingLine"><lb corresp="#f13_z1_l1_t"/>⁋ Le premier Apologue ou</hi>
-<hi n="HeadingLine"><lb corresp="#f13_z1_l2_t"/>fable est du regnart et Du</hi>
-<hi n="HeadingLine"><lb corresp="#f13_z1_l3_t"/>cheureau. Et cõmence ou</hi>
-<hi n="HeadingLine"><lb corresp="#f13_z1_l4_t"/>latin. Uulpes.</hi>
-<hi n="DropCapitalLine"><lb corresp="#f13_z1_l5_t"/>L</hi>
-<lb corresp="#f13_z1_l6_t"/>E regnart ⁊ le cheure
-<lb corresp="#f13_z1_l7_t"/>au ung iour D este ou
-<lb corresp="#f13_z1_l8_t"/>quel faisoit grãt et ex
-<lb corresp="#f13_z1_l9_t"/>cessif chault estoient alteres et
-<lb corresp="#f13_z1_l10_t"/>mors de soif. Et pour subuenir
-<lb corresp="#f13_z1_l11_t"/>a leur alteration firent diligen
-<lb corresp="#f13_z1_l12_t"/>ce de cerchier aucune riuiere ou
-<lb corresp="#f13_z1_l13_t"/>autre eaue en laquelle ilz peus
-<lb corresp="#f13_z1_l14_t"/>sent boire. Finablemẽt trouue-
-<lb corresp="#f13_z1_l15_t"/>rent ung uiel trou en maniere
-<lb corresp="#f13_z1_l16_t"/>de puys assez parfõd ou quel ilz
-<lb corresp="#f13_z1_l17_t"/>descendirẽt ⁊ auquel ilz beurẽt
-<lb corresp="#f13_z1_l18_t"/>a leur aise. ⁋ Apres ce qu ilz eu-
-<lb corresp="#f13_z1_l19_t"/>rent parfaictemẽt estaint leur
-<lb corresp="#f13_z1_l20_t"/>soif; le cheureau se prĩt a regar-
-<lb corresp="#f13_z1_l21_t"/>der contremont et considerer la
-<lb corresp="#f13_z2_l1_t"/>maniere cõment ilz sortiroient
-<lb corresp="#f13_z2_l2_t"/>dudit puys. Ce q̃ le regnart aꝑ
-<lb corresp="#f13_z2_l3_t"/>ceut assez clerement. Car sa na
-<lb corresp="#f13_z2_l4_t"/>ture est D estre tousiours cault
-<lb corresp="#f13_z2_l5_t"/>et subtil. Et tantost dist iceluy
-<lb corresp="#f13_z2_l6_t"/>regnart au dit cheureau. Mon
-<lb corresp="#f13_z2_l7_t"/>compaignons ayez bon courage
-<lb corresp="#f13_z2_l8_t"/>ne te soussie point de la manie
-<lb corresp="#f13_z2_l9_t"/>re de sortir d yci dedãs. Car i ay
-<lb corresp="#f13_z2_l10_t"/>ia trouue le moyen par leq̃l noꝰ
-<lb corresp="#f13_z2_l11_t"/>pourrons sortir et retourner en
-<lb corresp="#f13_z2_l12_t"/>hault. Et pour ce faire uoy cy
-<lb corresp="#f13_z2_l13_t"/>la maniere conuenable. Tu te
-<lb corresp="#f13_z2_l14_t"/>dresseras tout droit et mettras
-<lb corresp="#f13_z2_l15_t"/>les pied ᷤ de deuãt contre la pa-
-<lb corresp="#f13_z2_l16_t"/>roy; puis apres besseras la teste
-<lb corresp="#f13_z2_l17_t"/>⁊ les cornes entre tes iãbes tãt
-<lb corresp="#f13_z2_l18_t"/>que ton menton touchera a ta
-<lb corresp="#f13_z2_l19_t"/>poitrine; et ie monteray sur ton
-<lb corresp="#f13_z2_l20_t"/>dos en me prenant a tes cornes
-<lb corresp="#f13_z2_l21_t"/>et me lanseray ⁊ tireray hors de
-<lb corresp="#f13_z2_l22_t"/>ce puys. Ce fait ie te tireray et
-<lb corresp="#f13_z2_l23_t"/>mettray hors du dit puys. ⁋ Le
-<lb corresp="#f13_z2_l24_t"/>cheureau fut simple et ignorãt
-<lb corresp="#f13_z2_l25_t"/>et creut et aquiessa au cõseil du
-<lb corresp="#f13_z2_l26_t"/>dit regnart lequel conseil lui sẽ
-<lb corresp="#f13_z2_l27_t"/>bloit estre bon san ᷤ fraude ne si
-<lb corresp="#f13_z2_l28_t"/>mulation quelcũque. Et incon
-<lb corresp="#f13_z2_l29_t"/>tinent le dit regnart se ietta sur
-<lb corresp="#f13_z2_l30_t"/>le dit cheureau et sortit hors fa-
-<lb corresp="#f13_z2_l31_t"/>cilement du dit puys. Et ce fait
-<lb corresp="#f13_z2_l32_t"/>se print le dit regnart a Danser
-<lb corresp="#f13_z2_l33_t"/>⁊ saulter sur le bort du dit puys
+        <p corresp="#f13_z1">
+<hi type="HeadingLine"><lb corresp="#f13_z1_l1"/>⁋ Le premier Apologue ou</hi>
+<hi type="HeadingLine"><lb corresp="#f13_z1_l2"/>fable est du regnart et Du</hi>
+<hi type="HeadingLine"><lb corresp="#f13_z1_l3"/>cheureau. Et cõmence ou</hi>
+<hi type="HeadingLine"><lb corresp="#f13_z1_l4"/>latin. Uulpes.</hi>
+<hi type="DropCapitalLine"><lb corresp="#f13_z1_l5"/>L</hi>
+<lb corresp="#f13_z1_l6"/>E regnart ⁊ le cheure
+<lb corresp="#f13_z1_l7"/>au ung iour D este ou
+<lb corresp="#f13_z1_l8"/>quel faisoit grãt et ex
+<lb corresp="#f13_z1_l9"/>cessif chault estoient alteres et
+<lb corresp="#f13_z1_l10"/>mors de soif. Et pour subuenir
+<lb corresp="#f13_z1_l11"/>a leur alteration firent diligen
+<lb corresp="#f13_z1_l12"/>ce de cerchier aucune riuiere ou
+<lb corresp="#f13_z1_l13"/>autre eaue en laquelle ilz peus
+<lb corresp="#f13_z1_l14"/>sent boire. Finablemẽt trouue-
+<lb corresp="#f13_z1_l15"/>rent ung uiel trou en maniere
+<lb corresp="#f13_z1_l16"/>de puys assez parfõd ou quel ilz
+<lb corresp="#f13_z1_l17"/>descendirẽt ⁊ auquel ilz beurẽt
+<lb corresp="#f13_z1_l18"/>a leur aise. ⁋ Apres ce qu ilz eu-
+<lb corresp="#f13_z1_l19"/>rent parfaictemẽt estaint leur
+<lb corresp="#f13_z1_l20"/>soif; le cheureau se prĩt a regar-
+<lb corresp="#f13_z1_l21"/>der contremont et considerer la
+<lb corresp="#f13_z2_l1"/>maniere cõment ilz sortiroient
+<lb corresp="#f13_z2_l2"/>dudit puys. Ce q̃ le regnart aꝑ
+<lb corresp="#f13_z2_l3"/>ceut assez clerement. Car sa na
+<lb corresp="#f13_z2_l4"/>ture est D estre tousiours cault
+<lb corresp="#f13_z2_l5"/>et subtil. Et tantost dist iceluy
+<lb corresp="#f13_z2_l6"/>regnart au dit cheureau. Mon
+<lb corresp="#f13_z2_l7"/>compaignons ayez bon courage
+<lb corresp="#f13_z2_l8"/>ne te soussie point de la manie
+<lb corresp="#f13_z2_l9"/>re de sortir d yci dedãs. Car i ay
+<lb corresp="#f13_z2_l10"/>ia trouue le moyen par leq̃l noꝰ
+<lb corresp="#f13_z2_l11"/>pourrons sortir et retourner en
+<lb corresp="#f13_z2_l12"/>hault. Et pour ce faire uoy cy
+<lb corresp="#f13_z2_l13"/>la maniere conuenable. Tu te
+<lb corresp="#f13_z2_l14"/>dresseras tout droit et mettras
+<lb corresp="#f13_z2_l15"/>les pied ᷤ de deuãt contre la pa-
+<lb corresp="#f13_z2_l16"/>roy; puis apres besseras la teste
+<lb corresp="#f13_z2_l17"/>⁊ les cornes entre tes iãbes tãt
+<lb corresp="#f13_z2_l18"/>que ton menton touchera a ta
+<lb corresp="#f13_z2_l19"/>poitrine; et ie monteray sur ton
+<lb corresp="#f13_z2_l20"/>dos en me prenant a tes cornes
+<lb corresp="#f13_z2_l21"/>et me lanseray ⁊ tireray hors de
+<lb corresp="#f13_z2_l22"/>ce puys. Ce fait ie te tireray et
+<lb corresp="#f13_z2_l23"/>mettray hors du dit puys. ⁋ Le
+<lb corresp="#f13_z2_l24"/>cheureau fut simple et ignorãt
+<lb corresp="#f13_z2_l25"/>et creut et aquiessa au cõseil du
+<lb corresp="#f13_z2_l26"/>dit regnart lequel conseil lui sẽ
+<lb corresp="#f13_z2_l27"/>bloit estre bon san ᷤ fraude ne si
+<lb corresp="#f13_z2_l28"/>mulation quelcũque. Et incon
+<lb corresp="#f13_z2_l29"/>tinent le dit regnart se ietta sur
+<lb corresp="#f13_z2_l30"/>le dit cheureau et sortit hors fa-
+<lb corresp="#f13_z2_l31"/>cilement du dit puys. Et ce fait
+<lb corresp="#f13_z2_l32"/>se print le dit regnart a Danser
+<lb corresp="#f13_z2_l33"/>⁊ saulter sur le bort du dit puys
 </p>
-        <fw corresp="#f13_z3" n="QuireMarksZone"><lb corresp="#f13_z3_l1_t"/>A iii</fw>
+        <fw corresp="#f13_z3" type="QuireMarksZone"><lb corresp="#f13_z3_l1"/>A iii</fw>
         <pb corresp="#f14"/>
-        <p corresp="#f14_z1" n="MainZone">
-<lb corresp="#f14_z1_l1_t"/>de ioye qu il auoit d estre ainsi es
-<lb corresp="#f14_z1_l2_t"/>chape par son astrice ⁊ malicieu
-<lb corresp="#f14_z1_l3_t"/>se callidite. Et ne lui sonuĩt ne
-<lb corresp="#f14_z1_l4_t"/>n eut aucun soĩg de tirer ne met
-<lb corresp="#f14_z1_l5_t"/>tre hors le poure cheureau leq̃l
-<lb corresp="#f14_z1_l6_t"/>estoit demoure en la profundite
-<lb corresp="#f14_z1_l7_t"/>et obscure tenebrosite dudit pu
-<lb corresp="#f14_z1_l8_t"/>ys. Et a ceste cause ledit cheure
-<lb corresp="#f14_z1_l9_t"/>au acusoit le regnart de foy mẽ
-<lb corresp="#f14_z1_l10_t"/>tie et ce qu il auoit froisse ⁊ rõ
-<lb corresp="#f14_z1_l11_t"/>pu sa promesse. Mais ledit reg
-<lb corresp="#f14_z1_l12_t"/>nart n en tenoit conte ains luy
-<lb corresp="#f14_z1_l13_t"/>disoit par maniere de moquerie
-<lb corresp="#f14_z1_l14_t"/>Cheureau se tu eusses eu au-
-<lb corresp="#f14_z1_l15_t"/>tant de sens en ta pensee cõme
-<lb corresp="#f14_z1_l16_t"/>tu as de poil au menton, tu ne
-<lb corresp="#f14_z1_l17_t"/>fusses pa ᷤ descendu oudit puys
-<lb corresp="#f14_z1_l18_t"/>iusque ᷤ ad ce que tu eusse ᷤ adui
-<lb corresp="#f14_z1_l19_t"/>se ⁊ espie les moyẽs uoye ⁊ ma
-<lb corresp="#f14_z1_l20_t"/>niere par lesquelz tu te peusses
-<lb corresp="#f14_z1_l21_t"/>tirer et mettre hors dudit puys
-<lb corresp="#f14_z1_l22_t"/>quãt bon t eust semble. ⁋Sen ᷤ
-<lb corresp="#f14_z1_l23_t"/>moral. ⁋ Le dessus dit apolo-
-<lb corresp="#f14_z1_l24_t"/>gue fable ou facecie quant au
-<lb corresp="#f14_z1_l25_t"/>sens moral ueult donner a en-
-<lb corresp="#f14_z1_l26_t"/>tendre a chascun hõme prudent
-<lb corresp="#f14_z1_l27_t"/>qu il regarde bien songneusem̃t
-<lb corresp="#f14_z1_l28_t"/>quant il se associera ou acõpai-
-<lb corresp="#f14_z1_l29_t"/>gnera auecques aucun pour q̃l
-<lb corresp="#f14_z1_l30_t"/>que chose faire que celui auecq̃ ᷤ
-<lb corresp="#f14_z1_l31_t"/>lequel il se acõpaignera ne le de
-<lb corresp="#f14_z1_l32_t"/>coiue en regardant la fin de l en
-<lb corresp="#f14_z1_l33_t"/>treprinse et la sortie de la chose
-<lb corresp="#f14_z2_l1_t"/>auant q̃ le faire ne entreprẽdre.
-<hi n="HeadingLine"><lb corresp="#f14_z2_l2_t"/>⁋ Le second apologue ou fa</hi>
-<hi n="HeadingLine"><lb corresp="#f14_z2_l3_t"/>ble est d ung regnart ⁊ d ũg</hi>
-<hi n="HeadingLine"><lb corresp="#f14_z2_l4_t"/>liepart. Et cõmence ou la-</hi>
-<hi n="HeadingLine"><lb corresp="#f14_z2_l5_t"/>tin uulpes et pardus.</hi>
-<hi n="DropCapitalLine"><lb corresp="#f14_z2_l6_t"/>L</hi>
-<lb corresp="#f14_z2_l7_t"/>E regnart ⁊ le liepart
-<lb corresp="#f14_z2_l8_t"/>parlant de plusieurs choses eu
-<lb corresp="#f14_z2_l9_t"/>estoient ung iour aux
-<lb corresp="#f14_z2_l10_t"/>rent question et altercation en
-<lb corresp="#f14_z2_l11_t"/>champ ᷤ a l ebat. Et en
-<lb corresp="#f14_z2_l12_t"/>tre eulx touchant leur beaulte
-<lb corresp="#f14_z2_l13_t"/>Et apres plusieurs raisons al
-<lb corresp="#f14_z2_l14_t"/>legues d une part ⁊ d autres sur
-<lb corresp="#f14_z2_l15_t"/>la dicte beaute le dit liepart al-
-<lb corresp="#f14_z2_l16_t"/>legua pour raison peremptoire
-<lb corresp="#f14_z2_l17_t"/>la beaute qui est en la diuersite
-<lb corresp="#f14_z2_l18_t"/>des couleurs de sa peau. Et en
-<lb corresp="#f14_z2_l19_t"/>effect concluoit que pour raisõ
-<lb corresp="#f14_z2_l20_t"/>des diuerses coulers De sadicte
+        <p corresp="#f14_z1">
+<lb corresp="#f14_z1_l1"/>de ioye qu il auoit d estre ainsi es
+<lb corresp="#f14_z1_l2"/>chape par son astrice ⁊ malicieu
+<lb corresp="#f14_z1_l3"/>se callidite. Et ne lui sonuĩt ne
+<lb corresp="#f14_z1_l4"/>n eut aucun soĩg de tirer ne met
+<lb corresp="#f14_z1_l5"/>tre hors le poure cheureau leq̃l
+<lb corresp="#f14_z1_l6"/>estoit demoure en la profundite
+<lb corresp="#f14_z1_l7"/>et obscure tenebrosite dudit pu
+<lb corresp="#f14_z1_l8"/>ys. Et a ceste cause ledit cheure
+<lb corresp="#f14_z1_l9"/>au acusoit le regnart de foy mẽ
+<lb corresp="#f14_z1_l10"/>tie et ce qu il auoit froisse ⁊ rõ
+<lb corresp="#f14_z1_l11"/>pu sa promesse. Mais ledit reg
+<lb corresp="#f14_z1_l12"/>nart n en tenoit conte ains luy
+<lb corresp="#f14_z1_l13"/>disoit par maniere de moquerie
+<lb corresp="#f14_z1_l14"/>Cheureau se tu eusses eu au-
+<lb corresp="#f14_z1_l15"/>tant de sens en ta pensee cõme
+<lb corresp="#f14_z1_l16"/>tu as de poil au menton, tu ne
+<lb corresp="#f14_z1_l17"/>fusses pa ᷤ descendu oudit puys
+<lb corresp="#f14_z1_l18"/>iusque ᷤ ad ce que tu eusse ᷤ adui
+<lb corresp="#f14_z1_l19"/>se ⁊ espie les moyẽs uoye ⁊ ma
+<lb corresp="#f14_z1_l20"/>niere par lesquelz tu te peusses
+<lb corresp="#f14_z1_l21"/>tirer et mettre hors dudit puys
+<lb corresp="#f14_z1_l22"/>quãt bon t eust semble. ⁋Sen ᷤ
+<lb corresp="#f14_z1_l23"/>moral. ⁋ Le dessus dit apolo-
+<lb corresp="#f14_z1_l24"/>gue fable ou facecie quant au
+<lb corresp="#f14_z1_l25"/>sens moral ueult donner a en-
+<lb corresp="#f14_z1_l26"/>tendre a chascun hõme prudent
+<lb corresp="#f14_z1_l27"/>qu il regarde bien songneusem̃t
+<lb corresp="#f14_z1_l28"/>quant il se associera ou acõpai-
+<lb corresp="#f14_z1_l29"/>gnera auecques aucun pour q̃l
+<lb corresp="#f14_z1_l30"/>que chose faire que celui auecq̃ ᷤ
+<lb corresp="#f14_z1_l31"/>lequel il se acõpaignera ne le de
+<lb corresp="#f14_z1_l32"/>coiue en regardant la fin de l en
+<lb corresp="#f14_z1_l33"/>treprinse et la sortie de la chose
+<lb corresp="#f14_z2_l1"/>auant q̃ le faire ne entreprẽdre.
+<hi type="HeadingLine"><lb corresp="#f14_z2_l2"/>⁋ Le second apologue ou fa</hi>
+<hi type="HeadingLine"><lb corresp="#f14_z2_l3"/>ble est d ung regnart ⁊ d ũg</hi>
+<hi type="HeadingLine"><lb corresp="#f14_z2_l4"/>liepart. Et cõmence ou la-</hi>
+<hi type="HeadingLine"><lb corresp="#f14_z2_l5"/>tin uulpes et pardus.</hi>
+<hi type="DropCapitalLine"><lb corresp="#f14_z2_l6"/>L</hi>
+<lb corresp="#f14_z2_l7"/>E regnart ⁊ le liepart
+<lb corresp="#f14_z2_l8"/>parlant de plusieurs choses eu
+<lb corresp="#f14_z2_l9"/>estoient ung iour aux
+<lb corresp="#f14_z2_l10"/>rent question et altercation en
+<lb corresp="#f14_z2_l11"/>champ ᷤ a l ebat. Et en
+<lb corresp="#f14_z2_l12"/>tre eulx touchant leur beaulte
+<lb corresp="#f14_z2_l13"/>Et apres plusieurs raisons al
+<lb corresp="#f14_z2_l14"/>legues d une part ⁊ d autres sur
+<lb corresp="#f14_z2_l15"/>la dicte beaute le dit liepart al-
+<lb corresp="#f14_z2_l16"/>legua pour raison peremptoire
+<lb corresp="#f14_z2_l17"/>la beaute qui est en la diuersite
+<lb corresp="#f14_z2_l18"/>des couleurs de sa peau. Et en
+<lb corresp="#f14_z2_l19"/>effect concluoit que pour raisõ
+<lb corresp="#f14_z2_l20"/>des diuerses coulers De sadicte
 </p>
         <pb corresp="#f15"/>
-        <p corresp="#f15_z1" n="MainZone">
-<lb corresp="#f15_z1_l1_t"/>peau il precedoit en beaute non
-<lb corresp="#f15_z1_l2_t"/>pas seulem̃t ledit regnart mai ᷤ
-<lb corresp="#f15_z1_l3_t"/>auecque ᷤ ce le ᷤ autre ᷤ beste ᷤ . Le
-<lb corresp="#f15_z1_l4_t"/>regnart pour ses deffences uoy
-<lb corresp="#f15_z1_l5_t"/>ant par lui qͥl pouoit aucu-
-<lb corresp="#f15_z1_l6_t"/>nement louer ne preferer sa pe
-<lb corresp="#f15_z1_l7_t"/>au a celle dudit liepart allegua
-<lb corresp="#f15_z1_l8_t"/>une raison peremptoire contre
-<lb corresp="#f15_z1_l9_t"/>ledit liepart. Et lui dist.. Tu te
-<lb corresp="#f15_z1_l10_t"/>iattez et uãtez a merueillez de
-<lb corresp="#f15_z1_l11_t"/>la beaute de ta peau, mais cer-
-<lb corresp="#f15_z1_l12_t"/>tes c est peu de chose au regard
-<lb corresp="#f15_z1_l13_t"/>de ma beaute interiore qui pre-
-<lb corresp="#f15_z1_l14_t"/>ce de ta beaute exteriore. Car na
-<lb corresp="#f15_z1_l15_t"/>ture m a donne couraige et pen
-<lb corresp="#f15_z1_l16_t"/>see de diuerses couleurs, cautel
-<lb corresp="#f15_z1_l17_t"/>les et subtilites de plusieurs et
-<lb corresp="#f15_z1_l18_t"/>differentes sortes. Par quoy ie
-<lb corresp="#f15_z1_l19_t"/>cõclus inuĩciblemẽt que ie doi ᷤ
-<lb corresp="#f15_z1_l20_t"/>estre cense et repute plus beau
-<lb corresp="#f15_z1_l21_t"/>que toy. ⁋ Sens moral. ⁋ Le
-<lb corresp="#f15_z1_l22_t"/>dessus dit apologue fable ou fa
-<lb corresp="#f15_z1_l23_t"/>cecie quãt au sens moral ueult
-<lb corresp="#f15_z1_l24_t"/>innuer ⁊ dõner a entẽdre q̃ la be
-<lb corresp="#f15_z1_l25_t"/>aute spirituelle ⁊ interiore de l a
-<lb corresp="#f15_z1_l26_t"/>me laquelle est douee et paree
-<lb corresp="#f15_z1_l27_t"/>de sciences et uertu ᷤ est plu ᷤ bel
-<lb corresp="#f15_z1_l28_t"/>le sans nulle cõparaison que la
-<lb corresp="#f15_z1_l29_t"/>beaute exteriore du corps tant
-<lb corresp="#f15_z1_l30_t"/>soit il bien pare De robes ou ri-
-<lb corresp="#f15_z1_l31_t"/>ches uestemens.
-<lb corresp="#f15_z1_l32_t"/>Le tier ᷤ apologue ou fable
-<hi n="DropCapitalLine"><lb corresp="#f15_z1_l33_t"/>C</hi>
-<lb corresp="#f15_z1_l34_t"/>est d une chate et de uenus.
-<hi n="HeadingLine"><lb corresp="#f15_z2_l1_t"/>Et commence ou latin.</hi>
-<hi n="HeadingLine"><lb corresp="#f15_z2_l2_t"/>Cata quedam ⁊c.</hi>
-<lb corresp="#f15_z2_l3_t"/>Ng ieune iouuẽceau
-<lb corresp="#f15_z2_l4_t"/>de exquise forme ⁊ spe
-<hi n="DropCapitalLine"><lb corresp="#f15_z2_l5_t"/>U</hi>
-<lb corresp="#f15_z2_l6_t"/>ciosite auoit en sa mai
-<lb corresp="#f15_z2_l7_t"/>son entre autres chose ᷤ une tres
-<lb corresp="#f15_z2_l8_t"/>belle et plaisante chate. Iceluy
-<lb corresp="#f15_z2_l9_t"/>iouuenceau considerant la be-
-<lb corresp="#f15_z2_l10_t"/>aute de la dicte chate disoit a
-<lb corresp="#f15_z2_l11_t"/>soy mesmes. Ie uouldroye que
-<lb corresp="#f15_z2_l12_t"/>i eusse une aussi belle femme q̃
-<lb corresp="#f15_z2_l13_t"/>tu es belle chate. Et lui estant
-<lb corresp="#f15_z2_l14_t"/>en ceste pensee et ardeur de lu-
-<lb corresp="#f15_z2_l15_t"/>xure fist la priere a la deesse ue
-<lb corresp="#f15_z2_l16_t"/>nu ᷤ mere de cupido dieu d amor ᷤ
-<lb corresp="#f15_z2_l17_t"/>qͥl lui pleust muer sa dicte cha-
-<lb corresp="#f15_z2_l18_t"/>te en une belle ieune pucelle, af
-<lb corresp="#f15_z2_l19_t"/>fin qu il peust auoir sa compai-
-<lb corresp="#f15_z2_l20_t"/>gnie et estaindre l ardeur desus
-<lb corresp="#f15_z2_l21_t"/>dicte. La deesse eut pitie de lui
+        <p corresp="#f15_z1">
+<lb corresp="#f15_z1_l1"/>peau il precedoit en beaute non
+<lb corresp="#f15_z1_l2"/>pas seulem̃t ledit regnart mai ᷤ
+<lb corresp="#f15_z1_l3"/>auecque ᷤ ce le ᷤ autre ᷤ beste ᷤ . Le
+<lb corresp="#f15_z1_l4"/>regnart pour ses deffences uoy
+<lb corresp="#f15_z1_l5"/>ant par lui qͥl pouoit aucu-
+<lb corresp="#f15_z1_l6"/>nement louer ne preferer sa pe
+<lb corresp="#f15_z1_l7"/>au a celle dudit liepart allegua
+<lb corresp="#f15_z1_l8"/>une raison peremptoire contre
+<lb corresp="#f15_z1_l9"/>ledit liepart. Et lui dist.. Tu te
+<lb corresp="#f15_z1_l10"/>iattez et uãtez a merueillez de
+<lb corresp="#f15_z1_l11"/>la beaute de ta peau, mais cer-
+<lb corresp="#f15_z1_l12"/>tes c est peu de chose au regard
+<lb corresp="#f15_z1_l13"/>de ma beaute interiore qui pre-
+<lb corresp="#f15_z1_l14"/>ce de ta beaute exteriore. Car na
+<lb corresp="#f15_z1_l15"/>ture m a donne couraige et pen
+<lb corresp="#f15_z1_l16"/>see de diuerses couleurs, cautel
+<lb corresp="#f15_z1_l17"/>les et subtilites de plusieurs et
+<lb corresp="#f15_z1_l18"/>differentes sortes. Par quoy ie
+<lb corresp="#f15_z1_l19"/>cõclus inuĩciblemẽt que ie doi ᷤ
+<lb corresp="#f15_z1_l20"/>estre cense et repute plus beau
+<lb corresp="#f15_z1_l21"/>que toy. ⁋ Sens moral. ⁋ Le
+<lb corresp="#f15_z1_l22"/>dessus dit apologue fable ou fa
+<lb corresp="#f15_z1_l23"/>cecie quãt au sens moral ueult
+<lb corresp="#f15_z1_l24"/>innuer ⁊ dõner a entẽdre q̃ la be
+<lb corresp="#f15_z1_l25"/>aute spirituelle ⁊ interiore de l a
+<lb corresp="#f15_z1_l26"/>me laquelle est douee et paree
+<lb corresp="#f15_z1_l27"/>de sciences et uertu ᷤ est plu ᷤ bel
+<lb corresp="#f15_z1_l28"/>le sans nulle cõparaison que la
+<lb corresp="#f15_z1_l29"/>beaute exteriore du corps tant
+<lb corresp="#f15_z1_l30"/>soit il bien pare De robes ou ri-
+<lb corresp="#f15_z1_l31"/>ches uestemens.
+<lb corresp="#f15_z1_l32"/>Le tier ᷤ apologue ou fable
+<hi type="DropCapitalLine"><lb corresp="#f15_z1_l33"/>C</hi>
+<lb corresp="#f15_z1_l34"/>est d une chate et de uenus.
+<hi type="HeadingLine"><lb corresp="#f15_z2_l1"/>Et commence ou latin.</hi>
+<hi type="HeadingLine"><lb corresp="#f15_z2_l2"/>Cata quedam ⁊c.</hi>
+<lb corresp="#f15_z2_l3"/>Ng ieune iouuẽceau
+<lb corresp="#f15_z2_l4"/>de exquise forme ⁊ spe
+<hi type="DropCapitalLine"><lb corresp="#f15_z2_l5"/>U</hi>
+<lb corresp="#f15_z2_l6"/>ciosite auoit en sa mai
+<lb corresp="#f15_z2_l7"/>son entre autres chose ᷤ une tres
+<lb corresp="#f15_z2_l8"/>belle et plaisante chate. Iceluy
+<lb corresp="#f15_z2_l9"/>iouuenceau considerant la be-
+<lb corresp="#f15_z2_l10"/>aute de la dicte chate disoit a
+<lb corresp="#f15_z2_l11"/>soy mesmes. Ie uouldroye que
+<lb corresp="#f15_z2_l12"/>i eusse une aussi belle femme q̃
+<lb corresp="#f15_z2_l13"/>tu es belle chate. Et lui estant
+<lb corresp="#f15_z2_l14"/>en ceste pensee et ardeur de lu-
+<lb corresp="#f15_z2_l15"/>xure fist la priere a la deesse ue
+<lb corresp="#f15_z2_l16"/>nu ᷤ mere de cupido dieu d amor ᷤ
+<lb corresp="#f15_z2_l17"/>qͥl lui pleust muer sa dicte cha-
+<lb corresp="#f15_z2_l18"/>te en une belle ieune pucelle, af
+<lb corresp="#f15_z2_l19"/>fin qu il peust auoir sa compai-
+<lb corresp="#f15_z2_l20"/>gnie et estaindre l ardeur desus
+<lb corresp="#f15_z2_l21"/>dicte. La deesse eut pitie de lui
 </p>
-        <fw corresp="#f15_z3" n="QuireMarksZone"><lb corresp="#f15_z3_l1_t"/>A iiii</fw>
+        <fw corresp="#f15_z3" type="QuireMarksZone"><lb corresp="#f15_z3_l1"/>A iiii</fw>
         <pb corresp="#f16"/>
-        <p corresp="#f16_z1" n="MainZone">
-<lb corresp="#f16_z1_l1_t"/>et exaulsa sa priere en muant
-<lb corresp="#f16_z1_l2_t"/>la dicte chate en une tres belle ⁊
-<lb corresp="#f16_z1_l3_t"/>bien formee pucelle. Et ce fait
-<lb corresp="#f16_z1_l4_t"/>le dit iouuẽceau rempli du feu
-<lb corresp="#f16_z1_l5_t"/>de charnelle cõcupiscẽce por rai
-<lb corresp="#f16_z1_l6_t"/>son de la beaulte de la pucelle
-<lb corresp="#f16_z1_l7_t"/>nouuellement trãfformee prĩt
-<lb corresp="#f16_z1_l8_t"/>icelle pucelle et la mena en sa
-<lb corresp="#f16_z1_l9_t"/>chambre pour en faire son plai
-<lb corresp="#f16_z1_l10_t"/>sir. La dessus dicte deesse uenu ᷤ
-<lb corresp="#f16_z1_l11_t"/>uolãt esprouuer se la dicte cha
-<lb corresp="#f16_z1_l12_t"/>te auoit mue ses meurs ⁊ cõdi-
-<lb corresp="#f16_z1_l13_t"/>tions en la dessus dicte trãffor-
-<lb corresp="#f16_z1_l14_t"/>mation et mutation corporelle
-<lb corresp="#f16_z1_l15_t"/>layssa aller une souris ou mili
-<lb corresp="#f16_z1_l16_t"/>eu de la chamnbre en laquelle les
-<lb corresp="#f16_z1_l17_t"/>dis iouuenceau et pucelle estoi
-<lb corresp="#f16_z1_l18_t"/>ent couchie ᷤ. Et tantost la dicte
-<lb corresp="#f16_z1_l19_t"/>pucelle non recordãt de sa mu-
-<lb corresp="#f16_z1_l20_t"/>tation, de son amy et de ceulx qͥ
-<lb corresp="#f16_z1_l21_t"/>estoiẽt presens se leua tout sou
-<lb corresp="#f16_z1_l22_t"/>dainemẽt du lit ⁊ se print a cha
-<lb corresp="#f16_z1_l23_t"/>cer et poursuiuir la dicte souris
-<lb corresp="#f16_z1_l24_t"/>esperant la mẽger se par aduã
-<lb corresp="#f16_z1_l25_t"/>ture elle l eust peu prẽdre. Et ce
-<lb corresp="#f16_z1_l26_t"/>uoyãt la dessus dicte deesse ue-
-<lb corresp="#f16_z1_l27_t"/>nus et que la dicte pucelle n a-
-<lb corresp="#f16_z1_l28_t"/>uoit poĩt chãge ne perdu sa na-
-<lb corresp="#f16_z1_l29_t"/>ture ferine bestiale ⁊ rauissable
-<lb corresp="#f16_z1_l30_t"/>cõme toute irritee la remist ⁊ re
-<lb corresp="#f16_z1_l31_t"/>stitua en sa premiere nature de
-<lb corresp="#f16_z1_l32_t"/>chate. Car elle n auoit pas gar
-<lb corresp="#f16_z1_l33_t"/>de les proprietes de nature hu-
-<lb corresp="#f16_z2_l1_t"/>maine ne d une femme raison-
-<lb corresp="#f16_z2_l2_t"/>nable. ⁋ Sens moral. ⁋ Cest
-<lb corresp="#f16_z2_l3_t"/>apologue fable ou facecie pour
-<lb corresp="#f16_z2_l4_t"/>parler moralemẽt ueult ẽnuer
-<lb corresp="#f16_z2_l5_t"/>et dõner a entẽdre que les hom
-<lb corresp="#f16_z2_l6_t"/>mes ⁊ fẽmes naturellement ĩ-
-<lb corresp="#f16_z2_l7_t"/>iques et uicieux qui sont acou-
-<lb corresp="#f16_z2_l8_t"/>stumes a rapine, traisõs ou au
-<lb corresp="#f16_z2_l9_t"/>tres malefices suppose ore ᷤ que
-<lb corresp="#f16_z2_l10_t"/>pour aucune temps ilz muẽt ler
-<lb corresp="#f16_z2_l11_t"/>condition ou estat; touteffoi ᷤ ilz
-<lb corresp="#f16_z2_l12_t"/>ne peuent muer leurs mauuai
-<lb corresp="#f16_z2_l13_t"/>ses meurs et uicieuses inclina
-<lb corresp="#f16_z2_l14_t"/>tiõs esq̃lles ilz sõt habituez.
-<hi n="HeadingLine"><lb corresp="#f16_z2_l15_t"/>⁋ Le quart apologie est d ũg</hi>
-<hi n="HeadingLine"><lb corresp="#f16_z2_l16_t"/>laboureur ⁊ de ses enfans.</hi>
-<hi n="HeadingLine"><lb corresp="#f16_z2_l17_t"/>⁊ cõmẽce ou lati. Agricola</hi>
-<hi n="DropCapitalLine"><lb corresp="#f16_z2_l18_t"/>U</hi>
-<lb corresp="#f16_z2_l19_t"/>ng laboureur auoit plu
-<lb corresp="#f16_z2_l20_t"/>ent continuellemẽt guerre ⁊ di
-<lb corresp="#f16_z2_l21_t"/>sieurs enfãs lesq̃lz auoi
-<lb corresp="#f16_z2_l22_t"/>scort entre eulx ⁊ ne les pouoit
+        <p corresp="#f16_z1">
+<lb corresp="#f16_z1_l1"/>et exaulsa sa priere en muant
+<lb corresp="#f16_z1_l2"/>la dicte chate en une tres belle ⁊
+<lb corresp="#f16_z1_l3"/>bien formee pucelle. Et ce fait
+<lb corresp="#f16_z1_l4"/>le dit iouuẽceau rempli du feu
+<lb corresp="#f16_z1_l5"/>de charnelle cõcupiscẽce por rai
+<lb corresp="#f16_z1_l6"/>son de la beaulte de la pucelle
+<lb corresp="#f16_z1_l7"/>nouuellement trãfformee prĩt
+<lb corresp="#f16_z1_l8"/>icelle pucelle et la mena en sa
+<lb corresp="#f16_z1_l9"/>chambre pour en faire son plai
+<lb corresp="#f16_z1_l10"/>sir. La dessus dicte deesse uenu ᷤ
+<lb corresp="#f16_z1_l11"/>uolãt esprouuer se la dicte cha
+<lb corresp="#f16_z1_l12"/>te auoit mue ses meurs ⁊ cõdi-
+<lb corresp="#f16_z1_l13"/>tions en la dessus dicte trãffor-
+<lb corresp="#f16_z1_l14"/>mation et mutation corporelle
+<lb corresp="#f16_z1_l15"/>layssa aller une souris ou mili
+<lb corresp="#f16_z1_l16"/>eu de la chamnbre en laquelle les
+<lb corresp="#f16_z1_l17"/>dis iouuenceau et pucelle estoi
+<lb corresp="#f16_z1_l18"/>ent couchie ᷤ. Et tantost la dicte
+<lb corresp="#f16_z1_l19"/>pucelle non recordãt de sa mu-
+<lb corresp="#f16_z1_l20"/>tation, de son amy et de ceulx qͥ
+<lb corresp="#f16_z1_l21"/>estoiẽt presens se leua tout sou
+<lb corresp="#f16_z1_l22"/>dainemẽt du lit ⁊ se print a cha
+<lb corresp="#f16_z1_l23"/>cer et poursuiuir la dicte souris
+<lb corresp="#f16_z1_l24"/>esperant la mẽger se par aduã
+<lb corresp="#f16_z1_l25"/>ture elle l eust peu prẽdre. Et ce
+<lb corresp="#f16_z1_l26"/>uoyãt la dessus dicte deesse ue-
+<lb corresp="#f16_z1_l27"/>nus et que la dicte pucelle n a-
+<lb corresp="#f16_z1_l28"/>uoit poĩt chãge ne perdu sa na-
+<lb corresp="#f16_z1_l29"/>ture ferine bestiale ⁊ rauissable
+<lb corresp="#f16_z1_l30"/>cõme toute irritee la remist ⁊ re
+<lb corresp="#f16_z1_l31"/>stitua en sa premiere nature de
+<lb corresp="#f16_z1_l32"/>chate. Car elle n auoit pas gar
+<lb corresp="#f16_z1_l33"/>de les proprietes de nature hu-
+<lb corresp="#f16_z2_l1"/>maine ne d une femme raison-
+<lb corresp="#f16_z2_l2"/>nable. ⁋ Sens moral. ⁋ Cest
+<lb corresp="#f16_z2_l3"/>apologue fable ou facecie pour
+<lb corresp="#f16_z2_l4"/>parler moralemẽt ueult ẽnuer
+<lb corresp="#f16_z2_l5"/>et dõner a entẽdre que les hom
+<lb corresp="#f16_z2_l6"/>mes ⁊ fẽmes naturellement ĩ-
+<lb corresp="#f16_z2_l7"/>iques et uicieux qui sont acou-
+<lb corresp="#f16_z2_l8"/>stumes a rapine, traisõs ou au
+<lb corresp="#f16_z2_l9"/>tres malefices suppose ore ᷤ que
+<lb corresp="#f16_z2_l10"/>pour aucune temps ilz muẽt ler
+<lb corresp="#f16_z2_l11"/>condition ou estat; touteffoi ᷤ ilz
+<lb corresp="#f16_z2_l12"/>ne peuent muer leurs mauuai
+<lb corresp="#f16_z2_l13"/>ses meurs et uicieuses inclina
+<lb corresp="#f16_z2_l14"/>tiõs esq̃lles ilz sõt habituez.
+<hi type="HeadingLine"><lb corresp="#f16_z2_l15"/>⁋ Le quart apologie est d ũg</hi>
+<hi type="HeadingLine"><lb corresp="#f16_z2_l16"/>laboureur ⁊ de ses enfans.</hi>
+<hi type="HeadingLine"><lb corresp="#f16_z2_l17"/>⁊ cõmẽce ou lati. Agricola</hi>
+<hi type="DropCapitalLine"><lb corresp="#f16_z2_l18"/>U</hi>
+<lb corresp="#f16_z2_l19"/>ng laboureur auoit plu
+<lb corresp="#f16_z2_l20"/>ent continuellemẽt guerre ⁊ di
+<lb corresp="#f16_z2_l21"/>sieurs enfãs lesq̃lz auoi
+<lb corresp="#f16_z2_l22"/>scort entre eulx ⁊ ne les pouoit
 </p>
         <pb corresp="#f17"/>
-        <p corresp="#f17_z1" n="MainZone">
-<lb corresp="#f17_z1_l1_t"/>le dit pere apointer ne acorder ẽ
-<lb corresp="#f17_z1_l2_t"/>semble. Pour laq̃lle chose faire
-<lb corresp="#f17_z1_l3_t"/>il cõmanda que on lui aportast
-<lb corresp="#f17_z1_l4_t"/>une grãde quãtite de boys ou q̃l
-<lb corresp="#f17_z1_l5_t"/>eust plupͣr ᷤ uerges ⁊ bastõ ᷤ, ce q̃
-<lb corresp="#f17_z1_l6_t"/>luy fut aporte en la presence de
-<lb corresp="#f17_z1_l7_t"/>ses dis enfãs. Et tãtost le dit pe
-<lb corresp="#f17_z1_l8_t"/>re mist tout le boys en ung fais
-<lb corresp="#f17_z1_l9_t"/>seau ⁊ cõmanda a chascũ de ses
-<lb corresp="#f17_z1_l10_t"/>dis enfãs qͥlz leuassẽt ⁊ ostassẽt
-<lb corresp="#f17_z1_l11_t"/>chascũ a part soy le dit faisseau
-<lb corresp="#f17_z1_l12_t"/>du lieu ou quel il estoit. Ce qͥlz
-<lb corresp="#f17_z1_l13_t"/>ne peurẽt faire por la pesãteur
-<lb corresp="#f17_z1_l14_t"/>de celui. Et pourtãt le labourer
-<lb corresp="#f17_z1_l15_t"/>dessus dit deslya le dit fardeau ⁊
-<lb corresp="#f17_z1_l16_t"/>en bailla une uerge a chascũ de
-<lb corresp="#f17_z1_l17_t"/>ses dis enfãs en ler ꝯmandãt qͥlz
-<lb corresp="#f17_z1_l18_t"/>rõpissent les dictes uerge ᷤ ⁊ q̃ fi
-<lb corresp="#f17_z1_l19_t"/>nablemẽt ilz dissolussẽt ⁊ ostas
-<lb corresp="#f17_z1_l20_t"/>sent le dit faisseau par parties.
-<lb corresp="#f17_z1_l21_t"/>ce qu ilz firẽt legierem̃t. A ceste
-<lb corresp="#f17_z1_l22_t"/>cause le dessus dit pere dist a ses
-<lb corresp="#f17_z1_l23_t"/>di ᷤ enfãs. Me ᷤ filz tãt cõme uoꝰ
-<lb corresp="#f17_z1_l24_t"/>uiures ensẽble en paix ⁊ q̃ seres
-<lb corresp="#f17_z1_l25_t"/>dũe mesme uoulẽte nul ne uoꝰ
-<lb corresp="#f17_z1_l26_t"/>pourra nuyre ne greuer ain ᷤ se
-<lb corresp="#f17_z1_l27_t"/>res inuĩcibles, ⁊ ne uoꝰ pourrõt
-<lb corresp="#f17_z1_l28_t"/>uoz ẽnemis esbranler ne mou-
-<lb corresp="#f17_z1_l29_t"/>uoir de uostre estat n en plꝰ q̃ uoꝰ
-<lb corresp="#f17_z1_l30_t"/>n auez peu chascũ ꝑ soy leuer le
-<lb corresp="#f17_z1_l31_t"/>fardeau leq̃l auez facilem̃t de-
-<lb corresp="#f17_z1_l32_t"/>faict par parties. Et au cõtrai-
-<lb corresp="#f17_z1_l33_t"/>re se uoꝰ uiuez en hayne, sediti
-<lb corresp="#f17_z2_l1_t"/>on et discorde uoꝰ serez facilem̃t
-<lb corresp="#f17_z2_l2_t"/>deffaiz par uoz aduersaires qui
-<lb corresp="#f17_z2_l3_t"/>uous froisserõt ⁊ prẽdrõt cõme
-<lb corresp="#f17_z2_l4_t"/>ler proye chascũ ꝑ soy, ce qͥlz ne
-<lb corresp="#f17_z2_l5_t"/>porrõt faire tãt q̃ seres unis en
-<lb corresp="#f17_z2_l6_t"/>bõne amour ⁊ uraye union en-
-<lb corresp="#f17_z2_l7_t"/>sẽble. ⁋ Sẽs moral. ⁋ Le des-
-<lb corresp="#f17_z2_l8_t"/>sus dit apologue ueul dõner a ẽ
-<lb corresp="#f17_z2_l9_t"/>tẽdre q̃ toutes choses soiẽt roy-
-<lb corresp="#f17_z2_l10_t"/>aulmes ou autres seigneuries
-<lb corresp="#f17_z2_l11_t"/>prennẽt accroissemẽt ⁊ ꝓsperite
-<lb corresp="#f17_z2_l12_t"/>par ꝯcorde ⁊ union de ceulx qͥ en
-<lb corresp="#f17_z2_l13_t"/>ont la charge ⁊ gõuernem̃t. Et
-<lb corresp="#f17_z2_l14_t"/>au cõtraire q̃ elles encorurẽt en
-<lb corresp="#f17_z2_l15_t"/>grãs dõmage ᷤ ꝑ leur discord et
-<lb corresp="#f17_z2_l16_t"/>diuision.
-<hi n="HeadingLine"><lb corresp="#f17_z2_l17_t"/>Le .u. apologue est d une fẽ</hi>
-<hi n="DropCapitalLine"><lb corresp="#f17_z2_l18_t"/>me ⁊ d une geline.</hi>
-<hi n="DropCapitalLine"><lb corresp="#f17_z2_l19_t"/>U</hi>
-<lb corresp="#f17_z2_l20_t"/>ne poure fẽme auoit une
-<lb corresp="#f17_z2_l21_t"/>toꝰ les io᷑s ung euf ⁊ de ce estoit
-<lb corresp="#f17_z2_l22_t"/>geline laq̃lle luy põnoit
-<lb corresp="#f17_z2_l23_t"/>la dicte poure fẽme fort ioyeuse
+        <p corresp="#f17_z1">
+<lb corresp="#f17_z1_l1"/>le dit pere apointer ne acorder ẽ
+<lb corresp="#f17_z1_l2"/>semble. Pour laq̃lle chose faire
+<lb corresp="#f17_z1_l3"/>il cõmanda que on lui aportast
+<lb corresp="#f17_z1_l4"/>une grãde quãtite de boys ou q̃l
+<lb corresp="#f17_z1_l5"/>eust plupͣr ᷤ uerges ⁊ bastõ ᷤ, ce q̃
+<lb corresp="#f17_z1_l6"/>luy fut aporte en la presence de
+<lb corresp="#f17_z1_l7"/>ses dis enfãs. Et tãtost le dit pe
+<lb corresp="#f17_z1_l8"/>re mist tout le boys en ung fais
+<lb corresp="#f17_z1_l9"/>seau ⁊ cõmanda a chascũ de ses
+<lb corresp="#f17_z1_l10"/>dis enfãs qͥlz leuassẽt ⁊ ostassẽt
+<lb corresp="#f17_z1_l11"/>chascũ a part soy le dit faisseau
+<lb corresp="#f17_z1_l12"/>du lieu ou quel il estoit. Ce qͥlz
+<lb corresp="#f17_z1_l13"/>ne peurẽt faire por la pesãteur
+<lb corresp="#f17_z1_l14"/>de celui. Et pourtãt le labourer
+<lb corresp="#f17_z1_l15"/>dessus dit deslya le dit fardeau ⁊
+<lb corresp="#f17_z1_l16"/>en bailla une uerge a chascũ de
+<lb corresp="#f17_z1_l17"/>ses dis enfãs en ler ꝯmandãt qͥlz
+<lb corresp="#f17_z1_l18"/>rõpissent les dictes uerge ᷤ ⁊ q̃ fi
+<lb corresp="#f17_z1_l19"/>nablemẽt ilz dissolussẽt ⁊ ostas
+<lb corresp="#f17_z1_l20"/>sent le dit faisseau par parties.
+<lb corresp="#f17_z1_l21"/>ce qu ilz firẽt legierem̃t. A ceste
+<lb corresp="#f17_z1_l22"/>cause le dessus dit pere dist a ses
+<lb corresp="#f17_z1_l23"/>di ᷤ enfãs. Me ᷤ filz tãt cõme uoꝰ
+<lb corresp="#f17_z1_l24"/>uiures ensẽble en paix ⁊ q̃ seres
+<lb corresp="#f17_z1_l25"/>dũe mesme uoulẽte nul ne uoꝰ
+<lb corresp="#f17_z1_l26"/>pourra nuyre ne greuer ain ᷤ se
+<lb corresp="#f17_z1_l27"/>res inuĩcibles, ⁊ ne uoꝰ pourrõt
+<lb corresp="#f17_z1_l28"/>uoz ẽnemis esbranler ne mou-
+<lb corresp="#f17_z1_l29"/>uoir de uostre estat n en plꝰ q̃ uoꝰ
+<lb corresp="#f17_z1_l30"/>n auez peu chascũ ꝑ soy leuer le
+<lb corresp="#f17_z1_l31"/>fardeau leq̃l auez facilem̃t de-
+<lb corresp="#f17_z1_l32"/>faict par parties. Et au cõtrai-
+<lb corresp="#f17_z1_l33"/>re se uoꝰ uiuez en hayne, sediti
+<lb corresp="#f17_z2_l1"/>on et discorde uoꝰ serez facilem̃t
+<lb corresp="#f17_z2_l2"/>deffaiz par uoz aduersaires qui
+<lb corresp="#f17_z2_l3"/>uous froisserõt ⁊ prẽdrõt cõme
+<lb corresp="#f17_z2_l4"/>ler proye chascũ ꝑ soy, ce qͥlz ne
+<lb corresp="#f17_z2_l5"/>porrõt faire tãt q̃ seres unis en
+<lb corresp="#f17_z2_l6"/>bõne amour ⁊ uraye union en-
+<lb corresp="#f17_z2_l7"/>sẽble. ⁋ Sẽs moral. ⁋ Le des-
+<lb corresp="#f17_z2_l8"/>sus dit apologue ueul dõner a ẽ
+<lb corresp="#f17_z2_l9"/>tẽdre q̃ toutes choses soiẽt roy-
+<lb corresp="#f17_z2_l10"/>aulmes ou autres seigneuries
+<lb corresp="#f17_z2_l11"/>prennẽt accroissemẽt ⁊ ꝓsperite
+<lb corresp="#f17_z2_l12"/>par ꝯcorde ⁊ union de ceulx qͥ en
+<lb corresp="#f17_z2_l13"/>ont la charge ⁊ gõuernem̃t. Et
+<lb corresp="#f17_z2_l14"/>au cõtraire q̃ elles encorurẽt en
+<lb corresp="#f17_z2_l15"/>grãs dõmage ᷤ ꝑ leur discord et
+<lb corresp="#f17_z2_l16"/>diuision.
+<hi type="HeadingLine"><lb corresp="#f17_z2_l17"/>Le .u. apologue est d une fẽ</hi>
+<hi type="DropCapitalLine"><lb corresp="#f17_z2_l18"/>me ⁊ d une geline.</hi>
+<hi type="DropCapitalLine"><lb corresp="#f17_z2_l19"/>U</hi>
+<lb corresp="#f17_z2_l20"/>ne poure fẽme auoit une
+<lb corresp="#f17_z2_l21"/>toꝰ les io᷑s ung euf ⁊ de ce estoit
+<lb corresp="#f17_z2_l22"/>geline laq̃lle luy põnoit
+<lb corresp="#f17_z2_l23"/>la dicte poure fẽme fort ioyeuse
 </p>
         <pb corresp="#f18"/>
-        <p corresp="#f18_z1" n="MainZone">
-<lb corresp="#f18_z1_l1_t"/>Elle considera en soy mesmes
-<lb corresp="#f18_z1_l2_t"/>que se elle doubloit la portion
-<lb corresp="#f18_z1_l3_t"/>de sa geline en lui donnãt a mẽ
-<lb corresp="#f18_z1_l4_t"/>ger autant en ung iour qu elle
-<lb corresp="#f18_z1_l5_t"/>auoit acoustume lui donner en
-<lb corresp="#f18_z1_l6_t"/>deux qu elle pondroit tous les
-<lb corresp="#f18_z1_l7_t"/>iour ᷤ deux eufz; Et ce continua
-<lb corresp="#f18_z1_l8_t"/>la dicte uefue par si long temp ᷤ
-<lb corresp="#f18_z1_l9_t"/>que la dicte geline deuĩt si par-
-<lb corresp="#f18_z1_l10_t"/>faictement grasse qu elle ne põ
-<lb corresp="#f18_z1_l11_t"/>noit plus ne ung ne deux eufz.
-<lb corresp="#f18_z1_l12_t"/>dont la dicte uefue fut grande-
-<lb corresp="#f18_z1_l13_t"/>ment descõfortee. ⁋ Sens mo
-<lb corresp="#f18_z1_l14_t"/>ral. ⁋Le dessusdit apologue ou
-<lb corresp="#f18_z1_l15_t"/>fable ueult innuer et donner a
-<lb corresp="#f18_z1_l16_t"/>entẽdre q̃ aucũs sont uertueux
-<lb corresp="#f18_z1_l17_t"/>et plains de grãde industrie ⁊ di
-<lb corresp="#f18_z1_l18_t"/>ligẽce tãt qu ilz ont peu de bien ᷤ
-<lb corresp="#f18_z1_l19_t"/>lesquelz si tost qu ilz sõt esleuez
-<lb corresp="#f18_z1_l20_t"/>et rempli ᷤ de biẽs suꝑflus ilz se
-<lb corresp="#f18_z1_l21_t"/>departent de uertu; et deuiẽnẽt
-<lb corresp="#f18_z1_l22_t"/>oesifz ⁊ negligẽs; et portent sou
-<lb corresp="#f18_z1_l23_t"/>uent dõmaige a ceulx qui ainsi
-<lb corresp="#f18_z1_l24_t"/>angresses et remplis les ont.
-<hi n="HeadingLine"><lb corresp="#f18_z1_l25_t"/>⁋ Le .ui. apologue est de deux</hi>
-<hi n="HeadingLine"><lb corresp="#f18_z1_l26_t"/>ieunes adolescens. Et cõ-</hi>
-<hi n="HeadingLine"><lb corresp="#f18_z1_l27_t"/>mẽce ou latin. duo adoles</hi>
-<hi n="HeadingLine"><lb corresp="#f18_z1_l28_t"/>centes ⁊c.</hi>
-<hi n="DropCapitalLine"><lb corresp="#f18_z1_l29_t"/>D</hi>
-<lb corresp="#f18_z1_l30_t"/>eux ieunes adolescen ᷤ
-<lb corresp="#f18_z1_l31_t"/>entrerẽt en la maison
-<lb corresp="#f18_z1_l32_t"/>d ung rotisseur et cuisi
-<lb corresp="#f18_z2_l1_t"/>nier pour achater leur souper ⁊
-<lb corresp="#f18_z2_l2_t"/>ainsi qͥlz marchandoient certai
-<lb corresp="#f18_z2_l3_t"/>nes piece ᷤ de cuisine le cuisinier
-<lb corresp="#f18_z2_l4_t"/>fut empesche et lui cõuint uac
-<lb corresp="#f18_z2_l5_t"/>quer et entendre a certains af-
-<lb corresp="#f18_z2_l6_t"/>faires et negoces domestiques
-<lb corresp="#f18_z2_l7_t"/>qu il auoit a faire par la maisõ
-<lb corresp="#f18_z2_l8_t"/>Et ce pendant l ung desdis ieu
-<lb corresp="#f18_z2_l9_t"/>nes adolescens print une piece
-<lb corresp="#f18_z2_l10_t"/>de la uiande par eulx marchã
-<lb corresp="#f18_z2_l11_t"/>dee ⁊ la bailla a son cõpaignon
-<lb corresp="#f18_z2_l12_t"/>qui la mussa ⁊ cacha secretem̃t
-<lb corresp="#f18_z2_l13_t"/>Quant le dit cuisinier fut retor
-<lb corresp="#f18_z2_l14_t"/>ne de ses affaires il se prĩt a pẽ
-<lb corresp="#f18_z2_l15_t"/>ser en son cas et cõtempler quã
-<lb corresp="#f18_z2_l16_t"/>tes pieces De uiãde il auoit. Il
-<lb corresp="#f18_z2_l17_t"/>aperceut q̃ il luy en failloit une
-<lb corresp="#f18_z2_l18_t"/>piece. Et adonc demãda a ceulx
-<lb corresp="#f18_z2_l19_t"/>qui presens estoient qui auoit
-<lb corresp="#f18_z2_l20_t"/>prins et desrobe de la uiãde ⁊ qͥl
-<lb corresp="#f18_z2_l21_t"/>luy en failloit une desdictes
+        <p corresp="#f18_z1">
+<lb corresp="#f18_z1_l1"/>Elle considera en soy mesmes
+<lb corresp="#f18_z1_l2"/>que se elle doubloit la portion
+<lb corresp="#f18_z1_l3"/>de sa geline en lui donnãt a mẽ
+<lb corresp="#f18_z1_l4"/>ger autant en ung iour qu elle
+<lb corresp="#f18_z1_l5"/>auoit acoustume lui donner en
+<lb corresp="#f18_z1_l6"/>deux qu elle pondroit tous les
+<lb corresp="#f18_z1_l7"/>iour ᷤ deux eufz; Et ce continua
+<lb corresp="#f18_z1_l8"/>la dicte uefue par si long temp ᷤ
+<lb corresp="#f18_z1_l9"/>que la dicte geline deuĩt si par-
+<lb corresp="#f18_z1_l10"/>faictement grasse qu elle ne põ
+<lb corresp="#f18_z1_l11"/>noit plus ne ung ne deux eufz.
+<lb corresp="#f18_z1_l12"/>dont la dicte uefue fut grande-
+<lb corresp="#f18_z1_l13"/>ment descõfortee. ⁋ Sens mo
+<lb corresp="#f18_z1_l14"/>ral. ⁋Le dessusdit apologue ou
+<lb corresp="#f18_z1_l15"/>fable ueult innuer et donner a
+<lb corresp="#f18_z1_l16"/>entẽdre q̃ aucũs sont uertueux
+<lb corresp="#f18_z1_l17"/>et plains de grãde industrie ⁊ di
+<lb corresp="#f18_z1_l18"/>ligẽce tãt qu ilz ont peu de bien ᷤ
+<lb corresp="#f18_z1_l19"/>lesquelz si tost qu ilz sõt esleuez
+<lb corresp="#f18_z1_l20"/>et rempli ᷤ de biẽs suꝑflus ilz se
+<lb corresp="#f18_z1_l21"/>departent de uertu; et deuiẽnẽt
+<lb corresp="#f18_z1_l22"/>oesifz ⁊ negligẽs; et portent sou
+<lb corresp="#f18_z1_l23"/>uent dõmaige a ceulx qui ainsi
+<lb corresp="#f18_z1_l24"/>angresses et remplis les ont.
+<hi type="HeadingLine"><lb corresp="#f18_z1_l25"/>⁋ Le .ui. apologue est de deux</hi>
+<hi type="HeadingLine"><lb corresp="#f18_z1_l26"/>ieunes adolescens. Et cõ-</hi>
+<hi type="HeadingLine"><lb corresp="#f18_z1_l27"/>mẽce ou latin. duo adoles</hi>
+<hi type="HeadingLine"><lb corresp="#f18_z1_l28"/>centes ⁊c.</hi>
+<hi type="DropCapitalLine"><lb corresp="#f18_z1_l29"/>D</hi>
+<lb corresp="#f18_z1_l30"/>eux ieunes adolescen ᷤ
+<lb corresp="#f18_z1_l31"/>entrerẽt en la maison
+<lb corresp="#f18_z1_l32"/>d ung rotisseur et cuisi
+<lb corresp="#f18_z2_l1"/>nier pour achater leur souper ⁊
+<lb corresp="#f18_z2_l2"/>ainsi qͥlz marchandoient certai
+<lb corresp="#f18_z2_l3"/>nes piece ᷤ de cuisine le cuisinier
+<lb corresp="#f18_z2_l4"/>fut empesche et lui cõuint uac
+<lb corresp="#f18_z2_l5"/>quer et entendre a certains af-
+<lb corresp="#f18_z2_l6"/>faires et negoces domestiques
+<lb corresp="#f18_z2_l7"/>qu il auoit a faire par la maisõ
+<lb corresp="#f18_z2_l8"/>Et ce pendant l ung desdis ieu
+<lb corresp="#f18_z2_l9"/>nes adolescens print une piece
+<lb corresp="#f18_z2_l10"/>de la uiande par eulx marchã
+<lb corresp="#f18_z2_l11"/>dee ⁊ la bailla a son cõpaignon
+<lb corresp="#f18_z2_l12"/>qui la mussa ⁊ cacha secretem̃t
+<lb corresp="#f18_z2_l13"/>Quant le dit cuisinier fut retor
+<lb corresp="#f18_z2_l14"/>ne de ses affaires il se prĩt a pẽ
+<lb corresp="#f18_z2_l15"/>ser en son cas et cõtempler quã
+<lb corresp="#f18_z2_l16"/>tes pieces De uiãde il auoit. Il
+<lb corresp="#f18_z2_l17"/>aperceut q̃ il luy en failloit une
+<lb corresp="#f18_z2_l18"/>piece. Et adonc demãda a ceulx
+<lb corresp="#f18_z2_l19"/>qui presens estoient qui auoit
+<lb corresp="#f18_z2_l20"/>prins et desrobe de la uiãde ⁊ qͥl
+<lb corresp="#f18_z2_l21"/>luy en failloit une desdictes
 </p>
         <pb corresp="#f19"/>
-        <p corresp="#f19_z1" n="MainZone">
-<lb corresp="#f19_z1_l1_t"/>piece ᷤ car bien aperceut q̃ larrõ ᷤ
-<lb corresp="#f19_z1_l2_t"/>y auoient amene de fines gens
-<lb corresp="#f19_z1_l3_t"/>Lors celui qui la dicte piece prĩ
-<lb corresp="#f19_z1_l4_t"/>se auoit, se prĩt a iurer ⁊ anathe
-<lb corresp="#f19_z1_l5_t"/>matiser qu il ne auoit ne sonste
-<lb corresp="#f19_z1_l6_t"/>noit la dicte piece et qu il n estoit
-<lb corresp="#f19_z1_l7_t"/>pa ᷤ du lieu uenu. Et l autre qui
-<lb corresp="#f19_z1_l8_t"/>la piece auoit iuroit qu il ne l a-
-<lb corresp="#f19_z1_l9_t"/>uoit poĩt prinse. Et en effect il
-<lb corresp="#f19_z1_l10_t"/>disoit uray; car son compaignõ
-<lb corresp="#f19_z1_l11_t"/>la luy auoit baillee. Le cuisini
-<lb corresp="#f19_z1_l12_t"/>er clerement uoyãt la subtilite
-<lb corresp="#f19_z1_l13_t"/>⁊ cautelle desdis adolescẽs leur
-<lb corresp="#f19_z1_l14_t"/>dist. Suppose que ie ne aye pas
-<lb corresp="#f19_z1_l15_t"/>clere cõgnoissance en particuli
-<lb corresp="#f19_z1_l16_t"/>er du larron qui ma uiande prĩ
-<lb corresp="#f19_z1_l17_t"/>se a;touteffois celuy que uous
-<lb corresp="#f19_z1_l18_t"/>auez iure a qui riẽ ne peut estre
-<lb corresp="#f19_z1_l19_t"/>incõgneu ne ce le scet bien et cõ-
-<lb corresp="#f19_z1_l20_t"/>gnoist celui qui la uiãde a prin
-<lb corresp="#f19_z1_l21_t"/>se furtivement. ⁋ Sen ᷤ moral
-<lb corresp="#f19_z1_l22_t"/>⁋ Le dessus dit apologue ou fa
-<lb corresp="#f19_z1_l23_t"/>cecie ueult innuer et dõner a en
-<lb corresp="#f19_z1_l24_t"/>tendre que suppose ores que le ᷤ
-<lb corresp="#f19_z1_l25_t"/>hõmes n ayẽt pas cõgnoissance
-<lb corresp="#f19_z1_l26_t"/>des furtz, larrecĩs et autre ᷤ ma
-<lb corresp="#f19_z1_l27_t"/>lefices faiz et perpetres par les
-<lb corresp="#f19_z1_l28_t"/>hõmes uicieux; touteffois dieu
-<lb corresp="#f19_z1_l29_t"/>qui uoit ⁊ cõgnoist toutes cho-
-<lb corresp="#f19_z1_l30_t"/>ses scet et apercoit non pas seu
-<lb corresp="#f19_z1_l31_t"/>lement leurs faitz mais auec-
-<lb corresp="#f19_z1_l32_t"/>ques ce leurs pensees et cogita
-<lb corresp="#f19_z1_l33_t"/>tions secretes.
-<hi n="HeadingLine"><lb corresp="#f19_z2_l1_t"/>⁋ Le .uii. Apologue est de</hi>
-<hi n="HeadingLine"><lb corresp="#f19_z2_l2_t"/>deux amis et d ung ours</hi>
-<hi n="HeadingLine"><lb corresp="#f19_z2_l3_t"/>Et cõmence ou latin. Du</hi>
-<hi n="HeadingLine"><lb corresp="#f19_z2_l4_t"/>obus amicis</hi>
-<hi n="DropCapitalLine"><lb corresp="#f19_z2_l5_t"/>D</hi>
-<lb corresp="#f19_z2_l6_t"/>eux singuliers ami ᷤ a
-<lb corresp="#f19_z2_l7_t"/>loiẽt ung iour ensem-
-<lb corresp="#f19_z2_l8_t"/>ble ⁊ cheminoiẽt ꝑ un
-<lb corresp="#f19_z2_l9_t"/>boys et ainsi qu ilz cheminoiẽt
-<lb corresp="#f19_z2_l10_t"/>en diuisãt de lers affaires ung
-<lb corresp="#f19_z2_l11_t"/>ours grant ⁊ merueilleux leur
-<lb corresp="#f19_z2_l12_t"/>uĩt au deuãt. Et si tost q̃ l ung
-<lb corresp="#f19_z2_l13_t"/>desdis ami ᷤ aduisa le dit ours il
-<lb corresp="#f19_z2_l14_t"/>fut grandemẽt espouente et en
-<lb corresp="#f19_z2_l15_t"/>effect cõme lasche de couraige
-<lb corresp="#f19_z2_l16_t"/>abandonna sondit compaignõ
-<lb corresp="#f19_z2_l17_t"/>et gaigna ung arbre ouquel il
-<lb corresp="#f19_z2_l18_t"/>monta bien tost et legierement
-<lb corresp="#f19_z2_l19_t"/>pour soy mucer. L autre uoiãt
-<lb corresp="#f19_z2_l20_t"/>qu il n estoit pas puissant pour
-<lb corresp="#f19_z2_l21_t"/>resister ne pareil a la force ⁊ uer
-<lb corresp="#f19_z2_l22_t"/>tu dudit ours et que ou il uoul
+        <p corresp="#f19_z1">
+<lb corresp="#f19_z1_l1"/>piece ᷤ car bien aperceut q̃ larrõ ᷤ
+<lb corresp="#f19_z1_l2"/>y auoient amene de fines gens
+<lb corresp="#f19_z1_l3"/>Lors celui qui la dicte piece prĩ
+<lb corresp="#f19_z1_l4"/>se auoit, se prĩt a iurer ⁊ anathe
+<lb corresp="#f19_z1_l5"/>matiser qu il ne auoit ne sonste
+<lb corresp="#f19_z1_l6"/>noit la dicte piece et qu il n estoit
+<lb corresp="#f19_z1_l7"/>pa ᷤ du lieu uenu. Et l autre qui
+<lb corresp="#f19_z1_l8"/>la piece auoit iuroit qu il ne l a-
+<lb corresp="#f19_z1_l9"/>uoit poĩt prinse. Et en effect il
+<lb corresp="#f19_z1_l10"/>disoit uray; car son compaignõ
+<lb corresp="#f19_z1_l11"/>la luy auoit baillee. Le cuisini
+<lb corresp="#f19_z1_l12"/>er clerement uoyãt la subtilite
+<lb corresp="#f19_z1_l13"/>⁊ cautelle desdis adolescẽs leur
+<lb corresp="#f19_z1_l14"/>dist. Suppose que ie ne aye pas
+<lb corresp="#f19_z1_l15"/>clere cõgnoissance en particuli
+<lb corresp="#f19_z1_l16"/>er du larron qui ma uiande prĩ
+<lb corresp="#f19_z1_l17"/>se a;touteffois celuy que uous
+<lb corresp="#f19_z1_l18"/>auez iure a qui riẽ ne peut estre
+<lb corresp="#f19_z1_l19"/>incõgneu ne ce le scet bien et cõ-
+<lb corresp="#f19_z1_l20"/>gnoist celui qui la uiãde a prin
+<lb corresp="#f19_z1_l21"/>se furtivement. ⁋ Sen ᷤ moral
+<lb corresp="#f19_z1_l22"/>⁋ Le dessus dit apologue ou fa
+<lb corresp="#f19_z1_l23"/>cecie ueult innuer et dõner a en
+<lb corresp="#f19_z1_l24"/>tendre que suppose ores que le ᷤ
+<lb corresp="#f19_z1_l25"/>hõmes n ayẽt pas cõgnoissance
+<lb corresp="#f19_z1_l26"/>des furtz, larrecĩs et autre ᷤ ma
+<lb corresp="#f19_z1_l27"/>lefices faiz et perpetres par les
+<lb corresp="#f19_z1_l28"/>hõmes uicieux; touteffois dieu
+<lb corresp="#f19_z1_l29"/>qui uoit ⁊ cõgnoist toutes cho-
+<lb corresp="#f19_z1_l30"/>ses scet et apercoit non pas seu
+<lb corresp="#f19_z1_l31"/>lement leurs faitz mais auec-
+<lb corresp="#f19_z1_l32"/>ques ce leurs pensees et cogita
+<lb corresp="#f19_z1_l33"/>tions secretes.
+<hi type="HeadingLine"><lb corresp="#f19_z2_l1"/>⁋ Le .uii. Apologue est de</hi>
+<hi type="HeadingLine"><lb corresp="#f19_z2_l2"/>deux amis et d ung ours</hi>
+<hi type="HeadingLine"><lb corresp="#f19_z2_l3"/>Et cõmence ou latin. Du</hi>
+<hi type="HeadingLine"><lb corresp="#f19_z2_l4"/>obus amicis</hi>
+<hi type="DropCapitalLine"><lb corresp="#f19_z2_l5"/>D</hi>
+<lb corresp="#f19_z2_l6"/>eux singuliers ami ᷤ a
+<lb corresp="#f19_z2_l7"/>loiẽt ung iour ensem-
+<lb corresp="#f19_z2_l8"/>ble ⁊ cheminoiẽt ꝑ un
+<lb corresp="#f19_z2_l9"/>boys et ainsi qu ilz cheminoiẽt
+<lb corresp="#f19_z2_l10"/>en diuisãt de lers affaires ung
+<lb corresp="#f19_z2_l11"/>ours grant ⁊ merueilleux leur
+<lb corresp="#f19_z2_l12"/>uĩt au deuãt. Et si tost q̃ l ung
+<lb corresp="#f19_z2_l13"/>desdis ami ᷤ aduisa le dit ours il
+<lb corresp="#f19_z2_l14"/>fut grandemẽt espouente et en
+<lb corresp="#f19_z2_l15"/>effect cõme lasche de couraige
+<lb corresp="#f19_z2_l16"/>abandonna sondit compaignõ
+<lb corresp="#f19_z2_l17"/>et gaigna ung arbre ouquel il
+<lb corresp="#f19_z2_l18"/>monta bien tost et legierement
+<lb corresp="#f19_z2_l19"/>pour soy mucer. L autre uoiãt
+<lb corresp="#f19_z2_l20"/>qu il n estoit pas puissant pour
+<lb corresp="#f19_z2_l21"/>resister ne pareil a la force ⁊ uer
+<lb corresp="#f19_z2_l22"/>tu dudit ours et que ou il uoul
 </p>
         <pb corresp="#f20"/>
-        <p corresp="#f20_z1" n="MainZone">
-<lb corresp="#f20_z1_l1_t"/>droit combatre ledit our ᷤ que fi
-<lb corresp="#f20_z1_l2_t"/>nablemẽt il seroit uaincu ⁊ sur
-<lb corresp="#f20_z1_l3_t"/>mõte se lessa cheoir a terre ⁊ faĩ
-<lb corresp="#f20_z1_l4_t"/>gnit estre mort. ⁋ Quant le dit
-<lb corresp="#f20_z1_l5_t"/>ours fut arriue pres De celui qͥ
-<lb corresp="#f20_z1_l6_t"/>le mort faignoit il uint sentir
-<lb corresp="#f20_z1_l7_t"/>entour des orailles et autre ᷤ ꝑ-
-<lb corresp="#f20_z1_l8_t"/>ties de la teste se il estoit mort
-<lb corresp="#f20_z1_l9_t"/>ou uif. Et pour ce que celui qui
-<lb corresp="#f20_z1_l10_t"/>ainsi faignoit estre mort tenoit
-<lb corresp="#f20_z1_l11_t"/>son alaine tellemẽt qu il ne re-
-<lb corresp="#f20_z1_l12_t"/>spiroit aucunemẽt. L ours esti
-<lb corresp="#f20_z1_l13_t"/>ma qu il fust mort et a ceste cau
-<lb corresp="#f20_z1_l14_t"/>se le laissa a sãs lui toucher. Car
-<lb corresp="#f20_z1_l15_t"/>les naturelz philosophes diẽt q̃
-<lb corresp="#f20_z1_l16_t"/>c est la ꝓpriete ⁊ nature de l our ᷤ
-<lb corresp="#f20_z1_l17_t"/>de ne inferer aucune uiolẽce en
-<lb corresp="#f20_z1_l18_t"/>la charõgne ⁊ corp ᷤ d ung hõme
-<lb corresp="#f20_z1_l19_t"/>mort. L autre qui se estoit mu-
-<lb corresp="#f20_z1_l20_t"/>ce dedã ᷤ les feullez et rameaux
-<lb corresp="#f20_z1_l21_t"/>de l arbre ou quel il estoit mon-
-<lb corresp="#f20_z1_l22_t"/>te quãt il eut aꝑceu q̃ l ours s en
-<lb corresp="#f20_z1_l23_t"/>estoit departi ⁊ qͥl auoit laisse le
-<lb corresp="#f20_z1_l24_t"/>corps de son cõpaignons sãs luy
-<lb corresp="#f20_z1_l25_t"/>faire q̃lque blesseure, descendit
-<lb corresp="#f20_z1_l26_t"/>du dit arbre et s en uint a sondit
-<lb corresp="#f20_z1_l27_t"/>cõpaignon ⁊ amy en lui demã-
-<lb corresp="#f20_z1_l28_t"/>dant. Mon amy q̃lels parolles
-<lb corresp="#f20_z1_l29_t"/>secretes uous disoit l ours en l o
-<lb corresp="#f20_z1_l30_t"/>reille quãt il approchoit sa te-
-<lb corresp="#f20_z1_l31_t"/>ste si pres de la uostre. Et l autre
-<lb corresp="#f20_z1_l32_t"/>lui respõdit facecieusem̃t. Sca
-<lb corresp="#f20_z1_l33_t"/>uez uouz frere qͥl me disoit. Il
-<lb corresp="#f20_z2_l1_t"/>me disoit ⁊ amõnestoit q̃ iame ᷤ
-<lb corresp="#f20_z2_l2_t"/>ne me acõpaignasse quãt ie fe-
-<lb corresp="#f20_z2_l3_t"/>roye chemĩ ou pelerinage auec
-<lb corresp="#f20_z2_l4_t"/>tel amy cõe uou ᷤ estes qui m a-
-<lb corresp="#f20_z2_l5_t"/>ue ᷤ abãdõne au besoing ⁋ Sẽs
-<lb corresp="#f20_z2_l6_t"/>moral. ⁋ Le Dessusdit apolo-
-<lb corresp="#f20_z2_l7_t"/>gue ou fable ueult ĩnuer ⁊ don
-<lb corresp="#f20_z2_l8_t"/>ner a entẽdre q̃ on ne doit point
-<lb corresp="#f20_z2_l9_t"/>q̃rir l aliãce ne cõpaignie de gẽs
-<lb corresp="#f20_z2_l10_t"/>qui faignẽt soy porter amis, et
-<lb corresp="#f20_z2_l11_t"/>quãt uiẽt le tẽps de dãgier ⁊ ad
-<lb corresp="#f20_z2_l12_t"/>uersite ilz tirẽt le pie arriere et
-<lb corresp="#f20_z2_l13_t"/>laissẽt leurs alliez en necessite.
-<hi n="HeadingLine"><lb corresp="#f20_z2_l14_t"/>Le .uiii. apologue est d ung</hi>
-<hi n="HeadingLine"><lb corresp="#f20_z2_l15_t"/>roseau de maraiz et d ũg o-</hi>
-<hi n="HeadingLine"><lb corresp="#f20_z2_l16_t"/>liuier.</hi>
-<hi n="DropCapitalLine"><lb corresp="#f20_z2_l17_t"/>C</hi>
-<lb corresp="#f20_z2_l18_t"/>Ertain proce ᷤ et debat se
-<lb corresp="#f20_z2_l19_t"/>liuier por raison de certaine con
-<lb corresp="#f20_z2_l20_t"/>meut entre le roseau ⁊ l o-
-<lb corresp="#f20_z2_l21_t"/>trouersie qͥlz auoiẽt sur certaĩe
+        <p corresp="#f20_z1">
+<lb corresp="#f20_z1_l1"/>droit combatre ledit our ᷤ que fi
+<lb corresp="#f20_z1_l2"/>nablemẽt il seroit uaincu ⁊ sur
+<lb corresp="#f20_z1_l3"/>mõte se lessa cheoir a terre ⁊ faĩ
+<lb corresp="#f20_z1_l4"/>gnit estre mort. ⁋ Quant le dit
+<lb corresp="#f20_z1_l5"/>ours fut arriue pres De celui qͥ
+<lb corresp="#f20_z1_l6"/>le mort faignoit il uint sentir
+<lb corresp="#f20_z1_l7"/>entour des orailles et autre ᷤ ꝑ-
+<lb corresp="#f20_z1_l8"/>ties de la teste se il estoit mort
+<lb corresp="#f20_z1_l9"/>ou uif. Et pour ce que celui qui
+<lb corresp="#f20_z1_l10"/>ainsi faignoit estre mort tenoit
+<lb corresp="#f20_z1_l11"/>son alaine tellemẽt qu il ne re-
+<lb corresp="#f20_z1_l12"/>spiroit aucunemẽt. L ours esti
+<lb corresp="#f20_z1_l13"/>ma qu il fust mort et a ceste cau
+<lb corresp="#f20_z1_l14"/>se le laissa a sãs lui toucher. Car
+<lb corresp="#f20_z1_l15"/>les naturelz philosophes diẽt q̃
+<lb corresp="#f20_z1_l16"/>c est la ꝓpriete ⁊ nature de l our ᷤ
+<lb corresp="#f20_z1_l17"/>de ne inferer aucune uiolẽce en
+<lb corresp="#f20_z1_l18"/>la charõgne ⁊ corp ᷤ d ung hõme
+<lb corresp="#f20_z1_l19"/>mort. L autre qui se estoit mu-
+<lb corresp="#f20_z1_l20"/>ce dedã ᷤ les feullez et rameaux
+<lb corresp="#f20_z1_l21"/>de l arbre ou quel il estoit mon-
+<lb corresp="#f20_z1_l22"/>te quãt il eut aꝑceu q̃ l ours s en
+<lb corresp="#f20_z1_l23"/>estoit departi ⁊ qͥl auoit laisse le
+<lb corresp="#f20_z1_l24"/>corps de son cõpaignons sãs luy
+<lb corresp="#f20_z1_l25"/>faire q̃lque blesseure, descendit
+<lb corresp="#f20_z1_l26"/>du dit arbre et s en uint a sondit
+<lb corresp="#f20_z1_l27"/>cõpaignon ⁊ amy en lui demã-
+<lb corresp="#f20_z1_l28"/>dant. Mon amy q̃lels parolles
+<lb corresp="#f20_z1_l29"/>secretes uous disoit l ours en l o
+<lb corresp="#f20_z1_l30"/>reille quãt il approchoit sa te-
+<lb corresp="#f20_z1_l31"/>ste si pres de la uostre. Et l autre
+<lb corresp="#f20_z1_l32"/>lui respõdit facecieusem̃t. Sca
+<lb corresp="#f20_z1_l33"/>uez uouz frere qͥl me disoit. Il
+<lb corresp="#f20_z2_l1"/>me disoit ⁊ amõnestoit q̃ iame ᷤ
+<lb corresp="#f20_z2_l2"/>ne me acõpaignasse quãt ie fe-
+<lb corresp="#f20_z2_l3"/>roye chemĩ ou pelerinage auec
+<lb corresp="#f20_z2_l4"/>tel amy cõe uou ᷤ estes qui m a-
+<lb corresp="#f20_z2_l5"/>ue ᷤ abãdõne au besoing ⁋ Sẽs
+<lb corresp="#f20_z2_l6"/>moral. ⁋ Le Dessusdit apolo-
+<lb corresp="#f20_z2_l7"/>gue ou fable ueult ĩnuer ⁊ don
+<lb corresp="#f20_z2_l8"/>ner a entẽdre q̃ on ne doit point
+<lb corresp="#f20_z2_l9"/>q̃rir l aliãce ne cõpaignie de gẽs
+<lb corresp="#f20_z2_l10"/>qui faignẽt soy porter amis, et
+<lb corresp="#f20_z2_l11"/>quãt uiẽt le tẽps de dãgier ⁊ ad
+<lb corresp="#f20_z2_l12"/>uersite ilz tirẽt le pie arriere et
+<lb corresp="#f20_z2_l13"/>laissẽt leurs alliez en necessite.
+<hi type="HeadingLine"><lb corresp="#f20_z2_l14"/>Le .uiii. apologue est d ung</hi>
+<hi type="HeadingLine"><lb corresp="#f20_z2_l15"/>roseau de maraiz et d ũg o-</hi>
+<hi type="HeadingLine"><lb corresp="#f20_z2_l16"/>liuier.</hi>
+<hi type="DropCapitalLine"><lb corresp="#f20_z2_l17"/>C</hi>
+<lb corresp="#f20_z2_l18"/>Ertain proce ᷤ et debat se
+<lb corresp="#f20_z2_l19"/>liuier por raison de certaine con
+<lb corresp="#f20_z2_l20"/>meut entre le roseau ⁊ l o-
+<lb corresp="#f20_z2_l21"/>trouersie qͥlz auoiẽt sur certaĩe
 </p>
       </div>
     </body>

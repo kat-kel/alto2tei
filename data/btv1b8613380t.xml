@@ -23,6 +23,11 @@
             <surname>Gabay</surname>
             <ptr type="orcid" target="0000000190944475"/>
           </persName>
+          <persName>
+            <forename>Ariane</forename>
+            <surname>Pinche</surname>
+            <ptr type="orcid" target="0000000278435050"/>
+          </persName>
         </respStmt>
       </titleStmt>
       <extent>
@@ -34,7 +39,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-17"/>
+        <date when="2022-05-18"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -1838,439 +1843,439 @@
       <div>
         <pb corresp="#f9"/>
         <pb corresp="#f11"/>
-        <p corresp="#f11_z2" n="MainZone">
-<lb corresp="#f11_z2_l1_t"/>Voici un petit conte indien qui
-<lb corresp="#f11_z2_l2_t"/>renferme plus de vérités que bien
-<lb corresp="#f11_z2_l3_t"/>des histoires. Je l’avois destiné à
-<lb corresp="#f11_z2_l4_t"/>augmenter la relation d’un voyage
-<lb corresp="#f11_z2_l5_t"/>à l’Ile de France, publiée en
-<lb corresp="#f11_z2_l6_t"/>1773, et que je me propose de
-<lb corresp="#f11_z2_l7_t"/>faire réimprimer avec des additions.
-<lb corresp="#f11_z2_l8_t"/>Comme j’y parle des Indiens qui
-<lb corresp="#f11_z2_l9_t"/>sont dans cette île, j’avois voulu
-<lb corresp="#f11_z2_l10_t"/>y joindre un tableau des mœurs de
-<lb corresp="#f11_z2_l11_t"/>ceux qui sont dans l’Inde, d’après
-<lb corresp="#f11_z2_l12_t"/>des notes assez intéressantes que
-<lb corresp="#f11_z2_l13_t"/>je m’étois procurées. J’en avois
-<lb corresp="#f11_z2_l14_t"/>donc formé un épisode que j’avois
+        <p corresp="#f11_z2">
+<lb corresp="#f11_z2_l1"/>Voici un petit conte indien qui
+<lb corresp="#f11_z2_l2"/>renferme plus de vérités que bien
+<lb corresp="#f11_z2_l3"/>des histoires. Je l’avois destiné à
+<lb corresp="#f11_z2_l4"/>augmenter la relation d’un voyage
+<lb corresp="#f11_z2_l5"/>à l’Ile de France, publiée en
+<lb corresp="#f11_z2_l6"/>1773, et que je me propose de
+<lb corresp="#f11_z2_l7"/>faire réimprimer avec des additions.
+<lb corresp="#f11_z2_l8"/>Comme j’y parle des Indiens qui
+<lb corresp="#f11_z2_l9"/>sont dans cette île, j’avois voulu
+<lb corresp="#f11_z2_l10"/>y joindre un tableau des mœurs de
+<lb corresp="#f11_z2_l11"/>ceux qui sont dans l’Inde, d’après
+<lb corresp="#f11_z2_l12"/>des notes assez intéressantes que
+<lb corresp="#f11_z2_l13"/>je m’étois procurées. J’en avois
+<lb corresp="#f11_z2_l14"/>donc formé un épisode que j’avois
 </p>
-        <fw corresp="#f11_z3" n="QuireMarksZone"><lb corresp="#f11_z3_l1_t"/>. . .</fw>
+        <fw corresp="#f11_z3" type="QuireMarksZone"><lb corresp="#f11_z3_l1"/>. . .</fw>
         <pb corresp="#f12"/>
-        <fw corresp="#f12_z1" n="NumberingZone"><lb corresp="#f12_z1_l1_t"/>vj</fw>
-        <fw corresp="#f12_z2" n="RunningTitleZone"><lb corresp="#f12_z2_l1_t"/>AVANT-PROPOS.</fw>
-        <p corresp="#f12_z3" n="MainZone">
-<lb corresp="#f12_z3_l1_t"/>lié à une anecdocte historique qui
-<lb corresp="#f12_z3_l2_t"/>en fait le commencement. C'est
-<lb corresp="#f12_z3_l3_t"/>à l’occasion d’une compagnie de
-<lb corresp="#f12_z3_l4_t"/>savans anglois, envoyés il y a une
-<lb corresp="#f12_z3_l5_t"/>trentaine d’années, dans diverses
-<lb corresp="#f12_z3_l6_t"/>parties du monde, pour y recueil¬
-<lb corresp="#f12_z3_l7_t"/>lir des lumières sur plusieurs objets
-<lb corresp="#f12_z3_l8_t"/>des sciences. J’y parle d’un d’en¬
-<lb corresp="#f12_z3_l9_t"/>tre eux, qui vint aux Indes pour
-<lb corresp="#f12_z3_l10_t"/>concourir aux progrès de la vérité ;
-<lb corresp="#f12_z3_l11_t"/>mais comme cet épisode formoit
-<lb corresp="#f12_z3_l12_t"/>un hors-d’œuvre dans mon ou¬
-<lb corresp="#f12_z3_l13_t"/>vrage, j’ai jugé à propos de le pu¬
-<lb corresp="#f12_z3_l14_t"/>blier séparément.
-<lb corresp="#f12_z3_l15_t"/>Je proteste ici que je n’ai eu
-<lb corresp="#f12_z3_l16_t"/>aucune intention de jeter quelque
-<lb corresp="#f12_z3_l17_t"/>ridicule sur les académies, quoique
-<lb corresp="#f12_z3_l18_t"/>j’aie beaucoup à m’en plaindre,
+        <fw corresp="#f12_z1" type="NumberingZone"><lb corresp="#f12_z1_l1"/>vj</fw>
+        <fw corresp="#f12_z2" type="RunningTitleZone"><lb corresp="#f12_z2_l1"/>AVANT-PROPOS.</fw>
+        <p corresp="#f12_z3">
+<lb corresp="#f12_z3_l1"/>lié à une anecdocte historique qui
+<lb corresp="#f12_z3_l2"/>en fait le commencement. C'est
+<lb corresp="#f12_z3_l3"/>à l’occasion d’une compagnie de
+<lb corresp="#f12_z3_l4"/>savans anglois, envoyés il y a une
+<lb corresp="#f12_z3_l5"/>trentaine d’années, dans diverses
+<lb corresp="#f12_z3_l6"/>parties du monde, pour y recueil¬
+<lb corresp="#f12_z3_l7"/>lir des lumières sur plusieurs objets
+<lb corresp="#f12_z3_l8"/>des sciences. J’y parle d’un d’en¬
+<lb corresp="#f12_z3_l9"/>tre eux, qui vint aux Indes pour
+<lb corresp="#f12_z3_l10"/>concourir aux progrès de la vérité ;
+<lb corresp="#f12_z3_l11"/>mais comme cet épisode formoit
+<lb corresp="#f12_z3_l12"/>un hors-d’œuvre dans mon ou¬
+<lb corresp="#f12_z3_l13"/>vrage, j’ai jugé à propos de le pu¬
+<lb corresp="#f12_z3_l14"/>blier séparément.
+<lb corresp="#f12_z3_l15"/>Je proteste ici que je n’ai eu
+<lb corresp="#f12_z3_l16"/>aucune intention de jeter quelque
+<lb corresp="#f12_z3_l17"/>ridicule sur les académies, quoique
+<lb corresp="#f12_z3_l18"/>j’aie beaucoup à m’en plaindre,
 </p>
         <pb corresp="#f13"/>
-        <p corresp="#f13_z1" n="MainZone">
-<lb corresp="#f13_z1_l1_t"/>non par rapport à ma personne,
-<lb corresp="#f13_z1_l2_t"/>mais à cause des intérêts de la vé¬
-<lb corresp="#f13_z1_l3_t"/>rité*, qu’ils persécutent souvent,
-<lb corresp="#f13_z1_l4_t"/>quand elle contrarie leurs systêmes.
-<lb corresp="#f13_z1_l5_t"/>Je suis d’ailleurs trop redevable à
-<lb corresp="#f13_z1_l6_t"/>plusieurs savans anglois qui, sans
-<lb corresp="#f13_z1_l7_t"/>me connoître et par le seul amour
-<lb corresp="#f13_z1_l8_t"/>des sciences, ont honoré mes Etu¬
-<lb corresp="#f13_z1_l9_t"/>des de la Nature de leurs plus glo¬
-<lb corresp="#f13_z1_l10_t"/>rieux suffrages, qu’ils n’ont pas
-<lb corresp="#f13_z1_l11_t"/>craint de publier, comme on peut
-<lb corresp="#f13_z1_l12_t"/>le voir entre autres dans un extrait
-<lb corresp="#f13_z1_l13_t"/>de leurs journaux, rapporté par le
-<lb corresp="#f13_z1_l14_t"/>Moniteur Francois, le 9 février
-<lb corresp="#f13_z1_l15_t"/>1790. Le caractère que j’ai donné
-<lb corresp="#f13_z1_l16_t"/>à un de leurs confrères, est une
+        <p corresp="#f13_z1">
+<lb corresp="#f13_z1_l1"/>non par rapport à ma personne,
+<lb corresp="#f13_z1_l2"/>mais à cause des intérêts de la vé¬
+<lb corresp="#f13_z1_l3"/>rité*, qu’ils persécutent souvent,
+<lb corresp="#f13_z1_l4"/>quand elle contrarie leurs systêmes.
+<lb corresp="#f13_z1_l5"/>Je suis d’ailleurs trop redevable à
+<lb corresp="#f13_z1_l6"/>plusieurs savans anglois qui, sans
+<lb corresp="#f13_z1_l7"/>me connoître et par le seul amour
+<lb corresp="#f13_z1_l8"/>des sciences, ont honoré mes Etu¬
+<lb corresp="#f13_z1_l9"/>des de la Nature de leurs plus glo¬
+<lb corresp="#f13_z1_l10"/>rieux suffrages, qu’ils n’ont pas
+<lb corresp="#f13_z1_l11"/>craint de publier, comme on peut
+<lb corresp="#f13_z1_l12"/>le voir entre autres dans un extrait
+<lb corresp="#f13_z1_l13"/>de leurs journaux, rapporté par le
+<lb corresp="#f13_z1_l14"/>Moniteur Francois, le 9 février
+<lb corresp="#f13_z1_l15"/>1790. Le caractère que j’ai donné
+<lb corresp="#f13_z1_l16"/>à un de leurs confrères, est une
 </p>
-        <fw corresp="#f13_z2" n="RunningTitleZone"><lb corresp="#f13_z2_l1_t"/>AVANT- PROPOS.</fw>
-        <fw corresp="#f13_z3" n="NumberingZone"><lb corresp="#f13_z3_l1_t"/>vij</fw>
-        <note corresp="#f13_z4" n="MarginTextZone"><lb corresp="#f13_z4_l1_t"/>*Voyez la note première à la fin de</note>
-        <note corresp="#f13_z4" n="MarginTextZone"><lb corresp="#f13_z4_l2_t"/>l’avant-propos.</note>
+        <fw corresp="#f13_z2" type="RunningTitleZone"><lb corresp="#f13_z2_l1"/>AVANT- PROPOS.</fw>
+        <fw corresp="#f13_z3" type="NumberingZone"><lb corresp="#f13_z3_l1"/>vij</fw>
+        <note corresp="#f13_z4" type="MarginTextZone"><lb corresp="#f13_z4_l1"/>*Voyez la note première à la fin de</note>
+        <note corresp="#f13_z4" type="MarginTextZone"><lb corresp="#f13_z4_l2"/>l’avant-propos.</note>
         <pb corresp="#f14"/>
-        <fw corresp="#f14_z1" n="NumberingZone"><lb corresp="#f14_z1_l1_t"/>viij</fw>
-        <p corresp="#f14_z2" n="MainZone">
-<lb corresp="#f14_z2_l1_t"/>preuve non équivoque de mon es¬
-<lb corresp="#f14_z2_l2_t"/>time pour eux. Certainement j’ai
-<lb corresp="#f14_z2_l3_t"/>dû regarder comme une démarche
-<lb corresp="#f14_z2_l4_t"/>qui mérite toute la reconnoissance
-<lb corresp="#f14_z2_l5_t"/>de leur nation, d’avoir cherché à
-<lb corresp="#f14_z2_l6_t"/>importer des lumières des pays
-<lb corresp="#f14_z2_l7_t"/>étrangers en Angleterre, ainsi que
-<lb corresp="#f14_z2_l8_t"/>je considère celle d’en avoir ex¬
-<lb corresp="#f14_z2_l9_t"/>porté d’Angleterre dans des pays
-<lb corresp="#f14_z2_l10_t"/>sauvages, par les voyages de Cook
-<lb corresp="#f14_z2_l11_t"/>et de Banck, comme digne de toute
-<lb corresp="#f14_z2_l12_t"/>celle du genre humain. La pre¬
-<lb corresp="#f14_z2_l13_t"/>mière a été imitée depuis par le
-<lb corresp="#f14_z2_l14_t"/>Danemarck, et la seconde par la
-<lb corresp="#f14_z2_l15_t"/>France* ; mais toutes deux bien
-<lb corresp="#f14_z2_l16_t"/>malheureusement, puisque de dou¬
+        <fw corresp="#f14_z1" type="NumberingZone"><lb corresp="#f14_z1_l1"/>viij</fw>
+        <p corresp="#f14_z2">
+<lb corresp="#f14_z2_l1"/>preuve non équivoque de mon es¬
+<lb corresp="#f14_z2_l2"/>time pour eux. Certainement j’ai
+<lb corresp="#f14_z2_l3"/>dû regarder comme une démarche
+<lb corresp="#f14_z2_l4"/>qui mérite toute la reconnoissance
+<lb corresp="#f14_z2_l5"/>de leur nation, d’avoir cherché à
+<lb corresp="#f14_z2_l6"/>importer des lumières des pays
+<lb corresp="#f14_z2_l7"/>étrangers en Angleterre, ainsi que
+<lb corresp="#f14_z2_l8"/>je considère celle d’en avoir ex¬
+<lb corresp="#f14_z2_l9"/>porté d’Angleterre dans des pays
+<lb corresp="#f14_z2_l10"/>sauvages, par les voyages de Cook
+<lb corresp="#f14_z2_l11"/>et de Banck, comme digne de toute
+<lb corresp="#f14_z2_l12"/>celle du genre humain. La pre¬
+<lb corresp="#f14_z2_l13"/>mière a été imitée depuis par le
+<lb corresp="#f14_z2_l14"/>Danemarck, et la seconde par la
+<lb corresp="#f14_z2_l15"/>France* ; mais toutes deux bien
+<lb corresp="#f14_z2_l16"/>malheureusement, puisque de dou¬
 </p>
-        <fw corresp="#f14_z3" n="RunningTitleZone"><lb corresp="#f14_z3_l1_t"/>AVANT-PROPOS.</fw>
-        <note corresp="#f14_z4" n="MarginTextZone"><lb corresp="#f14_z4_l1_t"/>* Voyez la note seconde à la fin de</note>
-        <note corresp="#f14_z4" n="MarginTextZone"><lb corresp="#f14_z4_l2_t"/>l’avant-propos.</note>
+        <fw corresp="#f14_z3" type="RunningTitleZone"><lb corresp="#f14_z3_l1"/>AVANT-PROPOS.</fw>
+        <note corresp="#f14_z4" type="MarginTextZone"><lb corresp="#f14_z4_l1"/>* Voyez la note seconde à la fin de</note>
+        <note corresp="#f14_z4" type="MarginTextZone"><lb corresp="#f14_z4_l2"/>l’avant-propos.</note>
         <pb corresp="#f15"/>
-        <p corresp="#f15_z1" n="MainZone">
-<lb corresp="#f15_z1_l1_t"/>ze savans voyageurs danois, il n’en
-<lb corresp="#f15_z1_l2_t"/>est revenu qu’un seul dans sa patrie,
-<lb corresp="#f15_z1_l3_t"/>et que l’on n’a aucune nouvelle des
-<lb corresp="#f15_z1_l4_t"/>deux vaisseaux de guerre francois,
-<lb corresp="#f15_z1_l5_t"/>employés à cette mission d’huma¬
-<lb corresp="#f15_z1_l6_t"/>nité, et commandés par l’infor¬
-<lb corresp="#f15_z1_l7_t"/>tuné de la Peirouse. Ce n’est donc
-<lb corresp="#f15_z1_l8_t"/>point la science en elle-même que
-<lb corresp="#f15_z1_l9_t"/>je blâme; mais j’ai voulu faire voir
-<lb corresp="#f15_z1_l10_t"/>que les corps savans, par leur am¬
-<lb corresp="#f15_z1_l11_t"/>bition, leur jalousie et leurs pré¬
-<lb corresp="#f15_z1_l12_t"/>jugés, ne servent que trop souvent
-<lb corresp="#f15_z1_l13_t"/>d’obstacles à ses progrès.
-<lb corresp="#f15_z1_l14_t"/>Je me suis proposé un but encore
-<lb corresp="#f15_z1_l15_t"/>plus utile, c’est de remédier aux
-<lb corresp="#f15_z1_l16_t"/>maux dont l’humanité est affligée
-<lb corresp="#f15_z1_l17_t"/>aux Indes. Ma devise est de secou¬
-<lb corresp="#f15_z1_l18_t"/>rir les malheureux, et j’étends ce
+        <p corresp="#f15_z1">
+<lb corresp="#f15_z1_l1"/>ze savans voyageurs danois, il n’en
+<lb corresp="#f15_z1_l2"/>est revenu qu’un seul dans sa patrie,
+<lb corresp="#f15_z1_l3"/>et que l’on n’a aucune nouvelle des
+<lb corresp="#f15_z1_l4"/>deux vaisseaux de guerre francois,
+<lb corresp="#f15_z1_l5"/>employés à cette mission d’huma¬
+<lb corresp="#f15_z1_l6"/>nité, et commandés par l’infor¬
+<lb corresp="#f15_z1_l7"/>tuné de la Peirouse. Ce n’est donc
+<lb corresp="#f15_z1_l8"/>point la science en elle-même que
+<lb corresp="#f15_z1_l9"/>je blâme; mais j’ai voulu faire voir
+<lb corresp="#f15_z1_l10"/>que les corps savans, par leur am¬
+<lb corresp="#f15_z1_l11"/>bition, leur jalousie et leurs pré¬
+<lb corresp="#f15_z1_l12"/>jugés, ne servent que trop souvent
+<lb corresp="#f15_z1_l13"/>d’obstacles à ses progrès.
+<lb corresp="#f15_z1_l14"/>Je me suis proposé un but encore
+<lb corresp="#f15_z1_l15"/>plus utile, c’est de remédier aux
+<lb corresp="#f15_z1_l16"/>maux dont l’humanité est affligée
+<lb corresp="#f15_z1_l17"/>aux Indes. Ma devise est de secou¬
+<lb corresp="#f15_z1_l18"/>rir les malheureux, et j’étends ce
 </p>
-        <fw corresp="#f15_z2" n="RunningTitleZone"><lb corresp="#f15_z2_l1_t"/>AVANT-PROPOS.</fw>
-        <fw corresp="#f15_z3" n="NumberingZone"><lb corresp="#f15_z3_l1_t"/>ix</fw>
+        <fw corresp="#f15_z2" type="RunningTitleZone"><lb corresp="#f15_z2_l1"/>AVANT-PROPOS.</fw>
+        <fw corresp="#f15_z3" type="NumberingZone"><lb corresp="#f15_z3_l1"/>ix</fw>
         <pb corresp="#f16"/>
-        <fw corresp="#f16_z1" n="NumberingZone"><lb corresp="#f16_z1_l1_t"/>x</fw>
-        <fw corresp="#f16_z2" n="RunningTitleZone"><lb corresp="#f16_z2_l1_t"/>AVANT-PROPOS.</fw>
-        <p corresp="#f16_z3" n="MainZone">
-<lb corresp="#f16_z3_l1_t"/>sentiment à tous les hommes. Si la
-<lb corresp="#f16_z3_l2_t"/>philosophie est venue autrefois des
-<lb corresp="#f16_z3_l3_t"/>Indes en Europe, pourquoi ne
-<lb corresp="#f16_z3_l4_t"/>retourneroit-elle pas aujourd’hui
-<lb corresp="#f16_z3_l5_t"/>de l’Europe civilisée aux Indes de¬
-<lb corresp="#f16_z3_l6_t"/>venues barbares à leur tour ? Il
-<lb corresp="#f16_z3_l7_t"/>vient de se former à Calcuta une
-<lb corresp="#f16_z3_l8_t"/>société de savans anglois qui dé¬
-<lb corresp="#f16_z3_l9_t"/>truiront peut-être un jour les pré¬
-<lb corresp="#f16_z3_l10_t"/>jugés de l’Inde, et par ce bienfait
-<lb corresp="#f16_z3_l11_t"/>compenseront les maux qu’y ont
-<lb corresp="#f16_z3_l12_t"/>apportés les guerres et le com¬
-<lb corresp="#f16_z3_l13_t"/>merce des Européens. Pour moi
-<lb corresp="#f16_z3_l14_t"/>qui n’influe sur rien, afin de don¬
-<lb corresp="#f16_z3_l15_t"/>ner plus de faveur et de graces à
-<lb corresp="#f16_z3_l16_t"/>mes argumens, j’ai tâché de les
-<lb corresp="#f16_z3_l17_t"/>revêtir de celles d’un conte. C'est
-<lb corresp="#f16_z3_l18_t"/>avec des contes qu’on rend par¬
+        <fw corresp="#f16_z1" type="NumberingZone"><lb corresp="#f16_z1_l1"/>x</fw>
+        <fw corresp="#f16_z2" type="RunningTitleZone"><lb corresp="#f16_z2_l1"/>AVANT-PROPOS.</fw>
+        <p corresp="#f16_z3">
+<lb corresp="#f16_z3_l1"/>sentiment à tous les hommes. Si la
+<lb corresp="#f16_z3_l2"/>philosophie est venue autrefois des
+<lb corresp="#f16_z3_l3"/>Indes en Europe, pourquoi ne
+<lb corresp="#f16_z3_l4"/>retourneroit-elle pas aujourd’hui
+<lb corresp="#f16_z3_l5"/>de l’Europe civilisée aux Indes de¬
+<lb corresp="#f16_z3_l6"/>venues barbares à leur tour ? Il
+<lb corresp="#f16_z3_l7"/>vient de se former à Calcuta une
+<lb corresp="#f16_z3_l8"/>société de savans anglois qui dé¬
+<lb corresp="#f16_z3_l9"/>truiront peut-être un jour les pré¬
+<lb corresp="#f16_z3_l10"/>jugés de l’Inde, et par ce bienfait
+<lb corresp="#f16_z3_l11"/>compenseront les maux qu’y ont
+<lb corresp="#f16_z3_l12"/>apportés les guerres et le com¬
+<lb corresp="#f16_z3_l13"/>merce des Européens. Pour moi
+<lb corresp="#f16_z3_l14"/>qui n’influe sur rien, afin de don¬
+<lb corresp="#f16_z3_l15"/>ner plus de faveur et de graces à
+<lb corresp="#f16_z3_l16"/>mes argumens, j’ai tâché de les
+<lb corresp="#f16_z3_l17"/>revêtir de celles d’un conte. C'est
+<lb corresp="#f16_z3_l18"/>avec des contes qu’on rend par¬
 </p>
         <pb corresp="#f17"/>
-        <fw corresp="#f17_z1" n="RunningTitleZone"><lb corresp="#f17_z1_l1_t"/>AVANT-PROPOS.</fw>
-        <p corresp="#f17_z2" n="MainZone">
-<lb corresp="#f17_z2_l1_t"/>tout les hommes attentifs à la
-<lb corresp="#f17_z2_l2_t"/>vérité.
-<lb corresp="#f17_z2_l3_t"/>Nous sommes tous d’Athène en ce point ;
-<lb corresp="#f17_z2_l4_t"/>et moi-même,
-<lb corresp="#f17_z2_l5_t"/>Au moment que je fais cette moralité,
-<lb corresp="#f17_z2_l6_t"/>Si Peau-d’Ane m’étoit conté,
-<lb corresp="#f17_z2_l7_t"/>J’y prendrois un plaisir extrême.
-<lb corresp="#f17_z2_l8_t"/>LA FONTAINE.  Le pouvoir des
-<lb corresp="#f17_z2_l9_t"/>fables, liv. 8, fab. 4.
-<lb corresp="#f17_z2_l10_t"/>On a dit avec plus d’esprit que
-<lb corresp="#f17_z2_l11_t"/>de raison, que la fable étoit née
-<lb corresp="#f17_z2_l12_t"/>dans les pays despotiques de l’O¬
-<lb corresp="#f17_z2_l13_t"/>rient, et qu’on y avoit voilé la vé¬
-<lb corresp="#f17_z2_l14_t"/>rite, afin qu’elle pût s’approcher
-<lb corresp="#f17_z2_l15_t"/>des tyrans. Mais je demande si un
-<lb corresp="#f17_z2_l16_t"/>Sultan ne se trouveroit pas plus
-<lb corresp="#f17_z2_l17_t"/>offensé de se voir peint sous l’em¬
-<lb corresp="#f17_z2_l18_t"/>blême d’un chat-huant ou d’un
+        <fw corresp="#f17_z1" type="RunningTitleZone"><lb corresp="#f17_z1_l1"/>AVANT-PROPOS.</fw>
+        <p corresp="#f17_z2">
+<lb corresp="#f17_z2_l1"/>tout les hommes attentifs à la
+<lb corresp="#f17_z2_l2"/>vérité.
+<lb corresp="#f17_z2_l3"/>Nous sommes tous d’Athène en ce point ;
+<lb corresp="#f17_z2_l4"/>et moi-même,
+<lb corresp="#f17_z2_l5"/>Au moment que je fais cette moralité,
+<lb corresp="#f17_z2_l6"/>Si Peau-d’Ane m’étoit conté,
+<lb corresp="#f17_z2_l7"/>J’y prendrois un plaisir extrême.
+<lb corresp="#f17_z2_l8"/>LA FONTAINE.  Le pouvoir des
+<lb corresp="#f17_z2_l9"/>fables, liv. 8, fab. 4.
+<lb corresp="#f17_z2_l10"/>On a dit avec plus d’esprit que
+<lb corresp="#f17_z2_l11"/>de raison, que la fable étoit née
+<lb corresp="#f17_z2_l12"/>dans les pays despotiques de l’O¬
+<lb corresp="#f17_z2_l13"/>rient, et qu’on y avoit voilé la vé¬
+<lb corresp="#f17_z2_l14"/>rite, afin qu’elle pût s’approcher
+<lb corresp="#f17_z2_l15"/>des tyrans. Mais je demande si un
+<lb corresp="#f17_z2_l16"/>Sultan ne se trouveroit pas plus
+<lb corresp="#f17_z2_l17"/>offensé de se voir peint sous l’em¬
+<lb corresp="#f17_z2_l18"/>blême d’un chat-huant ou d’un
 </p>
-        <fw corresp="#f17_z3" n="NumberingZone"><lb corresp="#f17_z3_l1_t"/>xj</fw>
+        <fw corresp="#f17_z3" type="NumberingZone"><lb corresp="#f17_z3_l1"/>xj</fw>
         <pb corresp="#f18"/>
-        <fw corresp="#f18_z1" n="NumberingZone"><lb corresp="#f18_z1_l1_t"/>xij</fw>
-        <fw corresp="#f18_z2" n="RunningTitleZone"><lb corresp="#f18_z2_l1_t"/>AVANT-PROPOS.</fw>
-        <p corresp="#f18_z3" n="MainZone">
-<lb corresp="#f18_z3_l1_t"/>Iéopard, que d’après nature; et si
-<lb corresp="#f18_z3_l2_t"/>des vérités de réflexion ne le bles¬
-<lb corresp="#f18_z3_l3_t"/>seroient pas pour le moins autant
-<lb corresp="#f18_z3_l4_t"/>que des vérités directes ? Thomas
-<lb corresp="#f18_z3_l5_t"/>Rhoé, ambasadeur d’Angleterre
-<lb corresp="#f18_z3_l6_t"/>auprès de Sélim-Cha, empereur
-<lb corresp="#f18_z3_l7_t"/>du Mogol, rapporte que ce prince
-<lb corresp="#f18_z3_l8_t"/>très-despotique ayant fait ouvrir
-<lb corresp="#f18_z3_l9_t"/>devant lui des coffres qui arrivoient
-<lb corresp="#f18_z3_l10_t"/>d’Angleterrre, afin d’y prendre
-<lb corresp="#f18_z3_l11_t"/>quelques présens qui lui étoient
-<lb corresp="#f18_z3_l12_t"/>destinés, fut fort surpris d’y trou¬
-<lb corresp="#f18_z3_l13_t"/>ver un tableau représentant un Sa¬
-<lb corresp="#f18_z3_l14_t"/>tyre qu’une Vénus menoit par le
-<lb corresp="#f18_z3_l15_t"/>nez. « Il s’imagina, dit-il, que
-<lb corresp="#f18_z3_l16_t"/>« cette peinture étoit faite en dé¬
-<lb corresp="#f18_z3_l17_t"/>« rision des peuples de l’Asie, qu’ils
-<lb corresp="#f18_z3_l18_t"/>« y étoient figurés par le satyre
+        <fw corresp="#f18_z1" type="NumberingZone"><lb corresp="#f18_z1_l1"/>xij</fw>
+        <fw corresp="#f18_z2" type="RunningTitleZone"><lb corresp="#f18_z2_l1"/>AVANT-PROPOS.</fw>
+        <p corresp="#f18_z3">
+<lb corresp="#f18_z3_l1"/>Iéopard, que d’après nature; et si
+<lb corresp="#f18_z3_l2"/>des vérités de réflexion ne le bles¬
+<lb corresp="#f18_z3_l3"/>seroient pas pour le moins autant
+<lb corresp="#f18_z3_l4"/>que des vérités directes ? Thomas
+<lb corresp="#f18_z3_l5"/>Rhoé, ambasadeur d’Angleterre
+<lb corresp="#f18_z3_l6"/>auprès de Sélim-Cha, empereur
+<lb corresp="#f18_z3_l7"/>du Mogol, rapporte que ce prince
+<lb corresp="#f18_z3_l8"/>très-despotique ayant fait ouvrir
+<lb corresp="#f18_z3_l9"/>devant lui des coffres qui arrivoient
+<lb corresp="#f18_z3_l10"/>d’Angleterrre, afin d’y prendre
+<lb corresp="#f18_z3_l11"/>quelques présens qui lui étoient
+<lb corresp="#f18_z3_l12"/>destinés, fut fort surpris d’y trou¬
+<lb corresp="#f18_z3_l13"/>ver un tableau représentant un Sa¬
+<lb corresp="#f18_z3_l14"/>tyre qu’une Vénus menoit par le
+<lb corresp="#f18_z3_l15"/>nez. « Il s’imagina, dit-il, que
+<lb corresp="#f18_z3_l16"/>« cette peinture étoit faite en dé¬
+<lb corresp="#f18_z3_l17"/>« rision des peuples de l’Asie, qu’ils
+<lb corresp="#f18_z3_l18"/>« y étoient figurés par le satyre
 </p>
-        <fw corresp="#f18_z4" n="QuireMarksZone"><lb corresp="#f18_z4_l1_t"/>« noir</fw>
+        <fw corresp="#f18_z4" type="QuireMarksZone"><lb corresp="#f18_z4_l1"/>« noir</fw>
         <pb corresp="#f19"/>
-        <fw corresp="#f19_z1" n="RunningTitleZone"><lb corresp="#f19_z1_l1_t"/>AVANT- PROPOS.</fw>
-        <fw corresp="#f19_z2" n="NumberingZone"><lb corresp="#f19_z2_l1_t"/>xiij</fw>
-        <p corresp="#f19_z3" n="MainZone">
-<lb corresp="#f19_z3_l1_t"/>« noir et cornu, comme étant d’une
-<lb corresp="#f19_z3_l2_t"/>« même complexion ; et que la
-<lb corresp="#f19_z3_l3_t"/>« Vénus qui menoit le Satyre par
-<lb corresp="#f19_z3_l4_t"/>« le nez, représentoit le grand em¬
-<lb corresp="#f19_z3_l5_t"/>« pire que les femmes de ce pays-
-<lb corresp="#f19_z3_l6_t"/>« là ont sur les hommes.»
-<lb corresp="#f19_z3_l7_t"/>Thomas Rhoé à qui ce tableau
-<lb corresp="#f19_z3_l8_t"/>étoit adressé, eut bien de la peine
-<lb corresp="#f19_z3_l9_t"/>à en détruire l’effet dans l’esprit
-<lb corresp="#f19_z3_l10_t"/>du Mogol, en lui donnant une
-<lb corresp="#f19_z3_l11_t"/>idée de nos fables ; il recommande
-<lb corresp="#f19_z3_l12_t"/>à cette occasion bien expressément
-<lb corresp="#f19_z3_l13_t"/>aux directeurs de la compagnie des
-<lb corresp="#f19_z3_l14_t"/>Indes en Angleterre, de n’envoyer
-<lb corresp="#f19_z3_l15_t"/>à l’avenir aucune peinture allégo¬
-<lb corresp="#f19_z3_l16_t"/>rique aux Indes, parce que les prin¬
-<lb corresp="#f19_z3_l17_t"/>ces, dit-il, y sont très-soupçon¬
-<lb corresp="#f19_z3_l18_t"/>neux. C’est en effet le caractère
+        <fw corresp="#f19_z1" type="RunningTitleZone"><lb corresp="#f19_z1_l1"/>AVANT- PROPOS.</fw>
+        <fw corresp="#f19_z2" type="NumberingZone"><lb corresp="#f19_z2_l1"/>xiij</fw>
+        <p corresp="#f19_z3">
+<lb corresp="#f19_z3_l1"/>« noir et cornu, comme étant d’une
+<lb corresp="#f19_z3_l2"/>« même complexion ; et que la
+<lb corresp="#f19_z3_l3"/>« Vénus qui menoit le Satyre par
+<lb corresp="#f19_z3_l4"/>« le nez, représentoit le grand em¬
+<lb corresp="#f19_z3_l5"/>« pire que les femmes de ce pays-
+<lb corresp="#f19_z3_l6"/>« là ont sur les hommes.»
+<lb corresp="#f19_z3_l7"/>Thomas Rhoé à qui ce tableau
+<lb corresp="#f19_z3_l8"/>étoit adressé, eut bien de la peine
+<lb corresp="#f19_z3_l9"/>à en détruire l’effet dans l’esprit
+<lb corresp="#f19_z3_l10"/>du Mogol, en lui donnant une
+<lb corresp="#f19_z3_l11"/>idée de nos fables ; il recommande
+<lb corresp="#f19_z3_l12"/>à cette occasion bien expressément
+<lb corresp="#f19_z3_l13"/>aux directeurs de la compagnie des
+<lb corresp="#f19_z3_l14"/>Indes en Angleterre, de n’envoyer
+<lb corresp="#f19_z3_l15"/>à l’avenir aucune peinture allégo¬
+<lb corresp="#f19_z3_l16"/>rique aux Indes, parce que les prin¬
+<lb corresp="#f19_z3_l17"/>ces, dit-il, y sont très-soupçon¬
+<lb corresp="#f19_z3_l18"/>neux. C’est en effet le caractère
 </p>
-        <fw corresp="#f19_z4" n="QuireMarksZone"><lb corresp="#f19_z4_l1_t"/>b</fw>
+        <fw corresp="#f19_z4" type="QuireMarksZone"><lb corresp="#f19_z4_l1"/>b</fw>
         <pb corresp="#f20"/>
-        <fw corresp="#f20_z1" n="NumberingZone"><lb corresp="#f20_z1_l1_t"/>xiv</fw>
-        <fw corresp="#f20_z2" n="RunningTitleZone"><lb corresp="#f20_z2_l1_t"/>AVANT-PROPOS.</fw>
-        <p corresp="#f20_z3" n="MainZone">
-<lb corresp="#f20_z3_l1_t"/>des despotes. Je crois donc que
-<lb corresp="#f20_z3_l2_t"/>nulle part les fables n’ont été ima¬
-<lb corresp="#f20_z3_l3_t"/>ginées pour eux, si ce n’est pour
-<lb corresp="#f20_z3_l4_t"/>les flatter.
-<lb corresp="#f20_z3_l5_t"/>En genéral, le goût pour les
-<lb corresp="#f20_z3_l6_t"/>fables est répandu par toute la
-<lb corresp="#f20_z3_l7_t"/>terre, mais bien plus dans les
-<lb corresp="#f20_z3_l8_t"/>pays libres que dans les despoti¬
-<lb corresp="#f20_z3_l9_t"/>ques. Les peuples sauvages fondent
-<lb corresp="#f20_z3_l10_t"/>leurs traditions sur des fables ; il
-<lb corresp="#f20_z3_l11_t"/>n’y a point de pays où elles aient
-<lb corresp="#f20_z3_l12_t"/>été plus communes que dans la
-<lb corresp="#f20_z3_l13_t"/>Grèce, où tous les objets de la na¬
-<lb corresp="#f20_z3_l14_t"/>ture, de la politique et de la reli¬
-<lb corresp="#f20_z3_l15_t"/>gion, n’étoient que des résultats
-<lb corresp="#f20_z3_l16_t"/>de quelques métamorphoses. Il y
-<lb corresp="#f20_z3_l17_t"/>avoit peu de familles illustres qui
-<lb corresp="#f20_z3_l18_t"/>n'eût quelque animal au nombre
+        <fw corresp="#f20_z1" type="NumberingZone"><lb corresp="#f20_z1_l1"/>xiv</fw>
+        <fw corresp="#f20_z2" type="RunningTitleZone"><lb corresp="#f20_z2_l1"/>AVANT-PROPOS.</fw>
+        <p corresp="#f20_z3">
+<lb corresp="#f20_z3_l1"/>des despotes. Je crois donc que
+<lb corresp="#f20_z3_l2"/>nulle part les fables n’ont été ima¬
+<lb corresp="#f20_z3_l3"/>ginées pour eux, si ce n’est pour
+<lb corresp="#f20_z3_l4"/>les flatter.
+<lb corresp="#f20_z3_l5"/>En genéral, le goût pour les
+<lb corresp="#f20_z3_l6"/>fables est répandu par toute la
+<lb corresp="#f20_z3_l7"/>terre, mais bien plus dans les
+<lb corresp="#f20_z3_l8"/>pays libres que dans les despoti¬
+<lb corresp="#f20_z3_l9"/>ques. Les peuples sauvages fondent
+<lb corresp="#f20_z3_l10"/>leurs traditions sur des fables ; il
+<lb corresp="#f20_z3_l11"/>n’y a point de pays où elles aient
+<lb corresp="#f20_z3_l12"/>été plus communes que dans la
+<lb corresp="#f20_z3_l13"/>Grèce, où tous les objets de la na¬
+<lb corresp="#f20_z3_l14"/>ture, de la politique et de la reli¬
+<lb corresp="#f20_z3_l15"/>gion, n’étoient que des résultats
+<lb corresp="#f20_z3_l16"/>de quelques métamorphoses. Il y
+<lb corresp="#f20_z3_l17"/>avoit peu de familles illustres qui
+<lb corresp="#f20_z3_l18"/>n'eût quelque animal au nombre
 </p>
         <pb corresp="#f21"/>
-        <fw corresp="#f21_z1" n="RunningTitleZone"><lb corresp="#f21_z1_l1_t"/>AVANT-PROPOS.</fw>
-        <fw corresp="#f21_z2" n="NumberingZone"><lb corresp="#f21_z2_l1_t"/>xv</fw>
-        <p corresp="#f21_z3" n="MainZone">
-<lb corresp="#f21_z3_l1_t"/>de ses ancêtres, et qui ne comp¬
-<lb corresp="#f21_z3_l2_t"/>tât parmi ses cousins ou ses cou¬
-<lb corresp="#f21_z3_l3_t"/>sines, des taureaux, des cygnes,
-<lb corresp="#f21_z3_l4_t"/>des rossignols, des tourterelles ,
-<lb corresp="#f21_z3_l5_t"/>des corneilles ou des pies. On peut
-<lb corresp="#f21_z3_l6_t"/>observer que les Anglois, dans leur
-<lb corresp="#f21_z3_l7_t"/>littérature, ont un goût particu¬
-<lb corresp="#f21_z3_l8_t"/>lier pour l’allégorie, quoique la
-<lb corresp="#f21_z3_l9_t"/>vérité puisse se dire chez eux fort
-<lb corresp="#f21_z3_l10_t"/>Iibrement. Les Asiatiques ont été
-<lb corresp="#f21_z3_l11_t"/>dans le même cas, du temps d’E¬
-<lb corresp="#f21_z3_l12_t"/>sope et de Lockman ; mais on ne
-<lb corresp="#f21_z3_l13_t"/>trouve plus anjourd’hui chez eux
-<lb corresp="#f21_z3_l14_t"/>de fabulistes, quoique leur pays
-<lb corresp="#f21_z3_l15_t"/>soit rempli de Sultans.
-<lb corresp="#f21_z3_l16_t"/>Ce sont les peuples les plus
-<lb corresp="#f21_z3_l17_t"/>rapprochés de la nature, et par
-<lb corresp="#f21_z3_l18_t"/>conséquent les plus libres, qui ont
+        <fw corresp="#f21_z1" type="RunningTitleZone"><lb corresp="#f21_z1_l1"/>AVANT-PROPOS.</fw>
+        <fw corresp="#f21_z2" type="NumberingZone"><lb corresp="#f21_z2_l1"/>xv</fw>
+        <p corresp="#f21_z3">
+<lb corresp="#f21_z3_l1"/>de ses ancêtres, et qui ne comp¬
+<lb corresp="#f21_z3_l2"/>tât parmi ses cousins ou ses cou¬
+<lb corresp="#f21_z3_l3"/>sines, des taureaux, des cygnes,
+<lb corresp="#f21_z3_l4"/>des rossignols, des tourterelles ,
+<lb corresp="#f21_z3_l5"/>des corneilles ou des pies. On peut
+<lb corresp="#f21_z3_l6"/>observer que les Anglois, dans leur
+<lb corresp="#f21_z3_l7"/>littérature, ont un goût particu¬
+<lb corresp="#f21_z3_l8"/>lier pour l’allégorie, quoique la
+<lb corresp="#f21_z3_l9"/>vérité puisse se dire chez eux fort
+<lb corresp="#f21_z3_l10"/>Iibrement. Les Asiatiques ont été
+<lb corresp="#f21_z3_l11"/>dans le même cas, du temps d’E¬
+<lb corresp="#f21_z3_l12"/>sope et de Lockman ; mais on ne
+<lb corresp="#f21_z3_l13"/>trouve plus anjourd’hui chez eux
+<lb corresp="#f21_z3_l14"/>de fabulistes, quoique leur pays
+<lb corresp="#f21_z3_l15"/>soit rempli de Sultans.
+<lb corresp="#f21_z3_l16"/>Ce sont les peuples les plus
+<lb corresp="#f21_z3_l17"/>rapprochés de la nature, et par
+<lb corresp="#f21_z3_l18"/>conséquent les plus libres, qui ont
 </p>
         <pb corresp="#f22"/>
-        <fw corresp="#f22_z1" n="NumberingZone"><lb corresp="#f22_z1_l1_t"/>xvj</fw>
-        <fw corresp="#f22_z2" n="RunningTitleZone"><lb corresp="#f22_z2_l1_t"/>AVANT-PROPOS.</fw>
-        <p corresp="#f22_z3" n="MainZone">
-<lb corresp="#f22_z3_l1_t"/>le plus aimé à orner la vérité de
-<lb corresp="#f22_z3_l2_t"/>fables : c’est par un eſſet de l’amour
-<lb corresp="#f22_z3_l3_t"/>même de la vérité, qui est le senti¬
-<lb corresp="#f22_z3_l4_t"/>ment des lois de la nature. La
-<lb corresp="#f22_z3_l5_t"/>vérité est la lumière de l’ame,
-<lb corresp="#f22_z3_l6_t"/>comme la lumière physique est la
-<lb corresp="#f22_z3_l7_t"/>vérité des corps. L’une et l’autre
-<lb corresp="#f22_z3_l8_t"/>réunies donnent la science de ce
-<lb corresp="#f22_z3_l9_t"/>qui est : celle-ci éclaire les objets,
-<lb corresp="#f22_z3_l10_t"/>celle-là nous en montre les conve¬
-<lb corresp="#f22_z3_l11_t"/>nances; et, comme dans le prin¬
-<lb corresp="#f22_z3_l12_t"/>cipe toute lumière tire son origine
-<lb corresp="#f22_z3_l13_t"/>du soleil, toute vérité tire la sienne
-<lb corresp="#f22_z3_l14_t"/>de Dieu, dont cet astre est la plus
-<lb corresp="#f22_z3_l15_t"/>sensible image. Peu d’hommes peu¬
-<lb corresp="#f22_z3_l16_t"/>vent supporter la lumière pure du
-<lb corresp="#f22_z3_l17_t"/>soleil. C’est à cause de la foiblesse
-<lb corresp="#f22_z3_l18_t"/>de nos yeux, que la nature nous a
+        <fw corresp="#f22_z1" type="NumberingZone"><lb corresp="#f22_z1_l1"/>xvj</fw>
+        <fw corresp="#f22_z2" type="RunningTitleZone"><lb corresp="#f22_z2_l1"/>AVANT-PROPOS.</fw>
+        <p corresp="#f22_z3">
+<lb corresp="#f22_z3_l1"/>le plus aimé à orner la vérité de
+<lb corresp="#f22_z3_l2"/>fables : c’est par un eſſet de l’amour
+<lb corresp="#f22_z3_l3"/>même de la vérité, qui est le senti¬
+<lb corresp="#f22_z3_l4"/>ment des lois de la nature. La
+<lb corresp="#f22_z3_l5"/>vérité est la lumière de l’ame,
+<lb corresp="#f22_z3_l6"/>comme la lumière physique est la
+<lb corresp="#f22_z3_l7"/>vérité des corps. L’une et l’autre
+<lb corresp="#f22_z3_l8"/>réunies donnent la science de ce
+<lb corresp="#f22_z3_l9"/>qui est : celle-ci éclaire les objets,
+<lb corresp="#f22_z3_l10"/>celle-là nous en montre les conve¬
+<lb corresp="#f22_z3_l11"/>nances; et, comme dans le prin¬
+<lb corresp="#f22_z3_l12"/>cipe toute lumière tire son origine
+<lb corresp="#f22_z3_l13"/>du soleil, toute vérité tire la sienne
+<lb corresp="#f22_z3_l14"/>de Dieu, dont cet astre est la plus
+<lb corresp="#f22_z3_l15"/>sensible image. Peu d’hommes peu¬
+<lb corresp="#f22_z3_l16"/>vent supporter la lumière pure du
+<lb corresp="#f22_z3_l17"/>soleil. C’est à cause de la foiblesse
+<lb corresp="#f22_z3_l18"/>de nos yeux, que la nature nous a
 </p>
         <pb corresp="#f23"/>
-        <fw corresp="#f23_z1" n="RunningTitleZone"><lb corresp="#f23_z1_l1_t"/>AVANT-PROPOS.</fw>
-        <fw corresp="#f23_z2" n="NumberingZone"><lb corresp="#f23_z2_l1_t"/>xvij</fw>
-        <p corresp="#f23_z3" n="MainZone">
-<lb corresp="#f23_z3_l1_t"/>donné des paupières pour les voiler
-<lb corresp="#f23_z3_l2_t"/>au degré qui nous convient ; qu’elle
-<lb corresp="#f23_z3_l3_t"/>a planté la terre de forêts, dont les
-<lb corresp="#f23_z3_l4_t"/>feuillages verts nous offrent des
-<lb corresp="#f23_z3_l5_t"/>ombrages doux et transparens ;
-<lb corresp="#f23_z3_l6_t"/>et qu’elle répand dans les cieux
-<lb corresp="#f23_z3_l7_t"/>des vapeurs et des nuages, pour
-<lb corresp="#f23_z3_l8_t"/>affoiblir les rayons trop vifs de
-<lb corresp="#f23_z3_l9_t"/>l’astre du jour. Peu d’hommes aussi
-<lb corresp="#f23_z3_l10_t"/>peuvent saisir les vérités purement
-<lb corresp="#f23_z3_l11_t"/>métaphysiques. C’est à cause de
-<lb corresp="#f23_z3_l12_t"/>la foiblesse de notre intelligence,
-<lb corresp="#f23_z3_l13_t"/>que la nature nous a donné l’igno¬
-<lb corresp="#f23_z3_l14_t"/>rance pour servir de paupière à
-<lb corresp="#f23_z3_l15_t"/>notre ame : c’est par son moyen
-<lb corresp="#f23_z3_l16_t"/>que l’ame s’ouvre par degrés à la
-<lb corresp="#f23_z3_l17_t"/>vérité, qu’elle n’en admet que ce
-<lb corresp="#f23_z3_l18_t"/>qu’elle en peut supporter, qu’elle
+        <fw corresp="#f23_z1" type="RunningTitleZone"><lb corresp="#f23_z1_l1"/>AVANT-PROPOS.</fw>
+        <fw corresp="#f23_z2" type="NumberingZone"><lb corresp="#f23_z2_l1"/>xvij</fw>
+        <p corresp="#f23_z3">
+<lb corresp="#f23_z3_l1"/>donné des paupières pour les voiler
+<lb corresp="#f23_z3_l2"/>au degré qui nous convient ; qu’elle
+<lb corresp="#f23_z3_l3"/>a planté la terre de forêts, dont les
+<lb corresp="#f23_z3_l4"/>feuillages verts nous offrent des
+<lb corresp="#f23_z3_l5"/>ombrages doux et transparens ;
+<lb corresp="#f23_z3_l6"/>et qu’elle répand dans les cieux
+<lb corresp="#f23_z3_l7"/>des vapeurs et des nuages, pour
+<lb corresp="#f23_z3_l8"/>affoiblir les rayons trop vifs de
+<lb corresp="#f23_z3_l9"/>l’astre du jour. Peu d’hommes aussi
+<lb corresp="#f23_z3_l10"/>peuvent saisir les vérités purement
+<lb corresp="#f23_z3_l11"/>métaphysiques. C’est à cause de
+<lb corresp="#f23_z3_l12"/>la foiblesse de notre intelligence,
+<lb corresp="#f23_z3_l13"/>que la nature nous a donné l’igno¬
+<lb corresp="#f23_z3_l14"/>rance pour servir de paupière à
+<lb corresp="#f23_z3_l15"/>notre ame : c’est par son moyen
+<lb corresp="#f23_z3_l16"/>que l’ame s’ouvre par degrés à la
+<lb corresp="#f23_z3_l17"/>vérité, qu’elle n’en admet que ce
+<lb corresp="#f23_z3_l18"/>qu’elle en peut supporter, qu’elle
 </p>
-        <fw corresp="#f23_z4" n="QuireMarksZone"><lb corresp="#f23_z4_l1_t"/>.  .  .</fw>
+        <fw corresp="#f23_z4" type="QuireMarksZone"><lb corresp="#f23_z4_l1"/>.  .  .</fw>
         <pb corresp="#f24"/>
-        <fw corresp="#f24_z1" n="NumberingZone"><lb corresp="#f24_z1_l1_t"/>xviij</fw>
-        <fw corresp="#f24_z2" n="RunningTitleZone"><lb corresp="#f24_z2_l1_t"/>AVANT-PROPOS.</fw>
-        <p corresp="#f24_z3" n="MainZone">
-<lb corresp="#f24_z3_l1_t"/>s’entoure de fables qui sont comme
-<lb corresp="#f24_z3_l2_t"/>autant de berceaux, à l’ombre des¬
-<lb corresp="#f24_z3_l3_t"/>quels elle la contemple ; et lors¬
-<lb corresp="#f24_z3_l4_t"/>qu’elle veut s’élever jusqu’à la Divi¬
-<lb corresp="#f24_z3_l5_t"/>nité même, elle la voile d’allégories
-<lb corresp="#f24_z3_l6_t"/>et de mystères pour en soutenir
-<lb corresp="#f24_z3_l7_t"/>l’éclat.
-<lb corresp="#f24_z3_l8_t"/>Nous ne verrions pas la lumière
-<lb corresp="#f24_z3_l9_t"/>du soleil, si elle ne s'arrêtoit sur
-<lb corresp="#f24_z3_l10_t"/>des corps, ou au moins sur des nua¬
-<lb corresp="#f24_z3_l11_t"/>ges. Elle nous échappe hors de
-<lb corresp="#f24_z3_l12_t"/>notre atmosphère, et nous éblouit
-<lb corresp="#f24_z3_l13_t"/>à sa source. Il en est de même de
-<lb corresp="#f24_z3_l14_t"/>la vérité ; nous ne la saisirions pas
-<lb corresp="#f24_z3_l15_t"/>si elle ne se fixoit sur des événe¬
-<lb corresp="#f24_z3_l16_t"/>mens sensibles, ou au moins sur des
-<lb corresp="#f24_z3_l17_t"/>métaphores et des comparaisons
-<lb corresp="#f24_z3_l18_t"/>qui la réfléchissent ; il lui faut un
+        <fw corresp="#f24_z1" type="NumberingZone"><lb corresp="#f24_z1_l1"/>xviij</fw>
+        <fw corresp="#f24_z2" type="RunningTitleZone"><lb corresp="#f24_z2_l1"/>AVANT-PROPOS.</fw>
+        <p corresp="#f24_z3">
+<lb corresp="#f24_z3_l1"/>s’entoure de fables qui sont comme
+<lb corresp="#f24_z3_l2"/>autant de berceaux, à l’ombre des¬
+<lb corresp="#f24_z3_l3"/>quels elle la contemple ; et lors¬
+<lb corresp="#f24_z3_l4"/>qu’elle veut s’élever jusqu’à la Divi¬
+<lb corresp="#f24_z3_l5"/>nité même, elle la voile d’allégories
+<lb corresp="#f24_z3_l6"/>et de mystères pour en soutenir
+<lb corresp="#f24_z3_l7"/>l’éclat.
+<lb corresp="#f24_z3_l8"/>Nous ne verrions pas la lumière
+<lb corresp="#f24_z3_l9"/>du soleil, si elle ne s'arrêtoit sur
+<lb corresp="#f24_z3_l10"/>des corps, ou au moins sur des nua¬
+<lb corresp="#f24_z3_l11"/>ges. Elle nous échappe hors de
+<lb corresp="#f24_z3_l12"/>notre atmosphère, et nous éblouit
+<lb corresp="#f24_z3_l13"/>à sa source. Il en est de même de
+<lb corresp="#f24_z3_l14"/>la vérité ; nous ne la saisirions pas
+<lb corresp="#f24_z3_l15"/>si elle ne se fixoit sur des événe¬
+<lb corresp="#f24_z3_l16"/>mens sensibles, ou au moins sur des
+<lb corresp="#f24_z3_l17"/>métaphores et des comparaisons
+<lb corresp="#f24_z3_l18"/>qui la réfléchissent ; il lui faut un
 </p>
         <pb corresp="#f25"/>
-        <fw corresp="#f25_z1" n="RunningTitleZone"><lb corresp="#f25_z1_l1_t"/>AVANT- PROPOS.</fw>
-        <fw corresp="#f25_z2" n="NumberingZone"><lb corresp="#f25_z2_l1_t"/>xix</fw>
-        <p corresp="#f25_z3" n="MainZone">
-<lb corresp="#f25_z3_l1_t"/>corps qui la renvoie. Notre en¬
-<lb corresp="#f25_z3_l2_t"/>tendement n’a point de prise sur
-<lb corresp="#f25_z3_l3_t"/>les vérités purement métaphysi¬
-<lb corresp="#f25_z3_l4_t"/>ques; il est ébloui par celles qui
-<lb corresp="#f25_z3_l5_t"/>émanent de la Divinité, et il ne
-<lb corresp="#f25_z3_l6_t"/>peut saisir celles qui ne se reposent
-<lb corresp="#f25_z3_l7_t"/>pas sur ses ouvrages. C’est par
-<lb corresp="#f25_z3_l8_t"/>cette dernière raison que le lan¬
-<lb corresp="#f25_z3_l9_t"/>gage des peuples civilisés ne peint
-<lb corresp="#f25_z3_l10_t"/>rien, parce qu’il est plein d’idées
-<lb corresp="#f25_z3_l11_t"/>vagues et d’abstractions ; et celui
-<lb corresp="#f25_z3_l12_t"/>des peuples simples et naturels
-<lb corresp="#f25_z3_l13_t"/>est très-expresif, parce qu’il est
-<lb corresp="#f25_z3_l14_t"/>rempli de similitudes et d’images.
-<lb corresp="#f25_z3_l15_t"/>Les premiers sont habitués à cacher
-<lb corresp="#f25_z3_l16_t"/>leurs sentimens ; les seconds à les
-<lb corresp="#f25_z3_l17_t"/>étendre. Mais comme souvent les
-<lb corresp="#f25_z3_l18_t"/>nuages dispersés sous mille formes
+        <fw corresp="#f25_z1" type="RunningTitleZone"><lb corresp="#f25_z1_l1"/>AVANT- PROPOS.</fw>
+        <fw corresp="#f25_z2" type="NumberingZone"><lb corresp="#f25_z2_l1"/>xix</fw>
+        <p corresp="#f25_z3">
+<lb corresp="#f25_z3_l1"/>corps qui la renvoie. Notre en¬
+<lb corresp="#f25_z3_l2"/>tendement n’a point de prise sur
+<lb corresp="#f25_z3_l3"/>les vérités purement métaphysi¬
+<lb corresp="#f25_z3_l4"/>ques; il est ébloui par celles qui
+<lb corresp="#f25_z3_l5"/>émanent de la Divinité, et il ne
+<lb corresp="#f25_z3_l6"/>peut saisir celles qui ne se reposent
+<lb corresp="#f25_z3_l7"/>pas sur ses ouvrages. C’est par
+<lb corresp="#f25_z3_l8"/>cette dernière raison que le lan¬
+<lb corresp="#f25_z3_l9"/>gage des peuples civilisés ne peint
+<lb corresp="#f25_z3_l10"/>rien, parce qu’il est plein d’idées
+<lb corresp="#f25_z3_l11"/>vagues et d’abstractions ; et celui
+<lb corresp="#f25_z3_l12"/>des peuples simples et naturels
+<lb corresp="#f25_z3_l13"/>est très-expresif, parce qu’il est
+<lb corresp="#f25_z3_l14"/>rempli de similitudes et d’images.
+<lb corresp="#f25_z3_l15"/>Les premiers sont habitués à cacher
+<lb corresp="#f25_z3_l16"/>leurs sentimens ; les seconds à les
+<lb corresp="#f25_z3_l17"/>étendre. Mais comme souvent les
+<lb corresp="#f25_z3_l18"/>nuages dispersés sous mille formes
 </p>
         <pb corresp="#f26"/>
-        <fw corresp="#f26_z1" n="NumberingZone"><lb corresp="#f26_z1_l1_t"/>xx</fw>
-        <fw corresp="#f26_z2" n="RunningTitleZone"><lb corresp="#f26_z2_l1_t"/>AVANT-PROPOS.</fw>
-        <p corresp="#f26_z3" n="MainZone">
-<lb corresp="#f26_z3_l1_t"/>phantastiques , décomposent les
-<lb corresp="#f26_z3_l2_t"/>rayons du soleil en teintes plus
-<lb corresp="#f26_z3_l3_t"/>riches et plus variées que celles qui
-<lb corresp="#f26_z3_l4_t"/>colorent les ouvrages réguliers de
-<lb corresp="#f26_z3_l5_t"/>la nature, ainsi les fables réflé¬
-<lb corresp="#f26_z3_l6_t"/>chissent la vérité avec plus d’éten¬
-<lb corresp="#f26_z3_l7_t"/>due que les événemens réels ; elles
-<lb corresp="#f26_z3_l8_t"/>la transportent dans tous les règnes ;
-<lb corresp="#f26_z3_l9_t"/>elles l’approprient aux animaux ,
-<lb corresp="#f26_z3_l10_t"/>aux arbres, aux élémens, et en
-<lb corresp="#f26_z3_l11_t"/>font jaillir mille reflets. Ainsi les
-<lb corresp="#f26_z3_l12_t"/>rayons du soleil se jouent, sans
-<lb corresp="#f26_z3_l13_t"/>s’éteindre, au fond des eaux, y
-<lb corresp="#f26_z3_l14_t"/>reflettent les objets de la terre et
-<lb corresp="#f26_z3_l15_t"/>des cieux , et redoublent leurs
-<lb corresp="#f26_z3_l16_t"/>beautés par des consonnances.
-<lb corresp="#f26_z3_l17_t"/>L’ignorance est donc aussi né¬
-<lb corresp="#f26_z3_l18_t"/>cessaire à la vérité que l’ombre l’est
+        <fw corresp="#f26_z1" type="NumberingZone"><lb corresp="#f26_z1_l1"/>xx</fw>
+        <fw corresp="#f26_z2" type="RunningTitleZone"><lb corresp="#f26_z2_l1"/>AVANT-PROPOS.</fw>
+        <p corresp="#f26_z3">
+<lb corresp="#f26_z3_l1"/>phantastiques , décomposent les
+<lb corresp="#f26_z3_l2"/>rayons du soleil en teintes plus
+<lb corresp="#f26_z3_l3"/>riches et plus variées que celles qui
+<lb corresp="#f26_z3_l4"/>colorent les ouvrages réguliers de
+<lb corresp="#f26_z3_l5"/>la nature, ainsi les fables réflé¬
+<lb corresp="#f26_z3_l6"/>chissent la vérité avec plus d’éten¬
+<lb corresp="#f26_z3_l7"/>due que les événemens réels ; elles
+<lb corresp="#f26_z3_l8"/>la transportent dans tous les règnes ;
+<lb corresp="#f26_z3_l9"/>elles l’approprient aux animaux ,
+<lb corresp="#f26_z3_l10"/>aux arbres, aux élémens, et en
+<lb corresp="#f26_z3_l11"/>font jaillir mille reflets. Ainsi les
+<lb corresp="#f26_z3_l12"/>rayons du soleil se jouent, sans
+<lb corresp="#f26_z3_l13"/>s’éteindre, au fond des eaux, y
+<lb corresp="#f26_z3_l14"/>reflettent les objets de la terre et
+<lb corresp="#f26_z3_l15"/>des cieux , et redoublent leurs
+<lb corresp="#f26_z3_l16"/>beautés par des consonnances.
+<lb corresp="#f26_z3_l17"/>L’ignorance est donc aussi né¬
+<lb corresp="#f26_z3_l18"/>cessaire à la vérité que l’ombre l’est
 </p>
         <pb corresp="#f27"/>
-        <fw corresp="#f27_z1" n="RunningTitleZone"><lb corresp="#f27_z1_l1_t"/>AVANT-PROPOS.</fw>
-        <fw corresp="#f27_z2" n="NumberingZone"><lb corresp="#f27_z2_l1_t"/>xxj</fw>
-        <p corresp="#f27_z3" n="MainZone">
-<lb corresp="#f27_z3_l1_t"/>à la lumière, puisque c’est des
-<lb corresp="#f27_z3_l2_t"/>premières que se forment les har¬
-<lb corresp="#f27_z3_l3_t"/>monies de notre intelligence, com¬
-<lb corresp="#f27_z3_l4_t"/>me des secondes se composent
-<lb corresp="#f27_z3_l5_t"/>celles de notre vue.
-<lb corresp="#f27_z3_l6_t"/>Les moralistes, comme je l’ai
-<lb corresp="#f27_z3_l7_t"/>déja observé dans mes Etudes, ont
-<lb corresp="#f27_z3_l8_t"/>presque toujours confondu l’igno¬
-<lb corresp="#f27_z3_l9_t"/>rance avec l’erreur. L’ignorance,
-<lb corresp="#f27_z3_l10_t"/>à la considérer seule et sans la
-<lb corresp="#f27_z3_l11_t"/>vérité avec laquelle elle a de si
-<lb corresp="#f27_z3_l12_t"/>douces harmonies, est le repos de
-<lb corresp="#f27_z3_l13_t"/>notre intelligence ; elle nous fait
-<lb corresp="#f27_z3_l14_t"/>oublier les maux passés , nous dis¬
-<lb corresp="#f27_z3_l15_t"/>simule les présens, et nous cache
-<lb corresp="#f27_z3_l16_t"/>ceux de l’avenir ; enfin elle est un
-<lb corresp="#f27_z3_l17_t"/>bien, puisque nous la tenons de la
-<lb corresp="#f27_z3_l18_t"/>nature : l’erreur au contraire est
+        <fw corresp="#f27_z1" type="RunningTitleZone"><lb corresp="#f27_z1_l1"/>AVANT-PROPOS.</fw>
+        <fw corresp="#f27_z2" type="NumberingZone"><lb corresp="#f27_z2_l1"/>xxj</fw>
+        <p corresp="#f27_z3">
+<lb corresp="#f27_z3_l1"/>à la lumière, puisque c’est des
+<lb corresp="#f27_z3_l2"/>premières que se forment les har¬
+<lb corresp="#f27_z3_l3"/>monies de notre intelligence, com¬
+<lb corresp="#f27_z3_l4"/>me des secondes se composent
+<lb corresp="#f27_z3_l5"/>celles de notre vue.
+<lb corresp="#f27_z3_l6"/>Les moralistes, comme je l’ai
+<lb corresp="#f27_z3_l7"/>déja observé dans mes Etudes, ont
+<lb corresp="#f27_z3_l8"/>presque toujours confondu l’igno¬
+<lb corresp="#f27_z3_l9"/>rance avec l’erreur. L’ignorance,
+<lb corresp="#f27_z3_l10"/>à la considérer seule et sans la
+<lb corresp="#f27_z3_l11"/>vérité avec laquelle elle a de si
+<lb corresp="#f27_z3_l12"/>douces harmonies, est le repos de
+<lb corresp="#f27_z3_l13"/>notre intelligence ; elle nous fait
+<lb corresp="#f27_z3_l14"/>oublier les maux passés , nous dis¬
+<lb corresp="#f27_z3_l15"/>simule les présens, et nous cache
+<lb corresp="#f27_z3_l16"/>ceux de l’avenir ; enfin elle est un
+<lb corresp="#f27_z3_l17"/>bien, puisque nous la tenons de la
+<lb corresp="#f27_z3_l18"/>nature : l’erreur au contraire est
 </p>
         <pb corresp="#f28"/>
-        <fw corresp="#f28_z1" n="NumberingZone"><lb corresp="#f28_z1_l1_t"/>xxij</fw>
-        <fw corresp="#f28_z2" n="RunningTitleZone"><lb corresp="#f28_z2_l1_t"/>AVANT-PROPOS.</fw>
-        <p corresp="#f28_z3" n="MainZone">
-<lb corresp="#f28_z3_l1_t"/>l’ouvrage de l’homme ; elle est tou¬
-<lb corresp="#f28_z3_l2_t"/>jours un mal ; c’est une fausse lu¬
-<lb corresp="#f28_z3_l3_t"/>mière qui luit pour nous égarer. Je
-<lb corresp="#f28_z3_l4_t"/>ne puis mieux la comparer qu’à
-<lb corresp="#f28_z3_l5_t"/>la lueur d’un incendie qui dévore
-<lb corresp="#f28_z3_l6_t"/>les habitations qu’elle éclaire. Il
-<lb corresp="#f28_z3_l7_t"/>est remarquable qu’il n’y a pas
-<lb corresp="#f28_z3_l8_t"/>un seul mal moral ou physique qui
-<lb corresp="#f28_z3_l9_t"/>n’ait pour principe une erreur. Les
-<lb corresp="#f28_z3_l10_t"/>tyrannies, l’esclavage, les guerres
-<lb corresp="#f28_z3_l11_t"/>sont fondées sur des erreurs poli¬
-<lb corresp="#f28_z3_l12_t"/>tiques, et même sacrées ; car les
-<lb corresp="#f28_z3_l13_t"/>tyrans qui les ont répandues pour
-<lb corresp="#f28_z3_l14_t"/>établir leur puissance, les ont
-<lb corresp="#f28_z3_l15_t"/>toujours dérivées de la Divinité ou
-<lb corresp="#f28_z3_l16_t"/>de quelque vertu, afin de les faire
-<lb corresp="#f28_z3_l17_t"/>respecter des hommes.
-<lb corresp="#f28_z3_l18_t"/>Il est cependant bien facile de
+        <fw corresp="#f28_z1" type="NumberingZone"><lb corresp="#f28_z1_l1"/>xxij</fw>
+        <fw corresp="#f28_z2" type="RunningTitleZone"><lb corresp="#f28_z2_l1"/>AVANT-PROPOS.</fw>
+        <p corresp="#f28_z3">
+<lb corresp="#f28_z3_l1"/>l’ouvrage de l’homme ; elle est tou¬
+<lb corresp="#f28_z3_l2"/>jours un mal ; c’est une fausse lu¬
+<lb corresp="#f28_z3_l3"/>mière qui luit pour nous égarer. Je
+<lb corresp="#f28_z3_l4"/>ne puis mieux la comparer qu’à
+<lb corresp="#f28_z3_l5"/>la lueur d’un incendie qui dévore
+<lb corresp="#f28_z3_l6"/>les habitations qu’elle éclaire. Il
+<lb corresp="#f28_z3_l7"/>est remarquable qu’il n’y a pas
+<lb corresp="#f28_z3_l8"/>un seul mal moral ou physique qui
+<lb corresp="#f28_z3_l9"/>n’ait pour principe une erreur. Les
+<lb corresp="#f28_z3_l10"/>tyrannies, l’esclavage, les guerres
+<lb corresp="#f28_z3_l11"/>sont fondées sur des erreurs poli¬
+<lb corresp="#f28_z3_l12"/>tiques, et même sacrées ; car les
+<lb corresp="#f28_z3_l13"/>tyrans qui les ont répandues pour
+<lb corresp="#f28_z3_l14"/>établir leur puissance, les ont
+<lb corresp="#f28_z3_l15"/>toujours dérivées de la Divinité ou
+<lb corresp="#f28_z3_l16"/>de quelque vertu, afin de les faire
+<lb corresp="#f28_z3_l17"/>respecter des hommes.
+<lb corresp="#f28_z3_l18"/>Il est cependant bien facile de
 </p>
         <pb corresp="#f29"/>
-        <fw corresp="#f29_z1" n="RunningTitleZone"><lb corresp="#f29_z1_l1_t"/>AVANT-PROPOS.</fw>
-        <fw corresp="#f29_z2" n="NumberingZone"><lb corresp="#f29_z2_l1_t"/>xxiij</fw>
-        <p corresp="#f29_z3" n="MainZone">
-<lb corresp="#f29_z3_l1_t"/>distinguer l’erreur de la vérité. La
-<lb corresp="#f29_z3_l2_t"/>vérité est une lumière naturelle qui
-<lb corresp="#f29_z3_l3_t"/>Iuit d’elle-même par toute la terre,
-<lb corresp="#f29_z3_l4_t"/>parce qu’elle vient de Dieu ; l’er¬
-<lb corresp="#f29_z3_l5_t"/>reur est une lueur artificielle qui
-<lb corresp="#f29_z3_l6_t"/>a besoin sans cesse d’être alimen¬
-<lb corresp="#f29_z3_l7_t"/>tée, et qui ne peut jamais être
-<lb corresp="#f29_z3_l8_t"/>universelle, parce qu’elle n’est que
-<lb corresp="#f29_z3_l9_t"/>l’ouvrage des hommes. La vérité
-<lb corresp="#f29_z3_l10_t"/>est utile à tous les hommes ; l’er¬
-<lb corresp="#f29_z3_l11_t"/>reur n’est profitable qu’à quelques-
-<lb corresp="#f29_z3_l12_t"/>uns, et est nuisible à tous, parce
-<lb corresp="#f29_z3_l13_t"/>que l’intérêt particulier est l’en¬
-<lb corresp="#f29_z3_l14_t"/>nemi de l’intérêt général, quand
-<lb corresp="#f29_z3_l15_t"/>il s’en sépare.
-<lb corresp="#f29_z3_l16_t"/>Il faut bien prendre garde de
-<lb corresp="#f29_z3_l17_t"/>confondre la fable avec l’erreur.
-<lb corresp="#f29_z3_l18_t"/>La fable est le voile de la vérité,
+        <fw corresp="#f29_z1" type="RunningTitleZone"><lb corresp="#f29_z1_l1"/>AVANT-PROPOS.</fw>
+        <fw corresp="#f29_z2" type="NumberingZone"><lb corresp="#f29_z2_l1"/>xxiij</fw>
+        <p corresp="#f29_z3">
+<lb corresp="#f29_z3_l1"/>distinguer l’erreur de la vérité. La
+<lb corresp="#f29_z3_l2"/>vérité est une lumière naturelle qui
+<lb corresp="#f29_z3_l3"/>Iuit d’elle-même par toute la terre,
+<lb corresp="#f29_z3_l4"/>parce qu’elle vient de Dieu ; l’er¬
+<lb corresp="#f29_z3_l5"/>reur est une lueur artificielle qui
+<lb corresp="#f29_z3_l6"/>a besoin sans cesse d’être alimen¬
+<lb corresp="#f29_z3_l7"/>tée, et qui ne peut jamais être
+<lb corresp="#f29_z3_l8"/>universelle, parce qu’elle n’est que
+<lb corresp="#f29_z3_l9"/>l’ouvrage des hommes. La vérité
+<lb corresp="#f29_z3_l10"/>est utile à tous les hommes ; l’er¬
+<lb corresp="#f29_z3_l11"/>reur n’est profitable qu’à quelques-
+<lb corresp="#f29_z3_l12"/>uns, et est nuisible à tous, parce
+<lb corresp="#f29_z3_l13"/>que l’intérêt particulier est l’en¬
+<lb corresp="#f29_z3_l14"/>nemi de l’intérêt général, quand
+<lb corresp="#f29_z3_l15"/>il s’en sépare.
+<lb corresp="#f29_z3_l16"/>Il faut bien prendre garde de
+<lb corresp="#f29_z3_l17"/>confondre la fable avec l’erreur.
+<lb corresp="#f29_z3_l18"/>La fable est le voile de la vérité,
 </p>
       </div>
     </body>
