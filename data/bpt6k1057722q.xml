@@ -3481,7 +3481,7 @@
     <body>
       <div>
         <pb corresp="#f17"/>
-        <p corresp="#f17_z1">
+        <ab corresp="#f17_z1" type="MainZone">
 <lb corresp="#f17_z1_l1"/>Cy commence Boece son premi-
 <lb corresp="#f17_z1_l2"/>er liure ꝑ maniere de dyalogue en me-
 <lb corresp="#f17_z1_l3"/>tres et en proses compile et translate a
@@ -3490,14 +3490,14 @@
 <lb corresp="#f17_z2_l2"/>empeschent des biens temporelz.
 <lb corresp="#f17_z2_l3"/>Et en cestui premier metre parle boece
 <lb corresp="#f17_z2_l4"/>cõme homme dolent et fort desole.
-</p>
+</ab>
         <pb corresp="#f18"/>
-        <p corresp="#f18_z1">
+        <ab corresp="#f18_z1" type="MainZone">
 <lb corresp="#f18_z1_l1"/>Armina qui quondam stu-
 <lb corresp="#f18_z1_l2"/>dio florente per egi. ⁋ Fle-
 <lb corresp="#f18_z1_l3"/>bilis heu mestos cogor inire
 <lb corresp="#f18_z1_l4"/>modos. et cet̾. Texte
-<hi type="DropCapitalLine"><lb corresp="#f18_z1_l5"/>C</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f18_z1_l5"/>C</hi>
 <lb corresp="#f18_z1_l6"/>De qui iadis ay fait dicties ioyeux
 <lb corresp="#f18_z1_l7"/>Par estude florissant douloureux
 <lb corresp="#f18_z1_l8"/>Las suis cõstraint cõmẽcer ꝑ misere
@@ -3538,9 +3538,9 @@
 <lb corresp="#f18_z1_l43"/>tendist.
 <lb corresp="#f18_z1_l44"/>L heure triste de mort auoit plongie
 <lb corresp="#f18_z1_l45"/>Presq̃ mõ chiez de douleur tout rongie;
-</p>
+</ab>
         <fw corresp="#f18_z2" type="RunningTitleZone"><lb corresp="#f18_z2_l1"/>Le premier liure</fw>
-        <p corresp="#f18_z3">
+        <ab corresp="#f18_z3" type="MainZone">
 <lb corresp="#f18_z3_l1"/>Mais maintenant pour ce que icelle ob
 <lb corresp="#f18_z3_l2"/>scure
 <lb corresp="#f18_z3_l3"/>Ma ia mue sa face faulse et sure
@@ -3552,7 +3552,7 @@
 <lb corresp="#f18_z3_l9"/>Fortune m a mis hors ferme de gre
 <lb corresp="#f18_z3_l10"/>ͦ⁋ Glose
 <lb corresp="#f18_z3_l11"/>Estui liure de consolation de phi-
-<hi type="DropCapitalLine"><lb corresp="#f18_z3_l12"/>S</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f18_z3_l12"/>S</hi>
 <lb corresp="#f18_z3_l13"/>losophie ouquel boece en ẽsuiuãt
 <lb corresp="#f18_z3_l14"/>la maniere de platon procede par dya-
 <lb corresp="#f18_z3_l15"/>logue. et est diuise en cincq liures par
@@ -3587,9 +3587,9 @@
 <lb corresp="#f18_z3_l44"/>ties du premier liure laissie pour cau-
 <lb corresp="#f18_z3_l45"/>se de briefuete est assauoir que Boece
 <lb corresp="#f18_z3_l46"/>au ꝯmẽcem̃t en en la p̃miere ꝑtie de son
-</p>
+</ab>
         <pb corresp="#f19"/>
-        <p corresp="#f19_z1">
+        <ab corresp="#f19_z1" type="MainZone">
 <lb corresp="#f19_z1_l1"/>premier liure se monstre tel comme cel
 <lb corresp="#f19_z1_l2"/>iui qui a besoing de consolation com-
 <lb corresp="#f19_z1_l3"/>mencant au derrenier degre de deso-
@@ -3635,9 +3635,9 @@
 <lb corresp="#f19_z1_l43"/>ne fust enclose et comprinse; touttefoi ᷤ
 <lb corresp="#f19_z1_l44"/>les haultes et eureuses matieres sõt de
 <lb corresp="#f19_z1_l45"/>scriptes de present par celle maniere de
-</p>
+</ab>
         <fw corresp="#f19_z2" type="RunningTitleZone"><lb corresp="#f19_z2_l1"/>De Boece</fw>
-        <p corresp="#f19_z3">
+        <ab corresp="#f19_z3" type="MainZone">
 <lb corresp="#f19_z3_l1"/>mettre pourquoy Orace dit. ⁋ Uersi-
 <lb corresp="#f19_z3_l2"/>bus impariter iunctis queromonia pri-
 <lb corresp="#f19_z3_l3"/>mum. Post etiam inclusa est uoti sen-
@@ -3683,11 +3683,11 @@
 <lb corresp="#f19_z3_l43"/>se point ceulx icy que ie ay fays de mes
 <lb corresp="#f19_z3_l44"/>tristesses et douleurs. Tiercement est
 <lb corresp="#f19_z3_l45"/>a noter que selon Tule; estude est une
-</p>
+</ab>
         <fw corresp="#f19_z4" type="NumberingZone"><lb corresp="#f19_z4_l1"/>fueillet .ii.</fw>
         <fw corresp="#f19_z5" type="QuireMarksZone"><lb corresp="#f19_z5_l1"/>a ii</fw>
         <pb corresp="#f20"/>
-        <p corresp="#f20_z1">
+        <ab corresp="#f20_z1" type="MainZone">
 <lb corresp="#f20_z1_l1"/>uehemente application de couraige a-
 <lb corresp="#f20_z1_l2"/>uec souuerain desir et grande uoulen-
 <lb corresp="#f20_z1_l3"/>te a faire aucune euure honneste. Pour
@@ -3733,9 +3733,9 @@
 <lb corresp="#f20_z1_l43"/>ologie tissues par tres efficaces Raysõs
 <lb corresp="#f20_z1_l44"/>et ĩdissolubles uerite; ⁊ en icelle ᷤ est trou
 <lb corresp="#f20_z1_l45"/>uee la uraye consolation; les autres sõt
-</p>
+</ab>
         <fw corresp="#f20_z2" type="RunningTitleZone"><lb corresp="#f20_z2_l1"/>Le premier liure</fw>
-        <p corresp="#f20_z3">
+        <ab corresp="#f20_z3" type="MainZone">
 <lb corresp="#f20_z3_l1"/>deschirees c est assauoir les poeticque ᷤ fi
 <lb corresp="#f20_z3_l2"/>xion cousues de faulsete entre les urai
 <lb corresp="#f20_z3_l3"/>es choses, et en icelle n est pas la uraye
@@ -3781,9 +3781,9 @@
 <lb corresp="#f20_z3_l43"/>aucune crainte ⁋ A ce propos concorde
 <lb corresp="#f20_z3_l44"/>ouide ou quart liure des tristes ou il dit
 <lb corresp="#f20_z3_l45"/>⁋ Me quoqz musa leuat potitum an
-</p>
+</ab>
         <pb corresp="#f21"/>
-        <p corresp="#f21_z1">
+        <ab corresp="#f21_z1" type="MainZone">
 <lb corresp="#f21_z1_l1"/>iussa potentem. Sola comes nostre per
 <lb corresp="#f21_z1_l2"/>tulit esse fuge. Sola nec insidias inter
 <lb corresp="#f21_z1_l3"/>nec militis ensem. Nec mare nec uen-
@@ -3829,9 +3829,9 @@
 <lb corresp="#f21_z1_l43"/>te de sa gloire; Car elles le auoyent
 <lb corresp="#f21_z1_l44"/>fait glorieux en assistant au cõseil par
 <lb corresp="#f21_z1_l45"/>son eloquence et par compilations de
-</p>
+</ab>
         <fw corresp="#f21_z2" type="RunningTitleZone"><lb corresp="#f21_z2_l1"/>De Boece</fw>
-        <p corresp="#f21_z3">
+        <ab corresp="#f21_z3" type="MainZone">
 <lb corresp="#f21_z3_l1"/>liures. En apres boece appelle sa ieu-
 <lb corresp="#f21_z3_l2"/>nesse fleurissant et uerde; Car la ieu-
 <lb corresp="#f21_z3_l3"/>esse de ung homme, donne a estude
@@ -3877,11 +3877,11 @@
 <lb corresp="#f21_z3_l43"/>totallement consumme dont mort na-
 <lb corresp="#f21_z3_l44"/>turelle s ensuit comme l extinction du
 <lb corresp="#f21_z3_l45"/>feu en la lampe par deffault de huyl
-</p>
+</ab>
         <fw corresp="#f21_z4" type="NumberingZone"><lb corresp="#f21_z4_l1"/>fueillet .iii</fw>
         <fw corresp="#f21_z5" type="QuireMarksZone"><lb corresp="#f21_z5_l1"/>a.iii</fw>
         <pb corresp="#f22"/>
-        <p corresp="#f22_z1">
+        <ab corresp="#f22_z1" type="MainZone">
 <lb corresp="#f22_z1_l1"/>le. L autre uieillesse fatale est celle qui
 <lb corresp="#f22_z1_l2"/>uient de grande enfermete par laquel
 <lb corresp="#f22_z1_l3"/>le la chaleur naturelle en l honneur ra
@@ -3926,9 +3926,9 @@
 <lb corresp="#f22_z1_l42"/>A ce propos ung metrisieur nombrant
 <lb corresp="#f22_z1_l43"/>les dommaiges et inconueniens circũ
 <lb corresp="#f22_z1_l44"/>uenans les enciens dit.
-</p>
+</ab>
         <fw corresp="#f22_z2" type="RunningTitleZone"><lb corresp="#f22_z2_l1"/>Le premier liure</fw>
-        <p corresp="#f22_z3">
+        <ab corresp="#f22_z3" type="MainZone">
 <lb corresp="#f22_z3_l1"/>Ad senium uirgo caput ad deliuia mer
 <lb corresp="#f22_z3_l2"/>̃go. Incuruor tergo baculiqz iuuami-
 <lb corresp="#f22_z3_l3"/>ne pergo. Tussio dispergo. ⁊c.
@@ -3970,9 +3970,9 @@
 <lb corresp="#f22_z3_l39"/>apparoir par certaines raysons. Pre-
 <lb corresp="#f22_z3_l40"/>mierement car ie suis tout chenu com-
 <lb corresp="#f22_z3_l41"/>bien que ce soit deuant le temps; Car
-</p>
+</ab>
         <pb corresp="#f23"/>
-        <p corresp="#f23_z1">
+        <ab corresp="#f23_z1" type="MainZone">
 <lb corresp="#f23_z1_l1"/>ie n ay pas grant ombre de ans. Et cõ
 <lb corresp="#f23_z1_l2"/>me estre chenu ne cõuiengne a nul fors
 <lb corresp="#f23_z1_l3"/>aux hommes en uieillesse tant seulle-
@@ -4018,9 +4018,9 @@
 <lb corresp="#f23_z1_l43"/>ce et augmentacion du corps; qu il s en
 <lb corresp="#f23_z1_l44"/>eu apore par sueurs passans par la grã
 <lb corresp="#f23_z1_l45"/>de multitude des porres. ⁋ En ceste
-</p>
+</ab>
         <fw corresp="#f23_z2" type="RunningTitleZone"><lb corresp="#f23_z2_l1"/>De Boece</fw>
-        <p corresp="#f23_z3">
+        <ab corresp="#f23_z3" type="MainZone">
 <lb corresp="#f23_z3_l1"/>quarte partie de ce mettre en laquelle
 <lb corresp="#f23_z3_l2"/>on dit ou texte que la mort des hom-
 <lb corresp="#f23_z3_l3"/>mes est eureuse boece a maniere d hom-
@@ -4066,10 +4066,10 @@
 <lb corresp="#f23_z3_l43"/>p̃s il fait une autre exclamaciõ ꝯtre la
 <lb corresp="#f23_z3_l44"/>mort ⁊ du; La ᷤ la ᷤ mort plꝰ cruelle q̃ ung
 <lb corresp="#f23_z3_l45"/>aspic destourne se ᷤ oreille ᷤ de me ᷤ priere ᷤ
-</p>
+</ab>
         <fw corresp="#f23_z4" type="NumberingZone"><lb corresp="#f23_z4_l1"/>Fueillet.iiii</fw>
         <pb corresp="#f24"/>
-        <p corresp="#f24_z1">
+        <ab corresp="#f24_z1" type="MainZone">
 <lb corresp="#f24_z1_l1"/>Car elle despite les clameur ᷤ de ᷤ mal
 <lb corresp="#f24_z1_l2"/>eureux inuocans icelle et desirãs mou
 <lb corresp="#f24_z1_l3"/>rir pour donner fin a leurs douleurs.
@@ -4115,9 +4115,9 @@
 <lb corresp="#f24_z1_l43"/>de ses biens, lesquelz i ay maintenant
 <lb corresp="#f24_z1_l44"/>trouue et esprouue estre legiers et tran
 <lb corresp="#f24_z1_l45"/>sitoire; adoncques la mort tres cruelle
-</p>
+</ab>
         <fw corresp="#f24_z2" type="RunningTitleZone"><lb corresp="#f24_z2_l1"/>Le premier liure</fw>
-        <p corresp="#f24_z3">
+        <ab corresp="#f24_z3" type="MainZone">
 <lb corresp="#f24_z3_l1"/>m auoit a peine prosterne ⁊ plõgie tout
 <lb corresp="#f24_z3_l2"/>mon chief; Mais puis que icelle fortu-
 <lb corresp="#f24_z3_l3"/>ne decepuable m a monstre son uiaire
@@ -4162,9 +4162,9 @@
 <lb corresp="#f24_z3_l42"/>Pour ce, riche doulce ⁊ crueuse
 <lb corresp="#f24_z3_l43"/>Amere, et tres delicieuse
 <lb corresp="#f24_z3_l44"/>Elle rit en plourant
-</p>
+</ab>
         <pb corresp="#f25"/>
-        <p corresp="#f25_z1">
+        <ab corresp="#f25_z1" type="MainZone">
 <lb corresp="#f25_z1_l1"/>Chancelle en estant
 <lb corresp="#f25_z1_l2"/>Aueugle en uoyant
 <lb corresp="#f25_z1_l3"/>En legierte manant
@@ -4208,9 +4208,9 @@
 <lb corresp="#f25_z1_l41"/>reux car se ie l eusse este, i eusse este esta-
 <lb corresp="#f25_z1_l42"/>ble et parmanẽt ou degre de ma digni
 <lb corresp="#f25_z1_l43"/>te; mais ie n y ay pas este car ie suis de
-</p>
+</ab>
         <fw corresp="#f25_z2" type="RunningTitleZone"><lb corresp="#f25_z2_l1"/>De Boece</fw>
-        <p corresp="#f25_z3">
+        <ab corresp="#f25_z3" type="MainZone">
 <lb corresp="#f25_z3_l1"/>ceu de mes ioyeusetez et plaisirs. pour
 <lb corresp="#f25_z3_l2"/>quoy ne me deuiez reputer pour eureux
 <lb corresp="#f25_z3_l3"/>Certes uous deuiez auoir attendu la
@@ -4224,11 +4224,9 @@
 <lb corresp="#f25_z3_l11"/>beneureux deuant sa mort, et que au der
 <lb corresp="#f25_z3_l12"/>renier iours ses funerailles faictes; a-
 <lb corresp="#f25_z3_l13"/>donc il est parfait.
-<hi type="HeadingLine"><lb corresp="#f25_z3_l14"/>⁋ Comment boece introduit cõ-</hi>
-<hi type="HeadingLine"><lb corresp="#f25_z3_l15"/>me acteur de ceste enuure la persõ</hi>
-<hi type="HeadingLine"><lb corresp="#f25_z3_l16"/>ne consolante.</hi>
+<hi rend="HeadingLine"><lb corresp="#f25_z3_l14"/>⁋ Comment boece introduit cõ-<lb corresp="#f25_z3_l15"/>me acteur de ceste enuure la persõ<lb corresp="#f25_z3_l16"/>ne consolante.</hi>
 <lb corresp="#f25_z3_l17"/>Ec dum mecum tacitus ipse repu
-<hi type="DropCapitalLine"><lb corresp="#f25_z3_l18"/>H</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f25_z3_l18"/>H</hi>
 <lb corresp="#f25_z3_l19"/>tarem ⁊c. ⁋ Texte.
 <lb corresp="#f25_z3_l20"/>Comme ie boece taisible en moy meis-
 <lb corresp="#f25_z3_l21"/>mes pẽsasse et reuoluasse les choses des
@@ -4252,10 +4250,10 @@
 <lb corresp="#f25_z3_l39"/>phose dit ⁋ Heu Ꝙ difficille ẽ crimẽ nõ
 <lb corresp="#f25_z3_l40"/>prodere uultu. La ᷤ cõe difficille chose est
 <lb corresp="#f25_z3_l41"/>non monstrer, Mais mucer sa faulte.
-</p>
+</ab>
         <fw corresp="#f25_z4" type="NumberingZone"><lb corresp="#f25_z4_l1"/>Fueillet.u</fw>
         <pb corresp="#f26"/>
-        <p corresp="#f26_z1">
+        <ab corresp="#f26_z1" type="MainZone">
 <lb corresp="#f26_z1_l1"/>est on peche, par son uiaire. Comme se
 <lb corresp="#f26_z1_l2"/>il uoulsist dire cest chose tres difficille.
 <lb corresp="#f26_z1_l3"/>Et ce se fait conuenitement, car les pu
@@ -4301,9 +4299,9 @@
 <lb corresp="#f26_z1_l43"/>atur sanctum .⁊c. Iamais malice n eut
 <lb corresp="#f26_z1_l44"/>tant de conualescence en la face d au-
 <lb corresp="#f26_z1_l45"/>cun philosophe; que le nom de philoso-
-</p>
+</ab>
         <fw corresp="#f26_z2" type="RunningTitleZone"><lb corresp="#f26_z2_l1"/>Le premier liure</fw>
-        <p corresp="#f26_z3">
+        <ab corresp="#f26_z3" type="MainZone">
 <lb corresp="#f26_z3_l1"/>phe ne fust tousiours tenu pour saint ⁊
 <lb corresp="#f26_z3_l2"/>honnourable. Ou dis icelle estre de re
 <lb corresp="#f26_z3_l3"/>uerente face; C est a dire de face re-
@@ -4349,7 +4347,7 @@
 <lb corresp="#f26_z3_l43"/>ou feu infiniement les bruleroit. Ain-
 <lb corresp="#f26_z3_l44"/>si rayson et entendement; toute chose
 <lb corresp="#f26_z3_l45"/>intelligible a eulx presentee tousiours
-</p>
+</ab>
       </div>
     </body>
   </text>

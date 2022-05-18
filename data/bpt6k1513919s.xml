@@ -2567,25 +2567,16 @@
     <body>
       <div>
         <pb corresp="#f3"/>
-        <p corresp="#f3_z1">
-<hi type="HeadingLine"><lb corresp="#f3_z1_l1"/>LLLVSTRISSIME ET REVERENDISSME.</hi>
-<hi type="HeadingLine"><lb corresp="#f3_z1_l2"/>A MONSEIGNEVR.</hi>
-<hi type="HeadingLine"><lb corresp="#f3_z1_l3"/>LAVRENS CVRSI</hi>
-<hi type="HeadingLine"><lb corresp="#f3_z1_l4"/>Doyen des Protonotaires Apoſtolics du nombre des</hi>
-<hi type="HeadingLine"><lb corresp="#f3_z1_l5"/>Participans, Referendaire de l'vne &amp; l'autre</hi>
-<hi type="HeadingLine"><lb corresp="#f3_z1_l6"/>Signature, Vicelegat &amp; Gouuerneur General</hi>
-<hi type="HeadingLine"><lb corresp="#f3_z1_l7"/>en cette Cité &amp; Legation d’Auignon, &amp; Sur-</hi>
-<hi type="HeadingLine"><lb corresp="#f3_z1_l8"/>Intendant General au fait des Armes pour</hi>
-<hi type="HeadingLine"><lb corresp="#f3_z1_l9"/>Noſtre Saint pere en cet Eſtat.</hi>
-<hi type="DropCapitalLine"><lb corresp="#f3_z1_l10"/>M</hi>
+        <ab corresp="#f3_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f3_z1_l1"/>LLLVSTRISSIME ET REVERENDISSME.<lb corresp="#f3_z1_l2"/>A MONSEIGNEVR.<lb corresp="#f3_z1_l3"/>LAVRENS CVRSI<lb corresp="#f3_z1_l4"/>Doyen des Protonotaires Apoſtolics du nombre des<lb corresp="#f3_z1_l5"/>Participans, Referendaire de l'vne &amp; l'autre<lb corresp="#f3_z1_l6"/>Signature, Vicelegat &amp; Gouuerneur General<lb corresp="#f3_z1_l7"/>en cette Cité &amp; Legation d’Auignon, &amp; Sur-<lb corresp="#f3_z1_l8"/>Intendant General au fait des Armes pour<lb corresp="#f3_z1_l9"/>Noſtre Saint pere en cet Eſtat.<lb corresp="#f3_z1_l10"/>M</hi>
 <lb corresp="#f3_z1_l11"/>ONSEIGNEVR.
 <lb corresp="#f3_z1_l12"/>Pvis qu’il vous a pleu d’hon¬
 <lb corresp="#f3_z1_l13"/>norer noſtre Balet de voſtre pre¬
 <lb corresp="#f3_z1_l14"/>ſence autant de fois que le deſir
 <lb corresp="#f3_z1_l15"/>des Curieux nous a obligé de le
-</p>
+</ab>
         <pb corresp="#f4"/>
-        <p corresp="#f4_z1">
+        <ab corresp="#f4_z1" type="MainZone">
 <lb corresp="#f4_z1_l1"/>danſer, &amp; leur: faire voit les merveil¬
 <lb corresp="#f4_z1_l2"/>Ieuſes decorations du Theatre, nous
 <lb corresp="#f4_z1_l3"/>auons creu d’y auoir entierement ren¬
@@ -2606,29 +2597,24 @@
 <lb corresp="#f4_z1_l18"/>ble s’eſtre ſurmontée en toutes cho¬
 <lb corresp="#f4_z1_l19"/>ſes) nous en a donné la matiere,
 <lb corresp="#f4_z1_l20"/>voſtre chere preſence nous a animez
-</p>
+</ab>
         <fw corresp="#f4_z2" type="RunningTitleZone"><lb corresp="#f4_z2_l1"/>EPISTRE.</fw>
         <pb corresp="#f5"/>
         <fw corresp="#f5_z1" type="RunningTitleZone"><lb corresp="#f5_z1_l1"/>EPISTRE.</fw>
-        <p corresp="#f5_z2">
+        <ab corresp="#f5_z2" type="MainZone">
 <lb corresp="#f5_z2_l1"/>à l'execution, &amp; voſtre bonté nous
 <lb corresp="#f5_z2_l2"/>oblige de faire ſçauoir à tout le mon¬
 <lb corresp="#f5_z2_l3"/>de que nous ſommes,
-<hi type="HeadingLine"><lb corresp="#f5_z2_l4"/>MONSEIGNEVR.</hi>
-<hi type="HeadingLine"><lb corresp="#f5_z2_l5"/>De voſtre Seigneurie IlIme</hi>
-<hi type="HeadingLine"><lb corresp="#f5_z2_l6"/>Les tres-humbles &amp; tres-obeïſſans</hi>
-<hi type="HeadingLine"><lb corresp="#f5_z2_l7"/>Seruiteurs.</hi>
-<hi type="HeadingLine"><lb corresp="#f5_z2_l8"/>L.N.C.A.D.L.S.D.B.</hi>
-</p>
+<hi rend="HeadingLine"><lb corresp="#f5_z2_l4"/>MONSEIGNEVR.<lb corresp="#f5_z2_l5"/>De voſtre Seigneurie IlIme<lb corresp="#f5_z2_l6"/>Les tres-humbles &amp; tres-obeïſſans<lb corresp="#f5_z2_l7"/>Seruiteurs.<lb corresp="#f5_z2_l8"/>L.N.C.A.D.L.S.D.B.</hi>
+</ab>
         <pb corresp="#f7"/>
-        <p corresp="#f7_z1">
-<hi type="HeadingLine"><lb corresp="#f7_z1_l1"/>LES DIVERS ENTRETIENS</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l2"/>de la Fontaine de Vaucluſe,</hi>
+        <ab corresp="#f7_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f7_z1_l1"/>LES DIVERS ENTRETIENS<lb corresp="#f7_z1_l2"/>de la Fontaine de Vaucluſe,</hi>
 <lb corresp="#f7_z1_l3"/>A Sale où à eſté dansé le Balet eſt de
 <lb corresp="#f7_z1_l4"/>dix-ſept toiſes de longueur, &amp; ſept de lar¬
 <lb corresp="#f7_z1_l5"/>geur ou enuirõ, à l’vn des bouts eſtoit eſte¬
 <lb corresp="#f7_z1_l6"/>ué vn Theatre de cinq pieds &amp; demy de
-<hi type="DropCapitalLine"><lb corresp="#f7_z1_l7"/>L</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f7_z1_l7"/>L</hi>
 <lb corresp="#f7_z1_l8"/>hauteur, ſur le deuant &amp; au fonds de huit
 <lb corresp="#f7_z1_l9"/>pieds pour luy donner la pente, il auoit ſept toiſes de lar¬
 <lb corresp="#f7_z1_l10"/>geur, &amp; autant de profondeur: ſon frontiſpice eſtoit
@@ -2646,13 +2632,13 @@
 <lb corresp="#f7_z1_l22"/>cerner ſa decoration ; à ſa main gauche ce n’eſtoient
 <lb corresp="#f7_z1_l23"/>que rochers couuerts d’arbres, d’animaux, &amp; de ruiſſeaux
 <lb corresp="#f7_z1_l24"/>coulans des croupes en bas; à ſa main droite on voyoit
-</p>
+</ab>
         <fw corresp="#f7_z2" type="NumberingZone"><lb corresp="#f7_z2_l1"/>I</fw>
         <fw corresp="#f7_z3" type="QuireMarksZone"><lb corresp="#f7_z3_l1"/>A</fw>
         <pb corresp="#f8"/>
         <fw corresp="#f8_z1" type="NumberingZone"><lb corresp="#f8_z1_l1"/>2</fw>
         <fw corresp="#f8_z2" type="RunningTitleZone"><lb corresp="#f8_z2_l1"/>Les diuers Entretiens</fw>
-        <p corresp="#f8_z3">
+        <ab corresp="#f8_z3" type="MainZone">
 <lb corresp="#f8_z3_l1"/>ſur vne verdoyante coline vne maiſon, qui dans ſes ruis¬
 <lb corresp="#f8_z3_l2"/>nes monſtroit encore les reſtes d’vne venerable Antiqui¬
 <lb corresp="#f8_z3_l3"/>té C’eſt où l’illuſtre Petrarque auoit jadis eſtably ſa de¬
@@ -2676,15 +2662,15 @@
 <lb corresp="#f8_z3_l21"/>&amp; incomparable Architecte Monſieur Dominique
 <lb corresp="#f8_z3_l22"/>Bourbon de Boulogne, dont le merite ne peut eſtre
 <lb corresp="#f8_z3_l23"/>aſſez dignement loüé, ny la vertu recompenſée.
-<hi type="HeadingLine"><lb corresp="#f8_z3_l24"/>OECONOMIE DV BALET.</hi>
+<hi rend="HeadingLine"><lb corresp="#f8_z3_l24"/>OECONOMIE DV BALET.</hi>
 <lb corresp="#f8_z3_l25"/>ES haubois avans ceſſé, les violons donnerent
-<hi type="DropCapitalLine"><lb corresp="#f8_z3_l26"/>L</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f8_z3_l26"/>L</hi>
 <lb corresp="#f8_z3_l27"/>commencement au Balet.
 <lb corresp="#f8_z3_l28"/>Vvlturne courrier major de la Renommé auec ſon
 <lb corresp="#f8_z3_l29"/>incroyable
-</p>
+</ab>
         <pb corresp="#f9"/>
-        <p corresp="#f9_z1">
+        <ab corresp="#f9_z1" type="MainZone">
 <lb corresp="#f9_z1_l1"/>diligence fit la premiere entrée, ſemant dans la ſalle vne.
 <lb corresp="#f9_z1_l2"/>infinité de Liures, pour faire comprendre aux ſpecta¬
 <lb corresp="#f9_z1_l3"/>teurs auec plus de facilité, &amp; le ſujet, &amp; la diſpoſition
@@ -2714,14 +2700,14 @@
 <lb corresp="#f9_z1_l27"/>roient traiſnez par ces Spectres bruſlans dans quelque
 <lb corresp="#f9_z1_l28"/>precipice, ce qui les forca de ſe deſrober ſubtilement
 <lb corresp="#f9_z1_l29"/>A leur veuë, laiſſans faire à ces Eſprits Folets la quatriéme
-</p>
+</ab>
         <fw corresp="#f9_z2" type="RunningTitleZone"><lb corresp="#f9_z2_l1"/>de la Fontaine de Vaucluſe.</fw>
         <fw corresp="#f9_z3" type="NumberingZone"><lb corresp="#f9_z3_l1"/>3</fw>
         <fw corresp="#f9_z4" type="QuireMarksZone"><lb corresp="#f9_z4_l1"/>B</fw>
         <pb corresp="#f10"/>
         <fw corresp="#f10_z1" type="NumberingZone"><lb corresp="#f10_z1_l1"/>4</fw>
         <fw corresp="#f10_z2" type="RunningTitleZone"><lb corresp="#f10_z2_l1"/>Les diuers Entretiens.</fw>
-        <p corresp="#f10_z3">
+        <ab corresp="#f10_z3" type="MainZone">
 <lb corresp="#f10_z3_l1"/>entrée, jugez auec quelle legereté, puis que ce ne ſont
 <lb corresp="#f10_z3_l2"/>que fantômes.
 <lb corresp="#f10_z3_l3"/>Dans les plus eſpaiſſes tenebres de la nuit, quatre
@@ -2751,14 +2737,14 @@
 <lb corresp="#f10_z3_l27"/>vne voix imparfaite, elle ne laiſſa pas de faire ſon entrée.
 <lb corresp="#f10_z3_l28"/>auſſi agreable qu’on la pouuoit deſirer; mais alors, la
 <lb corresp="#f10_z3_l29"/>clarté de la Lune commença à pouſſer ſes cornes argen¬
-</p>
+</ab>
         <pb corresp="#f11"/>
-        <p corresp="#f11_z1">
+        <ab corresp="#f11_z1" type="MainZone">
 <lb corresp="#f11_z1_l1"/>tées ſur l'oriſon, ce qui obligea cette Amante deſolée à
 <lb corresp="#f11_z1_l2"/>ſe retirer dans ſes humides grottes, pour s’entretenir
 <lb corresp="#f11_z1_l3"/>auec ceux qui viſiteront la Fontaine ce iour là, &amp; les di¬
 <lb corresp="#f11_z1_l4"/>uertir par ſes redites continuelles.
-<hi type="HeadingLine"><lb corresp="#f11_z1_l5"/>Ici la Lune commençea à paroiſtre.</hi>
+<hi rend="HeadingLine"><lb corresp="#f11_z1_l5"/>Ici la Lune commençea à paroiſtre.</hi>
 <lb corresp="#f11_z1_l6"/>A
 <lb corresp="#f11_z1_l7"/>V premier éclat de cette brillante Sœur du So¬
 <lb corresp="#f11_z1_l8"/>leil, le jeune Endimion vint ſaluer ſa fidelle Mai-
@@ -2783,23 +2769,19 @@
 <lb corresp="#f11_z1_l27"/>vſurier auaricieux, vn trébuchet à la main, vn Mathe¬
 <lb corresp="#f11_z1_l28"/>maticien auec vn plobe; &amp; vn Alchimiſte coiſſé de la
 <lb corresp="#f11_z1_l29"/>chape d’vn alembic; l’air, la danſe, &amp; les figures de cete
-</p>
+</ab>
         <fw corresp="#f11_z3" type="NumberingZone"><lb corresp="#f11_z3_l1"/>5</fw>
         <fw corresp="#f11_z4" type="RunningTitleZone"><lb corresp="#f11_z4_l1"/>de la Fontaine de Vaucluſe.</fw>
         <fw corresp="#f11_z5" type="QuireMarksZone"><lb corresp="#f11_z5_l1"/>B 2</fw>
         <pb corresp="#f12"/>
-        <p corresp="#f12_z1">
+        <ab corresp="#f12_z1" type="MainZone">
 <lb corresp="#f12_z1_l1"/>entrée ſirent voir vne ſi profonde melancolie, qu’il ſem¬
 <lb corresp="#f12_z1_l2"/>bla que la ſin du Balet deuoit eſtre celle de leur vie. il
 <lb corresp="#f12_z1_l3"/>s’acheua pourtant, car la rouge Fourriere du iour diſſi¬
 <lb corresp="#f12_z1_l4"/>pant les moites clartez de la Lune, s’apreſtoit à faire
 <lb corresp="#f12_z1_l5"/>Voir les ſiennes, &amp; donner la chaſſe à ces Lunatiques,
 <lb corresp="#f12_z1_l6"/>qui ſuiuirent cet Aſtre qui les predomine.
-<hi type="HeadingLine"><lb corresp="#f12_z1_l7"/>Icy la Lune ſe perdit, auec les Estoile, et du coſté de l'Orient</hi>
-<hi type="HeadingLine"><lb corresp="#f12_z1_l8"/>quelques ranons d’vne clarté moderée ſe firent voir ſur</hi>
-<hi type="HeadingLine"><lb corresp="#f12_z1_l9"/>l’Oriſon, donnans à la Scene autant de lumiere que la</hi>
-<hi type="HeadingLine"><lb corresp="#f12_z1_l10"/>pointe du iour en peut fournir, &amp; faire plus claire¬</hi>
-<hi type="HeadingLine"><lb corresp="#f12_z1_l11"/>ment diſcerner ſa decoration.</hi>
+<hi rend="HeadingLine"><lb corresp="#f12_z1_l7"/>Icy la Lune ſe perdit, auec les Estoile, et du coſté de l'Orient<lb corresp="#f12_z1_l8"/>quelques ranons d’vne clarté moderée ſe firent voir ſur<lb corresp="#f12_z1_l9"/>l’Oriſon, donnans à la Scene autant de lumiere que la<lb corresp="#f12_z1_l10"/>pointe du iour en peut fournir, &amp; faire plus claire¬<lb corresp="#f12_z1_l11"/>ment diſcerner ſa decoration.</hi>
 <lb corresp="#f12_z1_l12"/>'Aurore ayant depuis long temps donné le rende¬
 <lb corresp="#f12_z1_l13"/>L
 <lb corresp="#f12_z1_l14"/>vous à Cephale dans la grotte de la Fontaine de¬
@@ -2818,13 +2800,13 @@
 <lb corresp="#f12_z1_l27"/>tirans des premiers ravons de l’Aurore les infaillibles
 <lb corresp="#f12_z1_l28"/>conjectures de la beauté du jour, &amp; preuoyans aſſeure¬
 <lb corresp="#f12_z1_l29"/>ment que quantité de Curieux s’y viendroient diuertir,
-</p>
+</ab>
         <fw corresp="#f12_z3" type="NumberingZone"><lb corresp="#f12_z3_l1"/>6</fw>
         <fw corresp="#f12_z4" type="RunningTitleZone"><lb corresp="#f12_z4_l1"/>Les diuers Entretiens</fw>
         <pb corresp="#f13"/>
         <fw corresp="#f13_z1" type="RunningTitleZone"><lb corresp="#f13_z1_l1"/>de la Fontaine de Vaucluſe.</fw>
         <fw corresp="#f13_z2" type="NumberingZone"><lb corresp="#f13_z2_l1"/>7</fw>
-        <p corresp="#f13_z3">
+        <ab corresp="#f13_z3" type="MainZone">
 <lb corresp="#f13_z3_l1"/>auec vne exacte diligence vindrent diſpoſer toutes cho¬
 <lb corresp="#f13_z3_l2"/>ſes à la commune ſatisfaction, &amp; ſans intetrompre la
 <lb corresp="#f13_z3_l3"/>meſure de leurs pas, peuplerent la Fontaine de diuers
@@ -2839,7 +2821,7 @@
 <lb corresp="#f13_z3_l12"/>leurs odorantes halenées. Ce fut vn Balet volant, ani¬
 <lb corresp="#f13_z3_l13"/>mé, &amp; de leur ieuneſſe, &amp; des ſoins que Flore leur Mere
 <lb corresp="#f13_z3_l14"/>a pris de les inſtruire.
-<hi type="HeadingLine"><lb corresp="#f13_z3_l15"/>Icy le Soleil parut entierement, eſclairant toute la Scene.</hi>
+<hi rend="HeadingLine"><lb corresp="#f13_z3_l15"/>Icy le Soleil parut entierement, eſclairant toute la Scene.</hi>
 <lb corresp="#f13_z3_l16"/>N licencié en Medecine de la fameuſe Vniuerſité
 <lb corresp="#f13_z3_l17"/>de Montpellier, informé de la fertilité du lieu, &amp;
 <lb corresp="#f13_z3_l18"/>de l’abondance des herbes qui naiſſent dans cette ver¬
@@ -2852,10 +2834,10 @@
 <lb corresp="#f13_z3_l25"/>lon, il fit ſon entrée auec la diſpoſition naturelle aux
 <lb corresp="#f13_z3_l26"/>peuples de cette Prouince, &amp; ſe retira tout chargé de ces
 <lb corresp="#f13_z3_l27"/>herbes falutaires, &amp; precieuſes racines, qui donnent la
-</p>
+</ab>
         <fw corresp="#f13_z5" type="QuireMarksZone"><lb corresp="#f13_z5_l1"/>B3</fw>
         <pb corresp="#f14"/>
-        <p corresp="#f14_z1">
+        <ab corresp="#f14_z1" type="MainZone">
 <lb corresp="#f14_z1_l1"/>vie aux mourans, &amp; ſouuent indiſcretement ordonnées,
 <lb corresp="#f14_z1_l2"/>la mort aux viuans.
 <lb corresp="#f14_z1_l3"/>Le Marquis de la Coque, &amp; ſa chere Baronne de
@@ -2885,11 +2867,11 @@
 <lb corresp="#f14_z1_l27"/>porter ſa teſte blanchiſſante iuſques au Ciel: le Balet
 <lb corresp="#f14_z1_l28"/>finit par les admirations de ces Eſtrangers, &amp; des pro¬
 <lb corresp="#f14_z1_l29"/>teſtations à la belle Europe, que ce que la Renommée
-</p>
+</ab>
         <fw corresp="#f14_z2" type="NumberingZone"><lb corresp="#f14_z2_l1"/>8</fw>
         <fw corresp="#f14_z3" type="RunningTitleZone"><lb corresp="#f14_z3_l1"/>Les diuers Entretiens.</fw>
         <pb corresp="#f15"/>
-        <p corresp="#f15_z1">
+        <ab corresp="#f15_z1" type="MainZone">
 <lb corresp="#f15_z1_l1"/>en a publié dans leurs climats, eſt infiniment au deſſous
 <lb corresp="#f15_z1_l2"/>de ce qu’ils ont veu.
 <lb corresp="#f15_z1_l3"/>Philanire, Doüairiere Palatine de Scandinauie, ſous
@@ -2904,11 +2886,9 @@
 <lb corresp="#f15_z1_l12"/>&amp; ſous le déguiſement d’vn homme, fit paroiſtre des
 <lb corresp="#f15_z1_l13"/>douceurs, qui ne ſont données en partage qu’au beau
 <lb corresp="#f15_z1_l14"/>Sexe.
-<hi type="HeadingLine"><lb corresp="#f15_z1_l15"/>Icy les Violons ayans ceſſé, la Muſique de voix et d’inſtru¬</hi>
-<hi type="HeadingLine"><lb corresp="#f15_z1_l16"/>mens, fit vn intermede, qui fut ſuiuy d’vn Trio</hi>
-<hi type="HeadingLine"><lb corresp="#f15_z1_l17"/>rauiſſant, &amp; ſur ſa ſin;</hi>
+<hi rend="HeadingLine"><lb corresp="#f15_z1_l15"/>Icy les Violons ayans ceſſé, la Muſique de voix et d’inſtru¬<lb corresp="#f15_z1_l16"/>mens, fit vn intermede, qui fut ſuiuy d’vn Trio<lb corresp="#f15_z1_l17"/>rauiſſant, &amp; ſur ſa ſin;</hi>
 <lb corresp="#f15_z1_l18"/>'AGREABLE ſon d’vne muſete s’y fit ouyr de
-<hi type="DropCapitalLine"><lb corresp="#f15_z1_l19"/>L</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f15_z1_l19"/>L</hi>
 <lb corresp="#f15_z1_l20"/>loin, ce fut Damon cheſ de tous les Bergers des
 <lb corresp="#f15_z1_l21"/>hameaux voiſins, qui deſcendant de la plus haute roche
 <lb corresp="#f15_z1_l22"/>venoit rendre les homages deus à cette Bien-factrice,
@@ -2919,11 +2899,11 @@
 <lb corresp="#f15_z1_l27"/>Campagne.
 <lb corresp="#f15_z1_l28"/>Deux Eunuques, Eſclaues de l'Empereur des terres
 <lb corresp="#f15_z1_l29"/>qui ne ſont pas deſcouuertes, &amp; qui par vn fol caprice
-</p>
+</ab>
         <fw corresp="#f15_z2" type="RunningTitleZone"><lb corresp="#f15_z2_l1"/>de la Fontaine de Vaucluſe.</fw>
         <fw corresp="#f15_z3" type="NumberingZone"><lb corresp="#f15_z3_l1"/>9</fw>
         <pb corresp="#f16"/>
-        <p corresp="#f16_z1">
+        <ab corresp="#f16_z1" type="MainZone">
 <lb corresp="#f16_z1_l1"/>de la Nature naiſſent demy blancs &amp; demy noirs, atten¬
 <lb corresp="#f16_z1_l2"/>dans la venuë de leur Maiſtre, firent vne entrée ſi diuer¬
 <lb corresp="#f16_z1_l3"/>tiſſante, auec des pas, &amp; des poſtures ſi peu connuës en
@@ -2953,14 +2933,14 @@
 <lb corresp="#f16_z1_l27"/>quoy que venans de diuerſes parts, ſe rencontrerent for¬
 <lb corresp="#f16_z1_l28"/>tuitement à la Fontaine, &amp; d’vn commun accord, pour
 <lb corresp="#f16_z1_l29"/>ne laiſſer perdre inutilement la douce harmonie des vio¬
-</p>
+</ab>
         <fw corresp="#f16_z2" type="RunningTitleZone"><lb corresp="#f16_z2_l1"/>Les diuers Entretiens</fw>
         <fw corresp="#f16_z3" type="NumberingZone"><lb corresp="#f16_z3_l1"/>10</fw>
         <fw corresp="#f16_z4" type="QuireMarksZone"><lb corresp="#f16_z4_l1"/>lons</fw>
         <pb corresp="#f17"/>
         <fw corresp="#f17_z1" type="RunningTitleZone"><lb corresp="#f17_z1_l1"/>de la Fontaine de Vaucluſe.</fw>
         <fw corresp="#f17_z2" type="NumberingZone"><lb corresp="#f17_z2_l1"/>11</fw>
-        <p corresp="#f17_z3">
+        <ab corresp="#f17_z3" type="MainZone">
 <lb corresp="#f17_z3_l1"/>lons ſe diſpoſerent à faire vne entrée. Ce fut vn diuer¬
 <lb corresp="#f17_z3_l2"/>fiſſement ſans égal, dans le mélange de leurs figures,
 <lb corresp="#f17_z3_l3"/>auec quels ſoins étudiez ils éuitoient de ſe toucher, crai¬
@@ -2990,10 +2970,10 @@
 <lb corresp="#f17_z3_l27"/>de ſa verge il fit changer entierement toute la Scene. On
 <lb corresp="#f17_z3_l28"/>vit alors vne ſtrucure merueilleuſe de diuers baſti-
 <lb corresp="#f17_z3_l29"/>mens, ce ne furent que Palais enrichis de Colomnes de
-</p>
+</ab>
         <fw corresp="#f17_z4" type="QuireMarksZone"><lb corresp="#f17_z4_l1"/>c</fw>
         <pb corresp="#f18"/>
-        <p corresp="#f18_z1">
+        <ab corresp="#f18_z1" type="MainZone">
 <lb corresp="#f18_z1_l1"/>marbre &amp; de porphire, frontiſpices, &amp; autres inuen-
 <lb corresp="#f18_z1_l2"/>tions, qui ne pouuoient eſtre faites que par vn prodi¬
 <lb corresp="#f18_z1_l3"/>gieux enchantement; le tout orné de quantité de Sta¬
@@ -3023,11 +3003,11 @@
 <lb corresp="#f18_z1_l27"/>Deux vieux Rabins de Pancienne Sinagogne de Car¬
 <lb corresp="#f18_z1_l28"/>pentras, reuenans d’vne Nopce, &amp; ſe treuuans recreus
 <lb corresp="#f18_z1_l29"/>de la chaleur, furent chercher du rafraichiſſement à la
-</p>
+</ab>
         <fw corresp="#f18_z2" type="RunningTitleZone"><lb corresp="#f18_z2_l1"/>Les diuers Entretiens</fw>
         <fw corresp="#f18_z3" type="NumberingZone"><lb corresp="#f18_z3_l1"/>12</fw>
         <pb corresp="#f19"/>
-        <p corresp="#f19_z1">
+        <ab corresp="#f19_z1" type="MainZone">
 <lb corresp="#f19_z1_l1"/>Fontaine: le ſon des violons les ſurprit, &amp; ſembla qu’ils
 <lb corresp="#f19_z1_l2"/>euſſent reçeu de la vertu de cette eau, ce que la Fontaine
 <lb corresp="#f19_z1_l3"/>de louuance communiquoit jadis à ceux qui s’y alloient
@@ -3057,13 +3037,13 @@
 <lb corresp="#f19_z1_l27"/>les forcea à prendre du repos: Ce fut ſur le tapis verd de
 <lb corresp="#f19_z1_l28"/>ces belles ſources, où les Fées en reconnoiſſance de
 <lb corresp="#f19_z1_l29"/>Ihonneur que cette Diuinité leur faiſoit, ſans eſtre
-</p>
+</ab>
         <fw corresp="#f19_z2" type="NumberingZone"><lb corresp="#f19_z2_l1"/>13</fw>
         <fw corresp="#f19_z3" type="QuireMarksZone"><lb corresp="#f19_z3_l1"/>C</fw>
         <fw corresp="#f19_z3" type="QuireMarksZone"><lb corresp="#f19_z3_l2"/>2</fw>
         <fw corresp="#f19_z4" type="RunningTitleZone"><lb corresp="#f19_z4_l1"/>de la Fontaine de Vaucluſe.</fw>
         <pb corresp="#f20"/>
-        <p corresp="#f20_z1">
+        <ab corresp="#f20_z1" type="MainZone">
 <lb corresp="#f20_z1_l1"/>veuës, leur firent ouyr vn concert de voix, dont la me¬
 <lb corresp="#f20_z1_l2"/>lodie les porta iuſques à l’extaſe, &amp; verſant dans leurs
 <lb corresp="#f20_z1_l3"/>paupieres vne inuiſible liqueur de pauots les jetta dans
@@ -3093,13 +3073,13 @@
 <lb corresp="#f20_z1_l27"/>jetta dans vne telle fraveur, qu’ils furent contrains, pour
 <lb corresp="#f20_z1_l28"/>éuiter le juſte reſſentiment de cette Déeſſe, de prendre
 <lb corresp="#f20_z1_l29"/>la fuite; mais auec des cris &amp; des hurlemens ſi épouuen¬
-</p>
+</ab>
         <fw corresp="#f20_z2" type="RunningTitleZone"><lb corresp="#f20_z2_l1"/>Les diuers Entretiens</fw>
         <fw corresp="#f20_z3" type="NumberingZone"><lb corresp="#f20_z3_l1"/>14</fw>
         <pb corresp="#f21"/>
         <fw corresp="#f21_z1" type="RunningTitleZone"><lb corresp="#f21_z1_l1"/>de la Fontaine de Vaucluſe.</fw>
         <fw corresp="#f21_z2" type="NumberingZone"><lb corresp="#f21_z2_l1"/>15</fw>
-        <p corresp="#f21_z3">
+        <ab corresp="#f21_z3" type="MainZone">
 <lb corresp="#f21_z3_l1"/>tables, que l’eau de la Fontaine en fut troublée, &amp; les ha¬
 <lb corresp="#f21_z3_l2"/>bitans de la campagne ſi émeus, que les parties faites
 <lb corresp="#f21_z3_l3"/>pour s’aller diuertir ce iour là à la Fontaine, furent en¬
@@ -3116,23 +3096,21 @@
 <lb corresp="#f21_z3_l14"/>vn grand Balet, qui fut dansé auec toute la grace &amp; la
 <lb corresp="#f21_z3_l15"/>Juſteſſe qu’on pouuoit deſirer pour vne entiere ſatis-
 <lb corresp="#f21_z3_l16"/>faction.
-<hi type="HeadingLine"><lb corresp="#f21_z3_l17"/>MONSIEVR DE LONGCHAMPS,</hi>
-<hi type="HeadingLine"><lb corresp="#f21_z3_l18"/>Repreſentant Vvlturne.</hi>
+<hi rend="HeadingLine"><lb corresp="#f21_z3_l17"/>MONSIEVR DE LONGCHAMPS,<lb corresp="#f21_z3_l18"/>Repreſentant Vvlturne.</hi>
 <lb corresp="#f21_z3_l19"/>l l’on me voit ſouuent trotter,
 <lb corresp="#f21_z3_l20"/>je n’en ſuis pas pourtant volage,
-<hi type="DropCapitalLine"><lb corresp="#f21_z3_l21"/>S</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f21_z3_l21"/>S</hi>
 <lb corresp="#f21_z3_l22"/>Car ie ſçay fort bien m’arreſter.
 <lb corresp="#f21_z3_l23"/>Quand ie rencontre un beau viſage.
-</p>
+</ab>
         <fw corresp="#f21_z4" type="QuireMarksZone"><lb corresp="#f21_z4_l1"/>C 3</fw>
         <pb corresp="#f22"/>
         <fw corresp="#f22_z1" type="NumberingZone"><lb corresp="#f22_z1_l1"/>16</fw>
         <fw corresp="#f22_z2" type="RunningTitleZone"><lb corresp="#f22_z2_l1"/>Les diuers Entretiens.</fw>
-        <p corresp="#f22_z3">
-<hi type="HeadingLine"><lb corresp="#f22_z3_l1"/>MONSIEVR DE CASTELLANE,</hi>
+        <ab corresp="#f22_z3" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f22_z3_l1"/>MONSIEVR DE CASTELLANE,</hi>
 <lb corresp="#f22_z3_l2"/>&amp;
-<hi type="HeadingLine"><lb corresp="#f22_z3_l3"/>MONSIEVR DE MONTSALLIER,</hi>
-<hi type="HeadingLine"><lb corresp="#f22_z3_l4"/>Repreſentans les deux Bohemiens.</hi>
+<hi rend="HeadingLine"><lb corresp="#f22_z3_l3"/>MONSIEVR DE MONTSALLIER,<lb corresp="#f22_z3_l4"/>Repreſentans les deux Bohemiens.</hi>
 <lb corresp="#f22_z3_l5"/>ARE la cœurs, gare les corps.
 <lb corresp="#f22_z3_l6"/>Nous pillons tout, par amour, ou par ruſe,
 <lb corresp="#f22_z3_l7"/>Cinq ſols qu’il ſoit dedans, cinq ſols qu’il ſoit dehors
@@ -3145,7 +3123,7 @@
 <lb corresp="#f22_z3_l14"/>Sans eſperance de reſource,
 <lb corresp="#f22_z3_l15"/>Sans craindre Preuoſt, ny Sergent,
 <lb corresp="#f22_z3_l16"/>Nous volons à la fois ſon cœur, &amp; ſon argent,
-<hi type="HeadingLine"><lb corresp="#f22_z3_l17"/>LES MESMES AVX DAMES.</hi>
+<hi rend="HeadingLine"><lb corresp="#f22_z3_l17"/>LES MESMES AVX DAMES.</hi>
 <lb corresp="#f22_z3_l18"/>ANS ce lieu de Vaucluſe, où la nuit nous conuie,
 <lb corresp="#f22_z3_l19"/>Nous uenons partager nôtre riche butin,
 <lb corresp="#f22_z3_l20"/>Mais par vn mal- heureux deſtin,
@@ -3155,15 +3133,15 @@
 <lb corresp="#f22_z3_l24"/>Si pour un petit vol nôtre troupe l'on blâme,
 <lb corresp="#f22_z3_l25"/>Que ne doit decerner la Juſtice en courroux,
 <lb corresp="#f22_z3_l26"/>Contre les chers Voleurs, &amp; du corps, &amp; de l'ame.
-</p>
+</ab>
         <pb corresp="#f23"/>
         <fw corresp="#f23_z1" type="RunningTitleZone"><lb corresp="#f23_z1_l1"/>de la Fontaine de Vaucluſe.</fw>
-        <p corresp="#f23_z2">
+        <ab corresp="#f23_z2" type="MainZone">
 <lb corresp="#f23_z2_l1"/>MONSIEVR DE BRANTES,
 <lb corresp="#f23_z2_l2"/>&amp;
 <lb corresp="#f23_z2_l3"/>MONSIEVR DE THIERRY,
 <lb corresp="#f23_z2_l4"/>Repreſentans les Ardans.
-<hi type="DropCapitalLine"><lb corresp="#f23_z2_l5"/>C</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f23_z2_l5"/>C</hi>
 <lb corresp="#f23_z2_l6"/>ES flâmes que l'on voit brile deſſus nos teſtes,
 <lb corresp="#f23_z2_l7"/>Sont les viſibles interpretes,
 <lb corresp="#f23_z2_l8"/>Des feus que nous porton dans le fonds de nos cœurs;
@@ -3176,7 +3154,7 @@
 <lb corresp="#f23_z2_l15"/>&amp;
 <lb corresp="#f23_z2_l16"/>MONSIEVR DE VIVET,
 <lb corresp="#f23_z2_l17"/>Repreſentans deux Bohemienes.
-<hi type="DropCapitalLine"><lb corresp="#f23_z2_l18"/>E</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f23_z2_l18"/>E</hi>
 <lb corresp="#f23_z2_l19"/>NCOR que nous ſoyons dans les baſſes Eſcoles,
 <lb corresp="#f23_z2_l20"/>Si faiſons nous toûjours des chef- d’œuures certains;
 <lb corresp="#f23_z2_l21"/>Car tel qui peu deuant a ri de nos paroles,
@@ -3186,11 +3164,11 @@
 <lb corresp="#f23_z2_l25"/>MONSIEVR GILLES DE FOLARD,
 <lb corresp="#f23_z2_l26"/>ET MONSIEVR DE CROSET,
 <lb corresp="#f23_z2_l27"/>Repreſentans quatre Sorcieres.
-<hi type="DropCapitalLine"><lb corresp="#f23_z2_l28"/>F</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f23_z2_l28"/>F</hi>
 <lb corresp="#f23_z2_l29"/>r d’Apollon, &amp; bran pour ſes lumieres,
 <lb corresp="#f23_z2_l30"/>La nuit eſt l’Aſtre des Sorcieres,
 <lb corresp="#f23_z2_l31"/>Et ce noir Meneſtrier qui guide nos Balets,
-</p>
+</ab>
         <fw corresp="#f23_z3" type="NumberingZone"><lb corresp="#f23_z3_l1"/>17</fw>
       </div>
     </body>

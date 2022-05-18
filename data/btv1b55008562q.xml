@@ -2536,11 +2536,10 @@
     <body>
       <div>
         <pb corresp="#f7"/>
-        <p corresp="#f7_z1">
-<hi type="HeadingLine"><lb corresp="#f7_z1_l1"/>Uerbi certa fides, ut mũdo augustior esset</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l2"/>principe francisco nobiltata fuit.</hi>
+        <ab corresp="#f7_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f7_z1_l1"/>Uerbi certa fides, ut mũdo augustior esset<lb corresp="#f7_z1_l2"/>principe francisco nobiltata fuit.</hi>
 <lb corresp="#f7_z1_l3"/>Tres puissant, tres victorieux
-<hi type="DropCapitalLine"><lb corresp="#f7_z1_l4"/>A</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f7_z1_l4"/>A</hi>
 <lb corresp="#f7_z1_l5"/>tres eminent prince, francoys
 <lb corresp="#f7_z1_l6"/>le roy tres crestien de france premier
 <lb corresp="#f7_z1_l7"/>de ce nom. duc de milan, seigneur
@@ -2556,14 +2555,14 @@
 <lb corresp="#f7_z1_l17"/>dixhuitiesme chapitre
 <lb corresp="#f7_z1_l18"/>des prouerbes de salomõ
 <lb corresp="#f7_z1_l19"/>Donum hommis dilatat
-<hi type="DropCapitalLine"><lb corresp="#f7_z1_l20"/>S</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f7_z1_l20"/>S</hi>
 <lb corresp="#f7_z1_l21"/>viam eius et ante
 <lb corresp="#f7_z1_l22"/>principes spacium ei facit, C est a
 <lb corresp="#f7_z1_l23"/>dire se don presente par l homme luy
-</p>
+</ab>
         <fw corresp="#f7_z2" type="NumberingZone"><lb corresp="#f7_z2_l1"/>2</fw>
         <pb corresp="#f9"/>
-        <p corresp="#f9_z1">
+        <ab corresp="#f9_z1" type="MainZone">
 <lb corresp="#f9_z1_l1"/>grans seigneurs et magnanimes ne
 <lb corresp="#f9_z1_l2"/>consiste pas seulement en donner grans
 <lb corresp="#f9_z1_l3"/>dons et de grosse estimation et valeur
@@ -2592,10 +2591,10 @@
 <lb corresp="#f9_z1_l26"/>dominations s enclinoient a la societe
 <lb corresp="#f9_z1_l27"/>et confederation de luy conspirans et
 <lb corresp="#f9_z1_l28"/>soy adonnans auec la faueur de
-</p>
+</ab>
         <fw corresp="#f9_z2" type="NumberingZone"><lb corresp="#f9_z2_l1"/>3</fw>
         <pb corresp="#f11"/>
-        <p corresp="#f11_z1">
+        <ab corresp="#f11_z1" type="MainZone">
 <lb corresp="#f11_z1_l1"/>ce fist il non pour l offre en soy qui
 <lb corresp="#f11_z1_l2"/>estoit de nul estime comparee a sa
 <lb corresp="#f11_z1_l3"/>grandeur, mais pour l affection des
@@ -2624,10 +2623,10 @@
 <lb corresp="#f11_z1_l26"/>faire. Non pas que ie pense le dit
 <lb corresp="#f11_z1_l27"/>liure estre a estimer pour mon industrie
 <lb corresp="#f11_z1_l28"/>d auoir mis en ordre le contenu en si
-</p>
+</ab>
         <fw corresp="#f11_z2" type="NumberingZone"><lb corresp="#f11_z2_l1"/>4</fw>
         <pb corresp="#f13"/>
-        <p corresp="#f13_z1">
+        <ab corresp="#f13_z1" type="MainZone">
 <lb corresp="#f13_z1_l1"/>vous auez selon l opinion des hõmes ung
 <lb corresp="#f13_z1_l2"/>hault magnanime royal et auguste
 <lb corresp="#f13_z1_l3"/>vouloir de augmẽter la fortune et
@@ -2656,10 +2655,10 @@
 <lb corresp="#f13_z1_l26"/>dit tousiours choses elegãtes pour resioyr
 <lb corresp="#f13_z1_l27"/>par suauite de langaige leur conducteur
 <lb corresp="#f13_z1_l28"/>et etreteneur. et clio recite honorablemẽt
-</p>
+</ab>
         <fw corresp="#f13_z2" type="NumberingZone"><lb corresp="#f13_z2_l1"/>5</fw>
         <pb corresp="#f17"/>
-        <p corresp="#f17_z1">
+        <ab corresp="#f17_z1" type="MainZone">
 <lb corresp="#f17_z1_l1"/>tres renomme quant il estoit parmy le monde
 <lb corresp="#f17_z1_l2"/>et en publicque il rioit tousiours, disãt qu il
 <lb corresp="#f17_z1_l3"/>ne boioit que folzs et folles et follies par les citez
@@ -2688,10 +2687,10 @@
 <lb corresp="#f17_z1_l26"/>par lire esciptures ou escouter parolles qui
 <lb corresp="#f17_z1_l27"/>tendent a vertu ou enseignent sapience. Toute
 <lb corresp="#f17_z1_l28"/>la philosophie morale en laquelle tant de
-</p>
+</ab>
         <fw corresp="#f17_z2" type="NumberingZone"><lb corresp="#f17_z2_l1"/>7</fw>
         <pb corresp="#f19"/>
-        <p corresp="#f19_z1">
+        <ab corresp="#f19_z1" type="MainZone">
 <lb corresp="#f19_z1_l1"/>astraindre par craincte et par necessite d obeissãce
 <lb corresp="#f19_z1_l2"/>comme il fait aux autres, sinon la loy diuĩe
 <lb corresp="#f19_z1_l3"/>qui a auctorite de dieu et non pas des hommes.
@@ -2720,10 +2719,10 @@
 <lb corresp="#f19_z1_l26"/>des biens spirituels. toutesfois de ceste
 <lb corresp="#f19_z1_l27"/>iniustice il n y a que dieu a qui il appartieñe
 <lb corresp="#f19_z1_l28"/>d en faire l amendement. car luy seul a
-</p>
+</ab>
         <fw corresp="#f19_z2" type="NumberingZone"><lb corresp="#f19_z2_l1"/>8</fw>
         <pb corresp="#f21"/>
-        <p corresp="#f21_z1">
+        <ab corresp="#f21_z1" type="MainZone">
 <lb corresp="#f21_z1_l1"/>et autres communaultez de grece. Et la
 <lb corresp="#f21_z1_l2"/>langue latine, en laquelle les faictz des
 <lb corresp="#f21_z1_l3"/>romains ont este escriptz qui est la fille de
@@ -2752,10 +2751,10 @@
 <lb corresp="#f21_z1_l26"/>verbales, et representer au vif a l oeil de
 <lb corresp="#f21_z1_l27"/>l entendement les choses que l on veult donner
 <lb corresp="#f21_z1_l28"/>a entendre aussi bien que s ilz estoient en ung
-</p>
+</ab>
         <fw corresp="#f21_z2" type="NumberingZone"><lb corresp="#f21_z2_l1"/>9</fw>
         <pb corresp="#f23"/>
-        <p corresp="#f23_z1">
+        <ab corresp="#f23_z1" type="MainZone">
 <lb corresp="#f23_z1_l1"/>pays dessus nommez a la monnoye de
 <lb corresp="#f23_z1_l2"/>maintenant. Qui donques veult
 <lb corresp="#f23_z1_l3"/>scauoir au vray les choses dignes de
@@ -2784,12 +2783,12 @@
 <lb corresp="#f23_z1_l26"/>Or pour poursuyure le propos de ce liure
 <lb corresp="#f23_z1_l27"/>et tirer auant en la matiere encommencee
 <lb corresp="#f23_z1_l28"/>cy dessus, i estime qu il est tout notoire et
-</p>
+</ab>
         <fw corresp="#f23_z2" type="NumberingZone"><lb corresp="#f23_z2_l1"/>10</fw>
         <pb corresp="#f25"/>
-        <p corresp="#f25_z1">
+        <ab corresp="#f25_z1" type="MainZone">
 <lb corresp="#f25_z1_l1"/>traian qui ont este princes de memoire
-<hi type="DropCapitalLine"><lb corresp="#f25_z1_l2"/>tres recommendable.¶de l'excellence</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f25_z1_l2"/>tres recommendable.¶de l'excellence</hi>
 <lb corresp="#f25_z1_l3"/>et estimation de sapience tous les liures en
 <lb corresp="#f25_z1_l4"/>sont plains tant des gentilz que des
 <lb corresp="#f25_z1_l5"/>hebreieux et crestiens. mais le singulier
@@ -2816,10 +2815,10 @@
 <lb corresp="#f25_z1_l26"/>les fantasies et les artifices et labeurs des
 <lb corresp="#f25_z1_l27"/>hommes, sciences et inuentions subtiles
 <lb corresp="#f25_z1_l28"/>du mon, quant est de la premiere fin qui
-</p>
+</ab>
         <fw corresp="#f25_z2" type="NumberingZone"><lb corresp="#f25_z2_l1"/>11</fw>
         <pb corresp="#f27"/>
-        <p corresp="#f27_z1">
+        <ab corresp="#f27_z1" type="MainZone">
 <lb corresp="#f27_z1_l1"/>en reproche ou sans acquerir grant nom
 <lb corresp="#f27_z1_l2"/>et reputacion chascun entre gens de sa
 <lb corresp="#f27_z1_l3"/>sorte et de son estat. Puis donques que
@@ -2848,17 +2847,17 @@
 <lb corresp="#f27_z1_l26"/>tant de peine pour acquerir perfection de
 <lb corresp="#f27_z1_l27"/>science, car quant est des bonnes lettres
 <lb corresp="#f27_z1_l28"/>ilz requierent toute la vie de l homme qui
-</p>
+</ab>
         <fw corresp="#f27_z2" type="NumberingZone"><lb corresp="#f27_z2_l1"/>12</fw>
         <pb corresp="#f29"/>
-        <p corresp="#f29_z1">
+        <ab corresp="#f29_z1" type="MainZone">
 <lb corresp="#f29_z1_l1"/>leur sante. et ce font ilz comme ie croy
 <lb corresp="#f29_z1_l2"/>par consideration que l honneur de nature
 <lb corresp="#f29_z1_l3"/>humaine consiste en l engin et en l esperit
 <lb corresp="#f29_z1_l4"/>de l homme, lequel tousiours croist par
 <lb corresp="#f29_z1_l5"/>excercice d estude. et l honneur et reputacõn
 <lb corresp="#f29_z1_l6"/>de l esperit consiste en eloquence et langaige
-<hi type="DropCapitalLine"><lb corresp="#f29_z1_l7"/>disert. ¶Or est celle prudence qui</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f29_z1_l7"/>disert. ¶Or est celle prudence qui</hi>
 <lb corresp="#f29_z1_l8"/>s appelle sapience de telle nature quelle ne
 <lb corresp="#f29_z1_l9"/>peult consister en homme s il n est ingenieux
 <lb corresp="#f29_z1_l10"/>et aigu de soy mesmes pour faire bon
@@ -2880,10 +2879,10 @@
 <lb corresp="#f29_z1_l27"/>diray cy apres, ne plus dignes et ydoines
 <lb corresp="#f29_z1_l28"/>d enseigner ung si grant prince et si bien
 <lb corresp="#f29_z1_l29"/>doue des dons de dieu et de nature comme
-</p>
+</ab>
         <fw corresp="#f29_z2" type="NumberingZone"><lb corresp="#f29_z2_l1"/>13</fw>
         <pb corresp="#f31"/>
-        <p corresp="#f31_z1">
+        <ab corresp="#f31_z1" type="MainZone">
 <lb corresp="#f31_z1_l1"/>bien eureux, car il a acomplissement et
 <lb corresp="#f31_z1_l2"/>perfection de nature humaine, et n a
 <lb corresp="#f31_z1_l3"/>empeschement qui le garde d en auoir la
@@ -2912,10 +2911,10 @@
 <lb corresp="#f31_z1_l26"/>a tout le monde. car le bon et le mauuais
 <lb corresp="#f31_z1_l27"/>des roys ne se peult cacher, mesmement
 <lb corresp="#f31_z1_l28"/>des roys de france, pour ce que toutes gens
-</p>
+</ab>
         <fw corresp="#f31_z2" type="NumberingZone"><lb corresp="#f31_z2_l1"/>14</fw>
         <pb corresp="#f33"/>
-        <p corresp="#f33_z1">
+        <ab corresp="#f33_z1" type="MainZone">
 <lb corresp="#f33_z1_l1"/>oblige a dieu, non seulement d en rendre
 <lb corresp="#f33_z1_l2"/>graces mais aussi d en bien user au
 <lb corresp="#f33_z1_l3"/>salut de vous et de voz subiectz. or pour
@@ -2943,10 +2942,10 @@
 <lb corresp="#f33_z1_l25"/>precepteurs ensemble, et si enseigne par
 <lb corresp="#f33_z1_l26"/>grant plaisir et doulceur ceulx qui se
 <lb corresp="#f33_z1_l27"/>adonnent a sa doctrine. et se nomme
-</p>
+</ab>
         <fw corresp="#f33_z2" type="NumberingZone"><lb corresp="#f33_z2_l1"/>15</fw>
         <pb corresp="#f35"/>
-        <p corresp="#f35_z1">
+        <ab corresp="#f35_z1" type="MainZone">
 <lb corresp="#f35_z1_l1"/>dieu en l euangile, qui mect a prouffit
 <lb corresp="#f35_z1_l2"/>les talens que dieu luy a mis en sa
 <lb corresp="#f35_z1_l3"/>main, en les multiplĩant et faisant
@@ -2956,7 +2955,7 @@
 <lb corresp="#f35_z1_l7"/>donnez, c est a dire les organes des sens
 <lb corresp="#f35_z1_l8"/>corporelz, et les vertuz et puissances
 <lb corresp="#f35_z1_l9"/>de l ame dont vous estes doue ou de gre
-<hi type="DropCapitalLine"><lb corresp="#f35_z1_l10"/>superlatif. ⁋Mais comme dient</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f35_z1_l10"/>superlatif. ⁋Mais comme dient</hi>
 <lb corresp="#f35_z1_l11"/>les grans maistres anciens histoire ne
 <lb corresp="#f35_z1_l12"/>peult garder longuement son auctorite
 <lb corresp="#f35_z1_l13"/>ne durer a perpetuite si elle n est traictee et
@@ -2975,10 +2974,10 @@
 <lb corresp="#f35_z1_l26"/>il passa la mer de l hellespont pour aller
 <lb corresp="#f35_z1_l27"/>conquerir l asie il voulut veoir la
 <lb corresp="#f35_z1_l28"/>pourtraicture d achilles qui estoit erigee
-</p>
+</ab>
         <fw corresp="#f35_z2" type="NumberingZone"><lb corresp="#f35_z2_l1"/>16</fw>
         <pb corresp="#f37"/>
-        <p corresp="#f37_z1">
+        <ab corresp="#f37_z1" type="MainZone">
 <lb corresp="#f37_z1_l1"/>cheuet son pognart et l iliade d homere
 <lb corresp="#f37_z1_l2"/>ou quel liure le siege de troye est escript
 <lb corresp="#f37_z1_l3"/>et les faitz et prouesses d achilles et
@@ -3007,10 +3006,10 @@
 <lb corresp="#f37_z1_l26"/>sur tous ceulx qui iamais furent, et
 <lb corresp="#f37_z1_l27"/>lysippe ymager aussi excellent, lesquelz
 <lb corresp="#f37_z1_l28"/>deux furent du temps d alexandre
-</p>
+</ab>
         <fw corresp="#f37_z2" type="NumberingZone"><lb corresp="#f37_z2_l1"/>17</fw>
         <pb corresp="#f39"/>
-        <p corresp="#f39_z1">
+        <ab corresp="#f39_z1" type="MainZone">
 <lb corresp="#f39_z1_l1"/>la maternelle il n y eust autre difference
 <lb corresp="#f39_z1_l2"/>sinon que de parler proprement et
 <lb corresp="#f39_z1_l3"/>ornement, ne pareillement en la langue
@@ -3034,16 +3033,16 @@
 <lb corresp="#f39_z1_l21"/>car chascun talent valoit autant que
 <lb corresp="#f39_z1_l22"/>six cens escuz ainsi que i ay a plain
 <lb corresp="#f39_z1_l23"/>monstre ou liure que i ay fait de ceste
-<hi type="DropCapitalLine"><lb corresp="#f39_z1_l24"/>matiere ⁋Thucidides qui a escript les</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f39_z1_l24"/>matiere ⁋Thucidides qui a escript les</hi>
 <lb corresp="#f39_z1_l25"/>guerres pelopõnesiacques fut chef de
 <lb corresp="#f39_z1_l26"/>guerre pour la seigneurie d athenes qui
 <lb corresp="#f39_z1_l27"/>estoit alors grande et opulente, et pour ce
 <lb corresp="#f39_z1_l28"/>qu il se trouua charge d auoir mal verse
-</p>
+</ab>
         <fw corresp="#f39_z2" type="NumberingZone"><lb corresp="#f39_z2_l1"/>18</fw>
         <pb corresp="#f41"/>
-        <p corresp="#f41_z1">
-<hi type="DropCapitalLine"><lb corresp="#f41_z1_l1"/>d en faire sa volunte. ⁋L on trouue</hi>
+        <ab corresp="#f41_z1" type="MainZone">
+<hi rend="DropCapitalLine"><lb corresp="#f41_z1_l1"/>d en faire sa volunte. ⁋L on trouue</hi>
 <lb corresp="#f41_z1_l2"/>en escript auctenticque que virgile auoit
 <lb corresp="#f41_z1_l3"/>vaillant cent foys sesterce, qui est a dire
 <lb corresp="#f41_z1_l4"/>a la maniere de compter lors cent foys
@@ -3071,10 +3070,10 @@
 <lb corresp="#f41_z1_l26"/>et gros personnaiges qui ont porte faueur
 <lb corresp="#f41_z1_l27"/>et secours aux gens scauans es bonnes
 <lb corresp="#f41_z1_l28"/>lettres, et dit on auiourduy que par
-</p>
+</ab>
         <fw corresp="#f41_z2" type="NumberingZone"><lb corresp="#f41_z2_l1"/>19</fw>
         <pb corresp="#f43"/>
-        <p corresp="#f43_z1">
+        <ab corresp="#f43_z1" type="MainZone">
 <lb corresp="#f43_z1_l1"/>le passaige parlant de marcel c est
 <lb corresp="#f43_z1_l2"/>assauoir de la mort du filz d octauia
 <lb corresp="#f43_z1_l3"/>la dicte dame prenoit grant plaisir a
@@ -3103,11 +3102,11 @@
 <lb corresp="#f43_z1_l26"/>en auoit il vingt et deux, par quoy la
 <lb corresp="#f43_z1_l27"/>somme estoit grosse et au dessus de cinq
 <lb corresp="#f43_z1_l28"/>mil escuz. Toutes ces choses dessus dictes
-</p>
+</ab>
         <fw corresp="#f43_z2" type="NumberingZone"><lb corresp="#f43_z2_l1"/>20</fw>
         <note corresp="#f43_z3" type="MarginTextZone"><lb corresp="#f43_z3_l1"/>merveilleuse fust</note>
         <pb corresp="#f45"/>
-        <p corresp="#f45_z1">
+        <ab corresp="#f45_z1" type="MainZone">
 <lb corresp="#f45_z1_l1"/>il faisoit propositions deuant cesar en
 <lb corresp="#f45_z1_l2"/>suppliant pour eulx et faisant leurs
 <lb corresp="#f45_z1_l3"/>excusations et appoinctemens. entre
@@ -3136,12 +3135,12 @@
 <lb corresp="#f45_z1_l26"/>ou requestes qu on luy auoit presentez.
 <lb corresp="#f45_z1_l27"/>quant cicero fut ung peu auant entre
 <lb corresp="#f45_z1_l28"/>en son oraison, il usa de si grãde facunde
-</p>
+</ab>
         <fw corresp="#f45_z2" type="NumberingZone"><lb corresp="#f45_z2_l1"/>21</fw>
         <pb corresp="#f47"/>
-        <p corresp="#f47_z1">
+        <ab corresp="#f47_z1" type="MainZone">
 <lb corresp="#f47_z1_l1"/>ainsi que cicero et autres ont escript
-<hi type="DropCapitalLine"><lb corresp="#f47_z1_l2"/>apres sa mort. ⁋Anciennement</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f47_z1_l2"/>apres sa mort. ⁋Anciennement</hi>
 <lb corresp="#f47_z1_l3"/>en france on faisoit grãt cas d eloquẽce
 <lb corresp="#f47_z1_l4"/>comme on treuue en histoire, et a ceste
 <lb corresp="#f47_z1_l5"/>cause iuuenal le satyicque qui fut
@@ -3150,7 +3149,7 @@
 <lb corresp="#f47_z1_l8"/>auoit a lyon sur le rosne tous les ans
 <lb corresp="#f47_z1_l9"/>pris qui se mectoient pour ceulx qui
 <lb corresp="#f47_z1_l10"/>mieulx auroient compose.
-<hi type="DropCapitalLine"><lb corresp="#f47_z1_l11"/>⁋Eloquence est une science qui</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f47_z1_l11"/>⁋Eloquence est une science qui</hi>
 <lb corresp="#f47_z1_l12"/>peult honnestement haultement et
 <lb corresp="#f47_z1_l13"/>suffisamment parler de toutes choses,
 <lb corresp="#f47_z1_l14"/>c est assauoir des petites choses prõptemẽt
@@ -3168,7 +3167,7 @@
 <lb corresp="#f47_z1_l26"/>a qui il parle, et pour garder les
 <lb corresp="#f47_z1_l27"/>circunstances de temps, de lieux, de
 <lb corresp="#f47_z1_l28"/>personnes, de qualite, et de quantite.
-</p>
+</ab>
         <fw corresp="#f47_z2" type="NumberingZone"><lb corresp="#f47_z2_l1"/>22</fw>
       </div>
     </body>

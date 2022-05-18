@@ -5758,10 +5758,8 @@
     <body>
       <div>
         <pb corresp="#f3"/>
-        <p corresp="#f3_z1">
-<hi type="HeadingLine"><lb corresp="#f3_z1_l1"/>⁋ L amoureux transy sans espoir.</hi>
-<hi type="HeadingLine"><lb corresp="#f3_z1_l2"/>⁋ L acteur</hi>
-<hi type="DropCapitalLine"><lb corresp="#f3_z1_l3"/>A</hi>
+        <ab corresp="#f3_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f3_z1_l1"/>⁋ L amoureux transy sans espoir.<lb corresp="#f3_z1_l2"/>⁋ L acteur<lb corresp="#f3_z1_l3"/>A</hi>
 <lb corresp="#f3_z1_l4"/>Insi que orose laisse la roge
 <lb corresp="#f3_z1_l5"/>couche
 <lb corresp="#f3_z1_l6"/>Du roy titan, et que la terre
@@ -5810,7 +5808,7 @@
 <lb corresp="#f3_z2_l10"/>Ou par escript mis son proces entier
 <lb corresp="#f3_z2_l11"/>Sans qͥl me uist, cõbien q̃ fusse pres
 <lb corresp="#f3_z2_l12"/>Cõme uerres bien au long cy apres
-<hi type="HeadingLine"><lb corresp="#f3_z2_l13"/>⁋ L amoureux</hi>
+<hi rend="HeadingLine"><lb corresp="#f3_z2_l13"/>⁋ L amoureux</hi>
 <lb corresp="#f3_z2_l14"/>⁋ Las que dira le poure desole
 <lb corresp="#f3_z2_l15"/>L amant transy, l amoureux affole
 <lb corresp="#f3_z2_l16"/>Qui n est d aulcun nullement cõsole
@@ -5838,9 +5836,9 @@
 <lb corresp="#f3_z2_l38"/>A si tres bien ioue du contrepoint
 <lb corresp="#f3_z2_l39"/>Que la dame pitie de moy n a point
 <lb corresp="#f3_z2_l40"/>Ne de soulcy
-</p>
+</ab>
         <pb corresp="#f4"/>
-        <p corresp="#f4_z1">
+        <ab corresp="#f4_z1" type="MainZone">
 <lb corresp="#f4_z1_l1"/>Troys ans y a que traicte suis ainsi
 <lb corresp="#f4_z1_l2"/>Et que ie quiers uers la dame sãs si
 <lb corresp="#f4_z1_l3"/>Le noble don d amour se mercy
@@ -5921,9 +5919,9 @@
 <lb corresp="#f4_z2_l38"/>faulx dieu d amours (seruent
 <lb corresp="#f4_z2_l39"/>De uous me plains ⁊ de uoz maul
 <lb corresp="#f4_z2_l40"/>ditz tours
-</p>
+</ab>
         <pb corresp="#f5"/>
-        <p corresp="#f5_z1">
+        <ab corresp="#f5_z1" type="MainZone">
 <lb corresp="#f5_z1_l1"/>De uoz facõs, ⁊ sauuages destours
 <lb corresp="#f5_z1_l2"/>Qui m auez mys soubz ces cruelz a-
 <lb corresp="#f5_z1_l3"/>En grant misere
@@ -5940,8 +5938,7 @@
 <lb corresp="#f5_z1_l14"/>donner
 <lb corresp="#f5_z1_l15"/>mourir m y fault, ie ne scay plus que
 <lb corresp="#f5_z1_l16"/>faire.
-<hi type="HeadingLine"><lb corresp="#f5_z1_l17"/>⁋ L acteur.</hi>
-<hi type="DropCapitalLine"><lb corresp="#f5_z1_l18"/>A</hi>
+<hi rend="HeadingLine"><lb corresp="#f5_z1_l17"/>⁋ L acteur.<lb corresp="#f5_z1_l18"/>A</hi>
 <lb corresp="#f5_z1_l19"/>Pres ces lamentations
 <lb corresp="#f5_z1_l20"/>Et ceste complainte si dure
 <lb corresp="#f5_z1_l21"/>Fait de grans exclamatiõs
@@ -5991,10 +5988,10 @@
 <lb corresp="#f5_z2_l38"/>Ie uous diray par le menu
 <lb corresp="#f5_z2_l39"/>Qui c est qui fait a mõ cueur guerre.
 <lb corresp="#f5_z2_l40"/>⁋ L amoureux
-</p>
+</ab>
         <fw corresp="#f5_z3" type="QuireMarksZone"><lb corresp="#f5_z3_l1"/>a. iii.</fw>
         <pb corresp="#f6"/>
-        <p corresp="#f6_z1">
+        <ab corresp="#f6_z1" type="MainZone">
 <lb corresp="#f6_z1_l1"/>⁋ Il est uray que trois ans ya
 <lb corresp="#f6_z1_l2"/>La beaulte d une dame sage
 <lb corresp="#f6_z1_l3"/>En amours si fort me lya
@@ -6061,71 +6058,13 @@
 <lb corresp="#f6_z2_l38"/>Estoit, et de soupirs aigretz
 <lb corresp="#f6_z2_l39"/>⁋ Mais une bonne et noble dame
 <lb corresp="#f6_z2_l40"/>Qu on appelle recongnoissance
-</p>
+</ab>
         <pb corresp="#f7"/>
-        <p corresp="#f7_z1">
-<hi type="HeadingLine"><lb corresp="#f7_z1_l1"/>Abolit ce controuue blame</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l2"/>Et me remist en mon aisance</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l3"/>Tellement qu ẽ plusgrãt plaisance</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l4"/>Ie fuz que ie n auoye este</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l5"/>On dit que richesse et puissance</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l6"/>Uient souuent apres pourete</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l7"/>⁋ Au chasteau ie fuz rappelle</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l8"/>Ou depuis ie fis bonne chiere</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l9"/>Mon amy i estoye appelle</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l10"/>Chascun mettoit sur moy renchere</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l11"/>Ie regardois la dame chere</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l12"/>Tout a loysir quant ie uoulois</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l13"/>Mais la bonne chere m est chere</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l14"/>Maintenant bien ie le congnois</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l15"/>⁋ Une seruante il y auoit</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l16"/>Que l on appelloit amour faincte</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l17"/>Qui sans propos tousiours bauoit</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l18"/>Et me paissoit de bourde mainte</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l19"/>Disant, ma dame est plus atainte</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l20"/>De uous, qu il ne uous est aduis</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l21"/>Et ne fust de dangier la crainte</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l22"/>Le don auriez a deuis</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l23"/>⁋ Mais tout ce qu elle me comptoit</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l24"/>Estoit mensonge controuuee</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l25"/>Depuis congneuz qu elle mentoit</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l26"/>Quant la uerite fut prouuee</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l27"/>La chose auoit este trouuee</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l28"/>Par faulx semblant, pour me tenir</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l29"/>Soubz bride d amour esprouuee</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l30"/>En me donnant le souuenir</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l31"/>⁋ Et ce congneuz a la maniere</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l32"/>De la dame, qui autre aymoit</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l33"/>Parquoy m en suis tire arriere</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l34"/>Comme cil qui luy desplaisoit</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l35"/>Car combien qu elle me faisoit</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l36"/>Bon recueil, et chiere iolie</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l37"/>Touteffois congneuz que c estoit</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l38"/>Par faulx semblant et mocquerie.</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l39"/>⁋ Or uoꝰ uoyez que a ceste queste</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z1_l40"/>Ie y ay ia par trois ans este</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l1"/>Tant a iour ouurier comme a feste</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l2"/>Autant en yuer qu en este</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l3"/>Et que rien n y ay conqueste</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l4"/>Fors soulcy, dueil, mal, ⁊ tempeste</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l5"/>Et suis tellement moleste</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l6"/>Que ne scay si suis homme ou beste</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l7"/>⁋ Parquoy donc se ie me complãtz</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l8"/>Ie ne dois point auoir de blame</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l9"/>Et si de la deme me plains</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l10"/>Uenir il ne m en peult diffame</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l11"/>Uous suppliant de corps et d ame</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l12"/>En ce fait cy me secourir</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l13"/>Ou bien me mettre soubz la lame</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l14"/>Car de brief me uerres mourir</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l15"/>⁋ Est ce tout:respond bon espoir</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l16"/>N est il aultre mal que ie presse</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l17"/>Ie te feray ta dame ueoir</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l18"/>Qui te tient en telle destresse</hi>
-<hi type="HeadingLine"><lb corresp="#f7_z2_l19"/>Mais tu auras ung peu d oppresse</hi>
-</p>
+        <ab corresp="#f7_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f7_z1_l1"/>Abolit ce controuue blame<lb corresp="#f7_z1_l2"/>Et me remist en mon aisance<lb corresp="#f7_z1_l3"/>Tellement qu ẽ plusgrãt plaisance<lb corresp="#f7_z1_l4"/>Ie fuz que ie n auoye este<lb corresp="#f7_z1_l5"/>On dit que richesse et puissance<lb corresp="#f7_z1_l6"/>Uient souuent apres pourete<lb corresp="#f7_z1_l7"/>⁋ Au chasteau ie fuz rappelle<lb corresp="#f7_z1_l8"/>Ou depuis ie fis bonne chiere<lb corresp="#f7_z1_l9"/>Mon amy i estoye appelle<lb corresp="#f7_z1_l10"/>Chascun mettoit sur moy renchere<lb corresp="#f7_z1_l11"/>Ie regardois la dame chere<lb corresp="#f7_z1_l12"/>Tout a loysir quant ie uoulois<lb corresp="#f7_z1_l13"/>Mais la bonne chere m est chere<lb corresp="#f7_z1_l14"/>Maintenant bien ie le congnois<lb corresp="#f7_z1_l15"/>⁋ Une seruante il y auoit<lb corresp="#f7_z1_l16"/>Que l on appelloit amour faincte<lb corresp="#f7_z1_l17"/>Qui sans propos tousiours bauoit<lb corresp="#f7_z1_l18"/>Et me paissoit de bourde mainte<lb corresp="#f7_z1_l19"/>Disant, ma dame est plus atainte<lb corresp="#f7_z1_l20"/>De uous, qu il ne uous est aduis<lb corresp="#f7_z1_l21"/>Et ne fust de dangier la crainte<lb corresp="#f7_z1_l22"/>Le don auriez a deuis<lb corresp="#f7_z1_l23"/>⁋ Mais tout ce qu elle me comptoit<lb corresp="#f7_z1_l24"/>Estoit mensonge controuuee<lb corresp="#f7_z1_l25"/>Depuis congneuz qu elle mentoit<lb corresp="#f7_z1_l26"/>Quant la uerite fut prouuee<lb corresp="#f7_z1_l27"/>La chose auoit este trouuee<lb corresp="#f7_z1_l28"/>Par faulx semblant, pour me tenir<lb corresp="#f7_z1_l29"/>Soubz bride d amour esprouuee<lb corresp="#f7_z1_l30"/>En me donnant le souuenir<lb corresp="#f7_z1_l31"/>⁋ Et ce congneuz a la maniere<lb corresp="#f7_z1_l32"/>De la dame, qui autre aymoit<lb corresp="#f7_z1_l33"/>Parquoy m en suis tire arriere<lb corresp="#f7_z1_l34"/>Comme cil qui luy desplaisoit<lb corresp="#f7_z1_l35"/>Car combien qu elle me faisoit<lb corresp="#f7_z1_l36"/>Bon recueil, et chiere iolie<lb corresp="#f7_z1_l37"/>Touteffois congneuz que c estoit<lb corresp="#f7_z1_l38"/>Par faulx semblant et mocquerie.<lb corresp="#f7_z1_l39"/>⁋ Or uoꝰ uoyez que a ceste queste<lb corresp="#f7_z1_l40"/>Ie y ay ia par trois ans este<lb corresp="#f7_z2_l1"/>Tant a iour ouurier comme a feste<lb corresp="#f7_z2_l2"/>Autant en yuer qu en este<lb corresp="#f7_z2_l3"/>Et que rien n y ay conqueste<lb corresp="#f7_z2_l4"/>Fors soulcy, dueil, mal, ⁊ tempeste<lb corresp="#f7_z2_l5"/>Et suis tellement moleste<lb corresp="#f7_z2_l6"/>Que ne scay si suis homme ou beste<lb corresp="#f7_z2_l7"/>⁋ Parquoy donc se ie me complãtz<lb corresp="#f7_z2_l8"/>Ie ne dois point auoir de blame<lb corresp="#f7_z2_l9"/>Et si de la deme me plains<lb corresp="#f7_z2_l10"/>Uenir il ne m en peult diffame<lb corresp="#f7_z2_l11"/>Uous suppliant de corps et d ame<lb corresp="#f7_z2_l12"/>En ce fait cy me secourir<lb corresp="#f7_z2_l13"/>Ou bien me mettre soubz la lame<lb corresp="#f7_z2_l14"/>Car de brief me uerres mourir<lb corresp="#f7_z2_l15"/>⁋ Est ce tout:respond bon espoir<lb corresp="#f7_z2_l16"/>N est il aultre mal que ie presse<lb corresp="#f7_z2_l17"/>Ie te feray ta dame ueoir<lb corresp="#f7_z2_l18"/>Qui te tient en telle destresse<lb corresp="#f7_z2_l19"/>Mais tu auras ung peu d oppresse</hi>
+</ab>
         <pb corresp="#f8"/>
-        <p corresp="#f8_z1">
+        <ab corresp="#f8_z1" type="MainZone">
 <lb corresp="#f8_z1_l1"/>De mal et molestation
 <lb corresp="#f8_z1_l2"/>Qui sera de tous point expresse
 <lb corresp="#f8_z1_l3"/>Pour collir ton oppression
@@ -6145,7 +6084,7 @@
 <lb corresp="#f8_z1_l17"/>Uoicy l esperon de courage
 <lb corresp="#f8_z1_l18"/>Picque le sans le dorloter
 <lb corresp="#f8_z1_l19"/>Ne crains point luy faire dommage
-<hi type="HeadingLine"><lb corresp="#f8_z1_l20"/>L acteur</hi>
+<hi rend="HeadingLine"><lb corresp="#f8_z1_l20"/>L acteur</hi>
 <lb corresp="#f8_z1_l21"/>⁋ L amoureux s arme bien a point
 <lb corresp="#f8_z1_l22"/>Et sur son cheual fait ung sault
 <lb corresp="#f8_z1_l23"/>De son deul ne luy souuient point
@@ -6206,9 +6145,9 @@
 <lb corresp="#f8_z2_l38"/>Qui entrerent en la grant court
 <lb corresp="#f8_z2_l39"/>Puis ie uis d ung pauillon uert
 <lb corresp="#f8_z2_l40"/>Sortir ung escuyer et tout gourt
-</p>
+</ab>
         <pb corresp="#f9"/>
-        <p corresp="#f9_z1">
+        <ab corresp="#f9_z1" type="MainZone">
 <lb corresp="#f9_z1_l1"/>Qui leur dit en langaige court
 <lb corresp="#f9_z1_l2"/>Qui estes uous ne uous desplaise
 <lb corresp="#f9_z1_l3"/>Respondez sans faire le sourt
@@ -6287,13 +6226,13 @@
 <lb corresp="#f9_z2_l37"/>⁋ Mais auant que uenir en place
 <lb corresp="#f9_z2_l38"/>Armer il se ueult de rigueur
 <lb corresp="#f9_z2_l39"/>Et son escu de cruel cueur
-</p>
+</ab>
         <pb corresp="#f10"/>
-        <p corresp="#f10_z1">
+        <ab corresp="#f10_z1" type="MainZone">
 <lb corresp="#f10_z1_l1"/>Puis uient par horrible uigueur
 <lb corresp="#f10_z1_l2"/>A l amoureux bailler l assaul
 <lb corresp="#f10_z1_l3"/>On espoir qui uoit assaillir
-<hi type="DropCapitalLine"><lb corresp="#f10_z1_l4"/>B</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f10_z1_l4"/>B</hi>
 <lb corresp="#f10_z1_l5"/>L amoureux si treslourdement
 <lb corresp="#f10_z1_l6"/>Uient soubdain en place saillir
 <lb corresp="#f10_z1_l7"/>Et frapper reffus asprement
@@ -6329,9 +6268,9 @@
 <lb corresp="#f10_z2_l17"/>Bon espoir qu on faisoit  fouyr
 <lb corresp="#f10_z2_l18"/>⁋ Quant l amant se uit sans espoir
 <lb corresp="#f10_z2_l19"/>Et si fort naure par reffus
-</p>
+</ab>
         <pb corresp="#f11"/>
-        <p corresp="#f11_z1">
+        <ab corresp="#f11_z1" type="MainZone">
 <lb corresp="#f11_z1_l1"/>Il se laisse par terre cheoir
 <lb corresp="#f11_z1_l2"/>Uaincu, demy mort, et confus
 <lb corresp="#f11_z1_l3"/>Et uoyant la dame au par sus
@@ -6368,12 +6307,12 @@
 <lb corresp="#f11_z2_l15"/>En gettant de souspirs grant force
 <lb corresp="#f11_z2_l16"/>Puis quant son cueur s est reuenu
 <lb corresp="#f11_z2_l17"/>Ses regrets de nouuel renforce
-<hi type="HeadingLine"><lb corresp="#f11_z2_l18"/>⁋ L amoureux</hi>
+<hi rend="HeadingLine"><lb corresp="#f11_z2_l18"/>⁋ L amoureux</hi>
 <lb corresp="#f11_z2_l19"/>⁋ Disant or ay ie bien perdu
-</p>
+</ab>
         <fw corresp="#f11_z3" type="QuireMarksZone"><lb corresp="#f11_z3_l1"/>B. ii.</fw>
         <pb corresp="#f12"/>
-        <p corresp="#f12_z1">
+        <ab corresp="#f12_z1" type="MainZone">
 <lb corresp="#f12_z1_l1"/>Le don d amoureuse mercy
 <lb corresp="#f12_z1_l2"/>Par reffus qui m a mal rendu
 <lb corresp="#f12_z1_l3"/>Et espoir qui m a laisse cy
@@ -6401,7 +6340,7 @@
 <lb corresp="#f12_z1_l25"/>Amours ou i ay fait mon debuoir
 <lb corresp="#f12_z1_l26"/>I ay le nom d ung poure rauy
 <lb corresp="#f12_z1_l27"/>L amoureux transy sans espoir
-<hi type="HeadingLine"><lb corresp="#f12_z1_l28"/>⁋ L acteur</hi>
+<hi rend="HeadingLine"><lb corresp="#f12_z1_l28"/>⁋ L acteur</hi>
 <lb corresp="#f12_z1_l29"/>⁋ Et quant ie ueiz son desconfort
 <lb corresp="#f12_z1_l30"/>Par ce que ung peu le congnoissoye
 <lb corresp="#f12_z1_l31"/>Ie luy cuiday donner confort
@@ -6410,10 +6349,7 @@
 <lb corresp="#f12_z1_l34"/>Ayant de son mal au cueur dueil
 <lb corresp="#f12_z1_l35"/>Et depuis soubz une faulsoye
 <lb corresp="#f12_z1_l36"/>Ie fais de l histoire recueil
-<hi type="HeadingLine"><lb corresp="#f12_z1_l37"/>⁋ Complainte de la fem</hi>
-<hi type="HeadingLine"><lb corresp="#f12_z1_l38"/>me dessus le sercueil de sõ</hi>
-<hi type="HeadingLine"><lb corresp="#f12_z1_l39"/>mary a la descendue d yce</hi>
-<hi type="HeadingLine"><lb corresp="#f12_z1_l40"/>luy.</hi>
+<hi rend="HeadingLine"><lb corresp="#f12_z1_l37"/>⁋ Complainte de la fem<lb corresp="#f12_z1_l38"/>me dessus le sercueil de sõ<lb corresp="#f12_z1_l39"/>mary a la descendue d yce<lb corresp="#f12_z1_l40"/>luy.</hi>
 <lb corresp="#f12_z2_l1"/>⁋ Helas fault il maĩtenãt q̃ ie uoye
 <lb corresp="#f12_z2_l2"/>Le grãt malheur q̃tãt double i auoye
 <lb corresp="#f12_z2_l3"/>Helas fault il maintenãt soubstenir
@@ -6440,10 +6376,10 @@
 <lb corresp="#f12_z2_l24"/>Sãs plus me faire lãguir ⁊ retarder
 <lb corresp="#f12_z2_l25"/>En mourãt uifz, ⁊ si ne puis mourir
 <lb corresp="#f12_z2_l26"/>Et n est hõme qui me sceust secourir
-</p>
+</ab>
         <note corresp="#f12_z3" type="MarginTextZone"><lb corresp="#f12_z3_l1"/>Dame de pefy:</note>
         <pb corresp="#f13"/>
-        <p corresp="#f13_z1">
+        <ab corresp="#f13_z1" type="MainZone">
 <lb corresp="#f13_z1_l1"/>Mourir me fault sans que plꝰ puis-
 <lb corresp="#f13_z1_l2"/>se uiure
 <lb corresp="#f13_z1_l3"/>Et ne puis estre de ma uie deliure
@@ -6524,10 +6460,10 @@
 <lb corresp="#f13_z2_l38"/>I eusse paye le tribut a nature
 <lb corresp="#f13_z2_l39"/>Et fusse morte auec luy sans regret
 <lb corresp="#f13_z2_l40"/>Car il n est deul ꝑeil au deuil segret
-</p>
+</ab>
         <fw corresp="#f13_z3" type="QuireMarksZone"><lb corresp="#f13_z3_l1"/>B. iii.</fw>
         <pb corresp="#f14"/>
-        <p corresp="#f14_z1">
+        <ab corresp="#f14_z1" type="MainZone">
 <lb corresp="#f14_z1_l1"/>I eusse mys fin au mal q̃ ie supporte
 <lb corresp="#f14_z1_l2"/>Et aux dolleurs q̃ mon poure cueur
 <lb corresp="#f14_z1_l3"/>porte
@@ -6600,15 +6536,12 @@
 <lb corresp="#f14_z2_l30"/>et ie pryeray pour fin au redempteur
 <lb corresp="#f14_z2_l31"/>Que tousiours soit de uous uray
 <lb corresp="#f14_z2_l32"/>protecteur
-<hi type="HeadingLine"><lb corresp="#f14_z2_l33"/>⁋ Lettre enuoyee par .M.</hi>
-<hi type="HeadingLine"><lb corresp="#f14_z2_l34"/>D. a une ieune damoysel</hi>
-<hi type="HeadingLine"><lb corresp="#f14_z2_l35"/>le qui auoit promis le prẽ-</hi>
-<hi type="HeadingLine"><lb corresp="#f14_z2_l36"/>dre en mariage</hi>
+<hi rend="HeadingLine"><lb corresp="#f14_z2_l33"/>⁋ Lettre enuoyee par .M.<lb corresp="#f14_z2_l34"/>D. a une ieune damoysel<lb corresp="#f14_z2_l35"/>le qui auoit promis le prẽ-<lb corresp="#f14_z2_l36"/>dre en mariage</hi>
 <lb corresp="#f14_z2_l37"/>Egret piteux qui mon cueur pi
 <lb corresp="#f14_z2_l38"/>que et point
-</p>
+</ab>
         <pb corresp="#f15"/>
-        <p corresp="#f15_z1">
+        <ab corresp="#f15_z1" type="MainZone">
 <lb corresp="#f15_z1_l1"/>Et bien au long mes plaintes uous
 <lb corresp="#f15_z1_l2"/>escipre
 <lb corresp="#f15_z1_l3"/>Le mal cruel qui me tient ⁊ me presse
@@ -6689,10 +6622,10 @@
 <lb corresp="#f15_z2_l38"/>Ie me tenoye le plus heureux du
 <lb corresp="#f15_z2_l39"/>monde
 <lb corresp="#f15_z2_l40"/>D auoir trouue dame de tel faconde
-</p>
+</ab>
         <fw corresp="#f15_z3" type="QuireMarksZone"><lb corresp="#f15_z3_l1"/>B. iiii.</fw>
         <pb corresp="#f16"/>
-        <p corresp="#f16_z1">
+        <ab corresp="#f16_z1" type="MainZone">
 <lb corresp="#f16_z1_l1"/>Point ne pensoye que uostre cueur
 <lb corresp="#f16_z1_l2"/>changeast
 <lb corresp="#f16_z1_l3"/>Ne que iamais a aymer se rangeast
@@ -6773,9 +6706,9 @@
 <lb corresp="#f16_z2_l38"/>Cause ie suis et le cruel moyen
 <lb corresp="#f16_z2_l39"/>De la mort dure de ce bon citoyen
 <lb corresp="#f16_z2_l40"/>I ay fait mourir celuy qͥ tãt me ama
-</p>
+</ab>
         <pb corresp="#f17"/>
-        <p corresp="#f17_z1">
+        <ab corresp="#f17_z1" type="MainZone">
 <lb corresp="#f17_z1_l1"/>Que fiere mort soubz terre l ãbasma
 <lb corresp="#f17_z1_l2"/>or suis ie biẽ sur toutes malheureuse
 <lb corresp="#f17_z1_l3"/>Or dois ie bien estre tres douloreuse
@@ -6818,14 +6751,12 @@
 <lb corresp="#f17_z1_l40"/>Et se uãter q̃ pour uous seulement
 <lb corresp="#f17_z2_l1"/>On le uerra bien tost mort soubz la
 <lb corresp="#f17_z2_l2"/>l ame
-<hi type="HeadingLine"><lb corresp="#f17_z2_l3"/>⁋ Autre lettre enuoyee par</hi>
-<hi type="HeadingLine"><lb corresp="#f17_z2_l4"/>une fiancee a son fiance ab-</hi>
-<hi type="HeadingLine"><lb corresp="#f17_z2_l5"/>sent du royaulme.</hi>
+<hi rend="HeadingLine"><lb corresp="#f17_z2_l3"/>⁋ Autre lettre enuoyee par<lb corresp="#f17_z2_l4"/>une fiancee a son fiance ab-<lb corresp="#f17_z2_l5"/>sent du royaulme.</hi>
 <lb corresp="#f17_z2_l6"/>ꝑ uous susan
 <lb corresp="#f17_z2_l7"/>I toꝰ les chãtres ⁊ les musiciẽs
 <lb corresp="#f17_z2_l8"/>flutes taboͬs ⁊ les dieux ãciẽs
 <lb corresp="#f17_z2_l9"/>Entreprenoyent de me faire ioyeuse
-<hi type="DropCapitalLine"><lb corresp="#f17_z2_l10"/>S</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f17_z2_l10"/>S</hi>
 <lb corresp="#f17_z2_l11"/>Ilz ne pourroyent, car trop suys en-
 <lb corresp="#f17_z2_l12"/>nuyeuse
 <lb corresp="#f17_z2_l13"/>Trop triste suis, ⁊ trop melẽcolique
@@ -6858,9 +6789,9 @@
 <lb corresp="#f17_z2_l40"/>main
 <lb corresp="#f17_z2_l41"/>Et que uous tiengne par uostre blã
 <lb corresp="#f17_z2_l42"/>che main
-</p>
+</ab>
         <pb corresp="#f18"/>
-        <p corresp="#f18_z1">
+        <ab corresp="#f18_z1" type="MainZone">
 <lb corresp="#f18_z1_l1"/>Nõ malade, mais saĩ ⁊ a uostre aise
 <lb corresp="#f18_z1_l2"/>Et iusq̃s la ne fault point q̃ se taise
 <lb corresp="#f18_z1_l3"/>Mõ poure cueur sãs fin de soupirer
@@ -6939,14 +6870,11 @@
 <lb corresp="#f18_z2_l36"/>Que par deca biẽ tost uoꝰ en uenez
 <lb corresp="#f18_z2_l37"/>Et par pitie, par doulceur, ⁊ amour
 <lb corresp="#f18_z2_l38"/>A nostre deul, du confort uoꝰ donnez
-<hi type="HeadingLine"><lb corresp="#f18_z2_l39"/>⁋ L acteur sur la complainte de</hi>
-<hi type="HeadingLine"><lb corresp="#f18_z2_l40"/>l enfant banny qͥ ayme ꝑ honneur</hi>
-</p>
+<hi rend="HeadingLine"><lb corresp="#f18_z2_l39"/>⁋ L acteur sur la complainte de<lb corresp="#f18_z2_l40"/>l enfant banny qͥ ayme ꝑ honneur</hi>
+</ab>
         <pb corresp="#f19"/>
-        <p corresp="#f19_z1">
-<hi type="HeadingLine"><lb corresp="#f19_z1_l1"/>Ors que titan dõne aux anti-</hi>
-<hi type="HeadingLine"><lb corresp="#f19_z1_l2"/>pods lustre</hi>
-<hi type="DropCapitalLine"><lb corresp="#f19_z1_l3"/>L</hi>
+        <ab corresp="#f19_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f19_z1_l1"/>Ors que titan dõne aux anti-<lb corresp="#f19_z1_l2"/>pods lustre<lb corresp="#f19_z1_l3"/>L</hi>
 <lb corresp="#f19_z1_l4"/>Par europe gette ses rays luysans
 <lb corresp="#f19_z1_l5"/>Que les hões sõt en leurs litz gisãs
 <lb corresp="#f19_z1_l6"/>Ou nature du delict leur compose
@@ -6963,9 +6891,9 @@
 <lb corresp="#f19_z1_l17"/>Ou i apperceu ung hõme sermoyãt
 <lb corresp="#f19_z1_l18"/>Qui a ꝑ luy faisoit de dures plaĩtes
 <lb corresp="#f19_z1_l19"/>de grãs regretz et piteuses cõplaĩtes
-</p>
+</ab>
         <note corresp="#f19_z2" type="MarginTextZone"><lb corresp="#f19_z2_l1"/>susann</note>
-        <p corresp="#f19_z3">
+        <ab corresp="#f19_z3" type="MainZone">
 <lb corresp="#f19_z3_l1"/>Tant qu il sembloit qu il deust ꝑdre
 <lb corresp="#f19_z3_l2"/>la uie
 <lb corresp="#f19_z3_l3"/>Et se plaignoit de fortune et d enuie
@@ -6984,13 +6912,11 @@
 <lb corresp="#f19_z3_l16"/>dangiers
 <lb corresp="#f19_z3_l17"/>Et s appelloit cil qui faisoit ce pleur
 <lb corresp="#f19_z3_l18"/>L enfant bãny qui ayme par hõneur
-<hi type="HeadingLine"><lb corresp="#f19_z3_l19"/>⁋ L enfant soy complaignant</hi>
-</p>
+<hi rend="HeadingLine"><lb corresp="#f19_z3_l19"/>⁋ L enfant soy complaignant</hi>
+</ab>
         <pb corresp="#f20"/>
-        <p corresp="#f20_z1">
-<hi type="DropCapitalLine"><lb corresp="#f20_z1_l1"/>D</hi>
-<hi type="HeadingLine"><lb corresp="#f20_z1_l2"/>Ieux et deesses, que uous ay</hi>
-<hi type="HeadingLine"><lb corresp="#f20_z1_l3"/>ie forfait</hi>
+        <ab corresp="#f20_z1" type="MainZone">
+<hi rend="DropCapitalLine"><lb corresp="#f20_z1_l1"/>D<lb corresp="#f20_z1_l2"/>Ieux et deesses, que uous ay<lb corresp="#f20_z1_l3"/>ie forfait</hi>
 <lb corresp="#f20_z1_l4"/>ay ie fait;
 <lb corresp="#f20_z1_l5"/>Ay ie commis aucune forfaicture
 <lb corresp="#f20_z1_l6"/>Trosne diuin excellent et parfait
@@ -7026,9 +6952,9 @@
 <lb corresp="#f20_z2_l17"/>Ung peu de biẽ nom pas pleine une
 <lb corresp="#f20_z2_l18"/>tonne
 <lb corresp="#f20_z2_l19"/>mais quã ce uiẽt sur le poĩt prĩcipal
-</p>
+</ab>
         <pb corresp="#f21"/>
-        <p corresp="#f21_z1">
+        <ab corresp="#f21_z1" type="MainZone">
 <lb corresp="#f21_z1_l1"/>Uostre filz uient malheur, qui tout
 <lb corresp="#f21_z1_l2"/>m estonne
 <lb corresp="#f21_z1_l3"/>Et me cõpose chose qͥ n est pas bonne
@@ -7109,9 +7035,9 @@
 <lb corresp="#f21_z2_l38"/>Enuie, desolation
 <lb corresp="#f21_z2_l39"/>Et faulx raport sont de tes gens
 <lb corresp="#f21_z2_l40"/>Accident, tribulation
-</p>
+</ab>
         <pb corresp="#f22"/>
-        <p corresp="#f22_z1">
+        <ab corresp="#f22_z1" type="MainZone">
 <lb corresp="#f22_z1_l1"/>Malheur, inquietation
 <lb corresp="#f22_z1_l2"/>Ce sont tes bourreaux et sergens
 <lb corresp="#f22_z1_l3"/>Qui ne sont iamais negligens
@@ -7192,7 +7118,7 @@
 <lb corresp="#f22_z2_l38"/>Dit que cause suis du motif
 <lb corresp="#f22_z2_l39"/>Dont le dit quidam fuit aux armes
 <lb corresp="#f22_z2_l40"/>Et auec deux lasches gensdarmes
-</p>
+</ab>
       </div>
     </body>
   </text>

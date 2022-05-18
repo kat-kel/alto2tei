@@ -2048,13 +2048,10 @@
     <body>
       <div>
         <pb corresp="#f7"/>
-        <note corresp="#f7_z1" type="MarginTextZone"><lb corresp="#f7_z1_l1"/>La philosophie dans</note>
-        <note corresp="#f7_z1" type="MarginTextZone"><lb corresp="#f7_z1_l2"/>le Boudoir</note>
-        <note corresp="#f7_z1" type="MarginTextZone"><lb corresp="#f7_z1_l3"/>par De Sade</note>
-        <note corresp="#f7_z1" type="MarginTextZone"><lb corresp="#f7_z1_l4"/>pere de justine</note>
+        <note corresp="#f7_z1" type="MarginTextZone"><lb corresp="#f7_z1_l1"/>La philosophie dans<lb corresp="#f7_z1_l2"/>le Boudoir<lb corresp="#f7_z1_l3"/>par De Sade<lb corresp="#f7_z1_l4"/>pere de justine</note>
         <pb corresp="#f13"/>
-        <p corresp="#f13_z2">
-<hi type="HeadingLine"><lb corresp="#f13_z2_l1"/>AUX LIBERTINS.</hi>
+        <ab corresp="#f13_z2" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f13_z2_l1"/>AUX LIBERTINS.</hi>
 <lb corresp="#f13_z2_l2"/>OLUPTUEUX de tous les âges
 <lb corresp="#f13_z2_l3"/>et de tous les sexes, c’est à vous seuls
 <lb corresp="#f13_z2_l4"/>que j’offre cet ouvrage; nourrissez-vous
@@ -2072,9 +2069,9 @@
 <lb corresp="#f13_z2_l16"/>loix divines du plaisir qui l’enchaînèrent
 <lb corresp="#f13_z2_l17"/>toute sa vie.
 <lb corresp="#f13_z2_l18"/>Jeunes filles trop long-temps contenues
-</p>
+</ab>
         <pb corresp="#f14"/>
-        <p corresp="#f14_z1">
+        <ab corresp="#f14_z1" type="MainZone">
 <lb corresp="#f14_z1_l1"/>dans les liens absurdes et dangereux d’une
 <lb corresp="#f14_z1_l2"/>vertu fantastique et d’une religion dégou¬
 <lb corresp="#f14_z1_l3"/>tante, imitez l’ardente Eugénie, détrui¬
@@ -2097,15 +2094,10 @@
 <lb corresp="#f14_z1_l20"/>me; et jeté malgré lui sur ce triste uni¬
 <lb corresp="#f14_z1_l21"/>vers, peut réussir à semer quelques roses
 <lb corresp="#f14_z1_l22"/>sur les épines de la vie.
-</p>
+</ab>
         <pb corresp="#f15"/>
-        <p corresp="#f15_z1">
-<hi type="HeadingLine"><lb corresp="#f15_z1_l1"/>LA PHILOSOPHIE</hi>
-<hi type="HeadingLine"><lb corresp="#f15_z1_l2"/>DANS LE BOUDOIR,</hi>
-<hi type="HeadingLine"><lb corresp="#f15_z1_l3"/>LES INSTITUTEURS IMMORAUX,</hi>
-<hi type="HeadingLine"><lb corresp="#f15_z1_l4"/>OU</hi>
-<hi type="HeadingLine"><lb corresp="#f15_z1_l5"/>DIALOGUES</hi>
-<hi type="HeadingLine"><lb corresp="#f15_z1_l6"/>Destinés à l’éducation des jeunes Demoiselles.</hi>
+        <ab corresp="#f15_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f15_z1_l1"/>LA PHILOSOPHIE<lb corresp="#f15_z1_l2"/>DANS LE BOUDOIR,<lb corresp="#f15_z1_l3"/>LES INSTITUTEURS IMMORAUX,<lb corresp="#f15_z1_l4"/>OU<lb corresp="#f15_z1_l5"/>DIALOGUES<lb corresp="#f15_z1_l6"/>Destinés à l’éducation des jeunes Demoiselles.</hi>
 <lb corresp="#f15_z1_l7"/>PREMIER DIALOGUE.
 <lb corresp="#f15_z1_l8"/>Madame DE SAINT-ANGE, le Chevalier
 <lb corresp="#f15_z1_l9"/>DE MIRVEL.
@@ -2113,12 +2105,12 @@
 <lb corresp="#f15_z1_l11"/>onjour mon frere, eh bien, M. Dolmancé ?
 <lb corresp="#f15_z1_l12"/>LE CHEVALIER.
 <lb corresp="#f15_z1_l13"/>Il arrivera à quatre heures précises, nous
-</p>
+</ab>
         <fw corresp="#f15_z3" type="QuireMarksZone"><lb corresp="#f15_z3_l1"/>Tome I.</fw>
         <fw corresp="#f15_z4" type="QuireMarksZone"><lb corresp="#f15_z4_l1"/>A</fw>
         <pb corresp="#f16"/>
         <fw corresp="#f16_z1" type="NumberingZone"><lb corresp="#f16_z1_l1"/>(2)</fw>
-        <p corresp="#f16_z2">
+        <ab corresp="#f16_z2" type="MainZone">
 <lb corresp="#f16_z2_l1"/>ne dînons qu’à sept, nous aurons, comme
 <lb corresp="#f16_z2_l2"/>tu vois, tout le temps de jaser.
 <lb corresp="#f16_z2_l3"/>Madame DE SAINT-ANGE.
@@ -2143,9 +2135,9 @@
 <lb corresp="#f16_z2_l22"/>on était, comme moi, née pour le liberti¬
 <lb corresp="#f16_z2_l23"/>nage, il devenait inutile de songer à s’impo¬
 <lb corresp="#f16_z2_l24"/>ser des freins, de fongueux desirs les brisent
-</p>
+</ab>
         <pb corresp="#f17"/>
-        <p corresp="#f17_z1">
+        <ab corresp="#f17_z1" type="MainZone">
 <lb corresp="#f17_z1_l1"/>bientôt. Enfin, mon cher, je suis un animal
 <lb corresp="#f17_z1_l2"/>amphibie, j’aime tout, je m’amuse de tout,
 <lb corresp="#f17_z1_l3"/>je veux reunir tous les genres; mais, avoue-
@@ -2170,12 +2162,12 @@
 <lb corresp="#f17_z1_l22"/>n’est plut ni la complaisance, ni le caprice,
 <lb corresp="#f17_z1_l23"/>c’est le goût seul qui me détermine..... Je
 <lb corresp="#f17_z1_l24"/>crois, entre les procédés qui m’ont asservie,
-</p>
+</ab>
         <fw corresp="#f17_z2" type="NumberingZone"><lb corresp="#f17_z2_l1"/>(3)</fw>
         <fw corresp="#f17_z3" type="QuireMarksZone"><lb corresp="#f17_z3_l1"/>A ij</fw>
         <pb corresp="#f18"/>
         <fw corresp="#f18_z1" type="NumberingZone"><lb corresp="#f18_z1_l1"/>(4)</fw>
-        <p corresp="#f18_z2">
+        <ab corresp="#f18_z2" type="MainZone">
 <lb corresp="#f18_z2_l1"/>et ceux qui vont m’asservir à cette manie
 <lb corresp="#f18_z2_l2"/>bizarre, une inconcevable difference, et je
 <lb corresp="#f18_z2_l3"/>veux la connaître. Peins-moi ton Dolmancé,
@@ -2199,10 +2191,10 @@
 <lb corresp="#f18_z2_l21"/>philosophie dans l’esprit.
 <lb corresp="#f18_z2_l22"/>Madame DE SAINT-ANGE.
 <lb corresp="#f18_z2_l23"/>Il ne croit pas en Dieu, j’espère?
-</p>
+</ab>
         <pb corresp="#f19"/>
         <fw corresp="#f19_z1" type="NumberingZone"><lb corresp="#f19_z1_l1"/>(5)</fw>
-        <p corresp="#f19_z2">
+        <ab corresp="#f19_z2" type="MainZone">
 <lb corresp="#f19_z2_l1"/>LE CHEVALIER.
 <lb corresp="#f19_z2_l2"/>Ah ! que dis-tu là? c'est le plus célèbre
 <lb corresp="#f19_z2_l3"/>athée, l'homme le plus immoral..... Oh !
@@ -2226,11 +2218,11 @@
 <lb corresp="#f19_z2_l21"/>Je t'en préviens, ma sœur, il te refusera
 <lb corresp="#f19_z2_l22"/>tout net, si tu prétends l’engager à autre
 <lb corresp="#f19_z2_l23"/>chose : ce que je consens à faire avec votre
-</p>
+</ab>
         <fw corresp="#f19_z3" type="QuireMarksZone"><lb corresp="#f19_z3_l1"/>A iij</fw>
         <pb corresp="#f20"/>
         <fw corresp="#f20_z1" type="NumberingZone"><lb corresp="#f20_z1_l1"/>(6)</fw>
-        <p corresp="#f20_z2">
+        <ab corresp="#f20_z2" type="MainZone">
 <lb corresp="#f20_z2_l1"/>sœur, est, prétend-il, une licence,... une
 <lb corresp="#f20_z2_l2"/>incartade dont on ne se souille que rarement
 <lb corresp="#f20_z2_l3"/>et avec beaucoup de précautions.
@@ -2253,10 +2245,10 @@
 <lb corresp="#f20_z2_l20"/>je ne fasse alors ; je suis loin de cette morgue
 <lb corresp="#f20_z2_l21"/>ridicule qui fait croire à nos jeunes fréluquets
 <lb corresp="#f20_z2_l22"/>qu’il faut repondre par des coups de canne à
-</p>
+</ab>
         <pb corresp="#f21"/>
         <fw corresp="#f21_z1" type="NumberingZone"><lb corresp="#f21_z1_l1"/>(7)</fw>
-        <p corresp="#f21_z2">
+        <ab corresp="#f21_z2" type="MainZone">
 <lb corresp="#f21_z2_l1"/>de semblables propositions; l’homme est-il
 <lb corresp="#f21_z2_l2"/>Ie maître de ses goûts ? Il faut plaindre ceux
 <lb corresp="#f21_z2_l3"/>qui en ont de singuliers, mais ne les insulter
@@ -2281,10 +2273,10 @@
 <lb corresp="#f21_z2_l22"/>Quichottes de ces droits ordinaires, en bru¬
 <lb corresp="#f21_z2_l23"/>talisant ceux qui n’en reconnainssent pas toute
 <lb corresp="#f21_z2_l24"/>l'étendue.
-</p>
+</ab>
         <pb corresp="#f22"/>
         <fw corresp="#f22_z1" type="NumberingZone"><lb corresp="#f22_z1_l1"/>(8)</fw>
-        <p corresp="#f22_z2">
+        <ab corresp="#f22_z2" type="MainZone">
 <lb corresp="#f22_z2_l1"/>Madame de 8AINT-ANGE.
 <lb corresp="#f22_z2_l2"/>Ah! mon ami, baise-moi, tu ne serais pas
 <lb corresp="#f22_z2_l3"/>mon frère si tu pensais différemment ; mais
@@ -2309,10 +2301,10 @@
 <lb corresp="#f22_z2_l22"/>offre. Le Marquis était là, il nous encoura¬
 <lb corresp="#f22_z2_l23"/>geait en tripotant, maniant, baisant tout ce
 <lb corresp="#f22_z2_l24"/>que nous mettions au jour l’un et l’autre. Je
-</p>
+</ab>
         <pb corresp="#f23"/>
         <fw corresp="#f23_z1" type="NumberingZone"><lb corresp="#f23_z1_l1"/>(9)</fw>
-        <p corresp="#f23_z2">
+        <ab corresp="#f23_z2" type="MainZone">
 <lb corresp="#f23_z2_l1"/>me présente....  je veux au moins quelques
 <lb corresp="#f23_z2_l2"/>apprêts ; gardez-vous en bien, me dit le Mar¬
 <lb corresp="#f23_z2_l3"/>quis, vous ôteriez la moitié des sensations
@@ -2337,10 +2329,10 @@
 <lb corresp="#f23_z2_l22"/>conjure, ô mon amour, me servir de femme
 <lb corresp="#f23_z2_l23"/>après avoir été mon amant, et que je puisse
 <lb corresp="#f23_z2_l24"/>dire que j'ai goûté dans tes bras divins tous
-</p>
+</ab>
         <pb corresp="#f24"/>
         <fw corresp="#f24_z1" type="NumberingZone"><lb corresp="#f24_z1_l1"/>(10)</fw>
-        <p corresp="#f24_z2">
+        <ab corresp="#f24_z2" type="MainZone">
 <lb corresp="#f24_z2_l1"/>Ies plaisirs du goût que je chéris avec tant
 <lb corresp="#f24_z2_l2"/>d’empire. Trouvant aussi peu de difficulté à
 <lb corresp="#f24_z2_l3"/>l’un qu’à l’autre, je me prêtai ; le Marquis se
@@ -2364,10 +2356,10 @@
 <lb corresp="#f24_z2_l21"/>ne préférerai jamais au plaisir des femmes.
 <lb corresp="#f24_z2_l22"/>Madame DE SAINT-ANGE.
 <lb corresp="#f24_z2_l23"/>Eh bien, mon cher amour, pour récom¬
-</p>
+</ab>
         <pb corresp="#f25"/>
         <fw corresp="#f25_z1" type="NumberingZone"><lb corresp="#f25_z1_l1"/>(11)</fw>
-        <p corresp="#f25_z2">
+        <ab corresp="#f25_z2" type="MainZone">
 <lb corresp="#f25_z2_l1"/>penser aujourd’hui ta délicate complaisance,
 <lb corresp="#f25_z2_l2"/>je vais livrer à tes ardeurs une jeune fille
 <lb corresp="#f25_z2_l3"/>vierge, et plus belle que l’amour.
@@ -2391,9 +2383,9 @@
 <lb corresp="#f25_z2_l21"/>quer cette jeune personne. Dolmancé et moi
 <lb corresp="#f25_z2_l22"/>nous placerons dans cette jolie petite tête,
 <lb corresp="#f25_z2_l23"/>tous les principes du libertinage le plus ef¬
-</p>
+</ab>
         <pb corresp="#f26"/>
-        <p corresp="#f26_z1">
+        <ab corresp="#f26_z1" type="MainZone">
 <lb corresp="#f26_z1_l1"/>fréné, nous l’embrâserons de nos feux, nous
 <lb corresp="#f26_z1_l2"/>l’alimenterons de notre philosophie , nous lui
 <lb corresp="#f26_z1_l3"/>inspirerons nos désirs , et comme je veux join¬
@@ -2418,12 +2410,12 @@
 <lb corresp="#f26_z1_l22"/>dans ce jeune cœur toutes les semences de
 <lb corresp="#f26_z1_l23"/>vertu et de religion qu’y placèrent ses insti¬
 <lb corresp="#f26_z1_l24"/>tutrices. En verité cela est trop roué pour moi.
-</p>
+</ab>
         <fw corresp="#f26_z2" type="NumberingZone"><lb corresp="#f26_z2_l1"/>(12)</fw>
         <fw corresp="#f26_z3" type="QuireMarksZone"><lb corresp="#f26_z3_l1"/>Madame</fw>
         <pb corresp="#f27"/>
         <fw corresp="#f27_z1" type="NumberingZone"><lb corresp="#f27_z1_l1"/>(13)</fw>
-        <p corresp="#f27_z2">
+        <ab corresp="#f27_z2" type="MainZone">
 <lb corresp="#f27_z2_l1"/>Madame DE SAINT-ANGE.
 <lb corresp="#f27_z2_l2"/>Il est bien sûr que je n’épargnerai rien pour
 <lb corresp="#f27_z2_l3"/>la pervertir, pour dégrader, pour culbuter
@@ -2448,12 +2440,12 @@
 <lb corresp="#f27_z2_l22"/>reux.... Ah ! ma chère amie, que ton élève
 <lb corresp="#f27_z2_l23"/>réponde aux soins de l’instituteur, et je te
 <lb corresp="#f27_z2_l24"/>la garantis bientôt perdue.
-</p>
+</ab>
         <fw corresp="#f27_z3" type="QuireMarksZone"><lb corresp="#f27_z3_l1"/>Tome I.</fw>
         <fw corresp="#f27_z4" type="QuireMarksZone"><lb corresp="#f27_z4_l1"/>B</fw>
         <pb corresp="#f28"/>
         <fw corresp="#f28_z1" type="NumberingZone"><lb corresp="#f28_z1_l1"/>(14)</fw>
-        <p corresp="#f28_z2">
+        <ab corresp="#f28_z2" type="MainZone">
 <lb corresp="#f28_z2_l1"/>Madame DE SAINT-ANGE.
 <lb corresp="#f28_z2_l2"/>Cela ne sera sûrement pas long avec les dis¬
 <lb corresp="#f28_z2_l3"/>positions que je lui connais....
@@ -2477,10 +2469,10 @@
 <lb corresp="#f28_z2_l21"/>jeune personne ?
 <lb corresp="#f28_z2_l22"/>Madame DE SAINT-ANGE.
 <lb corresp="#f28_z2_l23"/>On la nomme Eugénie, elle est la fille d’un
-</p>
+</ab>
         <pb corresp="#f29"/>
         <fw corresp="#f29_z1" type="NumberingZone"><lb corresp="#f29_z1_l1"/>(15)</fw>
-        <p corresp="#f29_z2">
+        <ab corresp="#f29_z2" type="MainZone">
 <lb corresp="#f29_z2_l1"/>certain Mistival, l’un des plus riches traitans
 <lb corresp="#f29_z2_l2"/>de la capitale, agé d’environ trente-six ans ;
 <lb corresp="#f29_z2_l3"/>la mère en a tout au plus trente-deux, et la
@@ -2505,11 +2497,11 @@
 <lb corresp="#f29_z2_l22"/>d’une ardeur...., oh, mon ami, il n’est
 <lb corresp="#f29_z2_l23"/>pas possible de tenir à ces yeux-là.....,
 <lb corresp="#f29_z2_l24"/>tu n’imagines point toutes les sottises qu’ils
-</p>
+</ab>
         <fw corresp="#f29_z3" type="QuireMarksZone"><lb corresp="#f29_z3_l1"/>B ij</fw>
         <pb corresp="#f30"/>
         <fw corresp="#f30_z1" type="NumberingZone"><lb corresp="#f30_z1_l1"/>(16)</fw>
-        <p corresp="#f30_z2">
+        <ab corresp="#f30_z2" type="MainZone">
 <lb corresp="#f30_z2_l1"/>m’ont fait faire..., si tu voyais les jolis sour¬
 <lb corresp="#f30_z2_l2"/>cils qui les couronnent...., Ies intéressantes
 <lb corresp="#f30_z2_l3"/>paupières qui les bordent, sa bouche est très-
@@ -2534,10 +2526,10 @@
 <lb corresp="#f30_z2_l22"/>Laisse-nous, sors par le jardin pour ne la
 <lb corresp="#f30_z2_l23"/>point rencontrer, et sois exact au rendez-
 <lb corresp="#f30_z2_l24"/>vous.
-</p>
+</ab>
         <pb corresp="#f31"/>
         <fw corresp="#f31_z1" type="NumberingZone"><lb corresp="#f31_z1_l1"/>(17)</fw>
-        <p corresp="#f31_z2">
+        <ab corresp="#f31_z2" type="MainZone">
 <lb corresp="#f31_z2_l1"/>LE CHEVALIER.
 <lb corresp="#f31_z2_l2"/>Le tableau que tu viens de me faire te
 <lb corresp="#f31_z2_l3"/>répond de mon exactitude.... Oh ciel ! sor¬
@@ -2547,7 +2539,7 @@
 <lb corresp="#f31_z2_l7"/>( Elle le baise, touche son vit au travers de sa
 <lb corresp="#f31_z2_l8"/>culotte, et le jeune homme sort avec précipita¬
 <lb corresp="#f31_z2_l9"/>tion.)
-</p>
+</ab>
         <fw corresp="#f31_z3" type="QuireMarksZone"><lb corresp="#f31_z3_l1"/>B iij</fw>
       </div>
     </body>

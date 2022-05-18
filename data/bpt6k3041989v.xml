@@ -2440,7 +2440,7 @@
         <fw corresp="#f13_z2" type="NumberingZone"><lb corresp="#f13_z2_l1"/>6Y2</fw>
         <fw corresp="#f13_z2" type="NumberingZone"><lb corresp="#f13_z2_l2"/>52759</fw>
         <pb corresp="#f15"/>
-        <p corresp="#f15_z1">
+        <ab corresp="#f15_z1" type="MainZone">
 <lb corresp="#f15_z1_l1"/>AUX LISEURS.
 <lb corresp="#f15_z1_l2"/>Ne pensez, debonnaires liseurs, qu’à tort ce pro¬
 <lb corresp="#f15_z1_l3"/>verbe roule parmy nous, que qui refuse après muse :
@@ -2460,10 +2460,10 @@
 <lb corresp="#f15_z1_l17"/>que leur train ne pourroit compatir avec la naturelle
 <lb corresp="#f15_z1_l18"/>habitude de mes gayes philosophies, ou que quelques
 <lb corresp="#f15_z1_l19"/>uns n’ayant les yeux bien dessillez de grand matin,
-</p>
+</ab>
         <pb corresp="#f30"/>
         <fw corresp="#f30_z1" type="NumberingZone"><lb corresp="#f30_z1_l1"/>18</fw>
-        <p corresp="#f30_z2">
+        <ab corresp="#f30_z2" type="MainZone">
 <lb corresp="#f30_z2_l1"/>valoir, monstrer à la postérité, qu’ils n’ont esté en
 <lb corresp="#f30_z2_l2"/>ce monde creatures inutiles De toutes les façons
 <lb corresp="#f30_z2_l3"/>qu’on voudra le prendre, je demeureray tousjours
@@ -2479,14 +2479,12 @@
 <lb corresp="#f30_z2_l13"/>participent à la bonté. Goustez à mesmes si nos
 <lb corresp="#f30_z2_l14"/>fruits ne sont pas bons.
 <lb corresp="#f30_z2_l15"/>AUDENTES FORTUNE JUVAT.
-</p>
+</ab>
         <fw corresp="#f30_z3" type="RunningTitleZone"><lb corresp="#f30_z3_l1"/>AUX LISEURS.</fw>
         <pb corresp="#f31"/>
         <pb corresp="#f33"/>
-        <p corresp="#f33_z1">
-<hi type="HeadingLine"><lb corresp="#f33_z1_l1"/>LES APRES DISNEES</hi>
-<hi type="HeadingLine"><lb corresp="#f33_z1_l2"/>DU</hi>
-<hi type="HeadingLine"><lb corresp="#f33_z1_l3"/>SEIGNEUR DE CHOLIERES.</hi>
+        <ab corresp="#f33_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f33_z1_l1"/>LES APRES DISNEES<lb corresp="#f33_z1_l2"/>DU<lb corresp="#f33_z1_l3"/>SEIGNEUR DE CHOLIERES.</hi>
 <lb corresp="#f33_z1_l4"/>DU VEILLER ET DU DORMIR.
 <lb corresp="#f33_z1_l5"/>S’il faut dormir l'apres disnee?
 <lb corresp="#f33_z1_l6"/>APRES DISNEE I.
@@ -2502,11 +2500,11 @@
 <lb corresp="#f33_z1_l16"/>Vous sçavez que nostre déliberation commune est
 <lb corresp="#f33_z1_l17"/>desrober tous les plaisirs que nous pourrons, et
 <lb corresp="#f33_z1_l18"/>dresser une escole de philosophie. On a accoustumé
-</p>
+</ab>
         <pb corresp="#f37"/>
         <fw corresp="#f37_z1" type="RunningTitleZone"><lb corresp="#f37_z1_l1"/>ET DU DORMIR.</fw>
         <fw corresp="#f37_z2" type="NumberingZone"><lb corresp="#f37_z2_l1"/>25</fw>
-        <p corresp="#f37_z3">
+        <ab corresp="#f37_z3" type="MainZone">
 <lb corresp="#f37_z3_l1"/>nicieux ce qui de soy est proffitable aux autres. De
 <lb corresp="#f37_z3_l2"/>mesmes que vous en voyez aucuns qui, quoy qu'ils
 <lb corresp="#f37_z3_l3"/>ne soient des canes, boi-l’eau et abstemy, dès qu’ils
@@ -2537,12 +2535,12 @@
 <lb corresp="#f37_z3_l28"/>nostre cuisine stomachale. La seconde est dependante
 <lb corresp="#f37_z3_l29"/>de la premiere, prise par les effets et événemens,
 <lb corresp="#f37_z3_l30"/>attendu que nous voyons, sentons et appercevons que
-</p>
+</ab>
         <fw corresp="#f37_z4" type="QuireMarksZone"><lb corresp="#f37_z4_l1"/>3</fw>
         <pb corresp="#f41"/>
         <fw corresp="#f41_z1" type="RunningTitleZone"><lb corresp="#f41_z1_l1"/>ET DU DORMIR.</fw>
         <fw corresp="#f41_z2" type="NumberingZone"><lb corresp="#f41_z2_l1"/>29</fw>
-        <p corresp="#f41_z3">
+        <ab corresp="#f41_z3" type="MainZone">
 <lb corresp="#f41_z3_l1"/>Non, non (adjoute le sʳ l'Esveillé), je me paye
 <lb corresp="#f41_z3_l2"/>de ces raisons, puis que le voy que sur l'apres-dis¬
 <lb corresp="#f41_z3_l3"/>nee et la plus grande chaleur du jour. Si bien que
@@ -2573,12 +2571,12 @@
 <lb corresp="#f41_z3_l28"/>Tantò præ reliquis Poetis major,
 <lb corresp="#f41_z3_l29"/>Quantò corpore nactus est minori :
 <lb corresp="#f41_z3_l30"/>Tam et scribere græce ut ipsæ Athenæ
-</p>
+</ab>
         <fw corresp="#f41_z4" type="NumberingZone"><lb corresp="#f41_z4_l1"/>3</fw>
         <pb corresp="#f42"/>
         <fw corresp="#f42_z1" type="NumberingZone"><lb corresp="#f42_z1_l1"/>30</fw>
         <fw corresp="#f42_z2" type="RunningTitleZone"><lb corresp="#f42_z2_l1"/>DU VEILLER</fw>
-        <p corresp="#f42_z3">
+        <ab corresp="#f42_z3" type="MainZone">
 <lb corresp="#f42_z3_l1"/>Non possint magis Atticam referre.
 <lb corresp="#f42_z3_l2"/>Tam mirus artifex Latii leporis,
 <lb corresp="#f42_z3_l3"/>Ut ipsum sibi vindicent Latini.
@@ -2608,11 +2606,11 @@
 <lb corresp="#f42_z3_l27"/>vos maigres? Escoutez ce qu’il en dit :
 <lb corresp="#f42_z3_l28"/>Touchant des maigres n’en prenez aussi point
 <lb corresp="#f42_z3_l29"/>Car il est dit, et notez bien ce poinct,
-</p>
+</ab>
         <pb corresp="#f43"/>
         <fw corresp="#f43_z1" type="RunningTitleZone"><lb corresp="#f43_z1_l1"/>ET DU DORMIR.</fw>
         <fw corresp="#f43_z2" type="NumberingZone"><lb corresp="#f43_z2_l1"/>31</fw>
-        <p corresp="#f43_z3">
+        <ab corresp="#f43_z3" type="MainZone">
 <lb corresp="#f43_z3_l1"/>Que sont trois choses maigres tres-que mauvaises,
 <lb corresp="#f43_z3_l2"/>Fastigieuses, toutes plus qne punaises :
 <lb corresp="#f43_z3_l3"/>C'est à scavoir la femme, cheure et l’oye.
@@ -2643,11 +2641,11 @@
 <lb corresp="#f43_z3_l28"/>animales et naturelles du pourceau ne sont point
 <lb corresp="#f43_z3_l29"/>autres (hors l'individu) que sont celles d’un chacun
 <lb corresp="#f43_z3_l30"/>de nous. Que ainsi soit vous voyez que l'on est re¬
-</p>
+</ab>
         <pb corresp="#f51"/>
         <fw corresp="#f51_z1" type="RunningTitleZone"><lb corresp="#f51_z1_l1"/>ET DU DORMIR.</fw>
         <fw corresp="#f51_z2" type="NumberingZone"><lb corresp="#f51_z2_l1"/>39</fw>
-        <p corresp="#f51_z3">
+        <ab corresp="#f51_z3" type="MainZone">
 <lb corresp="#f51_z3_l1"/>Volvendisque libris domi vacare,
 <lb corresp="#f51_z3_l2"/>Librorum helluo, Regius patronus,
 <lb corresp="#f51_z3_l3"/>Regno et munere nobilis forensi,
@@ -2679,11 +2677,11 @@
 <lb corresp="#f51_z3_l29"/>par tous les philosophes, lesquels sont les mieux
 <lb corresp="#f51_z3_l30"/>habillez d’entendement. Ce n’est pas que je veuille
 <lb corresp="#f51_z3_l31"/>tenir le cerveau tousjours blandé, je sçay qu’il y a du
-</p>
+</ab>
         <pb corresp="#f52"/>
         <fw corresp="#f52_z1" type="NumberingZone"><lb corresp="#f52_z1_l1"/>40</fw>
         <fw corresp="#f52_z2" type="RunningTitleZone"><lb corresp="#f52_z2_l1"/>DU VEILLER</fw>
-        <p corresp="#f52_z3">
+        <ab corresp="#f52_z3" type="MainZone">
 <lb corresp="#f52_z3_l1"/>relais, duquel le seigneur Bretonnayau en son
 <lb corresp="#f52_z3_l2"/>Temple de l'Ame a tres bien poëtisé parlant de la
 <lb corresp="#f52_z3_l3"/>fantaisie: Pource je vous donneray, s’il vous plaist,
@@ -2714,11 +2712,11 @@
 <lb corresp="#f52_z3_l28"/>Ainsi vous voyez que l’assoupissement du corps
 <lb corresp="#f52_z3_l29"/>n’engourdit pas le cerveau, qu’il est tousjours aux
 <lb corresp="#f52_z3_l30"/>champs, qu’il chasse, s'il ne prend à tous coups,
-</p>
+</ab>
         <pb corresp="#f61"/>
         <fw corresp="#f61_z1" type="RunningTitleZone"><lb corresp="#f61_z1_l1"/>ET DU DORMIR.</fw>
         <fw corresp="#f61_z2" type="NumberingZone"><lb corresp="#f61_z2_l1"/>49</fw>
-        <p corresp="#f61_z3">
+        <ab corresp="#f61_z3" type="MainZone">
 <lb corresp="#f61_z3_l1"/>y deviez bien venir pour tordre le nés à l’intention
 <lb corresp="#f61_z3_l2"/>d'un si sage escrivain : Vous voyez qu’il seraphise
 <lb corresp="#f61_z3_l3"/>ceux qui ne s’assujetissent à vostre beau dormir : si
@@ -2748,12 +2746,12 @@
 <lb corresp="#f61_z3_l27"/>Cela est gratter votre sommeil de la façon qu’il faut,
 <lb corresp="#f61_z3_l28"/>et ne se chatouiller point pour se faire rire. Je passe
 <lb corresp="#f61_z3_l29"/>par dessus les pollutions nocturnes qui se font lors
-</p>
+</ab>
         <fw corresp="#f61_z4" type="QuireMarksZone"><lb corresp="#f61_z4_l1"/>5</fw>
         <pb corresp="#f71"/>
         <fw corresp="#f71_z1" type="RunningTitleZone"><lb corresp="#f71_z1_l1"/>ET DU DORMIR.</fw>
         <fw corresp="#f71_z2" type="NumberingZone"><lb corresp="#f71_z2_l1"/>59</fw>
-        <p corresp="#f71_z3">
+        <ab corresp="#f71_z3" type="MainZone">
 <lb corresp="#f71_z3_l1"/>nius: l. 2, ſf. de annuis leg.: nous apprend que
 <lb corresp="#f71_z3_l2"/>celuy qui estoit tenu et astraint à donner à un autre
 <lb corresp="#f71_z3_l3"/>la corvee ou la besoigne que son esclave eust peu
@@ -2783,10 +2781,10 @@
 <lb corresp="#f71_z3_l27"/>deparoloriez de toute ceste relevee. Voulez vous
 <lb corresp="#f71_z3_l28"/>que je vous accorde? vous dites tous deux vray,
 <lb corresp="#f71_z3_l29"/>mais c'est avec distinction. Il y a des naturels
-</p>
+</ab>
         <pb corresp="#f73"/>
-        <p corresp="#f73_z1">
-<hi type="HeadingLine"><lb corresp="#f73_z1_l1"/>DU MARIAGE.</hi>
+        <ab corresp="#f73_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f73_z1_l1"/>DU MARIAGE.</hi>
 <lb corresp="#f73_z1_l2"/>S'il vaut mieux n'estre marie que de
 <lb corresp="#f73_z1_l3"/>l’estre?
 <lb corresp="#f73_z1_l4"/>APRES DISNEE II.
@@ -2808,12 +2806,12 @@
 <lb corresp="#f73_z1_l20"/>bientost langue et credit en Cornoüailles. Et afin
 <lb corresp="#f73_z1_l21"/>que vous cognoissiez que je ne vous chante que la
 <lb corresp="#f73_z1_l22"/>verité, je vous prie, que luy mesmes face le discours
-</p>
+</ab>
         <fw corresp="#f73_z2" type="QuireMarksZone"><lb corresp="#f73_z2_l1"/>6</fw>
         <pb corresp="#f88"/>
         <fw corresp="#f88_z1" type="NumberingZone"><lb corresp="#f88_z1_l1"/>76</fw>
         <fw corresp="#f88_z2" type="RunningTitleZone"><lb corresp="#f88_z2_l1"/>DU MARIAGE.</fw>
-        <p corresp="#f88_z3">
+        <ab corresp="#f88_z3" type="MainZone">
 <lb corresp="#f88_z3_l1"/>ſoüet; auth. hodie : sous le mesme titre des Adul¬
 <lb corresp="#f88_z3_l2"/>tères? N'est-ce pas à cause de leur fragilité et natu¬
 <lb corresp="#f88_z3_l3"/>relle inclination? L a propre passion de la femme c’est
@@ -2843,11 +2841,11 @@
 <lb corresp="#f88_z3_l27"/>Pourquoy est-ce que la Dame, qui se sera laissé
 <lb corresp="#f88_z3_l28"/>sursaillir à son ecclave, sera grievement punie, et le
 <lb corresp="#f88_z3_l29"/>seigneur, qui s’accouple à celle qui lui est esclave
-</p>
+</ab>
         <pb corresp="#f103"/>
         <fw corresp="#f103_z1" type="RunningTitleZone"><lb corresp="#f103_z1_l1"/>DU MARIAGE.</fw>
         <fw corresp="#f103_z2" type="NumberingZone"><lb corresp="#f103_z2_l1"/>91</fw>
-        <p corresp="#f103_z3">
+        <ab corresp="#f103_z3" type="MainZone">
 <lb corresp="#f103_z3_l1"/>tronnee en ses Sizains des humeurs de la femme.
 <lb corresp="#f103_z3_l2"/>Par la maison elle est pire que la tempeste;
 <lb corresp="#f103_z3_l3"/>On peut bien dire alors, Cerbere est en sa teste,
@@ -2876,11 +2874,11 @@
 <lb corresp="#f103_z3_l26"/>Le courroux de la femme abbat tout et demarre,
 <lb corresp="#f103_z3_l27"/>Et meine un si grand bruit et si grand tintamarre
 <lb corresp="#f103_z3_l28"/>Que le plus asseure en est tout estonné :
-</p>
+</ab>
         <pb corresp="#f104"/>
         <fw corresp="#f104_z1" type="NumberingZone"><lb corresp="#f104_z1_l1"/>92</fw>
         <fw corresp="#f104_z2" type="RunningTitleZone"><lb corresp="#f104_z2_l1"/>DU MARIAGE.</fw>
-        <p corresp="#f104_z3">
+        <ab corresp="#f104_z3" type="MainZone">
 <lb corresp="#f104_z3_l1"/>On ne sçait si ce vient de la troupe infermale
 <lb corresp="#f104_z3_l2"/>Qui face (desliés) leur terreur generale
 <lb corresp="#f104_z3_l3"/>Ou si c’est la furie, ou si Dieu a tonné.
@@ -2909,11 +2907,11 @@
 <lb corresp="#f104_z3_l26"/>frappé le plus près au blanc ont dit que cela avenoit,
 <lb corresp="#f104_z3_l27"/>parce que de leur naturel elles estoient mauvaises,
 <lb corresp="#f104_z3_l28"/>ainsi que tantost j’ay rapporté d’Accurse. Les autres,
-</p>
+</ab>
         <pb corresp="#f109"/>
         <fw corresp="#f109_z1" type="RunningTitleZone"><lb corresp="#f109_z1_l1"/>DU MARIAGE.</fw>
         <fw corresp="#f109_z2" type="NumberingZone"><lb corresp="#f109_z2_l1"/>97</fw>
-        <p corresp="#f109_z3">
+        <ab corresp="#f109_z3" type="MainZone">
 <lb corresp="#f109_z3_l1"/>O malheureux vieillard, qui, courbe et tout tremblant,
 <lb corresp="#f109_z3_l2"/>N'a pas qui te soustienne, et qui, te ressemblant,
 <lb corresp="#f109_z3_l3"/>T'ayme serve et honore et comme la cigogne
@@ -2944,12 +2942,12 @@
 <lb corresp="#f109_z3_l28"/>et discours pour le solitaire. Quant aux enfans,
 <lb corresp="#f109_z3_l29"/>c'est une grande benediction de Dieu ; mais ils sont
 <lb corresp="#f109_z3_l30"/>si difficiles à eslever, à nourrir, à instruire, à en¬
-</p>
+</ab>
         <fw corresp="#f109_z4" type="QuireMarksZone"><lb corresp="#f109_z4_l1"/>9</fw>
         <pb corresp="#f113"/>
         <fw corresp="#f113_z1" type="RunningTitleZone"><lb corresp="#f113_z1_l1"/>DU MARIAGE.</fw>
         <fw corresp="#f113_z2" type="NumberingZone"><lb corresp="#f113_z2_l1"/>101</fw>
-        <p corresp="#f113_z3">
+        <ab corresp="#f113_z3" type="MainZone">
 <lb corresp="#f113_z3_l1"/>perdre la vie. Je ne vous mettray en butte que
 <lb corresp="#f113_z3_l2"/>Jean Il, grand duc de Moschovie, lequel avoit les
 <lb corresp="#f113_z3_l3"/>femmes en si grand horreur, qu'il s'esvanouissoit
@@ -2980,12 +2978,12 @@
 <lb corresp="#f113_z3_l28"/>par l’abeille, laquelle il prise comme celle qui bien¬
 <lb corresp="#f113_z3_l29"/>heure son mary, le resjouit et le console. A tout
 <lb corresp="#f113_z3_l30"/>rompre, et quand c’eut esté à bander et à racler, il
-</p>
+</ab>
         <fw corresp="#f113_z4" type="QuireMarksZone"><lb corresp="#f113_z4_l1"/>9.</fw>
         <pb corresp="#f114"/>
         <fw corresp="#f114_z1" type="NumberingZone"><lb corresp="#f114_z1_l1"/>102</fw>
         <fw corresp="#f114_z2" type="RunningTitleZone"><lb corresp="#f114_z2_l1"/>DU MARIAGE.</fw>
-        <p corresp="#f114_z3">
+        <ab corresp="#f114_z3" type="MainZone">
 <lb corresp="#f114_z3_l1"/>falloit garder pour le moins ceste sobriété, sans don¬
 <lb corresp="#f114_z3_l2"/>ner une si rude touche sur les imperfections femi¬
 <lb corresp="#f114_z3_l3"/>nines. Voulez vous que je vous die ce que j’estime
@@ -3008,7 +3006,7 @@
 <lb corresp="#f114_z3_l20"/>que nous allions tousjours de mal en pis, si est ce
 <lb corresp="#f114_z3_l21"/>que j’ay grand’peur qu’il n’en eschapperoit pas à si
 <lb corresp="#f114_z3_l22"/>bon marché que fit Jean Clopinel, dit de Meun.
-</p>
+</ab>
       </div>
     </body>
   </text>

@@ -1914,12 +1914,11 @@
       <div>
         <pb corresp="#f9"/>
         <pb corresp="#f10"/>
-        <p corresp="#f10_z1">
-<hi type="HeadingLine"><lb corresp="#f10_z1_l1"/>¶ Enſuyuent  pluſieurs menus propos</hi>
-<hi type="HeadingLine"><lb corresp="#f10_z1_l2"/>moraulx et ioyeulx</hi>
+        <ab corresp="#f10_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f10_z1_l1"/>¶ Enſuyuent  pluſieurs menus propos<lb corresp="#f10_z1_l2"/>moraulx et ioyeulx</hi>
 <lb corresp="#f10_z1_l3"/>Treſ illuſtre et hault prince excellent
 <lb corresp="#f10_z1_l4"/>Triumphateur de paix beniuolent
-<hi type="DropCapitalLine"><lb corresp="#f10_z1_l5"/>O</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f10_z1_l5"/>O</hi>
 <lb corresp="#f10_z1_l6"/>Treſobey en ton noble dommaine
 <lb corresp="#f10_z1_l7"/>Anthoine duc de Calabre et Lorraine
 <lb corresp="#f10_z1_l8"/>Auſſi de Bar marchis marquis du Pont
@@ -1942,29 +1941,28 @@
 <lb corresp="#f10_z1_l25"/>Ne permiſt onc commettre ung laſche faict
 <lb corresp="#f10_z1_l26"/>Philoſophie auoit en ſoy moralle
 <lb corresp="#f10_z1_l27"/>En expoſant auſſi la naturalle
-</p>
+</ab>
         <pb corresp="#f11"/>
-        <p corresp="#f11_z1">
+        <ab corresp="#f11_z1" type="MainZone">
 <lb corresp="#f11_z1_l1"/>Parquoy lon doit mettre ſur luy raiſon
 <lb corresp="#f11_z1_l2"/>Comme voyez, car ceſt ſon droit blaſon
 <lb corresp="#f11_z1_l3"/>⁋Raiſon deſſus la figure de Aristote
-<hi type="DropCapitalLine"><lb corresp="#f11_z1_l4"/>R</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f11_z1_l4"/>R</hi>
 <lb corresp="#f11_z1_l5"/>Aiſon ſuis ſubtile et argute
 <lb corresp="#f11_z1_l6"/>Qui du faulx et du vray diſpute
 <lb corresp="#f11_z1_l7"/>Affin de bien et clerement
 <lb corresp="#f11_z1_l8"/>Appliquer tout predicament
-</p>
+</ab>
         <fw corresp="#f11_z2" type="QuireMarksZone"><lb corresp="#f11_z2_l1"/>a.ii.</fw>
         <pb corresp="#f12"/>
-        <p corresp="#f12_z1">
+        <ab corresp="#f12_z1" type="MainZone">
 <lb corresp="#f12_z1_l1"/>Et determiner des ſecretz
 <lb corresp="#f12_z1_l2"/>De droitz mundiaulx et decretz
 <lb corresp="#f12_z1_l3"/>Et reprimer toutes iniures
 <lb corresp="#f12_z1_l4"/>Les faulx poix et faulces meſures
 <lb corresp="#f12_z1_l5"/>Quietement proſperera
 <lb corresp="#f12_z1_l6"/>Qui par moy ſe gouuernera
-<hi type="HeadingLine"><lb corresp="#f12_z1_l7"/>¶Lacteur.</hi>
-<hi type="HeadingLine"><lb corresp="#f12_z1_l8"/>¶ Pere Ariſtote en la philoſophie</hi>
+<hi rend="HeadingLine"><lb corresp="#f12_z1_l7"/>¶Lacteur.<lb corresp="#f12_z1_l8"/>¶ Pere Ariſtote en la philoſophie</hi>
 <lb corresp="#f12_z1_l9"/>Et de tous ars et naturelle vie
 <lb corresp="#f12_z1_l10"/>En tous ſes faitz ſe ſubmiſt a raiſon
 <lb corresp="#f12_z1_l11"/>Parquoy ſcient fut ſans comparaiſon
@@ -1976,22 +1974,22 @@
 <lb corresp="#f12_z1_l17"/>De fouruoyer aux champs et a la ville
 <lb corresp="#f12_z1_l18"/>Pour non tumber au dãger des brigans
 <lb corresp="#f12_z1_l19"/>Tenebreux cieux du monde latitans
-<hi type="HeadingLine"><lb corresp="#f12_z1_l20"/>¶ Raiſon par tout</hi>
+<hi rend="HeadingLine"><lb corresp="#f12_z1_l20"/>¶ Raiſon par tout</hi>
 <lb corresp="#f12_z1_l21"/>¶ Cronique du temps preſent
-<hi type="DropCapitalLine"><lb corresp="#f12_z1_l22"/>L</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f12_z1_l22"/>L</hi>
 <lb corresp="#f12_z1_l23"/>An mil cinq cens uingt et ung paix regna
 <lb corresp="#f12_z1_l24"/>Dont le dieu marsſi treſfort ſe indigna
 <lb corresp="#f12_z1_l25"/>Quil deſploya le ſtandard de follie
 <lb corresp="#f12_z1_l26"/>Dont fiſt preſent, par rigueur le donna
-</p>
+</ab>
         <pb corresp="#f13"/>
-        <p corresp="#f13_z1">
+        <ab corresp="#f13_z1" type="MainZone">
 <lb corresp="#f13_z1_l1"/>A ſes enſans:auſquelz il ordonna
 <lb corresp="#f13_z1_l2"/>De mettre a mort paix qui princes allie
 <lb corresp="#f13_z1_l3"/>Quant paix te ſceut de France fiſt ſaillie
 <lb corresp="#f13_z1_l4"/>Et dallemaigne eut ſa place en Lorraine
 <lb corresp="#f13_z1_l5"/>Dieu moyennant, ⁊ le bon duc Anthoine.
-<hi type="HeadingLine"><lb corresp="#f13_z1_l6"/>¶En ce dit an il y eut deux ſouldare</hi>
+<hi rend="HeadingLine"><lb corresp="#f13_z1_l6"/>¶En ce dit an il y eut deux ſouldare</hi>
 <lb corresp="#f13_z1_l7"/>Qui mirent ſus guidons et eſtandare
 <lb corresp="#f13_z1_l8"/>En eſmouuant une folle querelle
 <lb corresp="#f13_z1_l9"/>A fors diſcorde empoigna lance et dars
@@ -2000,7 +1998,7 @@
 <lb corresp="#f13_z1_l12"/>Ainſi ſe eſmeut guerre non trop cruelle
 <lb corresp="#f13_z1_l13"/>Car ſe neſtoit que pour ung uireton
 <lb corresp="#f13_z1_l14"/>Maint eſt batu de ſon propre baſton.
-<hi type="HeadingLine"><lb corresp="#f13_z1_l15"/>¶Di aduint il aue ſoubz umbre de bien</hi>
+<hi rend="HeadingLine"><lb corresp="#f13_z1_l15"/>¶Di aduint il aue ſoubz umbre de bien</hi>
 <lb corresp="#f13_z1_l16"/>Laigle uolla diſant trouuer moyen
 <lb corresp="#f13_z1_l17"/>De briſer,rompre,abolir et deſtruire
 <lb corresp="#f13_z1_l18"/>Lieux ſarcineux ⁊ ny eſpargnoit rien
@@ -2009,17 +2007,17 @@
 <lb corresp="#f13_z1_l21"/>Deu quil prenoit plaiſir a ſoy deduyre
 <lb corresp="#f13_z1_l22"/>Que marchandiſe allaſt par ſe chemin
 <lb corresp="#f13_z1_l23"/>Bien cõmencer uault peu ſans bonne fin
-<hi type="HeadingLine"><lb corresp="#f13_z1_l24"/>¶Lyon de ſable eſtant a laigle uny</hi>
-</p>
+<hi rend="HeadingLine"><lb corresp="#f13_z1_l24"/>¶Lyon de ſable eſtant a laigle uny</hi>
+</ab>
         <fw corresp="#f13_z2" type="QuireMarksZone"><lb corresp="#f13_z2_l1"/>a.iii.</fw>
         <pb corresp="#f18"/>
-        <p corresp="#f18_z1">
+        <ab corresp="#f18_z1" type="MainZone">
 <lb corresp="#f18_z1_l1"/>Nourrir amour entre eulx ⁊ publier
 <lb corresp="#f18_z1_l2"/>Guerre et debatz deſſoubz le pied plier
 <lb corresp="#f18_z1_l3"/>Oſtant flateurs de aupres ď leur  perſõne
 <lb corresp="#f18_z1_l4"/>Recognoiſſant que dieu uictoire donne
 <lb corresp="#f18_z1_l5"/>Et gloire auſſi ce ne fault oublier.
-<hi type="HeadingLine"><lb corresp="#f18_z1_l6"/>¶Rondeau</hi>
+<hi rend="HeadingLine"><lb corresp="#f18_z1_l6"/>¶Rondeau</hi>
 <lb corresp="#f18_z1_l7"/>¶ Sainct Pierre print le glaiue de ſainct Pol
 <lb corresp="#f18_z1_l8"/>Dont de rechief cuyda coupper le coſ
 <lb corresp="#f18_z1_l9"/>A ſainct Denys, car ſainct Jacque en galice
@@ -2036,13 +2034,11 @@
 <lb corresp="#f18_z1_l20"/>Apperceut bien que lung de eulx eſtoit fol
 <lb corresp="#f18_z1_l21"/>fainct
 <lb corresp="#f18_z1_l22"/>¶Raiſon par tout.
-<hi type="HeadingLine"><lb corresp="#f18_z1_l23"/>¶ Menus propos de la maniere de ſoy</hi>
-<hi type="HeadingLine"><lb corresp="#f18_z1_l24"/>gouuuerner es cours des princes</hi>
-</p>
+<hi rend="HeadingLine"><lb corresp="#f18_z1_l23"/>¶ Menus propos de la maniere de ſoy<lb corresp="#f18_z1_l24"/>gouuuerner es cours des princes</hi>
+</ab>
         <pb corresp="#f19"/>
-        <p corresp="#f19_z1">
-<hi type="HeadingLine"><lb corresp="#f19_z1_l1"/>¶Le curial.</hi>
-<hi type="DropCapitalLine"><lb corresp="#f19_z1_l2"/>H</hi>
+        <ab corresp="#f19_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f19_z1_l1"/>¶Le curial.<lb corresp="#f19_z1_l2"/>H</hi>
 <lb corresp="#f19_z1_l3"/>Omme qui ueult ſoy mettre en ſeruitude
 <lb corresp="#f19_z1_l4"/>Cuydant auoir aux princes habitude
 <lb corresp="#f19_z1_l5"/>Suyuant la court doit regarder comment
@@ -2050,9 +2046,9 @@
 <lb corresp="#f19_z1_l7"/>De gens qui ſont differendz en eſtude
 <lb corresp="#f19_z1_l8"/>Par diuers ſens et prompt entendement
 <lb corresp="#f19_z1_l9"/>Sa liberte laiſſe totallement
-</p>
+</ab>
         <pb corresp="#f24"/>
-        <p corresp="#f24_z1">
+        <ab corresp="#f24_z1" type="MainZone">
 <lb corresp="#f24_z1_l1"/>Tes eſcoliers te feront maintz oultraiges
 <lb corresp="#f24_z1_l2"/>Car ilz prendront a te greuer deduitz
 <lb corresp="#f24_z1_l3"/>Te faire mal deplaiſirs et ennuitz
@@ -2060,7 +2056,7 @@
 <lb corresp="#f24_z1_l5"/>Ainſi ta uie uſeras en langaiges
 <lb corresp="#f24_z1_l6"/>En en danger auec gens enuieulx
 <lb corresp="#f24_z1_l7"/>Leſtat de court plꝰ que autre eſt perilleux
-<hi type="HeadingLine"><lb corresp="#f24_z1_l8"/>¶ Sil te prenoit conſiderant ta uie</hi>
+<hi rend="HeadingLine"><lb corresp="#f24_z1_l8"/>¶ Sil te prenoit conſiderant ta uie</hi>
 <lb corresp="#f24_z1_l9"/>De te uenger de leur cruelle enuie
 <lb corresp="#f24_z1_l10"/>Tant pis uauldroit que ſans difficulte
 <lb corresp="#f24_z1_l11"/>Ton uengement ne ſeroit que follie
@@ -2069,7 +2065,7 @@
 <lb corresp="#f24_z1_l14"/>Que par autant uaines auctoritez
 <lb corresp="#f24_z1_l15"/>Folz curiaulx les deſirent et priſent
 <lb corresp="#f24_z1_l16"/>Ceulx ont le bruit qͥ en court temporiſent
-<hi type="HeadingLine"><lb corresp="#f24_z1_l17"/>¶Les grans abus des cours et la maniere</hi>
+<hi rend="HeadingLine"><lb corresp="#f24_z1_l17"/>¶Les grans abus des cours et la maniere</hi>
 <lb corresp="#f24_z1_l18"/>Des curiaulx ſont telz quil ny a guiere
 <lb corresp="#f24_z1_l19"/>Homme qui ſoit ſouffert ſoy eſleuer
 <lb corresp="#f24_z1_l20"/>Se corrompable il neſt par belle chere
@@ -2077,9 +2073,9 @@
 <lb corresp="#f24_z1_l22"/>Du en ſecret ung menſonge trouuer
 <lb corresp="#f24_z1_l23"/>Les uertueulx on taſche de greuer
 <lb corresp="#f24_z1_l24"/>Aux folz deſplaiſt ouyr ung bon notable
-</p>
+</ab>
         <pb corresp="#f27"/>
-        <p corresp="#f27_z1">
+        <ab corresp="#f27_z1" type="MainZone">
 <lb corresp="#f27_z1_l1"/>¶Car les grans uentz qui ſont es haultes cours
 <lb corresp="#f27_z1_l2"/>Ont tel facon que ceulx qui ont le cours
 <lb corresp="#f27_z1_l3"/>Et laudiui en mondain habitacle
@@ -2104,10 +2100,10 @@
 <lb corresp="#f27_z1_l22"/>Sitl ſenrichiſt par prendre ou meſcompter
 <lb corresp="#f27_z1_l23"/>Et puis deſcend ſans les degrez compter
 <lb corresp="#f27_z1_l24"/>Fortune alors ne ſen faict que ſoubzrire
-</p>
+</ab>
         <fw corresp="#f27_z2" type="QuireMarksZone"><lb corresp="#f27_z2_l1"/>b.ii.</fw>
         <pb corresp="#f28"/>
-        <p corresp="#f28_z1">
+        <ab corresp="#f28_z1" type="MainZone">
 <lb corresp="#f28_z1_l1"/>Mais des plus grans que eſfeue ie ie puis dire
 <lb corresp="#f28_z1_l2"/>Que a gueulle bee en rit ſes paulmes bat
 <lb corresp="#f28_z1_l3"/>Lorgueil mondain dieu le hait et rabat
@@ -2131,10 +2127,10 @@
 <lb corresp="#f28_z1_l21"/>Le temps perdu neſt iamais recouuert
 <lb corresp="#f28_z1_l22"/>Seruans de court ne font que uiuoter
 <lb corresp="#f28_z1_l23"/>Soubz le uouloir daltruy et fault noter
-</p>
+</ab>
         <pb corresp="#f37"/>
-        <p corresp="#f37_z1">
-<hi type="HeadingLine"><lb corresp="#f37_z1_l1"/>¶Lacteur.</hi>
+        <ab corresp="#f37_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f37_z1_l1"/>¶Lacteur.</hi>
 <lb corresp="#f37_z1_l2"/>¶Bratuler don de tous princes la grace
 <lb corresp="#f37_z1_l3"/>Rememorant les grans dangiers des cours
 <lb corresp="#f37_z1_l4"/>Iournellement chaſcun ſon cas pourchaſſe
@@ -2144,12 +2140,10 @@
 <lb corresp="#f37_z1_l8"/>Raiſon par tout faict ſur le texte ⁊ gloſe
 <lb corresp="#f37_z1_l9"/>En court ne aduient tout ce que lon propoſe
 <lb corresp="#f37_z1_l10"/>Raiſon par tout.
-</p>
+</ab>
         <pb corresp="#f38"/>
-        <p corresp="#f38_z1">
-<hi type="HeadingLine"><lb corresp="#f38_z1_l1"/>¶ Menus propos ſur la chaſſe du cerf moralle-</hi>
-<hi type="HeadingLine"><lb corresp="#f38_z1_l2"/>ment et ſelon lart de uenerie</hi>
-<hi type="DropCapitalLine"><lb corresp="#f38_z1_l3"/>L</hi>
+        <ab corresp="#f38_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f38_z1_l1"/>¶ Menus propos ſur la chaſſe du cerf moralle-<lb corresp="#f38_z1_l2"/>ment et ſelon lart de uenerie<lb corresp="#f38_z1_l3"/>L</hi>
 <lb corresp="#f38_z1_l4"/>E temps treuue fauoriſe
 <lb corresp="#f38_z1_l5"/>Entretenir guerre ſur terre
 <lb corresp="#f38_z1_l6"/>Mais ce que lhomme a ꝓpoſe
@@ -2172,9 +2166,9 @@
 <lb corresp="#f38_z1_l23"/>Rompre taillans contre taillans
 <lb corresp="#f38_z1_l24"/>Laſſer tours:abatre muiraille
 <lb corresp="#f38_z1_l25"/>Souuent ſans crier baille,baille
-</p>
+</ab>
         <pb corresp="#f41"/>
-        <p corresp="#f41_z1">
+        <ab corresp="#f41_z1" type="MainZone">
 <lb corresp="#f41_z1_l1"/>Commiſe par eulx et loultraige
 <lb corresp="#f41_z1_l2"/>Si par ce moyen on uoyaige
 <lb corresp="#f41_z1_l3"/>lentreprinſe ſera treſbonne
@@ -2199,10 +2193,10 @@
 <lb corresp="#f41_z1_l22"/>Fiertez monſtrent et arrogances
 <lb corresp="#f41_z1_l23"/>Et nya rime ne raiſon
 <lb corresp="#f41_z1_l24"/>En iceulx durant la ſaiſon
-</p>
+</ab>
         <fw corresp="#f41_z2" type="QuireMarksZone"><lb corresp="#f41_z2_l1"/>c.i.</fw>
         <pb corresp="#f43"/>
-        <p corresp="#f43_z1">
+        <ab corresp="#f43_z1" type="MainZone">
 <lb corresp="#f43_z1_l1"/>Mais que nous entendons leur change
 <lb corresp="#f43_z1_l2"/>Souuent repoſent a la fange
 <lb corresp="#f43_z1_l3"/>En la riuiere ou en eſtangs
@@ -2227,10 +2221,10 @@
 <lb corresp="#f43_z1_l22"/>Qui ne uallent pas que on les chaſſe
 <lb corresp="#f43_z1_l23"/>Et ſi taſchent auoir le chois
 <lb corresp="#f43_z1_l24"/>Des buiſſons ſont cerſz mal courtois
-</p>
+</ab>
         <fw corresp="#f43_z2" type="QuireMarksZone"><lb corresp="#f43_z2_l1"/>c.ii.</fw>
         <pb corresp="#f46"/>
-        <p corresp="#f46_z1">
+        <ab corresp="#f46_z1" type="MainZone">
 <lb corresp="#f46_z1_l1"/>Dont la foreſt franche on eſbranche
 <lb corresp="#f46_z1_l2"/>La uoulant porter branche a branche
 <lb corresp="#f46_z1_l3"/>En une foreſt qui eſt loing
@@ -2255,20 +2249,19 @@
 <lb corresp="#f46_z1_l22"/>Et ſur le texte mettrons gloſe
 <lb corresp="#f46_z1_l23"/>Quant ſes mots conſidererons
 <lb corresp="#f46_z1_l24"/>En noſtre cueur les noterons
-</p>
+</ab>
         <pb corresp="#f47"/>
-        <p corresp="#f47_z1">
+        <ab corresp="#f47_z1" type="MainZone">
 <lb corresp="#f47_z1_l1"/>Se neſt pas trop commune choſe
 <lb corresp="#f47_z1_l2"/>Chaſſer ſouuent on ſe diſpoſe
 <lb corresp="#f47_z1_l3"/>Etſi couſte cher uiſ ion
 <lb corresp="#f47_z1_l4"/>Il fault auoir par tout raiſon
-<hi type="HeadingLine"><lb corresp="#f47_z1_l5"/>¶Menus propos ſur la chaſſe</hi>
-<hi type="HeadingLine"><lb corresp="#f47_z1_l6"/>du ſanglier moraliſee.</hi>
-</p>
+<hi rend="HeadingLine"><lb corresp="#f47_z1_l5"/>¶Menus propos ſur la chaſſe<lb corresp="#f47_z1_l6"/>du ſanglier moraliſee.</hi>
+</ab>
         <fw corresp="#f47_z2" type="QuireMarksZone"><lb corresp="#f47_z2_l1"/>c.iii.</fw>
         <pb corresp="#f48"/>
-        <p corresp="#f48_z1">
-<hi type="DropCapitalLine"><lb corresp="#f48_z1_l1"/>I</hi>
+        <ab corresp="#f48_z1" type="MainZone">
+<hi rend="DropCapitalLine"><lb corresp="#f48_z1_l1"/>I</hi>
 <lb corresp="#f48_z1_l2"/>E ueis la paix regner pour ung eſpaſſe
 <lb corresp="#f48_z1_l3"/>Par le uouloir diuin qui tout compaſſe
 <lb corresp="#f48_z1_l4"/>Pan faiſoit lors ſes armonicques chantz
@@ -2295,9 +2288,9 @@
 <lb corresp="#f48_z1_l25"/>Auoir crees:auiſſi les clements
 <lb corresp="#f48_z1_l26"/>Pout ſon plaiſir faiſoit:neiges:glaſſons
 <lb corresp="#f48_z1_l27"/>Et ſouſtenoit tous humains:or penſons
-</p>
+</ab>
         <pb corresp="#f54"/>
-        <p corresp="#f54_z1">
+        <ab corresp="#f54_z1" type="MainZone">
 <lb corresp="#f54_z1_l1"/>Se neſt pas or tout ce quon uoit reluire
 <lb corresp="#f54_z1_l2"/>¶Quant le ſanglier eſt prins et mis a mort
 <lb corresp="#f54_z1_l3"/>Et tire hors de ſon buiſſon ou ſort
@@ -2315,7 +2308,7 @@
 <lb corresp="#f54_z1_l15"/>Raiſon par tout chaſcun ne ueult entendre
 <lb corresp="#f54_z1_l16"/>Raiſon par tout
 <lb corresp="#f54_z1_l17"/>Nobleſſe uoy qui taſche ſe allier
-<hi type="HeadingLine"><lb corresp="#f54_z1_l18"/>¶ Balade</hi>
+<hi rend="HeadingLine"><lb corresp="#f54_z1_l18"/>¶ Balade</hi>
 <lb corresp="#f54_z1_l19"/>Auec legliſe et par amour lier
 <lb corresp="#f54_z1_l20"/>Pource que peuple eſt deſpit et rebelle
 <lb corresp="#f54_z1_l21"/>Et ne ſe ueult a droit humilier
@@ -2323,9 +2316,9 @@
 <lb corresp="#f54_z1_l23"/>En eſcoutaut maint different libelle
 <lb corresp="#f54_z1_l24"/>Proueſſe abruit par minerue et cibelle
 <lb corresp="#f54_z1_l25"/>Sol retrrograde en oſtant ſa chaleur
-</p>
+</ab>
         <pb corresp="#f56"/>
-        <p corresp="#f56_z1">
+        <ab corresp="#f56_z1" type="MainZone">
 <lb corresp="#f56_z1_l1"/>Pour les mutins tenir ſoubz ſa tutelle
 <lb corresp="#f56_z1_l2"/>Ιaſon ne peut refourrer ſa cotelle
 <lb corresp="#f56_z1_l3"/>De la toiſon dont il fut conquefteur,
@@ -2343,7 +2336,7 @@
 <lb corresp="#f56_z1_l15"/>Se iuſte droit ſon eſtendard deſpoye
 <lb corresp="#f56_z1_l16"/>Tout bõ uouloir dieu conduit et pouruoye
 <lb corresp="#f56_z1_l17"/>¶Raison par tout
-<hi type="HeadingLine"><lb corresp="#f56_z1_l18"/>¶ Lacteur</hi>
+<hi rend="HeadingLine"><lb corresp="#f56_z1_l18"/>¶ Lacteur</hi>
 <lb corresp="#f56_z1_l19"/>¶ Triſte et penſif aggraue de ſoucy
 <lb corresp="#f56_z1_l20"/>En repoſant et dormant a Nancy
 <lb corresp="#f56_z1_l21"/>Ap̃s que ie euz contemple quelque hiſtoire
@@ -2352,19 +2345,17 @@
 <lb corresp="#f56_z1_l24"/>Lieue toy ſus herault darmes Gringoire
 <lb corresp="#f56_z1_l25"/>Prens ton papier ta plume et eſcriptoire
 <lb corresp="#f56_z1_l26"/>Metz par eſcript ce beau pſeaulme icy
-</p>
+</ab>
         <pb corresp="#f57"/>
-        <p corresp="#f57_z1">
+        <ab corresp="#f57_z1" type="MainZone">
 <lb corresp="#f57_z1_l1"/>Que feis ung iour pour le triumphe et gloire
 <lb corresp="#f57_z1_l2"/>Duroy francois qui obtiendra uictoire
 <lb corresp="#f57_z1_l3"/>Sil ſe ſubmet ſoubz diuine mercy
 <lb corresp="#f57_z1_l4"/>Ioyeulx reſueil faict le cueur et clarcy
-<hi type="HeadingLine"><lb corresp="#f57_z1_l5"/>¶ Menus ꝓpos ſur le pſeaulme Benedictus do</hi>
-<hi type="HeadingLine"><lb corresp="#f57_z1_l6"/>minus deus meus qui docet manus meas ad pre</hi>
-<hi type="HeadingLine"><lb corresp="#f57_z1_l7"/>lium:et digitos meos ad bellum</hi>
+<hi rend="HeadingLine"><lb corresp="#f57_z1_l5"/>¶ Menus ꝓpos ſur le pſeaulme Benedictus do<lb corresp="#f57_z1_l6"/>minus deus meus qui docet manus meas ad pre<lb corresp="#f57_z1_l7"/>lium:et digitos meos ad bellum</hi>
 <lb corresp="#f57_z1_l8"/>Eenoiſtz ſont ceulx qui ueullẽt dominer
 <lb corresp="#f57_z1_l9"/>Gardans la loy cuidant faire regner
-<hi type="DropCapitalLine"><lb corresp="#f57_z1_l10"/>B</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f57_z1_l10"/>B</hi>
 <lb corresp="#f57_z1_l11"/>Amour et paix en augmentant iuſtice
 <lb corresp="#f57_z1_l12"/>Beinoiſtz ſont ceulx a qui dieu ueult donner
 <lb corresp="#f57_z1_l13"/>Les mains et doigz pour bataille ordonner
@@ -2380,7 +2371,7 @@
 <lb corresp="#f57_z1_l23"/>Tout mon ſalut, mon bien et ſuſcepteur
 <lb corresp="#f57_z1_l24"/>Qui hais orgueil deſpiteuſe diſcrorde
 <lb corresp="#f57_z1_l25"/>Mettant en bruit aimable concorde
-</p>
+</ab>
         <fw corresp="#f57_z2" type="QuireMarksZone"><lb corresp="#f57_z2_l1"/>d.i.</fw>
       </div>
     </body>
