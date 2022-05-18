@@ -1,9 +1,9 @@
 name: "Transform"
 on:
   push:
-    paths:
-      - data/**
-      - data/*
+    #paths:
+    #  - data/**
+    #  - data/*
 jobs:
   Transform:
     runs-on: ubuntu-latest
