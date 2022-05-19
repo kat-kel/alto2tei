@@ -4,12 +4,12 @@ import re
 
 
 class IIIF_API:
-    def __init__(self, directory):
-        self.directory = directory
+    def __init__(self, document):
+        self.document = document
 
     def request(self):
         # Request manifest from Gallica's IIIF Presentation API
-        r = requests.get(f"https://gallica.bnf.fr/iiif/ark:/12148/{os.path.basename(self.directory)}/manifest.json/")
+        r = requests.get(f"https://gallica.bnf.fr/iiif/ark:/12148/{os.path.basename(self.document)}/manifest.json/")
         response = {d["label"]:d["value"] for d in r.json()["metadata"]}
         return response
 

@@ -1,4 +1,3 @@
-from lxml import etree
 import re
 from collections import namedtuple
 

@@ -5,8 +5,8 @@ import yaml
 
 class DefaultTree:
     children = defaultdict(list)
-    def __init__(self, directory, root, metadata, count_pages):
-        self.directory = directory
+    def __init__(self, document, root, metadata, count_pages):
+        self.document = document
         self.root = root
         self.sru = metadata["sru"]
         self.iiif = metadata["iiif"]
@@ -84,7 +84,7 @@ class DefaultTree:
         self.children["idno"].text = default_text
         altIdentifer = etree.SubElement(msIdentifier, "altIdentifier")
         alt_idno = etree.SubElement(altIdentifer, "idno", type="ark")  # pass to other methods
-        alt_idno.text = self.directory
+        alt_idno.text = self.document
         physDesc = etree.SubElement(msDesc, "physDesc")
         objectDesc = etree.SubElement(physDesc, "objectDesc")
         self.children["p"] = etree.SubElement(objectDesc, "p")  # pass to other methods
