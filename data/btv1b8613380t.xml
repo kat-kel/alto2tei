@@ -1843,7 +1843,7 @@
       <div>
         <pb corresp="#f9"/>
         <pb corresp="#f11"/>
-        <p corresp="#f11_z2">
+        <ab corresp="#f11_z2" type="MainZone">
 <lb corresp="#f11_z2_l1"/>Voici un petit conte indien qui
 <lb corresp="#f11_z2_l2"/>renferme plus de vérités que bien
 <lb corresp="#f11_z2_l3"/>des histoires. Je l’avois destiné à
@@ -1858,12 +1858,12 @@
 <lb corresp="#f11_z2_l12"/>des notes assez intéressantes que
 <lb corresp="#f11_z2_l13"/>je m’étois procurées. J’en avois
 <lb corresp="#f11_z2_l14"/>donc formé un épisode que j’avois
-</p>
+</ab>
         <fw corresp="#f11_z3" type="QuireMarksZone"><lb corresp="#f11_z3_l1"/>. . .</fw>
         <pb corresp="#f12"/>
         <fw corresp="#f12_z1" type="NumberingZone"><lb corresp="#f12_z1_l1"/>vj</fw>
         <fw corresp="#f12_z2" type="RunningTitleZone"><lb corresp="#f12_z2_l1"/>AVANT-PROPOS.</fw>
-        <p corresp="#f12_z3">
+        <ab corresp="#f12_z3" type="MainZone">
 <lb corresp="#f12_z3_l1"/>lié à une anecdocte historique qui
 <lb corresp="#f12_z3_l2"/>en fait le commencement. C'est
 <lb corresp="#f12_z3_l3"/>à l’occasion d’une compagnie de
@@ -1882,9 +1882,9 @@
 <lb corresp="#f12_z3_l16"/>aucune intention de jeter quelque
 <lb corresp="#f12_z3_l17"/>ridicule sur les académies, quoique
 <lb corresp="#f12_z3_l18"/>j’aie beaucoup à m’en plaindre,
-</p>
+</ab>
         <pb corresp="#f13"/>
-        <p corresp="#f13_z1">
+        <ab corresp="#f13_z1" type="MainZone">
 <lb corresp="#f13_z1_l1"/>non par rapport à ma personne,
 <lb corresp="#f13_z1_l2"/>mais à cause des intérêts de la vé¬
 <lb corresp="#f13_z1_l3"/>rité*, qu’ils persécutent souvent,
@@ -1901,14 +1901,13 @@
 <lb corresp="#f13_z1_l14"/>Moniteur Francois, le 9 février
 <lb corresp="#f13_z1_l15"/>1790. Le caractère que j’ai donné
 <lb corresp="#f13_z1_l16"/>à un de leurs confrères, est une
-</p>
+</ab>
         <fw corresp="#f13_z2" type="RunningTitleZone"><lb corresp="#f13_z2_l1"/>AVANT- PROPOS.</fw>
         <fw corresp="#f13_z3" type="NumberingZone"><lb corresp="#f13_z3_l1"/>vij</fw>
-        <note corresp="#f13_z4" type="MarginTextZone"><lb corresp="#f13_z4_l1"/>*Voyez la note première à la fin de</note>
-        <note corresp="#f13_z4" type="MarginTextZone"><lb corresp="#f13_z4_l2"/>l’avant-propos.</note>
+        <note corresp="#f13_z4" type="MarginTextZone"><lb corresp="#f13_z4_l1"/>*Voyez la note première à la fin de<lb corresp="#f13_z4_l2"/>l’avant-propos.</note>
         <pb corresp="#f14"/>
         <fw corresp="#f14_z1" type="NumberingZone"><lb corresp="#f14_z1_l1"/>viij</fw>
-        <p corresp="#f14_z2">
+        <ab corresp="#f14_z2" type="MainZone">
 <lb corresp="#f14_z2_l1"/>preuve non équivoque de mon es¬
 <lb corresp="#f14_z2_l2"/>time pour eux. Certainement j’ai
 <lb corresp="#f14_z2_l3"/>dû regarder comme une démarche
@@ -1925,12 +1924,11 @@
 <lb corresp="#f14_z2_l14"/>Danemarck, et la seconde par la
 <lb corresp="#f14_z2_l15"/>France* ; mais toutes deux bien
 <lb corresp="#f14_z2_l16"/>malheureusement, puisque de dou¬
-</p>
+</ab>
         <fw corresp="#f14_z3" type="RunningTitleZone"><lb corresp="#f14_z3_l1"/>AVANT-PROPOS.</fw>
-        <note corresp="#f14_z4" type="MarginTextZone"><lb corresp="#f14_z4_l1"/>* Voyez la note seconde à la fin de</note>
-        <note corresp="#f14_z4" type="MarginTextZone"><lb corresp="#f14_z4_l2"/>l’avant-propos.</note>
+        <note corresp="#f14_z4" type="MarginTextZone"><lb corresp="#f14_z4_l1"/>* Voyez la note seconde à la fin de<lb corresp="#f14_z4_l2"/>l’avant-propos.</note>
         <pb corresp="#f15"/>
-        <p corresp="#f15_z1">
+        <ab corresp="#f15_z1" type="MainZone">
 <lb corresp="#f15_z1_l1"/>ze savans voyageurs danois, il n’en
 <lb corresp="#f15_z1_l2"/>est revenu qu’un seul dans sa patrie,
 <lb corresp="#f15_z1_l3"/>et que l’on n’a aucune nouvelle des
@@ -1949,13 +1947,13 @@
 <lb corresp="#f15_z1_l16"/>maux dont l’humanité est affligée
 <lb corresp="#f15_z1_l17"/>aux Indes. Ma devise est de secou¬
 <lb corresp="#f15_z1_l18"/>rir les malheureux, et j’étends ce
-</p>
+</ab>
         <fw corresp="#f15_z2" type="RunningTitleZone"><lb corresp="#f15_z2_l1"/>AVANT-PROPOS.</fw>
         <fw corresp="#f15_z3" type="NumberingZone"><lb corresp="#f15_z3_l1"/>ix</fw>
         <pb corresp="#f16"/>
         <fw corresp="#f16_z1" type="NumberingZone"><lb corresp="#f16_z1_l1"/>x</fw>
         <fw corresp="#f16_z2" type="RunningTitleZone"><lb corresp="#f16_z2_l1"/>AVANT-PROPOS.</fw>
-        <p corresp="#f16_z3">
+        <ab corresp="#f16_z3" type="MainZone">
 <lb corresp="#f16_z3_l1"/>sentiment à tous les hommes. Si la
 <lb corresp="#f16_z3_l2"/>philosophie est venue autrefois des
 <lb corresp="#f16_z3_l3"/>Indes en Europe, pourquoi ne
@@ -1974,10 +1972,10 @@
 <lb corresp="#f16_z3_l16"/>mes argumens, j’ai tâché de les
 <lb corresp="#f16_z3_l17"/>revêtir de celles d’un conte. C'est
 <lb corresp="#f16_z3_l18"/>avec des contes qu’on rend par¬
-</p>
+</ab>
         <pb corresp="#f17"/>
         <fw corresp="#f17_z1" type="RunningTitleZone"><lb corresp="#f17_z1_l1"/>AVANT-PROPOS.</fw>
-        <p corresp="#f17_z2">
+        <ab corresp="#f17_z2" type="MainZone">
 <lb corresp="#f17_z2_l1"/>tout les hommes attentifs à la
 <lb corresp="#f17_z2_l2"/>vérité.
 <lb corresp="#f17_z2_l3"/>Nous sommes tous d’Athène en ce point ;
@@ -1996,12 +1994,12 @@
 <lb corresp="#f17_z2_l16"/>Sultan ne se trouveroit pas plus
 <lb corresp="#f17_z2_l17"/>offensé de se voir peint sous l’em¬
 <lb corresp="#f17_z2_l18"/>blême d’un chat-huant ou d’un
-</p>
+</ab>
         <fw corresp="#f17_z3" type="NumberingZone"><lb corresp="#f17_z3_l1"/>xj</fw>
         <pb corresp="#f18"/>
         <fw corresp="#f18_z1" type="NumberingZone"><lb corresp="#f18_z1_l1"/>xij</fw>
         <fw corresp="#f18_z2" type="RunningTitleZone"><lb corresp="#f18_z2_l1"/>AVANT-PROPOS.</fw>
-        <p corresp="#f18_z3">
+        <ab corresp="#f18_z3" type="MainZone">
 <lb corresp="#f18_z3_l1"/>Iéopard, que d’après nature; et si
 <lb corresp="#f18_z3_l2"/>des vérités de réflexion ne le bles¬
 <lb corresp="#f18_z3_l3"/>seroient pas pour le moins autant
@@ -2020,12 +2018,12 @@
 <lb corresp="#f18_z3_l16"/>« cette peinture étoit faite en dé¬
 <lb corresp="#f18_z3_l17"/>« rision des peuples de l’Asie, qu’ils
 <lb corresp="#f18_z3_l18"/>« y étoient figurés par le satyre
-</p>
+</ab>
         <fw corresp="#f18_z4" type="QuireMarksZone"><lb corresp="#f18_z4_l1"/>« noir</fw>
         <pb corresp="#f19"/>
         <fw corresp="#f19_z1" type="RunningTitleZone"><lb corresp="#f19_z1_l1"/>AVANT- PROPOS.</fw>
         <fw corresp="#f19_z2" type="NumberingZone"><lb corresp="#f19_z2_l1"/>xiij</fw>
-        <p corresp="#f19_z3">
+        <ab corresp="#f19_z3" type="MainZone">
 <lb corresp="#f19_z3_l1"/>« noir et cornu, comme étant d’une
 <lb corresp="#f19_z3_l2"/>« même complexion ; et que la
 <lb corresp="#f19_z3_l3"/>« Vénus qui menoit le Satyre par
@@ -2044,12 +2042,12 @@
 <lb corresp="#f19_z3_l16"/>rique aux Indes, parce que les prin¬
 <lb corresp="#f19_z3_l17"/>ces, dit-il, y sont très-soupçon¬
 <lb corresp="#f19_z3_l18"/>neux. C’est en effet le caractère
-</p>
+</ab>
         <fw corresp="#f19_z4" type="QuireMarksZone"><lb corresp="#f19_z4_l1"/>b</fw>
         <pb corresp="#f20"/>
         <fw corresp="#f20_z1" type="NumberingZone"><lb corresp="#f20_z1_l1"/>xiv</fw>
         <fw corresp="#f20_z2" type="RunningTitleZone"><lb corresp="#f20_z2_l1"/>AVANT-PROPOS.</fw>
-        <p corresp="#f20_z3">
+        <ab corresp="#f20_z3" type="MainZone">
 <lb corresp="#f20_z3_l1"/>des despotes. Je crois donc que
 <lb corresp="#f20_z3_l2"/>nulle part les fables n’ont été ima¬
 <lb corresp="#f20_z3_l3"/>ginées pour eux, si ce n’est pour
@@ -2068,11 +2066,11 @@
 <lb corresp="#f20_z3_l16"/>de quelques métamorphoses. Il y
 <lb corresp="#f20_z3_l17"/>avoit peu de familles illustres qui
 <lb corresp="#f20_z3_l18"/>n'eût quelque animal au nombre
-</p>
+</ab>
         <pb corresp="#f21"/>
         <fw corresp="#f21_z1" type="RunningTitleZone"><lb corresp="#f21_z1_l1"/>AVANT-PROPOS.</fw>
         <fw corresp="#f21_z2" type="NumberingZone"><lb corresp="#f21_z2_l1"/>xv</fw>
-        <p corresp="#f21_z3">
+        <ab corresp="#f21_z3" type="MainZone">
 <lb corresp="#f21_z3_l1"/>de ses ancêtres, et qui ne comp¬
 <lb corresp="#f21_z3_l2"/>tât parmi ses cousins ou ses cou¬
 <lb corresp="#f21_z3_l3"/>sines, des taureaux, des cygnes,
@@ -2091,11 +2089,11 @@
 <lb corresp="#f21_z3_l16"/>Ce sont les peuples les plus
 <lb corresp="#f21_z3_l17"/>rapprochés de la nature, et par
 <lb corresp="#f21_z3_l18"/>conséquent les plus libres, qui ont
-</p>
+</ab>
         <pb corresp="#f22"/>
         <fw corresp="#f22_z1" type="NumberingZone"><lb corresp="#f22_z1_l1"/>xvj</fw>
         <fw corresp="#f22_z2" type="RunningTitleZone"><lb corresp="#f22_z2_l1"/>AVANT-PROPOS.</fw>
-        <p corresp="#f22_z3">
+        <ab corresp="#f22_z3" type="MainZone">
 <lb corresp="#f22_z3_l1"/>le plus aimé à orner la vérité de
 <lb corresp="#f22_z3_l2"/>fables : c’est par un eſſet de l’amour
 <lb corresp="#f22_z3_l3"/>même de la vérité, qui est le senti¬
@@ -2114,11 +2112,11 @@
 <lb corresp="#f22_z3_l16"/>vent supporter la lumière pure du
 <lb corresp="#f22_z3_l17"/>soleil. C’est à cause de la foiblesse
 <lb corresp="#f22_z3_l18"/>de nos yeux, que la nature nous a
-</p>
+</ab>
         <pb corresp="#f23"/>
         <fw corresp="#f23_z1" type="RunningTitleZone"><lb corresp="#f23_z1_l1"/>AVANT-PROPOS.</fw>
         <fw corresp="#f23_z2" type="NumberingZone"><lb corresp="#f23_z2_l1"/>xvij</fw>
-        <p corresp="#f23_z3">
+        <ab corresp="#f23_z3" type="MainZone">
 <lb corresp="#f23_z3_l1"/>donné des paupières pour les voiler
 <lb corresp="#f23_z3_l2"/>au degré qui nous convient ; qu’elle
 <lb corresp="#f23_z3_l3"/>a planté la terre de forêts, dont les
@@ -2137,12 +2135,12 @@
 <lb corresp="#f23_z3_l16"/>que l’ame s’ouvre par degrés à la
 <lb corresp="#f23_z3_l17"/>vérité, qu’elle n’en admet que ce
 <lb corresp="#f23_z3_l18"/>qu’elle en peut supporter, qu’elle
-</p>
+</ab>
         <fw corresp="#f23_z4" type="QuireMarksZone"><lb corresp="#f23_z4_l1"/>.  .  .</fw>
         <pb corresp="#f24"/>
         <fw corresp="#f24_z1" type="NumberingZone"><lb corresp="#f24_z1_l1"/>xviij</fw>
         <fw corresp="#f24_z2" type="RunningTitleZone"><lb corresp="#f24_z2_l1"/>AVANT-PROPOS.</fw>
-        <p corresp="#f24_z3">
+        <ab corresp="#f24_z3" type="MainZone">
 <lb corresp="#f24_z3_l1"/>s’entoure de fables qui sont comme
 <lb corresp="#f24_z3_l2"/>autant de berceaux, à l’ombre des¬
 <lb corresp="#f24_z3_l3"/>quels elle la contemple ; et lors¬
@@ -2161,11 +2159,11 @@
 <lb corresp="#f24_z3_l16"/>mens sensibles, ou au moins sur des
 <lb corresp="#f24_z3_l17"/>métaphores et des comparaisons
 <lb corresp="#f24_z3_l18"/>qui la réfléchissent ; il lui faut un
-</p>
+</ab>
         <pb corresp="#f25"/>
         <fw corresp="#f25_z1" type="RunningTitleZone"><lb corresp="#f25_z1_l1"/>AVANT- PROPOS.</fw>
         <fw corresp="#f25_z2" type="NumberingZone"><lb corresp="#f25_z2_l1"/>xix</fw>
-        <p corresp="#f25_z3">
+        <ab corresp="#f25_z3" type="MainZone">
 <lb corresp="#f25_z3_l1"/>corps qui la renvoie. Notre en¬
 <lb corresp="#f25_z3_l2"/>tendement n’a point de prise sur
 <lb corresp="#f25_z3_l3"/>les vérités purement métaphysi¬
@@ -2184,11 +2182,11 @@
 <lb corresp="#f25_z3_l16"/>leurs sentimens ; les seconds à les
 <lb corresp="#f25_z3_l17"/>étendre. Mais comme souvent les
 <lb corresp="#f25_z3_l18"/>nuages dispersés sous mille formes
-</p>
+</ab>
         <pb corresp="#f26"/>
         <fw corresp="#f26_z1" type="NumberingZone"><lb corresp="#f26_z1_l1"/>xx</fw>
         <fw corresp="#f26_z2" type="RunningTitleZone"><lb corresp="#f26_z2_l1"/>AVANT-PROPOS.</fw>
-        <p corresp="#f26_z3">
+        <ab corresp="#f26_z3" type="MainZone">
 <lb corresp="#f26_z3_l1"/>phantastiques , décomposent les
 <lb corresp="#f26_z3_l2"/>rayons du soleil en teintes plus
 <lb corresp="#f26_z3_l3"/>riches et plus variées que celles qui
@@ -2207,11 +2205,11 @@
 <lb corresp="#f26_z3_l16"/>beautés par des consonnances.
 <lb corresp="#f26_z3_l17"/>L’ignorance est donc aussi né¬
 <lb corresp="#f26_z3_l18"/>cessaire à la vérité que l’ombre l’est
-</p>
+</ab>
         <pb corresp="#f27"/>
         <fw corresp="#f27_z1" type="RunningTitleZone"><lb corresp="#f27_z1_l1"/>AVANT-PROPOS.</fw>
         <fw corresp="#f27_z2" type="NumberingZone"><lb corresp="#f27_z2_l1"/>xxj</fw>
-        <p corresp="#f27_z3">
+        <ab corresp="#f27_z3" type="MainZone">
 <lb corresp="#f27_z3_l1"/>à la lumière, puisque c’est des
 <lb corresp="#f27_z3_l2"/>premières que se forment les har¬
 <lb corresp="#f27_z3_l3"/>monies de notre intelligence, com¬
@@ -2230,11 +2228,11 @@
 <lb corresp="#f27_z3_l16"/>ceux de l’avenir ; enfin elle est un
 <lb corresp="#f27_z3_l17"/>bien, puisque nous la tenons de la
 <lb corresp="#f27_z3_l18"/>nature : l’erreur au contraire est
-</p>
+</ab>
         <pb corresp="#f28"/>
         <fw corresp="#f28_z1" type="NumberingZone"><lb corresp="#f28_z1_l1"/>xxij</fw>
         <fw corresp="#f28_z2" type="RunningTitleZone"><lb corresp="#f28_z2_l1"/>AVANT-PROPOS.</fw>
-        <p corresp="#f28_z3">
+        <ab corresp="#f28_z3" type="MainZone">
 <lb corresp="#f28_z3_l1"/>l’ouvrage de l’homme ; elle est tou¬
 <lb corresp="#f28_z3_l2"/>jours un mal ; c’est une fausse lu¬
 <lb corresp="#f28_z3_l3"/>mière qui luit pour nous égarer. Je
@@ -2253,11 +2251,11 @@
 <lb corresp="#f28_z3_l16"/>de quelque vertu, afin de les faire
 <lb corresp="#f28_z3_l17"/>respecter des hommes.
 <lb corresp="#f28_z3_l18"/>Il est cependant bien facile de
-</p>
+</ab>
         <pb corresp="#f29"/>
         <fw corresp="#f29_z1" type="RunningTitleZone"><lb corresp="#f29_z1_l1"/>AVANT-PROPOS.</fw>
         <fw corresp="#f29_z2" type="NumberingZone"><lb corresp="#f29_z2_l1"/>xxiij</fw>
-        <p corresp="#f29_z3">
+        <ab corresp="#f29_z3" type="MainZone">
 <lb corresp="#f29_z3_l1"/>distinguer l’erreur de la vérité. La
 <lb corresp="#f29_z3_l2"/>vérité est une lumière naturelle qui
 <lb corresp="#f29_z3_l3"/>Iuit d’elle-même par toute la terre,
@@ -2276,7 +2274,7 @@
 <lb corresp="#f29_z3_l16"/>Il faut bien prendre garde de
 <lb corresp="#f29_z3_l17"/>confondre la fable avec l’erreur.
 <lb corresp="#f29_z3_l18"/>La fable est le voile de la vérité,
-</p>
+</ab>
       </div>
     </body>
   </text>

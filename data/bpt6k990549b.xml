@@ -2314,13 +2314,12 @@
         <pb corresp="#f5"/>
         <note corresp="#f5_z2" type="MarginTextZone"><lb corresp="#f5_z2_l1"/>79/4120</note>
         <pb corresp="#f6"/>
-        <p corresp="#f6_z1">
-<hi type="HeadingLine"><lb corresp="#f6_z1_l1"/>BRADAMANTE,</hi>
-<hi type="HeadingLine"><lb corresp="#f6_z1_l2"/>TRAGECOMEDIE.</hi>
-</p>
+        <ab corresp="#f6_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f6_z1_l1"/>BRADAMANTE,<lb corresp="#f6_z1_l2"/>TRAGECOMEDIE.</hi>
+</ab>
         <pb corresp="#f9"/>
         <fw corresp="#f9_z1" type="RunningTitleZone"><lb corresp="#f9_z1_l1"/>AV ROY.</fw>
-        <p corresp="#f9_z2">
+        <ab corresp="#f9_z2" type="MainZone">
 <lb corresp="#f9_z2_l1"/>uiuront noſtre ſiecle, les admira¬
 <lb corresp="#f9_z2_l2"/>bles effets de vos heroiques ver¬
 <lb corresp="#f9_z2_l3"/>tus, blaſmeroit noſtre ingrate
@@ -2343,11 +2342,11 @@
 <lb corresp="#f9_z2_l20"/>ſperer longuement, &amp; vous don¬
 <lb corresp="#f9_z2_l21"/>ne entre autres felicitez vne po¬
 <lb corresp="#f9_z2_l22"/>ſterité telle que vous deſirez pour
-</p>
+</ab>
         <fw corresp="#f9_z3" type="QuireMarksZone"><lb corresp="#f9_z3_l1"/>A.iij.</fw>
         <pb corresp="#f10"/>
         <fw corresp="#f10_z1" type="RunningTitleZone"><lb corresp="#f10_z1_l1"/>AV ROY.</fw>
-        <p corresp="#f10_z2">
+        <ab corresp="#f10_z2" type="MainZone">
 <lb corresp="#f10_z2_l1"/>le particulier contentement de
 <lb corresp="#f10_z2_l2"/>voſtre Maieſté, &amp; le commun
 <lb corresp="#f10_z2_l3"/>bien de voſtre France.
@@ -2356,13 +2355,11 @@
 <lb corresp="#f10_z2_l6"/>&amp; ſubiect de voſtre
 <lb corresp="#f10_z2_l7"/>Maieſté, ROBERT
 <lb corresp="#f10_z2_l8"/>GARNIER.
-</p>
+</ab>
         <pb corresp="#f11"/>
         <fw corresp="#f11_z1" type="NumberingZone"><lb corresp="#f11_z1_l1"/>4</fw>
-        <p corresp="#f11_z2">
-<hi type="HeadingLine"><lb corresp="#f11_z2_l1"/>AV ROY DE FRANCE</hi>
-<hi type="HeadingLine"><lb corresp="#f11_z2_l2"/>ET DE POLOIGNE.</hi>
-<hi type="DropCapitalLine"><lb corresp="#f11_z2_l3"/>L</hi>
+        <ab corresp="#f11_z2" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f11_z2_l1"/>AV ROY DE FRANCE<lb corresp="#f11_z2_l2"/>ET DE POLOIGNE.<lb corresp="#f11_z2_l3"/>L</hi>
 <lb corresp="#f11_z2_l4"/>ES Rois, enfans du Ciel, ſont de Dieu
 <lb corresp="#f11_z2_l5"/>les images:
 <lb corresp="#f11_z2_l6"/>Iupiter en prend cure &amp; les garde d’ou¬
@@ -2387,11 +2384,11 @@
 <lb corresp="#f11_z2_l25"/>Et contre tous haineurs leur querelle ſouſtient.
 <lb corresp="#f11_z2_l26"/>Il veut que les vertus de leur ame enfantees,
 <lb corresp="#f11_z2_l27"/>Comme celeſtes, ſoyent par les Muſes chantees.
-</p>
+</ab>
         <fw corresp="#f11_z3" type="QuireMarksZone"><lb corresp="#f11_z3_l1"/>A.iiij.</fw>
         <pb corresp="#f16"/>
         <fw corresp="#f16_z1" type="RunningTitleZone"><lb corresp="#f16_z1_l1"/>AV ROY.</fw>
-        <p corresp="#f16_z2">
+        <ab corresp="#f16_z2" type="MainZone">
 <lb corresp="#f16_z2_l1"/>Pour l'heur de voſtre vie, &amp; qu’il vous ſoit permis
 <lb corresp="#f16_z2_l2"/>De gouuerner long temps nous vos peuples commis:
 <lb corresp="#f16_z2_l3"/>Que touſiours la victoire accompagne vos bandes,
@@ -2420,14 +2417,11 @@
 <lb corresp="#f16_z2_l26"/>Ny que les uents eſmeus luy donnent par les flancs,
 <lb corresp="#f16_z2_l27"/>" Prochaine d’abyſmer. Car qui eſt en la garde
 <lb corresp="#f16_z2_l28"/>" D'un fi grãd Dieu que uous, ſeuremẽt ſe haſarde.
-</p>
+</ab>
         <pb corresp="#f17"/>
         <fw corresp="#f17_z1" type="NumberingZone"><lb corresp="#f17_z1_l1"/>7</fw>
-        <p corresp="#f17_z2">
-<hi type="HeadingLine"><lb corresp="#f17_z2_l1"/>ARGVMENT DE</hi>
-<hi type="HeadingLine"><lb corresp="#f17_z2_l2"/>LA TRAGECOMEDIE</hi>
-<hi type="HeadingLine"><lb corresp="#f17_z2_l3"/>DE BRADAMANTE.</hi>
-<hi type="DropCapitalLine"><lb corresp="#f17_z2_l4"/>A</hi>
+        <ab corresp="#f17_z2" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f17_z2_l1"/>ARGVMENT DE<lb corresp="#f17_z2_l2"/>LA TRAGECOMEDIE<lb corresp="#f17_z2_l3"/>DE BRADAMANTE.<lb corresp="#f17_z2_l4"/>A</hi>
 <lb corresp="#f17_z2_l5"/>PRES que les Saraſins ſurent rom¬
 <lb corresp="#f17_z2_l6"/>pus &amp; chaſſez deuant Paris, Roger
 <lb corresp="#f17_z2_l7"/>embarqué auec autres Princes re¬
@@ -2449,11 +2443,11 @@
 <lb corresp="#f17_z2_l23"/>damãte, que le pere &amp; la mere deſiroyent auoir
 <lb corresp="#f17_z2_l24"/>pour gendre. Et pour ce ne veulent point ouir
 <lb corresp="#f17_z2_l25"/>parler de Roger, ſimple cheualier. Dequoy de¬
-</p>
+</ab>
         <fw corresp="#f17_z3" type="QuireMarksZone"><lb corresp="#f17_z3_l1"/>A.vij.</fw>
         <pb corresp="#f19"/>
         <fw corresp="#f19_z1" type="NumberingZone"><lb corresp="#f19_z1_l1"/>8</fw>
-        <p corresp="#f19_z2">
+        <ab corresp="#f19_z2" type="MainZone">
 <lb corresp="#f19_z2_l1"/>mee &amp; faire tant de beaux faits d’armes, enten¬
 <lb corresp="#f19_z2_l2"/>dant qu’on le vouloit faire mourir, eſmeu de
 <lb corresp="#f19_z2_l3"/>pitié, delibere de le ſauuer. Et à ceſte fin ſ'eſtant
@@ -2485,18 +2479,18 @@
 <lb corresp="#f19_z2_l29"/>ual &amp; entre au fond d’vn bois pour s’y confi¬
 <lb corresp="#f19_z2_l30"/>ner. Leon d’autre part ioyeux de ſa victoire
 <lb corresp="#f19_z2_l31"/>va demander Bradamante à Charlemagne, la¬
-</p>
+</ab>
         <pb corresp="#f21"/>
         <fw corresp="#f21_z1" type="NumberingZone"><lb corresp="#f21_z1_l1"/>9</fw>
-        <p corresp="#f21_z2">
+        <ab corresp="#f21_z2" type="MainZone">
 <lb corresp="#f21_z2_l1"/>magne baille ſa fille Eleonor à Leon, &amp; le fait
 <lb corresp="#f21_z2_l2"/>ſon gendre. Ce ſuiect eſt fort amplement diſ¬
 <lb corresp="#f21_z2_l3"/>couru par l’Arioſte depuis le quarãretroiſieme
 <lb corresp="#f21_z2_l4"/>chant iuſques à la fin de ſon liure: fors pour le
 <lb corresp="#f21_z2_l5"/>regard de la fin adiouſtee par l’autheur.
-</p>
+</ab>
         <pb corresp="#f22"/>
-        <p corresp="#f22_z1">
+        <ab corresp="#f22_z1" type="MainZone">
 <lb corresp="#f22_z1_l1"/>Entreparleurs.
 <lb corresp="#f22_z1_l2"/>Charlemagne.
 <lb corresp="#f22_z1_l3"/>Nymes, Duc de Bauieres.
@@ -2513,15 +2507,11 @@
 <lb corresp="#f22_z1_l14"/>Baſile, Duc d’Athenes.
 <lb corresp="#f22_z1_l15"/>Les Ambaſſadeurs de Bulgarie.
 <lb corresp="#f22_z1_l16"/>Meliſſe.
-</p>
+</ab>
         <pb corresp="#f23"/>
         <fw corresp="#f23_z1" type="NumberingZone"><lb corresp="#f23_z1_l1"/>10</fw>
-        <p corresp="#f23_z2">
-<hi type="HeadingLine"><lb corresp="#f23_z2_l1"/>BRADAMANTE,</hi>
-<hi type="HeadingLine"><lb corresp="#f23_z2_l2"/>TRAGECOMEDIE.</hi>
-<hi type="HeadingLine"><lb corresp="#f23_z2_l3"/>ACTE I. SCENE I.</hi>
-<hi type="HeadingLine"><lb corresp="#f23_z2_l4"/>Charlemagne.</hi>
-<hi type="DropCapitalLine"><lb corresp="#f23_z2_l5"/>L</hi>
+        <ab corresp="#f23_z2" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f23_z2_l1"/>BRADAMANTE,<lb corresp="#f23_z2_l2"/>TRAGECOMEDIE.<lb corresp="#f23_z2_l3"/>ACTE I. SCENE I.<lb corresp="#f23_z2_l4"/>Charlemagne.<lb corresp="#f23_z2_l5"/>L</hi>
 <lb corresp="#f23_z2_l6"/>Es ſceptres des grands Rois vien¬
 <lb corresp="#f23_z2_l7"/>nent du Dieu ſupréme,
 <lb corresp="#f23_z2_l8"/>C'eſt luy qui ceint nos chefs d’vn
@@ -2540,11 +2530,11 @@
 <lb corresp="#f23_z2_l21"/>Guide des eſcadrons de mes vaillans ſoudars.
 <lb corresp="#f23_z2_l22"/>L’Itale m'obeit, la ſuperbe Alemagne,
 <lb corresp="#f23_z2_l23"/>Et les Rois reculez de l’ondeuſe  Bretagne.
-</p>
+</ab>
         <pb corresp="#f25"/>
         <fw corresp="#f25_z1" type="RunningTitleZone"><lb corresp="#f25_z1_l1"/>TRAGECOMEDIE.</fw>
         <fw corresp="#f25_z2" type="NumberingZone"><lb corresp="#f25_z2_l1"/>11</fw>
-        <p corresp="#f25_z3">
+        <ab corresp="#f25_z3" type="MainZone">
 <lb corresp="#f25_z3_l1"/>Et chaßé Ieſus-Chriſt des terres Iberides:
 <lb corresp="#f25_z3_l2"/>Si que le riche Tage au beau ſable doré,
 <lb corresp="#f25_z3_l3"/>Voyoit au lieu de luy Belzebut adoré.
@@ -2576,9 +2566,9 @@
 <lb corresp="#f25_z3_l29"/>Leurs cheuaux eſpuiſoyent les claires eaux de Seine:
 <lb corresp="#f25_z3_l30"/>L’air reſonnoit de cris, les bataillons preſſez
 <lb corresp="#f25_z3_l31"/>Mouuoyent de toutes parts de picques heriſſez:
-</p>
+</ab>
         <pb corresp="#f27"/>
-        <p corresp="#f27_z1">
+        <ab corresp="#f27_z1" type="MainZone">
 <lb corresp="#f27_z1_l1"/>Les feit en grand carnage abandonner nos tours:
 <lb corresp="#f27_z1_l2"/>Ils ſe mirent en route, &amp; la campagne verte
 <lb corresp="#f27_z1_l3"/>Se veit incontinent de ſang Payen couuerte.
@@ -2594,10 +2584,7 @@
 <lb corresp="#f27_z1_l13"/>Oliuier &amp; Roland, qui les ont deſconfis.
 <lb corresp="#f27_z1_l14"/>Ore il faut louer Dieu de ſi belle victoire,
 <lb corresp="#f27_z1_l15"/>Et à ſa ſeule grace en addreſſer la gloire.
-<hi type="HeadingLine"><lb corresp="#f27_z1_l16"/>SCENE II.</hi>
-<hi type="HeadingLine"><lb corresp="#f27_z1_l17"/>Charlemagne. Nymes.</hi>
-<hi type="HeadingLine"><lb corresp="#f27_z1_l18"/>Ch.</hi>
-<hi type="DropCapitalLine"><lb corresp="#f27_z1_l19"/>N</hi>
+<hi rend="HeadingLine"><lb corresp="#f27_z1_l16"/>SCENE II.<lb corresp="#f27_z1_l17"/>Charlemagne. Nymes.<lb corresp="#f27_z1_l18"/>Ch.<lb corresp="#f27_z1_l19"/>N</hi>
 <lb corresp="#f27_z1_l20"/>Ous contenterons-nous de les vaincre à demy?
 <lb corresp="#f27_z1_l21"/>Ny. Ne uous ſuſfit-il pas de chaſſer l'ennemy?
 <lb corresp="#f27_z1_l22"/>Ch. Ce ne m’eſt pas aſſez de deſendre ma terre.
@@ -2608,11 +2595,11 @@
 <lb corresp="#f27_z1_l27"/>Ny. Son maſheureux ſuccez ne luy ſert pas d’amorce,
 <lb corresp="#f27_z1_l28"/>Pour franchir de recheſ les rochers Pyrenez,
 <lb corresp="#f27_z1_l29"/>Et repiller encor nos champs abandonnez.
-</p>
+</ab>
         <fw corresp="#f27_z2" type="RunningTitleZone"><lb corresp="#f27_z2_l1"/>TRAGECOMEDIE.</fw>
         <fw corresp="#f27_z3" type="NumberingZone"><lb corresp="#f27_z3_l1"/>12</fw>
         <pb corresp="#f28"/>
-        <p corresp="#f28_z1">
+        <ab corresp="#f28_z1" type="MainZone">
 <lb corresp="#f28_z1_l1"/>Ch Agramant eſt occis, le Roy de Barbarie,
 <lb corresp="#f28_z1_l2"/>Gradaſſe &amp; Mandricart, honneur de Tartarie:
 <lb corresp="#f28_z1_l3"/>Roger a delaißé ſa deteſtable loy,
@@ -2644,13 +2631,13 @@
 <lb corresp="#f28_z1_l29"/>Ny. C'eſt office d'vn Roy d’en purger ſa contree:
 <lb corresp="#f28_z1_l30"/>Inutile eſt la Paix ſans ſa compagne Aſtree.
 <lb corresp="#f28_z1_l31"/>Vous deuez en repos vos peuples maintenir,
-</p>
+</ab>
         <fw corresp="#f28_z2" type="RunningTitleZone"><lb corresp="#f28_z2_l1"/>BRADAMANTE,</fw>
         <fw corresp="#f28_z3" type="QuireMarksZone"><lb corresp="#f28_z3_l1"/>Et de</fw>
         <pb corresp="#f29"/>
         <fw corresp="#f29_z1" type="RunningTitleZone"><lb corresp="#f29_z1_l1"/>TRAGECOMEDIE.</fw>
         <fw corresp="#f29_z2" type="NumberingZone"><lb corresp="#f29_z2_l1"/>13</fw>
-        <p corresp="#f29_z3">
+        <ab corresp="#f29_z3" type="MainZone">
 <lb corresp="#f29_z3_l1"/>Et de ſeueres loix leurs offenſes punir.
 <lb corresp="#f29_z3_l2"/>Ch. Ie veux recompenſer vn chacun de ſes peines,
 <lb corresp="#f29_z3_l3"/>Eſtrangers,citoyens, ſoldats, &amp; Capitaines:
@@ -2662,10 +2649,9 @@
 <lb corresp="#f29_z3_l9"/>Selon mon ordonnance il ne ſçauroit l'auoir.
 <lb corresp="#f29_z3_l10"/>Ny. Donc cõme il falloit vaincre à la courſe Atalãte,
 <lb corresp="#f29_z3_l11"/>Il faut qu’on puiſſe vaincre au combat Bradamante.
-<hi type="HeadingLine"><lb corresp="#f29_z3_l12"/>ACTE II. SCENE I.</hi>
-<hi type="HeadingLine"><lb corresp="#f29_z3_l13"/>Aymon. Beatrix.</hi>
+<hi rend="HeadingLine"><lb corresp="#f29_z3_l12"/>ACTE II. SCENE I.<lb corresp="#f29_z3_l13"/>Aymon. Beatrix.</hi>
 <lb corresp="#f29_z3_l14"/>Ay.
-<hi type="DropCapitalLine"><lb corresp="#f29_z3_l15"/>L</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f29_z3_l15"/>L</hi>
 <lb corresp="#f29_z3_l16"/>E party me plaiſt fort. B. Außi fait-il à moy.
 <lb corresp="#f29_z3_l17"/>A I'en ſuis tout trãſporté. B. Si ſuis-ie par ma foy.
 <lb corresp="#f29_z3_l18"/>Ay. Ce que ie priſe plus en ſi belle alliance,
@@ -2681,11 +2667,11 @@
 <lb corresp="#f29_z3_l28"/>" On ne veut que t’argent: vn mariage eſt ſaint,
 <lb corresp="#f29_z3_l29"/>Eſt ſortable &amp; bien fait quand l’argent on eſtreint.
 <lb corresp="#f29_z3_l30"/>B.i.
-</p>
+</ab>
         <pb corresp="#f31"/>
         <fw corresp="#f31_z1" type="RunningTitleZone"><lb corresp="#f31_z1_l1"/>TRAGECOMEDIE.</fw>
         <fw corresp="#f31_z2" type="NumberingZone"><lb corresp="#f31_z2_l1"/>14</fw>
-        <p corresp="#f31_z3">
+        <ab corresp="#f31_z3" type="MainZone">
 <lb corresp="#f31_z3_l1"/>Que quiconque voudra pour eſpouſe l'auoir
 <lb corresp="#f31_z3_l2"/>Doit la combatre armee, eſtimant qu’il n’eſt homme,
 <lb corresp="#f31_z3_l3"/>Dans l’Empire de Grece &amp; l’Empire de Romme,
@@ -2717,22 +2703,19 @@
 <lb corresp="#f31_z3_l29"/>Ay. Veut-elle ce Roger auoir contre mon gré?
 <lb corresp="#f31_z3_l30"/>Be. Ie penſe que nenny, elle eſt trop bien nourrie.
 <lb corresp="#f31_z3_l31"/>Ay. Si elle auoit fait? B. I'en ſerois bien marrie.
-</p>
+</ab>
         <fw corresp="#f31_z4" type="QuireMarksZone"><lb corresp="#f31_z4_l1"/>B.ij.</fw>
         <pb corresp="#f33"/>
         <fw corresp="#f33_z1" type="RunningTitleZone"><lb corresp="#f33_z1_l1"/>TRAGECOMEDIE.</fw>
         <fw corresp="#f33_z2" type="NumberingZone"><lb corresp="#f33_z2_l1"/>15</fw>
-        <p corresp="#f33_z3">
+        <ab corresp="#f33_z3" type="MainZone">
 <lb corresp="#f33_z3_l1"/>Il aime ce Roger. Que maudite ſoit l’heure,
 <lb corresp="#f33_z3_l2"/>Auolé, que tu veis ceſte belle demeure:
 <lb corresp="#f33_z3_l3"/>Ie ſerois trop heureuſe, &amp; ore le Soleil,
 <lb corresp="#f33_z3_l4"/>Ne verroit rien qui fuſt à mon aiſe pareil
 <lb corresp="#f33_z3_l5"/>Sans toy, ſans toy, Rogrer, qui fraudes mon attente
 <lb corresp="#f33_z3_l6"/>Priuant du ſceptre Grec ma fille Bradamante.
-<hi type="HeadingLine"><lb corresp="#f33_z3_l7"/>SCENE II.</hi>
-<hi type="HeadingLine"><lb corresp="#f33_z3_l8"/>Renaud. Aymon. La Roque.</hi>
-<hi type="HeadingLine"><lb corresp="#f33_z3_l9"/>Re.</hi>
-<hi type="DropCapitalLine"><lb corresp="#f33_z3_l10"/>Q</hi>
+<hi rend="HeadingLine"><lb corresp="#f33_z3_l7"/>SCENE II.<lb corresp="#f33_z3_l8"/>Renaud. Aymon. La Roque.<lb corresp="#f33_z3_l9"/>Re.<lb corresp="#f33_z3_l10"/>Q</hi>
 <lb corresp="#f33_z3_l11"/>Voy? mõſieur, voulez-vous forcer vne amité?
 <lb corresp="#f33_z3_l12"/>Eſtes-vous maintenant vn pere ſans pitié?
 <lb corresp="#f33_z3_l13"/>Qui vueillez Bradamante vne fille ſi chere,
@@ -2754,12 +2737,12 @@
 <lb corresp="#f33_z3_l29"/>O le braue cerueau! Re. Ce que ie viens de dire
 <lb corresp="#f33_z3_l30"/>N’eſt pas pour voꝰ preſcher ny pour vous cõtredire. (rer
 <lb corresp="#f33_z3_l31"/>A pourquoy dõc? qui te meut? R. C'est pour voꝰ decla¬
-</p>
+</ab>
         <fw corresp="#f33_z4" type="RunningTitleZone"><lb corresp="#f33_z4_l1"/>B.iij.</fw>
         <pb corresp="#f35"/>
         <fw corresp="#f35_z1" type="RunningTitleZone"><lb corresp="#f35_z1_l1"/>TRAGECOMEDIE.</fw>
         <fw corresp="#f35_z2" type="NumberingZone"><lb corresp="#f35_z2_l1"/>16</fw>
-        <p corresp="#f35_z3">
+        <ab corresp="#f35_z3" type="MainZone">
 <lb corresp="#f35_z3_l1"/>Dans les yeux d'vn chacun, que la douleur la ronge?
 <lb corresp="#f35_z3_l2"/>Qu'en pleurs elle ſe bagne, &amp; n’oſe toutefois
 <lb corresp="#f35_z3_l3"/>Pour librement gemir deueloper ſa voix?
@@ -2791,12 +2774,12 @@
 <lb corresp="#f35_z3_l29"/>Et Bradamante außi, que vous de bienvueillance.
 <lb corresp="#f35_z3_l30"/>A. Ie ſçai mieus que voꝰ deux quel eſpous il luy faut.
 <lb corresp="#f35_z3_l31"/>Re. Voire pour l'eleuer, pour la mettre bien haut.
-</p>
+</ab>
         <fw corresp="#f35_z4" type="QuireMarksZone"><lb corresp="#f35_z4_l1"/>B.iiij.</fw>
         <pb corresp="#f37"/>
         <fw corresp="#f37_z1" type="RunningTitleZone"><lb corresp="#f37_z1_l1"/>TRAGECOMEDIE.</fw>
         <fw corresp="#f37_z2" type="NumberingZone"><lb corresp="#f37_z2_l1"/>17</fw>
-        <p corresp="#f37_z3">
+        <ab corresp="#f37_z3" type="MainZone">
 <lb corresp="#f37_z3_l1"/>Re. Mais cet accord eſt fait ſous voſtre volonté.
 <lb corresp="#f37_z3_l2"/>Ay. Il ne m’en chaut: &amp; puis, traittes-tu d'alliance
 <lb corresp="#f37_z3_l3"/>Pour ma fille, ſans moy? As-tu ceſte puiſſance?
@@ -2828,12 +2811,12 @@
 <lb corresp="#f37_z3_l29"/>Plein d'angoiſſe &amp; d’ennuy, de ſoupirs &amp; de pleurs:
 <lb corresp="#f37_z3_l30"/>Par qui voſtre vieil âge en ſa courſe derniere
 <lb corresp="#f37_z3_l31"/>Ne verroit qu'à regret la celeſte lumiere,
-</p>
+</ab>
         <fw corresp="#f37_z4" type="QuireMarksZone"><lb corresp="#f37_z4_l1"/>B.v.</fw>
         <pb corresp="#f39"/>
         <fw corresp="#f39_z1" type="RunningTitleZone"><lb corresp="#f39_z1_l1"/>TRAGECOMEDIE.</fw>
         <fw corresp="#f39_z2" type="NumberingZone"><lb corresp="#f39_z2_l1"/>18</fw>
-        <p corresp="#f39_z3">
+        <ab corresp="#f39_z3" type="MainZone">
 <lb corresp="#f39_z3_l1"/>Quand Mambrin eſprouua ma force domtereſſe,
 <lb corresp="#f39_z3_l2"/>Que i’occis Clariel, dont les geſtes guerriers
 <lb corresp="#f39_z3_l3"/>Se faiſoyent renommer entre les Cheualiers:
@@ -2847,10 +2830,7 @@
 <lb corresp="#f39_z3_l11"/>Et me croyez, Monſieur, que vous ne vueillez bien.
 <lb corresp="#f39_z3_l12"/>Ay. Vous ferez ſagement: car ie perdray la vie
 <lb corresp="#f39_z3_l13"/>Pluſtoſt que malgré moy ma fille lon marie.
-<hi type="HeadingLine"><lb corresp="#f39_z3_l14"/>SCENE III.</hi>
-<hi type="HeadingLine"><lb corresp="#f39_z3_l15"/>Beatrix. Bradamante.</hi>
-<hi type="HeadingLine"><lb corresp="#f39_z3_l16"/>Beat.</hi>
-<hi type="DropCapitalLine"><lb corresp="#f39_z3_l17"/>Q</hi>
+<hi rend="HeadingLine"><lb corresp="#f39_z3_l14"/>SCENE III.<lb corresp="#f39_z3_l15"/>Beatrix. Bradamante.<lb corresp="#f39_z3_l16"/>Beat.<lb corresp="#f39_z3_l17"/>Q</hi>
 <lb corresp="#f39_z3_l18"/>VE uous ſeriez heureuſe! oncques de noſtre, sãg
 <lb corresp="#f39_z3_l19"/>Fille n’auroit tenu ſi honorable rang.
 <lb corresp="#f39_z3_l20"/>Allez où le Soleil au matin luit au monde,
@@ -2863,7 +2843,7 @@
 <lb corresp="#f39_z3_l27"/>Mouuoir, obeiſſant, tout l’Empire Romain!
 <lb corresp="#f39_z3_l28"/>Marcher grande Deeſſe entre les tourbes viles
 <lb corresp="#f39_z3_l29"/>S’entreſtouffant de preſſe aux trionfes des villes
-</p>
+</ab>
         <fw corresp="#f39_z4" type="QuireMarksZone"><lb corresp="#f39_z4_l1"/>B.vi.</fw>
       </div>
     </body>

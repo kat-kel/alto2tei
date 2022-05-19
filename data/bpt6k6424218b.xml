@@ -2418,13 +2418,11 @@
     <body>
       <div>
         <pb corresp="#f15"/>
-        <p corresp="#f15_z1">
-<hi type="HeadingLine"><lb corresp="#f15_z1_l1"/>CHAPITRE I.</hi>
-<hi type="HeadingLine"><lb corresp="#f15_z1_l2"/>Vne trouppe de Comediens arriue dans</hi>
-<hi type="HeadingLine"><lb corresp="#f15_z1_l3"/>la ville du Mans.</hi>
+        <ab corresp="#f15_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f15_z1_l1"/>CHAPITRE I.<lb corresp="#f15_z1_l2"/>Vne trouppe de Comediens arriue dans<lb corresp="#f15_z1_l3"/>la ville du Mans.</hi>
 <lb corresp="#f15_z1_l4"/>E Soleil avoit acheué
 <lb corresp="#f15_z1_l5"/>plus de la moitié de ſa
-<hi type="DropCapitalLine"><lb corresp="#f15_z1_l6"/>L</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f15_z1_l6"/>L</hi>
 <lb corresp="#f15_z1_l7"/>courſe, &amp; ſon char ayant
 <lb corresp="#f15_z1_l8"/>attrappé le penchant du
 <lb corresp="#f15_z1_l9"/>monde roulloit plus viſte qu’il ne
@@ -2432,12 +2430,12 @@
 <lb corresp="#f15_z1_l11"/>lu profiter de la pente du chemin,
 <lb corresp="#f15_z1_l12"/>ils euſſent acheué ce qui reſtoit du
 <lb corresp="#f15_z1_l13"/>iour en moins d’vn demy-quart
-</p>
+</ab>
         <fw corresp="#f15_z2" type="NumberingZone"><lb corresp="#f15_z2_l1"/>I</fw>
         <fw corresp="#f15_z6" type="QuireMarksZone"><lb corresp="#f15_z6_l1"/>A</fw>
         <fw corresp="#f15_z6" type="QuireMarksZone"><lb corresp="#f15_z6_l2"/>d’heure:</fw>
         <pb corresp="#f16"/>
-        <p corresp="#f16_z1">
+        <ab corresp="#f16_z1" type="MainZone">
 <lb corresp="#f16_z1_l1"/>2
 <lb corresp="#f16_z1_l2"/>te leur force, ils ne s’amuſoient qu’à
 <lb corresp="#f16_z1_l3"/>faire des courbettes; reſpirant vn
@@ -2463,11 +2461,11 @@
 <lb corresp="#f16_z1_l23"/>campagne. Vn ieune homme auſ¬
 <lb corresp="#f16_z1_l24"/>ſi pauure d'habits que riche de mi¬
 <lb corresp="#f16_z1_l25"/>ne,
-</p>
+</ab>
         <fw corresp="#f16_z2" type="RunningTitleZone"><lb corresp="#f16_z2_l1"/>LE ROMANT</fw>
         <fw corresp="#f16_z3" type="NumberingZone"><lb corresp="#f16_z3_l1"/>d’heure : Mais au lieu detirer de tou¬</fw>
         <pb corresp="#f17"/>
-        <p corresp="#f17_z1">
+        <ab corresp="#f17_z1" type="MainZone">
 <lb corresp="#f17_z1_l1"/>ne, marchoit à coſté de la charette;
 <lb corresp="#f17_z1_l2"/>il auoit vne grande emplaſtre ſur le
 <lb corresp="#f17_z1_l3"/>viſage qui luy couuroit vn œil &amp; la
@@ -2493,13 +2491,13 @@
 <lb corresp="#f17_z1_l23"/>qui eſtoit ſilõgue qu’on ne s’enpou¬
 <lb corresp="#f17_z1_l24"/>uoit aider adroitement ſans four¬
 <lb corresp="#f17_z1_l25"/>chette;
-</p>
+</ab>
         <fw corresp="#f17_z2" type="RunningTitleZone"><lb corresp="#f17_z2_l1"/>COMIQVE.</fw>
         <fw corresp="#f17_z3" type="QuireMarksZone"><lb corresp="#f17_z3_l1"/>A 2</fw>
         <fw corresp="#f17_z4" type="NumberingZone"><lb corresp="#f17_z4_l1"/>3</fw>
         <pb corresp="#f18"/>
         <fw corresp="#f18_z1" type="NumberingZone"><lb corresp="#f18_z1_l1"/>4</fw>
-        <p corresp="#f18_z2">
+        <ab corresp="#f18_z2" type="MainZone">
 <lb corresp="#f18_z2_l1"/>chette; il portoit des chauſſes trouſ¬
 <lb corresp="#f18_z2_l2"/>ſées à bas d’attache comme celles
 <lb corresp="#f18_z2_l3"/>des Comediens quand ils repreſen¬
@@ -2525,10 +2523,10 @@
 <lb corresp="#f18_z2_l23"/>nons à noſtre Carauanne. Elle paſ¬
 <lb corresp="#f18_z2_l24"/>ſa deuant le Tripot de la Biche, à la
 <lb corresp="#f18_z2_l25"/>porte
-</p>
+</ab>
         <fw corresp="#f18_z3" type="RunningTitleZone"><lb corresp="#f18_z3_l1"/>LE ROMANT</fw>
         <pb corresp="#f19"/>
-        <p corresp="#f19_z1">
+        <ab corresp="#f19_z1" type="MainZone">
 <lb corresp="#f19_z1_l1"/>porte du quel eſtoient aſſemblez
 <lb corresp="#f19_z1_l2"/>quantité des plus gros Bourgeois
 <lb corresp="#f19_z1_l3"/>de la Ville. La nouueauté de l’atti¬
@@ -2554,13 +2552,13 @@
 <lb corresp="#f19_z1_l23"/>vieil camarade la Rancune, &amp; la
 <lb corresp="#f19_z1_l24"/>Demoiſelle qui eſtoit iuchée com¬
 <lb corresp="#f19_z1_l25"/>me
-</p>
+</ab>
         <fw corresp="#f19_z2" type="RunningTitleZone"><lb corresp="#f19_z2_l1"/>COMIQVE.</fw>
         <fw corresp="#f19_z3" type="QuireMarksZone"><lb corresp="#f19_z3_l1"/>A 3</fw>
         <fw corresp="#f19_z4" type="NumberingZone"><lb corresp="#f19_z4_l1"/>5</fw>
         <pb corresp="#f20"/>
         <fw corresp="#f20_z1" type="NumberingZone"><lb corresp="#f20_z1_l1"/>6</fw>
-        <p corresp="#f20_z2">
+        <ab corresp="#f20_z2" type="MainZone">
 <lb corresp="#f20_z2_l1"/>me vne poulle au haut de leur baga¬
 <lb corresp="#f20_z2_l2"/>ge, la Cauerne. Ce nom bizarre fit
 <lb corresp="#f20_z2_l3"/>rire quelques-vns de la compagnie;
@@ -2586,17 +2584,15 @@
 <lb corresp="#f20_z2_l23"/>fiſt manger ſes beſtes tout leur ſa¬
 <lb corresp="#f20_z2_l24"/>oul. Il accepta l'offre qu'elle luy fit;
 <lb corresp="#f20_z2_l25"/>&amp;
-</p>
+</ab>
         <fw corresp="#f20_z3" type="RunningTitleZone"><lb corresp="#f20_z3_l1"/>LE ROMANT</fw>
         <pb corresp="#f21"/>
-        <p corresp="#f21_z1">
+        <ab corresp="#f21_z1" type="MainZone">
 <lb corresp="#f21_z1_l1"/>&amp; cependant que ſes beſtes man¬
 <lb corresp="#f21_z1_l2"/>gerent, l’Auteur ſe repoſa quelque
 <lb corresp="#f21_z1_l3"/>temps, &amp; ſe mit à ſonger à ce qu’il
 <lb corresp="#f21_z1_l4"/>diroit dans le ſecond Chapitre.
-<hi type="HeadingLine"><lb corresp="#f21_z1_l5"/>CHAPITRE II.</hi>
-<hi type="HeadingLine"><lb corresp="#f21_z1_l6"/>Quel homme eſtoit le Sieur de la</hi>
-<hi type="HeadingLine"><lb corresp="#f21_z1_l7"/>Rappiniere.</hi>
+<hi rend="HeadingLine"><lb corresp="#f21_z1_l5"/>CHAPITRE II.<lb corresp="#f21_z1_l6"/>Quel homme eſtoit le Sieur de la<lb corresp="#f21_z1_l7"/>Rappiniere.</hi>
 <lb corresp="#f21_z1_l8"/>E Sieur de la Rappiniere eſtoit
 <lb corresp="#f21_z1_l9"/>L
 <lb corresp="#f21_z1_l10"/>lors le Rieur de la ville du
@@ -2614,13 +2610,13 @@
 <lb corresp="#f21_z1_l22"/>coups de poing auoient interrom¬
 <lb corresp="#f21_z1_l23"/>puë, &amp; demanda au ieune Come¬
 <lb corresp="#f21_z1_l24"/>dien
-</p>
+</ab>
         <fw corresp="#f21_z2" type="RunningTitleZone"><lb corresp="#f21_z2_l1"/>COMIQVE.</fw>
         <fw corresp="#f21_z3" type="NumberingZone"><lb corresp="#f21_z3_l1"/>7</fw>
         <fw corresp="#f21_z4" type="QuireMarksZone"><lb corresp="#f21_z4_l1"/>A 4</fw>
         <pb corresp="#f22"/>
         <fw corresp="#f22_z1" type="NumberingZone"><lb corresp="#f22_z1_l1"/>8</fw>
-        <p corresp="#f22_z2">
+        <ab corresp="#f22_z2" type="MainZone">
 <lb corresp="#f22_z2_l1"/>dien ſi leur troupe n’eſtoit compo¬
 <lb corresp="#f22_z2_l2"/>ſée que de Mademoiſelle de la
 <lb corresp="#f22_z2_l3"/>Cauerne, de Monſieur de la Ran¬
@@ -2646,10 +2642,10 @@
 <lb corresp="#f22_z2_l23"/>auoir nos habits, &amp; nous diuerti¬
 <lb corresp="#f22_z2_l24"/>rions quatre ou cinq iours Meſieurs
 <lb corresp="#f22_z2_l25"/>de
-</p>
+</ab>
         <fw corresp="#f22_z3" type="RunningTitleZone"><lb corresp="#f22_z3_l1"/>LE ROMANT</fw>
         <pb corresp="#f23"/>
-        <p corresp="#f23_z1">
+        <ab corresp="#f23_z1" type="MainZone">
 <lb corresp="#f23_z1_l1"/>de la ville, deuant que de gagner
 <lb corresp="#f23_z1_l2"/>Alençon, où le reſte de la Troupe
 <lb corresp="#f23_z1_l3"/>a le rendez-vous. La reſponſe du¬
@@ -2675,12 +2671,12 @@
 <lb corresp="#f23_z1_l23"/>voulez contenter noſtre Charretier
 <lb corresp="#f23_z1_l24"/>&amp; payer noſtre deſpence en l’hoſtel¬
 <lb corresp="#f23_z1_l25"/>lerie¬
-</p>
+</ab>
         <fw corresp="#f23_z2" type="RunningTitleZone"><lb corresp="#f23_z2_l1"/>COMIQVE.</fw>
         <fw corresp="#f23_z3" type="QuireMarksZone"><lb corresp="#f23_z3_l1"/>A5</fw>
         <fw corresp="#f23_z4" type="NumberingZone"><lb corresp="#f23_z4_l1"/>9</fw>
         <pb corresp="#f24"/>
-        <p corresp="#f24_z1">
+        <ab corresp="#f24_z1" type="MainZone">
 <lb corresp="#f24_z1_l1"/>lerie, fourniſſez vos habits &amp; nous
 <lb corresp="#f24_z1_l2"/>jouërons deuant que la nuit vien¬
 <lb corresp="#f24_z1_l3"/>ne; ou bien nous irons boire auec
@@ -2706,11 +2702,11 @@
 <lb corresp="#f24_z1_l23"/>on vit derriere vn drap ſalle que
 <lb corresp="#f24_z1_l24"/>l’on leua, le Comodien Deſtin,
 <lb corresp="#f24_z1_l25"/>couché
-</p>
+</ab>
         <fw corresp="#f24_z2" type="NumberingZone"><lb corresp="#f24_z2_l1"/>10</fw>
         <fw corresp="#f24_z3" type="RunningTitleZone"><lb corresp="#f24_z3_l1"/>LE ROMANT</fw>
         <pb corresp="#f25"/>
-        <p corresp="#f25_z1">
+        <ab corresp="#f25_z1" type="MainZone">
 <lb corresp="#f25_z1_l1"/>couché ſur vn matelas, vn cor¬
 <lb corresp="#f25_z1_l2"/>billon dans la teſte qui luy ſeruoit
 <lb corresp="#f25_z1_l3"/>de couronne, ſe frottant vn peu les
@@ -2736,24 +2732,22 @@
 <lb corresp="#f25_z1_l23"/>mais par mille coups de poing au¬
 <lb corresp="#f25_z1_l24"/>tant deſoufflers, vn nombre effro¬
 <lb corresp="#f25_z1_l25"/>yable
-</p>
+</ab>
         <fw corresp="#f25_z2" type="RunningTitleZone"><lb corresp="#f25_z2_l1"/>COMIQVE.</fw>
         <fw corresp="#f25_z3" type="NumberingZone"><lb corresp="#f25_z3_l1"/>11</fw>
         <pb corresp="#f26"/>
         <fw corresp="#f26_z1" type="NumberingZone"><lb corresp="#f26_z1_l1"/>12</fw>
         <fw corresp="#f26_z2" type="RunningTitleZone"><lb corresp="#f26_z2_l1"/>LE ROMANT</fw>
-        <p corresp="#f26_z3">
+        <ab corresp="#f26_z3" type="MainZone">
 <lb corresp="#f26_z3_l1"/>yable de coups de pieds, des iure¬
 <lb corresp="#f26_z3_l2"/>mens qui ne ſe peuuent compter, &amp;
 <lb corresp="#f26_z3_l3"/>en ſuitte vne belle information,
 <lb corresp="#f26_z3_l4"/>que fit faire le ſieur de la Rappinie¬
 <lb corresp="#f26_z3_l5"/>re, le plus expert de tous les hom¬
 <lb corresp="#f26_z3_l6"/>mes en pareille matiere.
-<hi type="HeadingLine"><lb corresp="#f26_z3_l7"/>CHAPITRE III.</hi>
-<hi type="HeadingLine"><lb corresp="#f26_z3_l8"/>Le deplorable ſuccez qu’eut la</hi>
-<hi type="HeadingLine"><lb corresp="#f26_z3_l9"/>Comedie.</hi>
+<hi rend="HeadingLine"><lb corresp="#f26_z3_l7"/>CHAPITRE III.<lb corresp="#f26_z3_l8"/>Le deplorable ſuccez qu’eut la<lb corresp="#f26_z3_l9"/>Comedie.</hi>
 <lb corresp="#f26_z3_l10"/>Ans toutes les villes ſubalter¬
-<hi type="DropCapitalLine"><lb corresp="#f26_z3_l11"/>D</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f26_z3_l11"/>D</hi>
 <lb corresp="#f26_z3_l12"/>nes du Royaume, il y a d’or¬
 <lb corresp="#f26_z3_l13"/>dinaire vn Tripot, où s’aſſemblent
 <lb corresp="#f26_z3_l14"/>tous les iours les faineans de la vil¬
@@ -2767,9 +2761,9 @@
 <lb corresp="#f26_z3_l22"/>monde y vit de Turc à Maure, &amp;
 <lb corresp="#f26_z3_l23"/>chacun y eſt receu pour railler, ſe¬
 <lb corresp="#f26_z3_l24"/>lon
-</p>
+</ab>
         <pb corresp="#f27"/>
-        <p corresp="#f27_z1">
+        <ab corresp="#f27_z1" type="MainZone">
 <lb corresp="#f27_z1_l1"/>Ion le talent qu’il en a eu du Seig¬
 <lb corresp="#f27_z1_l2"/>neur. C’eſt en vn de ſes Tripots là,
 <lb corresp="#f27_z1_l3"/>ſi ie m’en ſouuiens, que i’ay laiſſé
@@ -2795,11 +2789,11 @@
 <lb corresp="#f27_z1_l23"/>qui le connoiſſoit pour vn grand
 <lb corresp="#f27_z1_l24"/>brutal, luy dit en toute humilité,
 <lb corresp="#f27_z1_l25"/>que
-</p>
+</ab>
         <fw corresp="#f27_z2" type="RunningTitleZone"><lb corresp="#f27_z2_l1"/>COMIQVE.</fw>
         <fw corresp="#f27_z3" type="NumberingZone"><lb corresp="#f27_z3_l1"/>13</fw>
         <pb corresp="#f28"/>
-        <p corresp="#f28_z1">
+        <ab corresp="#f28_z1" type="MainZone">
 <lb corresp="#f28_z1_l1"/>que ce n’eſtoit pas luy; Et qui donc?
 <lb corresp="#f28_z1_l2"/>barbe de cocu; adiouſta-t’il. Le pau¬
 <lb corresp="#f28_z1_l3"/>ure valet n’oſoit en accuſer la Rap¬
@@ -2825,11 +2819,11 @@
 <lb corresp="#f28_z1_l23"/>l’aggreſſeur, en luy donnant vn coup
 <lb corresp="#f28_z1_l24"/>de poing auec toutes ſes circonſtan¬
 <lb corresp="#f28_z1_l25"/>ces,
-</p>
+</ab>
         <fw corresp="#f28_z2" type="RunningTitleZone"><lb corresp="#f28_z2_l1"/>LE ROMANT</fw>
         <fw corresp="#f28_z3" type="NumberingZone"><lb corresp="#f28_z3_l1"/>14</fw>
         <pb corresp="#f29"/>
-        <p corresp="#f29_z1">
+        <ab corresp="#f29_z1" type="MainZone">
 <lb corresp="#f29_z1_l1"/>ces, dans le beau milieu du viſage,
 <lb corresp="#f29_z1_l2"/>en ſuite vne grande quantité d’au¬
 <lb corresp="#f29_z1_l3"/>tres où ils peurent aller. La Rappi¬
@@ -2855,12 +2849,12 @@
 <lb corresp="#f29_z1_l23"/>Halles auec le Seneſchal du May¬
 <lb corresp="#f29_z1_l24"/>ne, des Eſſars, ne fuſſent accourus à
 <lb corresp="#f29_z1_l25"/>la
-</p>
+</ab>
         <fw corresp="#f29_z2" type="RunningTitleZone"><lb corresp="#f29_z2_l1"/>COMIQVE.</fw>
         <fw corresp="#f29_z3" type="NumberingZone"><lb corresp="#f29_z3_l1"/>15</fw>
         <pb corresp="#f30"/>
         <fw corresp="#f30_z1" type="NumberingZone"><lb corresp="#f30_z1_l1"/>16</fw>
-        <p corresp="#f30_z2">
+        <ab corresp="#f30_z2" type="MainZone">
 <lb corresp="#f30_z2_l1"/>la rumeur. Quelques vns furent
 <lb corresp="#f30_z2_l2"/>d’auis de jetter deux ou trois ſeaux
 <lb corresp="#f30_z2_l3"/>d’eau ſur les combattans, &amp; le re¬
@@ -2886,10 +2880,10 @@
 <lb corresp="#f30_z2_l23"/>re qu’il mit hors de combat du pre¬
 <lb corresp="#f30_z2_l24"/>mier coup. Il perdit ſon emplaſtre
 <lb corresp="#f30_z2_l25"/>durant
-</p>
+</ab>
         <fw corresp="#f30_z3" type="RunningTitleZone"><lb corresp="#f30_z3_l1"/>LE ROMANT</fw>
         <pb corresp="#f31"/>
-        <p corresp="#f31_z1">
+        <ab corresp="#f31_z1" type="MainZone">
 <lb corresp="#f31_z1_l1"/>durant la meſlée, &amp; l’on remarqua
 <lb corresp="#f31_z1_l2"/>qu’il auoit le viſage auſſi beau que
 <lb corresp="#f31_z1_l3"/>la taille riche. Les muzeaux ſan¬
@@ -2915,11 +2909,11 @@
 <lb corresp="#f31_z1_l23"/>ſa bien auoir quelque choſe de pis,
 <lb corresp="#f31_z1_l24"/>ſi Deſtin ne ſe fuſt genereuſement
 <lb corresp="#f31_z1_l25"/>jetté
-</p>
+</ab>
         <fw corresp="#f31_z2" type="RunningTitleZone"><lb corresp="#f31_z2_l1"/>COMIQVE.</fw>
         <fw corresp="#f31_z3" type="NumberingZone"><lb corresp="#f31_z3_l1"/>17</fw>
         <pb corresp="#f32"/>
-        <p corresp="#f32_z1">
+        <ab corresp="#f32_z1" type="MainZone">
 <lb corresp="#f32_z1_l1"/>jetté au deuant d’un coup d’eſpée¬
 <lb corresp="#f32_z1_l2"/>qui luy alloit paſſer au trauers du
 <lb corresp="#f32_z1_l3"/>corps, il ne peut pourtant ſi bien le
@@ -2945,24 +2939,20 @@
 <lb corresp="#f32_z1_l23"/>bienfait trouua place en ſon cœur
 <lb corresp="#f32_z1_l24"/>de roche, &amp; ſans vouloir permettre
 <lb corresp="#f32_z1_l25"/>que
-</p>
+</ab>
         <fw corresp="#f32_z2" type="RunningTitleZone"><lb corresp="#f32_z2_l1"/>LE ROMANT</fw>
         <fw corresp="#f32_z3" type="NumberingZone"><lb corresp="#f32_z3_l1"/>18</fw>
         <pb corresp="#f33"/>
         <fw corresp="#f33_z1" type="RunningTitleZone"><lb corresp="#f33_z1_l1"/>COMIQVE.</fw>
         <fw corresp="#f33_z2" type="NumberingZone"><lb corresp="#f33_z2_l1"/>19</fw>
-        <p corresp="#f33_z3">
+        <ab corresp="#f33_z3" type="MainZone">
 <lb corresp="#f33_z3_l1"/>que ces pauures reſtes d’vne troupe
 <lb corresp="#f33_z3_l2"/>deſlabrée allaſſent loger en vne ho¬
 <lb corresp="#f33_z3_l3"/>ſtellerie, il les emmena chez luy,
 <lb corresp="#f33_z3_l4"/>où le chartier deſchargea le bagage
 <lb corresp="#f33_z3_l5"/>comique, &amp; s’en retourna en ſon
 <lb corresp="#f33_z3_l6"/>viſlage.
-<hi type="HeadingLine"><lb corresp="#f33_z3_l7"/>CHAPITRE IV.</hi>
-<hi type="HeadingLine"><lb corresp="#f33_z3_l8"/>Dans lequel on continuë à parler du ſieur</hi>
-<hi type="HeadingLine"><lb corresp="#f33_z3_l9"/>de la Rappiniere, &amp; de ce qui arriua la</hi>
-<hi type="HeadingLine"><lb corresp="#f33_z3_l10"/>nuict en ſa maiſon¬</hi>
-<hi type="DropCapitalLine"><lb corresp="#f33_z3_l11"/>M</hi>
+<hi rend="HeadingLine"><lb corresp="#f33_z3_l7"/>CHAPITRE IV.<lb corresp="#f33_z3_l8"/>Dans lequel on continuë à parler du ſieur<lb corresp="#f33_z3_l9"/>de la Rappiniere, &amp; de ce qui arriua la<lb corresp="#f33_z3_l10"/>nuict en ſa maiſon¬<lb corresp="#f33_z3_l11"/>M</hi>
 <lb corresp="#f33_z3_l12"/>Adamoiſelle de la Rappinie¬
 <lb corresp="#f33_z3_l13"/>re receut la compagnie auec¬
 <lb corresp="#f33_z3_l14"/>que grande ciuilité, comme elle
@@ -2976,9 +2966,9 @@
 <lb corresp="#f33_z3_l22"/>ie laiſſe de peur d’eſtre trop long.
 <lb corresp="#f33_z3_l23"/>En moins de rien les deux dames
 <lb corresp="#f33_z3_l24"/>ſurent
-</p>
+</ab>
         <pb corresp="#f34"/>
-        <p corresp="#f34_z1">
+        <ab corresp="#f34_z1" type="MainZone">
 <lb corresp="#f34_z1_l1"/>furent ſi
 <lb corresp="#f34_z1_l2"/>grandes camarades, qu’el¬
 <lb corresp="#f34_z1_l3"/>les s’entr’appellerent ma chere, &amp;
@@ -3004,7 +2994,7 @@
 <lb corresp="#f34_z1_l23"/>quelque monnoye à ſon valet pour
 <lb corresp="#f34_z1_l24"/>aller querir dequoy ſouper: par la
 <lb corresp="#f34_z1_l25"/>faute du valet, ou du maiſtre, l’ar¬
-</p>
+</ab>
         <fw corresp="#f34_z2" type="RunningTitleZone"><lb corresp="#f34_z2_l1"/>LE ROMANT</fw>
         <fw corresp="#f34_z3" type="NumberingZone"><lb corresp="#f34_z3_l1"/>20</fw>
       </div>

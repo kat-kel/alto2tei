@@ -2249,23 +2249,21 @@
     <body>
       <div>
         <pb corresp="#f11"/>
-        <p corresp="#f11_z1">
-<hi type="HeadingLine"><lb corresp="#f11_z1_l1"/>⁋ S enfuit les apologues de Laurentius</hi>
-<hi type="HeadingLine"><lb corresp="#f11_z1_l2"/>ualla et cõmence le prologue de l acteur</hi>
-<hi type="HeadingLine"><lb corresp="#f11_z1_l3"/>en latin. Laurentius ualla.</hi>
+        <ab corresp="#f11_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f11_z1_l1"/>⁋ S enfuit les apologues de Laurentius<lb corresp="#f11_z1_l2"/>ualla et cõmence le prologue de l acteur<lb corresp="#f11_z1_l3"/>en latin. Laurentius ualla.</hi>
 <lb corresp="#f11_z2_l1"/>Aurens ualle de-
 <lb corresp="#f11_z2_l2"/>sire salut et pro-
 <lb corresp="#f11_z2_l3"/>sperite a noble hõ
-<hi type="DropCapitalLine"><lb corresp="#f11_z2_l4"/>L</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f11_z2_l4"/>L</hi>
 <lb corresp="#f11_z2_l5"/>me arnoul de fou
 <lb corresp="#f11_z3_l1"/>elle son chier et singulier amy.
 <lb corresp="#f11_z3_l2"/>⁋ Tres chier et feal amy; Je te
 <lb corresp="#f11_z3_l3"/>auoye n a pas longtemps pro-
 <lb corresp="#f11_z3_l4"/>mis enuoyer certaines caille ᷤ ⁊
-</p>
+</ab>
         <fw corresp="#f11_z4" type="QuireMarksZone"><lb corresp="#f11_z4_l1"/>A ii</fw>
         <pb corresp="#f12"/>
-        <p corresp="#f12_z1">
+        <ab corresp="#f12_z1" type="MainZone">
 <lb corresp="#f12_z1_l1"/>oyseaux lesq̃lz ie esperoye pren
 <lb corresp="#f12_z1_l2"/>dre en passant temps a la chas-
 <lb corresp="#f12_z1_l3"/>se. Mais pour ce que ie suis por
@@ -2332,14 +2330,10 @@
 <lb corresp="#f12_z2_l31"/>ques ce Des perdris. Escript en
 <lb corresp="#f12_z2_l32"/>la cite de cayete ces kalende ᷤ de
 <lb corresp="#f12_z2_l33"/>may mil iiii.C.xxxuiii.
-</p>
+</ab>
         <pb corresp="#f13"/>
-        <p corresp="#f13_z1">
-<hi type="HeadingLine"><lb corresp="#f13_z1_l1"/>⁋ Le premier Apologue ou</hi>
-<hi type="HeadingLine"><lb corresp="#f13_z1_l2"/>fable est du regnart et Du</hi>
-<hi type="HeadingLine"><lb corresp="#f13_z1_l3"/>cheureau. Et cõmence ou</hi>
-<hi type="HeadingLine"><lb corresp="#f13_z1_l4"/>latin. Uulpes.</hi>
-<hi type="DropCapitalLine"><lb corresp="#f13_z1_l5"/>L</hi>
+        <ab corresp="#f13_z1" type="MainZone">
+<hi rend="HeadingLine"><lb corresp="#f13_z1_l1"/>⁋ Le premier Apologue ou<lb corresp="#f13_z1_l2"/>fable est du regnart et Du<lb corresp="#f13_z1_l3"/>cheureau. Et cõmence ou<lb corresp="#f13_z1_l4"/>latin. Uulpes.<lb corresp="#f13_z1_l5"/>L</hi>
 <lb corresp="#f13_z1_l6"/>E regnart ⁊ le cheure
 <lb corresp="#f13_z1_l7"/>au ung iour D este ou
 <lb corresp="#f13_z1_l8"/>quel faisoit grãt et ex
@@ -2389,10 +2383,10 @@
 <lb corresp="#f13_z2_l31"/>cilement du dit puys. Et ce fait
 <lb corresp="#f13_z2_l32"/>se print le dit regnart a Danser
 <lb corresp="#f13_z2_l33"/>⁊ saulter sur le bort du dit puys
-</p>
+</ab>
         <fw corresp="#f13_z3" type="QuireMarksZone"><lb corresp="#f13_z3_l1"/>A iii</fw>
         <pb corresp="#f14"/>
-        <p corresp="#f14_z1">
+        <ab corresp="#f14_z1" type="MainZone">
 <lb corresp="#f14_z1_l1"/>de ioye qu il auoit d estre ainsi es
 <lb corresp="#f14_z1_l2"/>chape par son astrice ⁊ malicieu
 <lb corresp="#f14_z1_l3"/>se callidite. Et ne lui sonuĩt ne
@@ -2427,11 +2421,7 @@
 <lb corresp="#f14_z1_l32"/>coiue en regardant la fin de l en
 <lb corresp="#f14_z1_l33"/>treprinse et la sortie de la chose
 <lb corresp="#f14_z2_l1"/>auant q̃ le faire ne entreprẽdre.
-<hi type="HeadingLine"><lb corresp="#f14_z2_l2"/>⁋ Le second apologue ou fa</hi>
-<hi type="HeadingLine"><lb corresp="#f14_z2_l3"/>ble est d ung regnart ⁊ d ũg</hi>
-<hi type="HeadingLine"><lb corresp="#f14_z2_l4"/>liepart. Et cõmence ou la-</hi>
-<hi type="HeadingLine"><lb corresp="#f14_z2_l5"/>tin uulpes et pardus.</hi>
-<hi type="DropCapitalLine"><lb corresp="#f14_z2_l6"/>L</hi>
+<hi rend="HeadingLine"><lb corresp="#f14_z2_l2"/>⁋ Le second apologue ou fa<lb corresp="#f14_z2_l3"/>ble est d ung regnart ⁊ d ũg<lb corresp="#f14_z2_l4"/>liepart. Et cõmence ou la-<lb corresp="#f14_z2_l5"/>tin uulpes et pardus.<lb corresp="#f14_z2_l6"/>L</hi>
 <lb corresp="#f14_z2_l7"/>E regnart ⁊ le liepart
 <lb corresp="#f14_z2_l8"/>parlant de plusieurs choses eu
 <lb corresp="#f14_z2_l9"/>estoient ung iour aux
@@ -2446,9 +2436,9 @@
 <lb corresp="#f14_z2_l18"/>des couleurs de sa peau. Et en
 <lb corresp="#f14_z2_l19"/>effect concluoit que pour raisõ
 <lb corresp="#f14_z2_l20"/>des diuerses coulers De sadicte
-</p>
+</ab>
         <pb corresp="#f15"/>
-        <p corresp="#f15_z1">
+        <ab corresp="#f15_z1" type="MainZone">
 <lb corresp="#f15_z1_l1"/>peau il precedoit en beaute non
 <lb corresp="#f15_z1_l2"/>pas seulem̃t ledit regnart mai ᷤ
 <lb corresp="#f15_z1_l3"/>auecque ᷤ ce le ᷤ autre ᷤ beste ᷤ . Le
@@ -2481,13 +2471,12 @@
 <lb corresp="#f15_z1_l30"/>soit il bien pare De robes ou ri-
 <lb corresp="#f15_z1_l31"/>ches uestemens.
 <lb corresp="#f15_z1_l32"/>Le tier ᷤ apologue ou fable
-<hi type="DropCapitalLine"><lb corresp="#f15_z1_l33"/>C</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f15_z1_l33"/>C</hi>
 <lb corresp="#f15_z1_l34"/>est d une chate et de uenus.
-<hi type="HeadingLine"><lb corresp="#f15_z2_l1"/>Et commence ou latin.</hi>
-<hi type="HeadingLine"><lb corresp="#f15_z2_l2"/>Cata quedam ⁊c.</hi>
+<hi rend="HeadingLine"><lb corresp="#f15_z2_l1"/>Et commence ou latin.<lb corresp="#f15_z2_l2"/>Cata quedam ⁊c.</hi>
 <lb corresp="#f15_z2_l3"/>Ng ieune iouuẽceau
 <lb corresp="#f15_z2_l4"/>de exquise forme ⁊ spe
-<hi type="DropCapitalLine"><lb corresp="#f15_z2_l5"/>U</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f15_z2_l5"/>U</hi>
 <lb corresp="#f15_z2_l6"/>ciosite auoit en sa mai
 <lb corresp="#f15_z2_l7"/>son entre autres chose ᷤ une tres
 <lb corresp="#f15_z2_l8"/>belle et plaisante chate. Iceluy
@@ -2504,10 +2493,10 @@
 <lb corresp="#f15_z2_l19"/>fin qu il peust auoir sa compai-
 <lb corresp="#f15_z2_l20"/>gnie et estaindre l ardeur desus
 <lb corresp="#f15_z2_l21"/>dicte. La deesse eut pitie de lui
-</p>
+</ab>
         <fw corresp="#f15_z3" type="QuireMarksZone"><lb corresp="#f15_z3_l1"/>A iiii</fw>
         <pb corresp="#f16"/>
-        <p corresp="#f16_z1">
+        <ab corresp="#f16_z1" type="MainZone">
 <lb corresp="#f16_z1_l1"/>et exaulsa sa priere en muant
 <lb corresp="#f16_z1_l2"/>la dicte chate en une tres belle ⁊
 <lb corresp="#f16_z1_l3"/>bien formee pucelle. Et ce fait
@@ -2555,17 +2544,14 @@
 <lb corresp="#f16_z2_l12"/>ne peuent muer leurs mauuai
 <lb corresp="#f16_z2_l13"/>ses meurs et uicieuses inclina
 <lb corresp="#f16_z2_l14"/>tiõs esq̃lles ilz sõt habituez.
-<hi type="HeadingLine"><lb corresp="#f16_z2_l15"/>⁋ Le quart apologie est d ũg</hi>
-<hi type="HeadingLine"><lb corresp="#f16_z2_l16"/>laboureur ⁊ de ses enfans.</hi>
-<hi type="HeadingLine"><lb corresp="#f16_z2_l17"/>⁊ cõmẽce ou lati. Agricola</hi>
-<hi type="DropCapitalLine"><lb corresp="#f16_z2_l18"/>U</hi>
+<hi rend="HeadingLine"><lb corresp="#f16_z2_l15"/>⁋ Le quart apologie est d ũg<lb corresp="#f16_z2_l16"/>laboureur ⁊ de ses enfans.<lb corresp="#f16_z2_l17"/>⁊ cõmẽce ou lati. Agricola<lb corresp="#f16_z2_l18"/>U</hi>
 <lb corresp="#f16_z2_l19"/>ng laboureur auoit plu
 <lb corresp="#f16_z2_l20"/>ent continuellemẽt guerre ⁊ di
 <lb corresp="#f16_z2_l21"/>sieurs enfãs lesq̃lz auoi
 <lb corresp="#f16_z2_l22"/>scort entre eulx ⁊ ne les pouoit
-</p>
+</ab>
         <pb corresp="#f17"/>
-        <p corresp="#f17_z1">
+        <ab corresp="#f17_z1" type="MainZone">
 <lb corresp="#f17_z1_l1"/>le dit pere apointer ne acorder ẽ
 <lb corresp="#f17_z1_l2"/>semble. Pour laq̃lle chose faire
 <lb corresp="#f17_z1_l3"/>il cõmanda que on lui aportast
@@ -2615,16 +2601,14 @@
 <lb corresp="#f17_z2_l14"/>au cõtraire q̃ elles encorurẽt en
 <lb corresp="#f17_z2_l15"/>grãs dõmage ᷤ ꝑ leur discord et
 <lb corresp="#f17_z2_l16"/>diuision.
-<hi type="HeadingLine"><lb corresp="#f17_z2_l17"/>Le .u. apologue est d une fẽ</hi>
-<hi type="DropCapitalLine"><lb corresp="#f17_z2_l18"/>me ⁊ d une geline.</hi>
-<hi type="DropCapitalLine"><lb corresp="#f17_z2_l19"/>U</hi>
+<hi rend="HeadingLine"><lb corresp="#f17_z2_l17"/>Le .u. apologue est d une fẽ<lb corresp="#f17_z2_l18"/>me ⁊ d une geline.<lb corresp="#f17_z2_l19"/>U</hi>
 <lb corresp="#f17_z2_l20"/>ne poure fẽme auoit une
 <lb corresp="#f17_z2_l21"/>toꝰ les io᷑s ung euf ⁊ de ce estoit
 <lb corresp="#f17_z2_l22"/>geline laq̃lle luy põnoit
 <lb corresp="#f17_z2_l23"/>la dicte poure fẽme fort ioyeuse
-</p>
+</ab>
         <pb corresp="#f18"/>
-        <p corresp="#f18_z1">
+        <ab corresp="#f18_z1" type="MainZone">
 <lb corresp="#f18_z1_l1"/>Elle considera en soy mesmes
 <lb corresp="#f18_z1_l2"/>que se elle doubloit la portion
 <lb corresp="#f18_z1_l3"/>de sa geline en lui donnãt a mẽ
@@ -2649,11 +2633,7 @@
 <lb corresp="#f18_z1_l22"/>oesifz ⁊ negligẽs; et portent sou
 <lb corresp="#f18_z1_l23"/>uent dõmaige a ceulx qui ainsi
 <lb corresp="#f18_z1_l24"/>angresses et remplis les ont.
-<hi type="HeadingLine"><lb corresp="#f18_z1_l25"/>⁋ Le .ui. apologue est de deux</hi>
-<hi type="HeadingLine"><lb corresp="#f18_z1_l26"/>ieunes adolescens. Et cõ-</hi>
-<hi type="HeadingLine"><lb corresp="#f18_z1_l27"/>mẽce ou latin. duo adoles</hi>
-<hi type="HeadingLine"><lb corresp="#f18_z1_l28"/>centes ⁊c.</hi>
-<hi type="DropCapitalLine"><lb corresp="#f18_z1_l29"/>D</hi>
+<hi rend="HeadingLine"><lb corresp="#f18_z1_l25"/>⁋ Le .ui. apologue est de deux<lb corresp="#f18_z1_l26"/>ieunes adolescens. Et cõ-<lb corresp="#f18_z1_l27"/>mẽce ou latin. duo adoles<lb corresp="#f18_z1_l28"/>centes ⁊c.<lb corresp="#f18_z1_l29"/>D</hi>
 <lb corresp="#f18_z1_l30"/>eux ieunes adolescen ᷤ
 <lb corresp="#f18_z1_l31"/>entrerẽt en la maison
 <lb corresp="#f18_z1_l32"/>d ung rotisseur et cuisi
@@ -2678,9 +2658,9 @@
 <lb corresp="#f18_z2_l19"/>qui presens estoient qui auoit
 <lb corresp="#f18_z2_l20"/>prins et desrobe de la uiãde ⁊ qͥl
 <lb corresp="#f18_z2_l21"/>luy en failloit une desdictes
-</p>
+</ab>
         <pb corresp="#f19"/>
-        <p corresp="#f19_z1">
+        <ab corresp="#f19_z1" type="MainZone">
 <lb corresp="#f19_z1_l1"/>piece ᷤ car bien aperceut q̃ larrõ ᷤ
 <lb corresp="#f19_z1_l2"/>y auoient amene de fines gens
 <lb corresp="#f19_z1_l3"/>Lors celui qui la dicte piece prĩ
@@ -2714,11 +2694,7 @@
 <lb corresp="#f19_z1_l31"/>lement leurs faitz mais auec-
 <lb corresp="#f19_z1_l32"/>ques ce leurs pensees et cogita
 <lb corresp="#f19_z1_l33"/>tions secretes.
-<hi type="HeadingLine"><lb corresp="#f19_z2_l1"/>⁋ Le .uii. Apologue est de</hi>
-<hi type="HeadingLine"><lb corresp="#f19_z2_l2"/>deux amis et d ung ours</hi>
-<hi type="HeadingLine"><lb corresp="#f19_z2_l3"/>Et cõmence ou latin. Du</hi>
-<hi type="HeadingLine"><lb corresp="#f19_z2_l4"/>obus amicis</hi>
-<hi type="DropCapitalLine"><lb corresp="#f19_z2_l5"/>D</hi>
+<hi rend="HeadingLine"><lb corresp="#f19_z2_l1"/>⁋ Le .uii. Apologue est de<lb corresp="#f19_z2_l2"/>deux amis et d ung ours<lb corresp="#f19_z2_l3"/>Et cõmence ou latin. Du<lb corresp="#f19_z2_l4"/>obus amicis<lb corresp="#f19_z2_l5"/>D</hi>
 <lb corresp="#f19_z2_l6"/>eux singuliers ami ᷤ a
 <lb corresp="#f19_z2_l7"/>loiẽt ung iour ensem-
 <lb corresp="#f19_z2_l8"/>ble ⁊ cheminoiẽt ꝑ un
@@ -2736,9 +2712,9 @@
 <lb corresp="#f19_z2_l20"/>qu il n estoit pas puissant pour
 <lb corresp="#f19_z2_l21"/>resister ne pareil a la force ⁊ uer
 <lb corresp="#f19_z2_l22"/>tu dudit ours et que ou il uoul
-</p>
+</ab>
         <pb corresp="#f20"/>
-        <p corresp="#f20_z1">
+        <ab corresp="#f20_z1" type="MainZone">
 <lb corresp="#f20_z1_l1"/>droit combatre ledit our ᷤ que fi
 <lb corresp="#f20_z1_l2"/>nablemẽt il seroit uaincu ⁊ sur
 <lb corresp="#f20_z1_l3"/>mõte se lessa cheoir a terre ⁊ faĩ
@@ -2785,15 +2761,12 @@
 <lb corresp="#f20_z2_l11"/>quãt uiẽt le tẽps de dãgier ⁊ ad
 <lb corresp="#f20_z2_l12"/>uersite ilz tirẽt le pie arriere et
 <lb corresp="#f20_z2_l13"/>laissẽt leurs alliez en necessite.
-<hi type="HeadingLine"><lb corresp="#f20_z2_l14"/>Le .uiii. apologue est d ung</hi>
-<hi type="HeadingLine"><lb corresp="#f20_z2_l15"/>roseau de maraiz et d ũg o-</hi>
-<hi type="HeadingLine"><lb corresp="#f20_z2_l16"/>liuier.</hi>
-<hi type="DropCapitalLine"><lb corresp="#f20_z2_l17"/>C</hi>
+<hi rend="HeadingLine"><lb corresp="#f20_z2_l14"/>Le .uiii. apologue est d ung<lb corresp="#f20_z2_l15"/>roseau de maraiz et d ũg o-<lb corresp="#f20_z2_l16"/>liuier.<lb corresp="#f20_z2_l17"/>C</hi>
 <lb corresp="#f20_z2_l18"/>Ertain proce ᷤ et debat se
 <lb corresp="#f20_z2_l19"/>liuier por raison de certaine con
 <lb corresp="#f20_z2_l20"/>meut entre le roseau ⁊ l o-
 <lb corresp="#f20_z2_l21"/>trouersie qͥlz auoiẽt sur certaĩe
-</p>
+</ab>
       </div>
     </body>
   </text>

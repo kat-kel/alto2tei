@@ -3846,7 +3846,7 @@
     <body>
       <div>
         <pb corresp="#f21"/>
-        <p corresp="#f21_z1">
+        <ab corresp="#f21_z1" type="MainZone">
 <lb corresp="#f21_z1_l1"/>les poures pecheurs a tourment dedens se
 <lb corresp="#f21_z1_l2"/>la conscience brulant; ⁊ dehors le mõde ar-
 <lb corresp="#f21_z1_l3"/>dant. Et le chetif pecheur sera si entrepris
@@ -3883,18 +3883,18 @@
 <lb corresp="#f21_z1_l34"/>gue. car pour chose que l en face ia n y aura
 <lb corresp="#f21_z1_l35"/>dilacion. car tout sera fait en ung momẽt
 <lb corresp="#f21_z1_l36"/>aussi tost comme batre d un oeil
-<hi type="HeadingLine"><lb corresp="#f21_z1_l37"/>⁋ L interp̃tacion du nom saint andry</hi>
+<hi rend="HeadingLine"><lb corresp="#f21_z1_l37"/>⁋ L interp̃tacion du nom saint andry</hi>
 <lb corresp="#f21_z1_l38"/>Ndry est ainsi expose. Et est
 <lb corresp="#f21_z1_l39"/>autant a dire cõme bel respon
 <lb corresp="#f21_z1_l40"/>dant ou fortible Et est dit de
 <lb corresp="#f21_z1_l41"/>andor. qui uault autant a di
 <lb corresp="#f21_z1_l42"/>re cõme force. ou andry aussi
-<hi type="DropCapitalLine"><lb corresp="#f21_z1_l43"/>A</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f21_z1_l43"/>A</hi>
 <lb corresp="#f21_z1_l44"/>comme antropos cest hõme de ana qui est a
 <lb corresp="#f21_z1_l45"/>dire hault; et tyopos est conuersion. Si cõe
-</p>
+</ab>
         <fw corresp="#f21_z2" type="RunningTitleZone"><lb corresp="#f21_z2_l1"/>De saint Andry apostre</fw>
-        <p corresp="#f21_z3">
+        <ab corresp="#f21_z3" type="MainZone">
 <lb corresp="#f21_z3_l1"/>Andry qui est autant a dire hõe conuerty.
 <lb corresp="#f21_z3_l2"/>hault es cieux. ⁊ esleue a son createur. Il
 <lb corresp="#f21_z3_l3"/>fut bel en sa uie. respõdãt en sagesse. ⁊ a do
@@ -3904,7 +3904,7 @@
 <lb corresp="#f21_z3_l7"/>proprement a leurs yeulx.
 <lb corresp="#f21_z3_l8"/>Adry ⁊ aucus̃
 <lb corresp="#f21_z3_l9"/>aultres disci-
-<hi type="DropCapitalLine"><lb corresp="#f21_z3_l10"/>A</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f21_z3_l10"/>A</hi>
 <lb corresp="#f21_z3_l11"/>ples furent de
 <lb corresp="#f21_z3_l12"/>nostre seigneur trois foiz
 <lb corresp="#f21_z3_l13"/>appelles. Il les appella
@@ -3942,11 +3942,11 @@
 <lb corresp="#f21_z3_l45"/>apostres. ⁋ Du quel apel saint andry dit.
 <lb corresp="#f21_z3_l46"/>au tiers chapitre. Il appella auecques lui
 <lb corresp="#f21_z3_l47"/>ceulx qu il uoulut ⁊ fist tant qu ilz estoient
-</p>
+</ab>
         <fw corresp="#f21_z4" type="NumberingZone"><lb corresp="#f21_z4_l1"/>Fueillet.uiii.</fw>
         <fw corresp="#f21_z5" type="QuireMarksZone"><lb corresp="#f21_z5_l1"/>b.iiii</fw>
         <pb corresp="#f22"/>
-        <p corresp="#f22_z1">
+        <ab corresp="#f22_z1" type="MainZone">
 <lb corresp="#f22_z1_l1"/>douze auecques lui ⁊c. Et apres l ascension
 <lb corresp="#f22_z1_l2"/>de nostre seigneur iesu crist les apostres fu
 <lb corresp="#f22_z1_l3"/>rent despartiz. Et saint andry prescha en si
@@ -3993,9 +3993,9 @@
 <lb corresp="#f22_z1_l44"/>chauteur. Et si comme ilz uouloient mon-
 <lb corresp="#f22_z1_l45"/>ter hault par les eschelles. ⁋ Ilz fureut
 <lb corresp="#f22_z1_l46"/>si aueuglez qu ilz ne ueoyent pas les eschel
-</p>
+</ab>
         <fw corresp="#f22_z2" type="RunningTitleZone"><lb corresp="#f22_z2_l1"/>De saint andri.</fw>
-        <p corresp="#f22_z3">
+        <ab corresp="#f22_z3" type="MainZone">
 <lb corresp="#f22_z3_l1"/>les. ⁋ Et a doncques l ung de ceulx ses-
 <lb corresp="#f22_z3_l2"/>cria et dist; Pourquoy uous enforcez uous
 <lb corresp="#f22_z3_l3"/>cõtre eulx. dieu se combat pour eulx mais
@@ -4042,9 +4042,9 @@
 <lb corresp="#f22_z3_l44"/>nostre seigneur aura pitie de ce uieillart ⁊
 <lb corresp="#f22_z3_l45"/>quant il eut ieune par l espace de cĩq iours.
 <lb corresp="#f22_z3_l46"/>une uoix uint a andry. ⁊ lui dist. andry ta
-</p>
+</ab>
         <pb corresp="#f23"/>
-        <p corresp="#f23_z1">
+        <ab corresp="#f23_z1" type="MainZone">
 <lb corresp="#f23_z1_l1"/>requeste est ottroye pour le uieillart. mais
 <lb corresp="#f23_z1_l2"/>ainsi cõe tu as ieune et es amesgri. aussi se
 <lb corresp="#f23_z1_l3"/>doit il tourmenter ꝑ ieunes pour estre saul
@@ -4091,9 +4091,9 @@
 <lb corresp="#f23_z1_l44"/>alassẽt la ou il ne feissent mal a personne.
 <lb corresp="#f23_z1_l45"/>et tantost apres il se esuanouirẽ. Et quãt
 <lb corresp="#f23_z1_l46"/>ilz uirent. ilz creuerent la foy de iesu crist
-</p>
+</ab>
         <fw corresp="#f23_z2" type="RunningTitleZone"><lb corresp="#f23_z2_l1"/>De saint andri.</fw>
-        <p corresp="#f23_z3">
+        <ab corresp="#f23_z3" type="MainZone">
 <lb corresp="#f23_z3_l1"/>⁊ quãt l apostre uint a la porte d une autre.
 <lb corresp="#f23_z3_l2"/>cite l en aportoit ung ieune hõme mort Et
 <lb corresp="#f23_z3_l3"/>l apostre demanda qͥl estoit aduenu a cestui
@@ -4140,10 +4140,10 @@
 <lb corresp="#f23_z3_l44"/>les oyes ⁋ Et pour ce sont ilz ainsi captiues
 <lb corresp="#f23_z3_l45"/>du diable. et sont tant illusez abnses et de-
 <lb corresp="#f23_z3_l46"/>ceuz. qu ilz yssent du corps tous nudz, et ne
-</p>
+</ab>
         <fw corresp="#f23_z4" type="NumberingZone"><lb corresp="#f23_z4_l1"/>Fueillet.ix</fw>
         <pb corresp="#f24"/>
-        <p corresp="#f24_z1">
+        <ab corresp="#f24_z1" type="MainZone">
 <lb corresp="#f24_z1_l1"/>emportẽt q̃ pechez. Et egee dist. Ce sõt les
 <lb corresp="#f24_z1_l2"/>uanites que tõ seigneur iesu crist p̃schoit qͥ
 <lb corresp="#f24_z1_l3"/>sut fiche au gibet de la croix. Au q̃l saint
@@ -4190,9 +4190,9 @@
 <lb corresp="#f24_z1_l44"/>deffaulte n asquist de uierge. La tierce pour
 <lb corresp="#f24_z1_l45"/>ce que adam auoit estandu ses maĩs desor-
 <lb corresp="#f24_z1_l46"/>dõnement a la uiande deffendue il fut cho-
-</p>
+</ab>
         <fw corresp="#f24_z2" type="RunningTitleZone"><lb corresp="#f24_z2_l1"/>De saint Andry.</fw>
-        <p corresp="#f24_z3">
+        <ab corresp="#f24_z3" type="MainZone">
 <lb corresp="#f24_z3_l1"/>se moult connenable q̃ le nouuel adã estan
 <lb corresp="#f24_z3_l2"/>dist ses maĩs en la croix non maculees La
 <lb corresp="#f24_z3_l3"/>quarte raisõ est pour ce q̃ adam auoit gou-
@@ -4239,9 +4239,9 @@
 <lb corresp="#f24_z3_l44"/>bres de lui ainsi cõe de marguerites auant
 <lb corresp="#f24_z3_l45"/>q̃ nrẽ seigneur mõtast en toy tu estoies po
 <lb corresp="#f24_z3_l46"/>ure t̾riẽne et maĩtenãt tu es amour du ciel
-</p>
+</ab>
         <pb corresp="#f25"/>
-        <p corresp="#f25_z1">
+        <ab corresp="#f25_z1" type="MainZone">
 <lb corresp="#f25_z1_l1"/>Tu me receucras par mon desir. Ie uiens
 <lb corresp="#f25_z1_l2"/>a toy croix noble seur et ioyeulx affin q̃ tu
 <lb corresp="#f25_z1_l3"/>me recoiues liement cõe disciple d icelui qͥ y
@@ -4288,9 +4288,9 @@
 <lb corresp="#f25_z1_l44"/>resiste tres debõnairement a celuy cõbatãt
 <lb corresp="#f25_z1_l45"/>⁊ ay surmonte par ton euure, ⁊ ie te reqͥers
 <lb corresp="#f25_z1_l46"/>iustice de bon cueur ⁊ debõnaire guerre dõ
-</p>
+</ab>
         <fw corresp="#f25_z2" type="RunningTitleZone"><lb corresp="#f25_z2_l1"/>De saint andri.</fw>
-        <p corresp="#f25_z3">
+        <ab corresp="#f25_z3" type="MainZone">
 <lb corresp="#f25_z3_l1"/>neur que tu ne me commande pas que ie re
 <lb corresp="#f25_z3_l2"/>chee en plꝰ maisie te rens ce q̃ tu m auoies
 <lb corresp="#f25_z3_l3"/>baille cõmãde la a ung autre et ne m ẽpes-
@@ -4337,10 +4337,10 @@
 <lb corresp="#f25_z3_l44"/>issant si me uoulut donner a ung prĩce par
 <lb corresp="#f25_z3_l45"/>mariage au q̃l ie respondi que i auoie grãt
 <lb corresp="#f25_z3_l46"/>horreur du dleict de mariage, ⁊ que i auoie
-</p>
+</ab>
         <fw corresp="#f25_z4" type="NumberingZone"><lb corresp="#f25_z4_l1"/>Fueillet.x.</fw>
         <pb corresp="#f26"/>
-        <p corresp="#f26_z1">
+        <ab corresp="#f26_z1" type="MainZone">
 <lb corresp="#f26_z1_l1"/>donne ma uirginite a iesu crist. Et pour ce
 <lb corresp="#f26_z1_l2"/>ne me pouroye cõsẽtir a charnelle coulpe et
 <lb corresp="#f26_z1_l3"/>en la fin il contraignit tãt qu il ne conue-
@@ -4387,9 +4387,9 @@
 <lb corresp="#f26_z1_l44"/>a luys. ⁊ a crier qu õ lui ouurist et on ne lui
 <lb corresp="#f26_z1_l45"/>uouloit ouurir. si que il crioit et frappoit
 <lb corresp="#f26_z1_l46"/>de plus en plus Et l euesque demanda a la
-</p>
+</ab>
         <fw corresp="#f26_z2" type="RunningTitleZone"><lb corresp="#f26_z2_l1"/>De saint Andry.</fw>
-        <p corresp="#f26_z3">
+        <ab corresp="#f26_z3" type="MainZone">
 <lb corresp="#f26_z3_l1"/>femme se elle uouloit que ce pelerin ẽtrast.
 <lb corresp="#f26_z3_l2"/>⁊ elle dist. Faicte lui une q̃stion assez gref-
 <lb corresp="#f26_z3_l3"/>ue. ⁊ se il la scayt respondre soit mis ceans
@@ -4436,9 +4436,9 @@
 <lb corresp="#f26_z3_l44"/>bisme. et ie ne le mesure oucq̃z. Or ua et dy
 <lb corresp="#f26_z3_l45"/>a tõ seigneur q̃ elle n est pas fẽme mais est
 <lb corresp="#f26_z3_l46"/>ung diable qui est mis en forme de femme
-</p>
+</ab>
         <pb corresp="#f27"/>
-        <p corresp="#f27_z1">
+        <ab corresp="#f27_z1" type="MainZone">
 <lb corresp="#f27_z1_l1"/>Quant le messagier ouit ce il fut forment
 <lb corresp="#f27_z1_l2"/>espouente. et recorda deuant tous ce qu il a
 <lb corresp="#f27_z1_l3"/>uoit ouy. dont tous se esmerueillerent et se
@@ -4479,15 +4479,14 @@
 <lb corresp="#f27_z1_l38"/>ter a lui. et contraignist l euesque entrer en
 <lb corresp="#f27_z1_l39"/>l eglise et tantost celui mourrust. et le chãp
 <lb corresp="#f27_z1_l40"/>fut restabli a l eglise.
-<hi type="HeadingLine"><lb corresp="#f27_z1_l41"/>⁋ L interpretacion du nom saint nicolas</hi>
-</p>
+<hi rend="HeadingLine"><lb corresp="#f27_z1_l41"/>⁋ L interpretacion du nom saint nicolas</hi>
+</ab>
         <fw corresp="#f27_z2" type="RunningTitleZone"><lb corresp="#f27_z2_l1"/>De saint Nicolas</fw>
-        <p corresp="#f27_z3">
+        <ab corresp="#f27_z3" type="MainZone">
 <lb corresp="#f27_z3_l1"/>Icolas est dit de nicos. uic
 <lb corresp="#f27_z3_l2"/>toire, et laos peuple. car il
 <lb corresp="#f27_z3_l3"/>fut uictorieux pour le peu-
-<hi type="DropCapitalLine"><lb corresp="#f27_z3_l4"/>N</hi>
-<hi type="DropCapitalLine"><lb corresp="#f27_z3_l5"/>rieusement uaincre les peches. Du il est</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f27_z3_l4"/>N<lb corresp="#f27_z3_l5"/>rieusement uaincre les peches. Du il est</hi>
 <lb corresp="#f27_z3_l6"/>ple et leur enseigna a uicto
 <lb corresp="#f27_z3_l7"/>dit a nitor splendeur. et laos peuple, car il
 <lb corresp="#f27_z3_l8"/>eut en soy parolle diuine. uraye confession
@@ -4506,9 +4505,9 @@
 <lb corresp="#f27_z3_l21"/>exemple et tellement y profiter qu ilz puis-
 <lb corresp="#f27_z3_l22"/>sẽt en la fin de leurs iours par les merites
 <lb corresp="#f27_z3_l23"/>saint nicolas auoir la ioye suꝑnelle
-<hi type="HeadingLine"><lb corresp="#f27_z3_l24"/>⁋ Legende dudit saint nicolas</hi>
+<hi rend="HeadingLine"><lb corresp="#f27_z3_l24"/>⁋ Legende dudit saint nicolas</hi>
 <lb corresp="#f27_z3_l25"/>Icolas citoyẽ de
-<hi type="DropCapitalLine"><lb corresp="#f27_z3_l26"/>N</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f27_z3_l26"/>N</hi>
 <lb corresp="#f27_z3_l27"/>la cite de patras
 <lb corresp="#f27_z3_l28"/>saints parens et amys. son
 <lb corresp="#f27_z3_l29"/>fut ne des saiges
@@ -4527,10 +4526,10 @@
 <lb corresp="#f27_z3_l42"/>cte escript᷑e il mettoit a effect. Et quãt ces
 <lb corresp="#f27_z3_l43"/>parens furẽt trespasses il cõmenca a pen
 <lb corresp="#f27_z3_l44"/>ser comment il distriburoit ses richesses et
-</p>
+</ab>
         <fw corresp="#f27_z4" type="NumberingZone"><lb corresp="#f27_z4_l1"/>Fueillet.xi</fw>
         <pb corresp="#f28"/>
-        <p corresp="#f28_z1">
+        <ab corresp="#f28_z1" type="MainZone">
 <lb corresp="#f28_z1_l1"/>nõ pas a la louẽge humaine mais a la gloi
 <lb corresp="#f28_z1_l2"/>re de dieu. Or est il aĩsi q̃ ung sien uoisĩ es-
 <lb corresp="#f28_z1_l3"/>toit noble hõe qͥ auoit trois filles uierges.
@@ -4577,9 +4576,9 @@
 <lb corresp="#f28_z1_l44"/>quant il uint la; et lui demanda comment
 <lb corresp="#f28_z1_l45"/>est ton nom. et lui qui estoit simple comme
 <lb corresp="#f28_z1_l46"/>une coulombe s enclina son chief et dist. Ni
-</p>
+</ab>
         <fw corresp="#f28_z2" type="RunningTitleZone"><lb corresp="#f28_z2_l1"/>De saint Nicolas</fw>
-        <p corresp="#f28_z3">
+        <ab corresp="#f28_z3" type="MainZone">
 <lb corresp="#f28_z3_l1"/>colas seruiteur de uostre sainctete Et ilz l ẽ
 <lb corresp="#f28_z3_l2"/>mererent a l eglise iasoit ce qu il refusast la
 <lb corresp="#f28_z3_l3"/>grande dignite forment et le misrent en la
@@ -4626,9 +4625,9 @@
 <lb corresp="#f28_z3_l44"/>lors raconterent les miracles aux mini-
 <lb corresp="#f28_z3_l45"/>stres de l empereur. et louerẽt forment dieu
 <lb corresp="#f28_z3_l46"/>et son seruiteur. Et l omme de dieu distri-
-</p>
+</ab>
         <pb corresp="#f50"/>
-        <p corresp="#f50_z1">
+        <ab corresp="#f50_z1" type="MainZone">
 <lb corresp="#f50_z1_l1"/>te Et l en demande pourquoy les festes sõt
 <lb corresp="#f50_z1_l2"/>muez. On le dira quant on dira de son in-
 <lb corresp="#f50_z1_l3"/>uencion De ceste chose uous suffise pour
@@ -4658,14 +4657,13 @@
 <lb corresp="#f50_z1_l27"/>lente. Le p̃mier fut au benoist saiut estiẽ
 <lb corresp="#f50_z1_l28"/>ne. Le second en saint iehan. Le tiers es
 <lb corresp="#f50_z1_l29"/>innocens
-<hi type="HeadingLine"><lb corresp="#f50_z1_l30"/>⁋ L interpretacion du nom saint iehan</hi>
-<hi type="HeadingLine"><lb corresp="#f50_z1_l31"/>l apostre et euangeliste</hi>
+<hi rend="HeadingLine"><lb corresp="#f50_z1_l30"/>⁋ L interpretacion du nom saint iehan<lb corresp="#f50_z1_l31"/>l apostre et euangeliste</hi>
 <lb corresp="#f50_z1_l32"/>Ehan est expose grace de dieu
 <lb corresp="#f50_z1_l33"/>ou celui en qui grace est a qui
 <lb corresp="#f50_z1_l34"/>elle est donnee; ou a qui donna
 <lb corresp="#f50_z1_l35"/>ciõ est faicte de nostre seigneur
 <lb corresp="#f50_z1_l36"/>iesu crist; et par ce sont entẽdus
-<hi type="DropCapitalLine"><lb corresp="#f50_z1_l37"/>I</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f50_z1_l37"/>I</hi>
 <lb corresp="#f50_z1_l38"/>quatre priuileges qui furent au benoist
 <lb corresp="#f50_z1_l39"/>iehan. Le premier fut la noble amour de
 <lb corresp="#f50_z1_l40"/>nostre sauueur iesu crist. car il ayma plus
@@ -4674,9 +4672,9 @@
 <lb corresp="#f50_z1_l43"/>lui fut plus doulx ⁊ gracieux q̃ a pierre q̃
 <lb corresp="#f50_z1_l44"/>il ayma moult. mais il est amour de cou-
 <lb corresp="#f50_z1_l45"/>rage ⁊ de signe; ⁊ celle qͥ est de signe en don
-</p>
+</ab>
         <fw corresp="#f50_z2" type="RunningTitleZone"><lb corresp="#f50_z2_l1"/>De saint Iehan</fw>
-        <p corresp="#f50_z3">
+        <ab corresp="#f50_z3" type="MainZone">
 <lb corresp="#f50_z3_l1"/>ble. l une si est en demonstrer familiarite.
 <lb corresp="#f50_z3_l2"/>et l autre est donner en benefices. Quant
 <lb corresp="#f50_z3_l3"/>au premier il ayma l un et l autre egalem̃t
@@ -4702,13 +4700,13 @@
 <lb corresp="#f50_z3_l23"/>ayme de nostre seigneur iesu
 <lb corresp="#f50_z3_l24"/>crist; et esleu uierge apres la
 <lb corresp="#f50_z3_l25"/>pẽthecouste que les apostres
-<hi type="DropCapitalLine"><lb corresp="#f50_z3_l26"/>I</hi>
+<hi rend="DropCapitalLine"><lb corresp="#f50_z3_l26"/>I</hi>
 <lb corresp="#f50_z3_l27"/>se departirent; et lors s en ala
 <lb corresp="#f50_z3_l28"/>en asie ⁊ la edifia moult de belles eglises
 <lb corresp="#f50_z3_l29"/>adoncq̃s domiciã ẽpereur entẽdit sa renõ
-</p>
+</ab>
         <pb corresp="#f79"/>
-        <p corresp="#f79_z1">
+        <ab corresp="#f79_z1" type="MainZone">
 <lb corresp="#f79_z1_l1"/>prestre ne pouoit souffrir. Et aĩsi que la lu
 <lb corresp="#f79_z1_l2"/>miere se partit petit a petit il trespassa en
 <lb corresp="#f79_z1_l3"/>nostre seigneur et fleurit ẽuiron l an de no
@@ -4720,8 +4718,7 @@
 <lb corresp="#f79_z1_l9"/>pain fut departi en deux. et en demoura la
 <lb corresp="#f79_z1_l10"/>une partie et l autre uint a celui qui auoit
 <lb corresp="#f79_z1_l11"/>refuse a l offrir.
-<hi type="HeadingLine"><lb corresp="#f79_z1_l12"/>⁋ L interpretacion du nõ saint machaire.</hi>
-<hi type="DropCapitalLine"><lb corresp="#f79_z1_l13"/>M</hi>
+<hi rend="HeadingLine"><lb corresp="#f79_z1_l12"/>⁋ L interpretacion du nõ saint machaire.<lb corresp="#f79_z1_l13"/>M</hi>
 <lb corresp="#f79_z1_l14"/>Achaire est dit de macha. qͥ est
 <lb corresp="#f79_z1_l15"/>autant a dire cõme engin. ⁊ de
 <lb corresp="#f79_z1_l16"/>ares qͥ est a dire uertu. Ou ma
@@ -4731,8 +4728,7 @@
 <lb corresp="#f79_z1_l20"/>tueux quãt a sa uie. batemẽt quãt a d̃õter
 <lb corresp="#f79_z1_l21"/>le corps. ⁊ maistre au gouuernemẽt de pre-
 <lb corresp="#f79_z1_l22"/>lature. Du machaire est a dire cõe biẽeure
-<hi type="HeadingLine"><lb corresp="#f79_z1_l23"/>⁋ Legende du dit saint machaire</hi>
-<hi type="DropCapitalLine"><lb corresp="#f79_z1_l24"/>M</hi>
+<hi rend="HeadingLine"><lb corresp="#f79_z1_l23"/>⁋ Legende du dit saint machaire<lb corresp="#f79_z1_l24"/>M</hi>
 <lb corresp="#f79_z1_l25"/>achaire yssit d ũg
 <lb corresp="#f79_z1_l26"/>lieu desert ⁊ entra
 <lb corresp="#f79_z1_l27"/>po᷑ dormir en ung
@@ -4753,9 +4749,9 @@
 <lb corresp="#f79_z1_l42"/>criant a haulte uoix. Tu nou as uaĩcuz
 <lb corresp="#f79_z1_l43"/>Une fois que le bon machaire alloit d une
 <lb corresp="#f79_z1_l44"/>palluz a sa celle, le diable acourrut a luy a
-</p>
+</ab>
         <fw corresp="#f79_z2" type="RunningTitleZone"><lb corresp="#f79_z2_l1"/>De saint machaire</fw>
-        <p corresp="#f79_z3">
+        <ab corresp="#f79_z3" type="MainZone">
 <lb corresp="#f79_z3_l1"/>tout une faulx a faucher le ble ⁊ le uouloit
 <lb corresp="#f79_z3_l2"/>ferir de celle grant faulx. mais il ne peust
 <lb corresp="#f79_z3_l3"/>oncq̃z et il lui dist Ie souffre par toy moult
@@ -4802,7 +4798,7 @@
 <lb corresp="#f79_z3_l44"/>quant il eut prie dieu il demanda au chief
 <lb corresp="#f79_z3_l45"/>qu il estoit. Et iceluy dist D ung payen. Et
 <lb corresp="#f79_z3_l46"/>machaire luy dist. Ou est ton ame. ⁋ Et il
-</p>
+</ab>
         <fw corresp="#f79_z4" type="NumberingZone"><lb corresp="#f79_z4_l1"/>xxxuii</fw>
         <fw corresp="#f79_z5" type="QuireMarksZone"><lb corresp="#f79_z5_l1"/>f.i.</fw>
       </div>
