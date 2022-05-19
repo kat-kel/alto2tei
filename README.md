@@ -35,7 +35,7 @@ The document's metadata are extracted from two sources: the digitized document's
 
 The identifier is valid when the very same document as that digitized, and only that document, is found in the library catalogue. The application parses the UNIMARC data and searches for information relevant to the `<teiHeader>`. If the identifier is invalid, the application relies exclusively on data retrieved from the digitized document's IIIF manifest. These two endpoints complement each other and compensate for missing data. However, the rich UNIMARC data is only used if the digitized document's exact match is found in the catalogue. This strict condition prevents any false data from being wrongly included in the XML-TEI file.
 
-![alt text](alto2tei_1.png)
+![phase 1 & phase 2](images/build_tree.png)
 
 ## Method. Task 1: Extract metadata from internet
 
