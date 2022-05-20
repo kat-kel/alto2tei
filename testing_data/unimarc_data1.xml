@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns="http://catalogue.bnf.fr/namespaces/InterXMarc" xmlns:ixm="http://catalogue.bnf.fr/namespaces/InterXMarc" xmlns:mn="http://catalogue.bnf.fr/namespaces/motsnotices" xmlns:sd="http://www.loc.gov/zing/srw/diagnostic/">
+    <srw:version>1.2</srw:version>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:version>1.2</srw:version>
+        <srw:query>(bib.persistentid all "ark:/12148/cb316069323")</srw:query>
+    </srw:echoedSearchRetrieveRequest>
+    <srw:numberOfRecords>1</srw:numberOfRecords>  <!-- only use these data if there is exactly 1 matching record -->
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>marcxchange</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <mxc:record xmlns:mxc="info:lc/xmlns/marcxchange-v2" format="UNIMARC" id="ark:/12148/cb316069323" type="Bibliographic">
+                    <mxc:leader>     cam  22     3n 450 </mxc:leader>
+
+                    <!-- ** REQUIRED ** (not repeatable) record information -->
+                    <mxc:controlfield tag="001">FRBNF316069320000001</mxc:controlfield>
+                                            <!-- standard for the BnF general catalogue's records: -->
+                                            <!-- institutions's country code [0:1] "FR", institution [2:4] "BNF" -->
+
+                    <mxc:controlfield tag="003">http://catalogue.bnf.fr/ark:/12148/cb316069323</mxc:controlfield>  <!-- optional -->
+
+                    <!-- ** REQUIRED ** (not repeatable) record information -->
+                    <mxc:datafield tag="100" ind1=" " ind2=" ">
+                        <mxc:subfield code="a">19970701d1649    m  y0frey50      ba</mxc:subfield>
+                                    <!-- record's creation [0:7], type of publication date [8], document's publication date [9:13] -->
+                                    <!-- if the type of publication date is "u" the date is unknown and cannot be used -->
+                    </mxc:datafield>
+
+                    <!-- ** REQUIRED ** document's language -->
+                    <mxc:datafield tag="101" ind1="0" ind2=" ">
+                        <mxc:subfield code="a">fre</mxc:subfield>
+                    </mxc:datafield>
+
+                    <!-- optional, document's country of publication -->
+                    <mxc:datafield tag="102" ind1=" " ind2=" ">
+                        <mxc:subfield code="a">FR</mxc:subfield>
+                    </mxc:datafield>
+
+                    <!-- ** REQUIRED ** title and responsibility -->
+                    <mxc:datafield tag="200" ind1="1" ind2=" ">
+                        <mxc:subfield code="a">Les divers entretiens de la fontaine de Vaucluse</mxc:subfield>  <!-- required, clean title -->
+                        <mxc:subfield code="b">Texte imprimé</mxc:subfield>  <!-- optional, document type -->
+                    </mxc:datafield>
+
+                    <!-- optional, publication information -->
+                    <mxc:datafield tag="210" ind1=" " ind2=" ">
+                        <mxc:subfield code="a">Avignon</mxc:subfield>  <!-- optional, place of publication -->
+                        <mxc:subfield code="c">J. Bramereau</mxc:subfield> <!-- optional, publisher's name -->
+                        <mxc:subfield code="d">1649</mxc:subfield>  <!-- optional, publication date -->
+                    </mxc:datafield>
+
+                    <!-- optional (not repeatable), principal responsibility -->
+                    <mxc:datafield tag="700" ind1=" " ind2="|">
+                        <mxc:subfield code="o">ISNI0000000121451474</mxc:subfield>  <!-- identifier -->
+                        <mxc:subfield code="a">Jacques de Voragine</mxc:subfield>  <!-- required (not repeatable), author's primary name -->
+                    </mxc:datafield>
+
+                    <!-- optional (not repeatable), principal responsibility -->
+                    <mxc:datafield tag="701" ind1=" " ind2="|">
+                        <mxc:subfield code="o">ISNI0000000121451474</mxc:subfield>  <!-- identifier -->
+                        <mxc:subfield code="a">Test</mxc:subfield>
+                        <mxc:subfield code="b">Author2</mxc:subfield>  <!-- required (not repeatable), author's primary name -->
+                    </mxc:datafield>
+
+                    <!-- optional (repeatable), secondary responsibility -->
+                    <mxc:datafield tag="702" ind1=" " ind2="|">
+                        <mxc:subfield code="o">ISNI0000000118444513</mxc:subfield>  <!-- identifier -->
+                        <mxc:subfield code="a">Jean de Vignay</mxc:subfield>  <!-- required (not repeatable), author's primary name -->
+                    </mxc:datafield>
+
+                    <!-- optional (repeatable), secondary responsibility -->
+                    <mxc:datafield tag="702" ind1=" " ind2="|">
+                        <mxc:subfield code="o">ISNI0000000116180163</mxc:subfield>  <!-- identifier -->
+                        <mxc:subfield code="a">Battalier</mxc:subfield>  <!-- required (not repeatable), author's primary name -->
+                        <mxc:subfield code="b">Jean</mxc:subfield>  <!-- optional (not repeatable), part of author's name other than the primary part -->
+                    </mxc:datafield>
+
+                    <!-- optional (repeatable), secondary responsibility -->
+                    <mxc:datafield tag="702" ind1=" " ind2="|">
+                        <mxc:subfield code="a">Maubec</mxc:subfield>  <!-- required (not repeatable), author's primary name -->
+                        <mxc:subfield code="b">Louis-Gabriel Planelli de Mascrany de La Valette</mxc:subfield>  <!-- optional (not repeatable), part of author's name other than the primary part -->
+                        <mxc:subfield code="c">marquis de</mxc:subfield> <!-- (repeatable) elements added to the author's name -->
+                    </mxc:datafield>
+
+                    <!-- ** REQUIRED ** catalogue information -->
+                    <mxc:datafield tag="801" ind1=" " ind2="0">
+                        <mxc:subfield code="a">FR</mxc:subfield>  <!-- conserving institution's country code -->
+                    </mxc:datafield>
+
+                    <!-- ** REQUIRED ** (repeatable) document's shelfmarks -->
+                    <mxc:datafield tag="930" ind1=" " ind2=" ">
+                        <mxc:subfield code="a">VELINS-689</mxc:subfield>  <!-- complete shelfmark -->
+                        <mxc:subfield code="c">Tolbiac - Réserve - Magasin</mxc:subfield>  <!-- location -->
+                    </mxc:datafield>
+
+                    <!-- ** REQUIRED ** (repeatable) document's shelfmarks -->
+                    <mxc:datafield tag="930" ind1=" " ind2=" ">
+                        <mxc:subfield code="a">VELINS-690</mxc:subfield>  <!-- complete shelfmark -->
+                        <mxc:subfield code="c">Tolbiac - Réserve - Magasin</mxc:subfield>  <!-- location -->
+                    </mxc:datafield>
+
+                    <!-- ** REQUIRED ** (repeatable) document's shelfmarks -->
+                    <mxc:datafield tag="930" ind1=" " ind2=" ">
+                        <mxc:subfield code="a">NUMM-990987</mxc:subfield>  <!-- complete shelfmark -->
+                        <mxc:subfield code="c">Tolbiac - Réserve - Magasin</mxc:subfield>  <!-- location -->
+                    </mxc:datafield>
+
+                    <!-- ** REQUIRED ** (repeatable) document's shelfmarks -->
+                    <mxc:datafield tag="930" ind1=" " ind2=" ">
+                        <mxc:subfield code="a">NUMM-324358</mxc:subfield>  <!-- complete shelfmark -->
+                        <mxc:subfield code="c">Tolbiac - Réserve - Magasin</mxc:subfield>  <!-- location -->
+                    </mxc:datafield>                   
+
+                </mxc:record>      
+            </srw:recordData>
+        </srw:record>
+    </srw:records>
+</srw:searchRetrieveResponse>

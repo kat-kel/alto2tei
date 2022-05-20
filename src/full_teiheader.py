@@ -71,6 +71,7 @@ class FullTree:
                     Entry("pubPlace","key",None,"pubplace_key"),
                     Entry("publisher",None,None,"publisher"),
                     Entry("date",None,"Date","date"),
+                    Entry("date","when",None,"when"),
                     Entry("country","key",None,"country"),
                     Entry("repository",None,"Repository",None),
                     Entry("idno",None,"Shelfmark","idno"),

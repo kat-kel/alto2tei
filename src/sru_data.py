@@ -78,7 +78,7 @@ class SRU_API:
             data (dict): all relevant metadata from BnF catalogue
         """        
         # create and set defaults for data
-        fields = ["authors", "title", "ptr", "pubplace", "pubplace_key", "publisher", "date", "country", "idno", "objectdesc", "lang"]
+        fields = ["authors", "title", "ptr", "pubplace", "pubplace_key", "publisher", "date", "when", "country", "idno", "objectdesc", "lang"]
         data = {}
         {data.setdefault(f, None) for f in fields}
 
@@ -90,35 +90,50 @@ class SRU_API:
             # enter author data into data dictionary
             data["authors"] = self.clean_authors(root)
 
-            # enter cleaned title
-            has_title = root.find('.//m:datafield[@tag="200"]/m:subfield[@code="a"]', namespaces=NS)
-            if has_title is not None:
-                data["title"] = has_title.text
-
             # enter link to the work in the institution's catalogue
             has_ptr = root.find('.//m:controlfield[@tag="003"]', namespaces=NS)
             if has_ptr is not None:
                 data["ptr"] = has_ptr.text
-
-            # enter publication place
-            has_place = root.find('.//m:datafield[@tag="210"]/m:subfield[@code="a"]', namespaces=NS)
-            if has_place is not None:
-                data["pubplace"] = has_place.text
+            
+            # enter date of publication
+            has_date_100 = root.find('.//m:datafield[@tag="100"]/m:subfield[@code="a"]', namespaces=NS)
+            if has_date_100 is not None and has_date_100.text[8]!="u":
+                data["date"] = has_date_100.text[9:13]
+                data["when"] = has_date_100.text[9:13]
+            else:
+                has_date_210 = root.find('.//m:datafield[@tag="210"]/m:subfield[@code="d"]', namespaces=NS)
+                if has_date_210 is not None:
+                    data["date"] = has_date_210.text
+            
+            # enter language of document
+            has_lang = root.find('.//m:datafield[@tag="101"]/m:subfield[@code="a"]', namespaces=NS)
+            if has_lang is not None:
+                data["lang"] = has_lang.text
 
             # enter country code of publication place
             has_place_key = root.find('.//m:datafield[@tag="102"]/m:subfield[@code="a"]', namespaces=NS)
             if has_place_key is not None:
                 data["pubplace_key"] = has_place_key.text
 
+            # enter cleaned title
+            has_title = root.find('.//m:datafield[@tag="200"]/m:subfield[@code="a"]', namespaces=NS)
+            if has_title is not None:
+                data["title"] = has_title.text
+
+            # enter type of document (manuscript or print)
+            has_objectdesc = root.find('.//m:datafield[@tag="200"]/m:subfield[@code="b"]', namespaces=NS)
+            if has_objectdesc is not None:
+                data["objectdesc"] = has_objectdesc.text
+
+            # enter publication place
+            has_place = root.find('.//m:datafield[@tag="210"]/m:subfield[@code="a"]', namespaces=NS)
+            if has_place is not None:
+                data["pubplace"] = has_place.text
+
             # enter publisher
             has_publisher = root.find('.//m:datafield[@tag="210"]/m:subfield[@code="c"]', namespaces=NS)
             if has_publisher is not None:
-                data["publisher"] = has_publisher.text
-
-            # enter date of publication
-            has_date = root.find('.//m:datafield[@tag="210"]/m:subfield[@code="d"]', namespaces=NS)
-            if has_date is not None:
-                data["date"] = has_date.text
+                data["publisher"] = has_publisher.text   
 
             # enter country where the document is conserved
             has_country = root.find('.//m:datafield[@tag="801"]/m:subfield[@code="a"]', namespaces=NS)
@@ -130,34 +145,25 @@ class SRU_API:
             if has_isno is not None:
                 data["idno"] = has_isno.text
 
-            # enter type of document (manuscript or print)
-            has_objectdesc = root.find('.//m:datafield[@tag="200"]/m:subfield[@code="b"]', namespaces=NS)
-            if has_objectdesc is not None:
-                data["objectdesc"] = has_objectdesc.text
-
-            # enter language of document
-            has_lang = root.find('.//m:datafield[@tag="101"]/m:subfield[@code="a"]', namespaces=NS)
-            if has_lang is not None:
-                data["lang"] = has_lang.text
-
         return data
 
     def clean_authors(self, root):
-        """Parses and cleans author data from Unimarc fields 701 and/or 702.
+        """Parses and cleans author data from Unimarc fields 700 and/or 701.
         Returns:
-            data (dict): relevant authorship data (isni, surname, forename, xml:id)
+            authors (dict): relevant authorship data (isni, surname, forename, xml:id)
         """        
-        # if there is only one primary author
-        data = []
+        authors = []
         count = 0
         if root.find('.//m:datafield[@tag="700"]', namespaces=NS) is not None:
+            # datafield 700 is not repeatable
             author_element = root.find('.//m:datafield[@tag="700"]', namespaces=NS)
             count+=1
-            data.append(self.author_data(author_element, count))
+            authors.append(self.author_data(author_element, count))
         if root.find('.//m:datafield[@tag="701"]', namespaces=NS) is not None:
-            author_elements = root.findall('.//m:datafield[@tag="700"]', namespaces=NS)
+            # datafield 701 is repeatable
+            author_elements = root.findall('.//m:datafield[@tag="701"]', namespaces=NS)
             for element in author_elements:
                 count+=1
-                data.append(self.author_data(element, count))
-        return data
+                authors.append(self.author_data(element, count))
+        return authors
 
