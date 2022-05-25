@@ -38,7 +38,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-19"/>
+        <date when="2022-05-20"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -52,7 +52,7 @@
           <title>Les apologues et fables de Laurens valle</title>
           <pubPlace key="FR">[Paris</pubPlace>
           <publisher>pour Antoine Vérard</publisher>
-          <date>circa 1493]</date>
+          <date when="1493">1493</date>
         </bibl>
         <msDesc>
           <msIdentifier>

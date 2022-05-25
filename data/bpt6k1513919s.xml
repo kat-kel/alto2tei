@@ -38,7 +38,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-19"/>
+        <date when="2022-05-20"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -52,7 +52,7 @@
           <title>Les divers entretiens de la fontaine de Vaucluse</title>
           <pubPlace key="FR">Avignon</pubPlace>
           <publisher>J. Bramereau</publisher>
-          <date>1649</date>
+          <date when="1649">1649</date>
         </bibl>
         <msDesc>
           <msIdentifier>
