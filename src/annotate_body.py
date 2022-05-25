@@ -1,5 +1,6 @@
 from lxml import etree
 
+
 class Body:
     def __init__(self, tags, root, namespace):
         self.tags = tags

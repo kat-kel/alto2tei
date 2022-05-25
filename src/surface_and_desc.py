@@ -3,6 +3,7 @@ import re
 
 NS = {'a':"http://www.loc.gov/standards/alto/ns-v4#"}  # namespace for the Alto xml
 
+
 class SurfaceTree:
     """Creates a <surface> element and its children for one page (ALTO file) of a document.
     """    
