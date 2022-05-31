@@ -2,7 +2,8 @@ from src.iiif_data import IIIF_API
 from src.sru_data import SRU_API
 from src.build_teiheader import teiheader
 from src.build_sourcedoc import sourcedoc
-from src.annotate_body import Body
+from src.build_body import body
+from src.text_data import Text
 from src.tags_dict import Tags
 from lxml import etree
 
@@ -50,10 +51,11 @@ class XMLTEI:
         # build <sourceDoc>
         sourcedoc(self.d, self.root, self.p, self.tags)  # (build_sourcedoc.py)
     
-    # -- PHASE 3 -- extract and annotate text in <body>
-    def annotate_body(self):
+    # -- PHASE 3 -- extract and annotate text in <body> and <standoff>
+    def annotate_text(self):
         """Parse and map data from the <souceDoc> to XML-TEI elements in <body>.
         """        
-        body = Body(self.tags, self.root, self.NS)
-        body.build()
+        text = Text(self.root)
+        body(self.root, text.data)
+        #text.standoff()
         

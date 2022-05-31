@@ -23,5 +23,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add ./data/*.xml
-          git commit -m "Create TEI files" || echo "Nothing to commit"
+          git commit -m "[Automated] Create TEI files" || echo "Nothing to commit"
           git push || echo "Nothing to push"

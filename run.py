@@ -47,12 +47,12 @@ for d in docs:
     dif = t1-t0
     print(f"|________finished in {dif.seconds}.{dif.microseconds} seconds.")
 
-    # -- phase 3 -- extract and annotate text in <body>
+    # -- phase 3 -- extract and annotate text in <body> and <standOff>
     print(f"\33[33mextracting and annotating text in <body>\x1b[0m")
     t0 = datetime.utcnow()
     # perform the method .annotate_body() on this document's XMLTEI instance
     # this method extracts text from the <sourceDoc> and maps it to XML-TEI elements in <body>
-    root = x.annotate_body()
+    root = x.annotate_text()
     t1 = datetime.utcnow()
     dif = t1-t0
     print(f"|________finished in {dif.seconds}.{dif.microseconds} seconds.")
