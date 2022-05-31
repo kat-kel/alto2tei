@@ -33,7 +33,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-25"/>
+        <date when="2022-05-31"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -1065,250 +1065,28 @@
     <body>
       <div>
         <pb corresp="#f10"/>
-        <ab corresp="#f10_z1" type="MainZone">
-<lb corresp="#f10_z1_l1"/>S ensuyt la tres louable et recõmandable uie auecq̃s les miracles
-<lb corresp="#f10_z1_l2"/>de mon seigneur sainct martin translatee de latin en francoys.
-<lb corresp="#f10_z1_l3"/>Sit trinitati gloria martinus ut confessus est
-<lb corresp="#f10_z1_l4"/>Loire et hõneur pardurable soit la celeste trinite; ung
-<lb corresp="#f10_z1_l5"/>dieu en troys personnes; et ce petit cuure aggreable se
-<lb corresp="#f10_z1_l6"/>ingratitude est a fuyr et enfuyr recognoissance, est
-<hi rend="DropCapitalLine"><lb corresp="#f10_z1_l7"/>G</hi>
-<lb corresp="#f10_z1_l8"/>bien raison q̃ ie mette uigueur et force a faire quelque
-<lb corresp="#f10_z1_l9"/>seruice a celui qͥ par tant de fois m a aide et secouru en mes necessitez
-<lb corresp="#f10_z1_l10"/>C est au pasteur de rectitude, mirouer des euesq̃s, archeuesq̃s ⁊ pairi
-<lb corresp="#f10_z1_l11"/>arches moseigñr saint martin arceuesque de Tours; remply de bea
-<lb corresp="#f10_z1_l12"/>titude. du q̃l selon la petitesse de mõ engin ueil descripre la haultesse
-<lb corresp="#f10_z1_l13"/>de sa uie; et les miracles qu il a faiz, tãt en sa uie q̃ apres sa mort; ainsi
-<lb corresp="#f10_z1_l14"/>qu il est trouue de ceulx qui de lui ont escript. Et sachez que riens n y
-<lb corresp="#f10_z1_l15"/>uueil mettre du mien, mais ensuir la lettre des peres et clers anciẽs
-<lb corresp="#f10_z1_l16"/>de ses faiz. et cõme ainsi soit q̃ saĩct sulpice ait fait ung liure cõtenãt
-</ab>
+        <ab corresp="#f10_z1" type="MainZone"><lb corresp="#f10_z1_l1"/>S ensuyt la tres louable et recõmandable uie auecq̃s les miracles<lb corresp="#f10_z1_l2"/>de mon seigneur sainct martin translatee de latin en francoys.<lb corresp="#f10_z1_l3"/>Sit trinitati gloria martinus ut confessus est<lb corresp="#f10_z1_l4"/>Loire et hõneur pardurable soit la celeste trinite; ung<lb corresp="#f10_z1_l5"/>dieu en troys personnes; et ce petit cuure aggreable se<lb corresp="#f10_z1_l6"/>ingratitude est a fuyr et enfuyr recognoissance, est<hi rend="DropCapitalLine"><lb corresp="#f10_z1_l7"/>G</hi><lb corresp="#f10_z1_l8"/>bien raison q̃ ie mette uigueur et force a faire quelque<lb corresp="#f10_z1_l9"/>seruice a celui qͥ par tant de fois m a aide et secouru en mes necessitez<lb corresp="#f10_z1_l10"/>C est au pasteur de rectitude, mirouer des euesq̃s, archeuesq̃s ⁊ pairi<lb corresp="#f10_z1_l11"/>arches moseigñr saint martin arceuesque de Tours; remply de bea<lb corresp="#f10_z1_l12"/>titude. du q̃l selon la petitesse de mõ engin ueil descripre la haultesse<lb corresp="#f10_z1_l13"/>de sa uie; et les miracles qu il a faiz, tãt en sa uie q̃ apres sa mort; ainsi<lb corresp="#f10_z1_l14"/>qu il est trouue de ceulx qui de lui ont escript. Et sachez que riens n y<lb corresp="#f10_z1_l15"/>uueil mettre du mien, mais ensuir la lettre des peres et clers anciẽs<lb corresp="#f10_z1_l16"/>de ses faiz. et cõme ainsi soit q̃ saĩct sulpice ait fait ung liure cõtenãt</ab>
         <pb corresp="#f11"/>
-        <ab corresp="#f11_z1" type="MainZone">
-<lb corresp="#f11_z1_l1"/>uingt et six chappitres par leurs tiltres tres bien diuisez; esquelz sont
-<lb corresp="#f11_z1_l2"/>contenuz les faiz et merueilleux miracles de sainct martin ains qu il
-<lb corresp="#f11_z1_l3"/>mourust si dieu plaist ⁊ luy me aider ie poursuyuray ma matiere au
-<lb corresp="#f11_z1_l4"/>mieulx que ie pourray
-<hi rend="DropCapitalLine"><lb corresp="#f11_z1_l5"/>O</hi>
-<lb corresp="#f11_z1_l6"/>u temps q̃ dioclecien et maximien tenoiẽt l empire de romme
-<lb corresp="#f11_z1_l7"/>lesq̃lx estoient payens et sarrazins tres cruelz et ne se fasoient
-<lb corresp="#f11_z1_l8"/>poĩt aymer des haulx barons de son empire pour leur cruaulte; dõt
-<lb corresp="#f11_z1_l9"/>plusieurs barons se rebellerent cõtre eulx qui gueres ne les amoient
-<lb corresp="#f11_z1_l10"/>Et oultre les autres seigneurs le roy de hongrie qui estoit ieune sei-
-<lb corresp="#f11_z1_l11"/>gneur qui auoit nom florus lequel auoit receu la dignite du royaul-
-<lb corresp="#f11_z1_l12"/>me n auoit gueres par la mort du roy aumer son pere qͥ la t̾re auoit
-<lb corresp="#f11_z1_l13"/>tenue paisiblement ⁊ tous leurs deuãciers aussi. Ce ieune roy florus
-<lb corresp="#f11_z1_l14"/>auoit nom martin ⁊ l autre aumer. Si fut aduise par tous les barõs
-<lb corresp="#f11_z1_l15"/>de sa terre pour auoir lignee qui tiendroit la terre ap̃s luy. Si firent
-<lb corresp="#f11_z1_l16"/>tãt qu il eut a fẽme brichilde fille au roy de cessonnie; auecq̃s laquelle
-<lb corresp="#f11_z1_l17"/>il fut long tẽps ⁊ d icelle yssirẽt troys beaulx filz dont l aisne eut nom
-<lb corresp="#f11_z1_l18"/>florus cõme son pere. Et d iceluy yssit mõ seigñr sainct martin cõme
-<lb corresp="#f11_z1_l19"/>uous orrez cy ap̃s. Le second eut nom hilgrius et le petit eut nom au
-<lb corresp="#f11_z1_l20"/>mer cõme son grant pere auoit nom. Les deux seconds enfãs hilgrin
-<lb corresp="#f11_z1_l21"/>et aumer oncles de mõseigñr sainct martin furẽt mariez a deux no-
-<lb corresp="#f11_z1_l22"/>tables dames de grãt lignage, desq̃lz yssirẽt les sept dormãs cousins
-<lb corresp="#f11_z1_l23"/>de mõseigñr sainct martin; desquelz sept ie uous declareray les nõs,
-<lb corresp="#f11_z1_l24"/>De hilgrin yssirent quatre; dont le p̃mier auoit nom climent. Le se-
-<lb corresp="#f11_z1_l25"/>cond primus le tiers theodore. et le quart letus. Et de aumer yssirent
-<lb corresp="#f11_z1_l26"/>troys autres, dequelz l un auoit nom gaudent; l autre kyriace, et le
-<lb corresp="#f11_z1_l27"/>tiers innocent. Ces sept enfans furent saincts et de bonne uie cõme
-<lb corresp="#f11_z1_l28"/>ie uous declaireray plus a plain cy ap̃s en ensuyuãt l ystoire. Mais
-<lb corresp="#f11_z1_l29"/>de ceste matiere laisseray a parler; et retourneray au roy florus, qui
-<lb corresp="#f11_z1_l30"/>lors faisoit de son royaume et de la gent a la uoulente. Car il estoit
-<lb corresp="#f11_z1_l31"/>doulx et courtoys. Et pour ce tout son peuple l aymoit ⁊ luy obeissoit
-<lb corresp="#f11_z1_l32"/>tant qu il estoit possible; ne nul de son pays ne luy contredisoit pour
-<lb corresp="#f11_z1_l33"/>la bonte qui estoit en luy.
-</ab>
+        <ab corresp="#f11_z1" type="MainZone"><lb corresp="#f11_z1_l1"/>uingt et six chappitres par leurs tiltres tres bien diuisez; esquelz sont<lb corresp="#f11_z1_l2"/>contenuz les faiz et merueilleux miracles de sainct martin ains qu il<lb corresp="#f11_z1_l3"/>mourust si dieu plaist ⁊ luy me aider ie poursuyuray ma matiere au<lb corresp="#f11_z1_l4"/>mieulx que ie pourray<hi rend="DropCapitalLine"><lb corresp="#f11_z1_l5"/>O</hi><lb corresp="#f11_z1_l6"/>u temps q̃ dioclecien et maximien tenoiẽt l empire de romme<lb corresp="#f11_z1_l7"/>lesq̃lx estoient payens et sarrazins tres cruelz et ne se fasoient<lb corresp="#f11_z1_l8"/>poĩt aymer des haulx barons de son empire pour leur cruaulte; dõt<lb corresp="#f11_z1_l9"/>plusieurs barons se rebellerent cõtre eulx qui gueres ne les amoient<lb corresp="#f11_z1_l10"/>Et oultre les autres seigneurs le roy de hongrie qui estoit ieune sei-<lb corresp="#f11_z1_l11"/>gneur qui auoit nom florus lequel auoit receu la dignite du royaul-<lb corresp="#f11_z1_l12"/>me n auoit gueres par la mort du roy aumer son pere qͥ la t̾re auoit<lb corresp="#f11_z1_l13"/>tenue paisiblement ⁊ tous leurs deuãciers aussi. Ce ieune roy florus<lb corresp="#f11_z1_l14"/>auoit nom martin ⁊ l autre aumer. Si fut aduise par tous les barõs<lb corresp="#f11_z1_l15"/>de sa terre pour auoir lignee qui tiendroit la terre ap̃s luy. Si firent<lb corresp="#f11_z1_l16"/>tãt qu il eut a fẽme brichilde fille au roy de cessonnie; auecq̃s laquelle<lb corresp="#f11_z1_l17"/>il fut long tẽps ⁊ d icelle yssirẽt troys beaulx filz dont l aisne eut nom<lb corresp="#f11_z1_l18"/>florus cõme son pere. Et d iceluy yssit mõ seigñr sainct martin cõme<lb corresp="#f11_z1_l19"/>uous orrez cy ap̃s. Le second eut nom hilgrius et le petit eut nom au<lb corresp="#f11_z1_l20"/>mer cõme son grant pere auoit nom. Les deux seconds enfãs hilgrin<lb corresp="#f11_z1_l21"/>et aumer oncles de mõseigñr sainct martin furẽt mariez a deux no-<lb corresp="#f11_z1_l22"/>tables dames de grãt lignage, desq̃lz yssirẽt les sept dormãs cousins<lb corresp="#f11_z1_l23"/>de mõseigñr sainct martin; desquelz sept ie uous declareray les nõs,<lb corresp="#f11_z1_l24"/>De hilgrin yssirent quatre; dont le p̃mier auoit nom climent. Le se-<lb corresp="#f11_z1_l25"/>cond primus le tiers theodore. et le quart letus. Et de aumer yssirent<lb corresp="#f11_z1_l26"/>troys autres, dequelz l un auoit nom gaudent; l autre kyriace, et le<lb corresp="#f11_z1_l27"/>tiers innocent. Ces sept enfans furent saincts et de bonne uie cõme<lb corresp="#f11_z1_l28"/>ie uous declaireray plus a plain cy ap̃s en ensuyuãt l ystoire. Mais<lb corresp="#f11_z1_l29"/>de ceste matiere laisseray a parler; et retourneray au roy florus, qui<lb corresp="#f11_z1_l30"/>lors faisoit de son royaume et de la gent a la uoulente. Car il estoit<lb corresp="#f11_z1_l31"/>doulx et courtoys. Et pour ce tout son peuple l aymoit ⁊ luy obeissoit<lb corresp="#f11_z1_l32"/>tant qu il estoit possible; ne nul de son pays ne luy contredisoit pour<lb corresp="#f11_z1_l33"/>la bonte qui estoit en luy.</ab>
         <fw corresp="#f11_z2" type="QuireMarksZone"><lb corresp="#f11_z2_l1"/>a ii.</fw>
         <pb corresp="#f12"/>
-        <ab corresp="#f12_z1" type="MainZone">
-<hi rend="HeadingLine"><lb corresp="#f12_z1_l1"/>Cõment le roy florus mena guerre<lb corresp="#f12_z1_l2"/>aux maximiens et aux rõmains.<lb corresp="#f12_z1_l3"/>E</hi>
-<lb corresp="#f12_z1_l4"/>t quãt il se uit ainsi aime de sa gent il lui print uoulẽte de guer
-<lb corresp="#f12_z1_l5"/>royer les maximiens et les rõmains. Lors mãda ses gens de
-<lb corresp="#f12_z1_l6"/>toutes pars ⁊ qͥlz uiẽsissent armez ⁊ appareillez pour les mener la ou
-<lb corresp="#f12_z1_l7"/>il lui plairoit. Lesquelz obeirent a leur seigneur ⁊ uindrent baros̃ che
-<lb corresp="#f12_z1_l8"/>ualiers ⁊ escuiers tant qu il suffisoit. Et quãt ilz furẽt assẽblez le roy
-<lb corresp="#f12_z1_l9"/>les mena cõtre les maximiẽs ⁊ les rõmaĩs ⁊ leur fist tres forte guerre.
-<lb corresp="#f12_z1_l10"/>⁊ y mourut grãt quãtite des maximiẽs ⁊ rõmains. Mais en la fin d
-<lb corresp="#f12_z1_l11"/>ẽnuya a toꝰ les barõs ou a la plus grãt partie ⁊ lui faillirẽt a son be-
-<lb corresp="#f12_z1_l12"/>soing. Et quãt les maximiẽs le uirent despourueu de gẽs d armes ilz
-<lb corresp="#f12_z1_l13"/>lui coururẽt sus dõt il fut fort esbahy et l ont assiege en ung sien cha
-<lb corresp="#f12_z1_l14"/>stel le plus fort de sa terre ou l emꝑeur mesmes tenoit le siege tout au
-<lb corresp="#f12_z1_l15"/>tour ⁊ y fist durãt ce tẽps plusieurs assaulx ⁊ enragoit tout uif qu il ne
-<lb corresp="#f12_z1_l16"/>le pouoit auoir. ⁊ fist sermẽt qu il les feroit tous pendre s ilz ne se ren-
-<lb corresp="#f12_z1_l17"/>doient. Mais nõobstant toutes ses menaces se tindrẽt demy an con
-<lb corresp="#f12_z1_l18"/>tre lui ⁊ se deffendoient uaillãment mais a la fin le roy florus et ses
-</ab>
+        <ab corresp="#f12_z1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f12_z1_l1"/>Cõment le roy florus mena guerre<lb corresp="#f12_z1_l2"/>aux maximiens et aux rõmains.<lb corresp="#f12_z1_l3"/>E</hi><lb corresp="#f12_z1_l4"/>t quãt il se uit ainsi aime de sa gent il lui print uoulẽte de guer<lb corresp="#f12_z1_l5"/>royer les maximiens et les rõmains. Lors mãda ses gens de<lb corresp="#f12_z1_l6"/>toutes pars ⁊ qͥlz uiẽsissent armez ⁊ appareillez pour les mener la ou<lb corresp="#f12_z1_l7"/>il lui plairoit. Lesquelz obeirent a leur seigneur ⁊ uindrent baros̃ che<lb corresp="#f12_z1_l8"/>ualiers ⁊ escuiers tant qu il suffisoit. Et quãt ilz furẽt assẽblez le roy<lb corresp="#f12_z1_l9"/>les mena cõtre les maximiẽs ⁊ les rõmaĩs ⁊ leur fist tres forte guerre.<lb corresp="#f12_z1_l10"/>⁊ y mourut grãt quãtite des maximiẽs ⁊ rõmains. Mais en la fin d<lb corresp="#f12_z1_l11"/>ẽnuya a toꝰ les barõs ou a la plus grãt partie ⁊ lui faillirẽt a son be-<lb corresp="#f12_z1_l12"/>soing. Et quãt les maximiẽs le uirent despourueu de gẽs d armes ilz<lb corresp="#f12_z1_l13"/>lui coururẽt sus dõt il fut fort esbahy et l ont assiege en ung sien cha<lb corresp="#f12_z1_l14"/>stel le plus fort de sa terre ou l emꝑeur mesmes tenoit le siege tout au<lb corresp="#f12_z1_l15"/>tour ⁊ y fist durãt ce tẽps plusieurs assaulx ⁊ enragoit tout uif qu il ne<lb corresp="#f12_z1_l16"/>le pouoit auoir. ⁊ fist sermẽt qu il les feroit tous pendre s ilz ne se ren-<lb corresp="#f12_z1_l17"/>doient. Mais nõobstant toutes ses menaces se tindrẽt demy an con<lb corresp="#f12_z1_l18"/>tre lui ⁊ se deffendoient uaillãment mais a la fin le roy florus et ses</ab>
         <pb corresp="#f13"/>
-        <ab corresp="#f13_z1" type="MainZone">
-<lb corresp="#f13_z1_l1"/>gens considerãt qu il n auoiẽt pas pouoir de gẽs pour eulx deffendre
-<lb corresp="#f13_z1_l2"/>contre l emꝑeur se rendirent saufz leurs uies et leurs biẽs. Et quant
-<lb corresp="#f13_z1_l3"/>ils se furẽt renduz l emꝑeur fist prendre et lier le roy florus de hõgrie
-<lb corresp="#f13_z1_l4"/>et les freres aussi ⁊ les enuoya a rõme a dioclecien qui les fist mettre
-<lb corresp="#f13_z1_l5"/>en chartre obscure fort liez ⁊ bien gardez qu ilz ne eschappassent de la
-<lb corresp="#f13_z1_l6"/>prison en laq̃lle ilz furẽt lõg tẽps et tant q̃ dioclecien aduisa que le roy
-<lb corresp="#f13_z1_l7"/>florus et ses freres ne lui pouoient gueres nuyre puis qu ilz estoient
-<lb corresp="#f13_z1_l8"/>en sa prison. Si lui manda q̃ s il uouloit laisser a l empire les places
-<lb corresp="#f13_z1_l9"/>uilles citez ⁊ chasteaulx ⁊ q̃ d iceulx fist hõmage a l emꝑeur ⁊ en auroit
-<lb corresp="#f13_z1_l10"/>la souuerainete et ne seroient pas les filz appellez roys mais preuost
-<lb corresp="#f13_z1_l11"/>et icelle p̃uoste tiendroit de l empire, par ce les deliureroit. Lors le roy
-<lb corresp="#f13_z1_l12"/>florus et ses freres pour eschapper de la prison l octroyerent en ceste
-<lb corresp="#f13_z1_l13"/>maniere que uous auez ouy. Dont l emꝑeur en mourut depuis de
-<lb corresp="#f13_z1_l14"/>mauuaise mort et a tres grãt honte. Car il fut estrangle du diable cõ
-<lb corresp="#f13_z1_l15"/>me il est contenu es liures des empereurs de romme
-<hi rend="DropCapitalLine"><lb corresp="#f13_z1_l16"/>L</hi>
-<lb corresp="#f13_z1_l17"/>ong temps ap̃s la deliurance du roy florus de hongrie mou-
-<lb corresp="#f13_z1_l18"/>rurent dioclecien et maximien empereurs de romme; et ap̃s
-<lb corresp="#f13_z1_l19"/>receut l onneur de l empire constantin deuers lequel le roy florus alla
-<lb corresp="#f13_z1_l20"/>et y mena florus son aisne filz qui furẽt receuz de l emꝑeur et de tous
-<lb corresp="#f13_z1_l21"/>les barons bien dignemẽt. Et fut l enfant florus bien loue de toute
-<lb corresp="#f13_z1_l22"/>la court. Si en uindrent les nouuelles a l empereur qui pour la bõte
-<lb corresp="#f13_z1_l23"/>de l enfant et de son lignage lui donna sa niepce a fẽme et le fist luy
-<lb corresp="#f13_z1_l24"/>mesmes cheualier, lui seignist l espee, lui donna l acollee et le fist pre
-<lb corresp="#f13_z1_l25"/>uost de hongrie cõme il auoit este ordonne a la deliurance du roy flo
-<lb corresp="#f13_z1_l26"/>rus. Ap̃s qu il eut este cheualier et q̃ les nopces furent faictes a grãt
-<lb corresp="#f13_z1_l27"/>ioye et a grant liesse s en retournerent en hongrie ou le roy florus fe-
-<lb corresp="#f13_z1_l28"/>stoya sa fille et son filz grãdement. Lesquelz ne furent gueres ensem
-<lb corresp="#f13_z1_l29"/>ble que la dame conceut ung beau filz que le pere fist nomer par son
-<lb corresp="#f13_z1_l30"/>nom. et eut nom florus. Lequel enfant estoit tant beau et gracieux
-<lb corresp="#f13_z1_l31"/>qu il plaisoit a tout le mõde et n y auoit nul q̃ fust pareil a lui en nul-
-<lb corresp="#f13_z1_l32"/>le maniere du monde Cest enfant fut ne en sabarie en une uille nõ
-<lb corresp="#f13_z1_l33"/>mee panõnie Et puis fut nourry en une cite nommee papye qui est
-<lb corresp="#f13_z1_l34"/>en ytalie
-</ab>
+        <ab corresp="#f13_z1" type="MainZone"><lb corresp="#f13_z1_l1"/>gens considerãt qu il n auoiẽt pas pouoir de gẽs pour eulx deffendre<lb corresp="#f13_z1_l2"/>contre l emꝑeur se rendirent saufz leurs uies et leurs biẽs. Et quant<lb corresp="#f13_z1_l3"/>ils se furẽt renduz l emꝑeur fist prendre et lier le roy florus de hõgrie<lb corresp="#f13_z1_l4"/>et les freres aussi ⁊ les enuoya a rõme a dioclecien qui les fist mettre<lb corresp="#f13_z1_l5"/>en chartre obscure fort liez ⁊ bien gardez qu ilz ne eschappassent de la<lb corresp="#f13_z1_l6"/>prison en laq̃lle ilz furẽt lõg tẽps et tant q̃ dioclecien aduisa que le roy<lb corresp="#f13_z1_l7"/>florus et ses freres ne lui pouoient gueres nuyre puis qu ilz estoient<lb corresp="#f13_z1_l8"/>en sa prison. Si lui manda q̃ s il uouloit laisser a l empire les places<lb corresp="#f13_z1_l9"/>uilles citez ⁊ chasteaulx ⁊ q̃ d iceulx fist hõmage a l emꝑeur ⁊ en auroit<lb corresp="#f13_z1_l10"/>la souuerainete et ne seroient pas les filz appellez roys mais preuost<lb corresp="#f13_z1_l11"/>et icelle p̃uoste tiendroit de l empire, par ce les deliureroit. Lors le roy<lb corresp="#f13_z1_l12"/>florus et ses freres pour eschapper de la prison l octroyerent en ceste<lb corresp="#f13_z1_l13"/>maniere que uous auez ouy. Dont l emꝑeur en mourut depuis de<lb corresp="#f13_z1_l14"/>mauuaise mort et a tres grãt honte. Car il fut estrangle du diable cõ<lb corresp="#f13_z1_l15"/>me il est contenu es liures des empereurs de romme<hi rend="DropCapitalLine"><lb corresp="#f13_z1_l16"/>L</hi><lb corresp="#f13_z1_l17"/>ong temps ap̃s la deliurance du roy florus de hongrie mou-<lb corresp="#f13_z1_l18"/>rurent dioclecien et maximien empereurs de romme; et ap̃s<lb corresp="#f13_z1_l19"/>receut l onneur de l empire constantin deuers lequel le roy florus alla<lb corresp="#f13_z1_l20"/>et y mena florus son aisne filz qui furẽt receuz de l emꝑeur et de tous<lb corresp="#f13_z1_l21"/>les barons bien dignemẽt. Et fut l enfant florus bien loue de toute<lb corresp="#f13_z1_l22"/>la court. Si en uindrent les nouuelles a l empereur qui pour la bõte<lb corresp="#f13_z1_l23"/>de l enfant et de son lignage lui donna sa niepce a fẽme et le fist luy<lb corresp="#f13_z1_l24"/>mesmes cheualier, lui seignist l espee, lui donna l acollee et le fist pre<lb corresp="#f13_z1_l25"/>uost de hongrie cõme il auoit este ordonne a la deliurance du roy flo<lb corresp="#f13_z1_l26"/>rus. Ap̃s qu il eut este cheualier et q̃ les nopces furent faictes a grãt<lb corresp="#f13_z1_l27"/>ioye et a grant liesse s en retournerent en hongrie ou le roy florus fe-<lb corresp="#f13_z1_l28"/>stoya sa fille et son filz grãdement. Lesquelz ne furent gueres ensem<lb corresp="#f13_z1_l29"/>ble que la dame conceut ung beau filz que le pere fist nomer par son<lb corresp="#f13_z1_l30"/>nom. et eut nom florus. Lequel enfant estoit tant beau et gracieux<lb corresp="#f13_z1_l31"/>qu il plaisoit a tout le mõde et n y auoit nul q̃ fust pareil a lui en nul-<lb corresp="#f13_z1_l32"/>le maniere du monde Cest enfant fut ne en sabarie en une uille nõ<lb corresp="#f13_z1_l33"/>mee panõnie Et puis fut nourry en une cite nommee papye qui est<lb corresp="#f13_z1_l34"/>en ytalie</ab>
         <fw corresp="#f13_z6" type="QuireMarksZone"><lb corresp="#f13_z6_l1"/>a iii</fw>
         <pb corresp="#f14"/>
-        <ab corresp="#f14_z1" type="MainZone">
-<hi rend="HeadingLine"><lb corresp="#f14_z1_l1"/>⁋ Cõment sainct martin fut endoctrune par sainct paule<lb corresp="#f14_z1_l2"/>l arceuesque de constantinople en la foy catholicque.<lb corresp="#f14_z1_l3"/>Q</hi>
-<lb corresp="#f14_z1_l4"/>Uant cest enfant eut dix ans si fut tant bel que merueilles.
-<lb corresp="#f14_z1_l5"/>ne nul ne s appareilloit a lui de bonte Et combien que son pe
-<lb corresp="#f14_z1_l6"/>re fust arrien si estoit il chrestien en son cueur et fist tant que son pe-
-<lb corresp="#f14_z1_l7"/>re et sa mere luy donnerent congie pour uenir en constantinoble.
-<lb corresp="#f14_z1_l8"/>car il auoit ouy nouuelles du bon sainct paule arceuesque de constã
-<lb corresp="#f14_z1_l9"/>tinoble Et lors se partit de son pere et de sa mere et print cõge deulx
-<lb corresp="#f14_z1_l10"/>Lesquelz plourerent fort pour le departement de leur filz et le regret
-<lb corresp="#f14_z1_l11"/>toit fort la mere. Et auoit grant paour qu il eust mal. Cest enfant
-<lb corresp="#f14_z1_l12"/>fist tant par ses iournees qu il uint a constantinoble. Auquel lieu il
-<lb corresp="#f14_z1_l13"/>trouua paule l arceuesque qui le receut grandem̃t et fut bien ioyeux
-<lb corresp="#f14_z1_l14"/>de la bonne uoulente de l enfant. Et l endoctrina et enseigna en la
-<lb corresp="#f14_z1_l15"/>foy catholicque; et lui monstra tous les articles de nostre foy. lequel
-<lb corresp="#f14_z1_l16"/>estoit fort songneux d apprendre et retenir ce que sainct paule lui mõ
-<lb corresp="#f14_z1_l17"/>stroit; Si lui mua son nom de florus a martin. Le bon enfant mar-
-<lb corresp="#f14_z1_l18"/>tin ne le cela pas, aincois le dist par toute panõnie dont il fut ne cõ-
-</ab>
+        <ab corresp="#f14_z1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f14_z1_l1"/>⁋ Cõment sainct martin fut endoctrune par sainct paule<lb corresp="#f14_z1_l2"/>l arceuesque de constantinople en la foy catholicque.<lb corresp="#f14_z1_l3"/>Q</hi><lb corresp="#f14_z1_l4"/>Uant cest enfant eut dix ans si fut tant bel que merueilles.<lb corresp="#f14_z1_l5"/>ne nul ne s appareilloit a lui de bonte Et combien que son pe<lb corresp="#f14_z1_l6"/>re fust arrien si estoit il chrestien en son cueur et fist tant que son pe-<lb corresp="#f14_z1_l7"/>re et sa mere luy donnerent congie pour uenir en constantinoble.<lb corresp="#f14_z1_l8"/>car il auoit ouy nouuelles du bon sainct paule arceuesque de constã<lb corresp="#f14_z1_l9"/>tinoble Et lors se partit de son pere et de sa mere et print cõge deulx<lb corresp="#f14_z1_l10"/>Lesquelz plourerent fort pour le departement de leur filz et le regret<lb corresp="#f14_z1_l11"/>toit fort la mere. Et auoit grant paour qu il eust mal. Cest enfant<lb corresp="#f14_z1_l12"/>fist tant par ses iournees qu il uint a constantinoble. Auquel lieu il<lb corresp="#f14_z1_l13"/>trouua paule l arceuesque qui le receut grandem̃t et fut bien ioyeux<lb corresp="#f14_z1_l14"/>de la bonne uoulente de l enfant. Et l endoctrina et enseigna en la<lb corresp="#f14_z1_l15"/>foy catholicque; et lui monstra tous les articles de nostre foy. lequel<lb corresp="#f14_z1_l16"/>estoit fort songneux d apprendre et retenir ce que sainct paule lui mõ<lb corresp="#f14_z1_l17"/>stroit; Si lui mua son nom de florus a martin. Le bon enfant mar-<lb corresp="#f14_z1_l18"/>tin ne le cela pas, aincois le dist par toute panõnie dont il fut ne cõ-</ab>
         <pb corresp="#f15"/>
-        <ab corresp="#f15_z1" type="MainZone">
-<lb corresp="#f15_z1_l1"/>me uous auez ouy. Et en celle uille a eu depuis et a encores une ab-
-<lb corresp="#f15_z1_l2"/>baye de moines qͥ õt tousiours demene moult sainte uie Or fut cest
-<lb corresp="#f15_z1_l3"/>enfant martin biẽ endoctrine et enseigne par sainct paule leq̃l se hu-
-<lb corresp="#f15_z1_l4"/>milia moult fort ẽuers lui Et sachez pour uray que du iour de la pas
-<lb corresp="#f15_z1_l5"/>sion de nrẽ seigneur ihũ crist iusq̃s au iour de la natiuite du dit martĩ
-<lb corresp="#f15_z1_l6"/>auoit troys cens soixante et quatre ans. Ap̃s ce que le dit martin fut
-<lb corresp="#f15_z1_l7"/>bien enseigne et endoct̾ne par sainct paule cõme dit est, le roy florus
-<lb corresp="#f15_z1_l8"/>son ayeul ala de uie a trespas cõme uieil hõme qu il estoit. Si reuint
-<lb corresp="#f15_z1_l9"/>la terre a florus son filz qui en fut p̃uost et non pas roy cõme il auoit
-<lb corresp="#f15_z1_l10"/>este ordonne a la deliurance de son pere le roy florus Ce preuost flo-
-<lb corresp="#f15_z1_l11"/>rus gouuerna bien sa terre et maria ses freres bien grandemẽt des
-<lb corresp="#f15_z1_l12"/>quelx yssirent les sept dormãs comme dessus est dit. Ces choses fai-
-<lb corresp="#f15_z1_l13"/>ctes florus mena son filz martin a constans filz de l emꝑeur constan
-<lb corresp="#f15_z1_l14"/>tin qui regna ap̃s lui qui le receut grandement ⁊ notablemẽt ⁊ le fist
-<lb corresp="#f15_z1_l15"/>cheualier ap̃s ce qu il eut seruy cinq ans entiers. Apres ce se departit
-<lb corresp="#f15_z1_l16"/>martin de l emꝑeur et s en uint en hongrie ou il se gouuerna bien et
-<lb corresp="#f15_z1_l17"/>sainctement et seruoit dieu deuotement et se fust uoulẽtiers mis en
-<lb corresp="#f15_z1_l18"/>hermitage, mais sa ieunesse ne l eust ẽcores sceu souffrir. Tous les
-<lb corresp="#f15_z1_l19"/>iours alloit offrir au moustier et ouir la messe Ne ia ne fist ꝓmesse
-<lb corresp="#f15_z1_l20"/>a nul qu il ne lui tiensist iustement. Et quãt il auoit quelque bien il
-<lb corresp="#f15_z1_l21"/>l emploit en oeuures de charite et de misericorde. donnoit uoulen
-<lb corresp="#f15_z1_l22"/>tiers au poures. ceux qui estoient nudz reuestoit. ceulx qui estoient
-<lb corresp="#f15_z1_l23"/>prisonniers deliuoit. et ne retenoit riens que tout ne donnast aux po
-<lb corresp="#f15_z1_l24"/>ures ne iamais ne pensoit du lendemain. Pour le seruir auoit ung
-<lb corresp="#f15_z1_l25"/>ieune escuier a qui maintesfois il torchoit ses solliers et les lui ostoit
-<lb corresp="#f15_z1_l26"/>des piez ⁊ appareilloit le menger aucunes fois et n auoit que quinze
-<lb corresp="#f15_z1_l27"/>ans quant il fut fait cheualier Il estoit humble doulx et benign ⁊ cha
-<lb corresp="#f15_z1_l28"/>ritable a les cheualiers. Pacient, large, habandonne et tant que plu-
-<lb corresp="#f15_z1_l29"/>sieurs disoient qu il desseruoit mieulx auoir le nom de moyne que de
-<lb corresp="#f15_z1_l30"/>cheualier
-</ab>
+        <ab corresp="#f15_z1" type="MainZone"><lb corresp="#f15_z1_l1"/>me uous auez ouy. Et en celle uille a eu depuis et a encores une ab-<lb corresp="#f15_z1_l2"/>baye de moines qͥ õt tousiours demene moult sainte uie Or fut cest<lb corresp="#f15_z1_l3"/>enfant martin biẽ endoctrine et enseigne par sainct paule leq̃l se hu-<lb corresp="#f15_z1_l4"/>milia moult fort ẽuers lui Et sachez pour uray que du iour de la pas<lb corresp="#f15_z1_l5"/>sion de nrẽ seigneur ihũ crist iusq̃s au iour de la natiuite du dit martĩ<lb corresp="#f15_z1_l6"/>auoit troys cens soixante et quatre ans. Ap̃s ce que le dit martin fut<lb corresp="#f15_z1_l7"/>bien enseigne et endoct̾ne par sainct paule cõme dit est, le roy florus<lb corresp="#f15_z1_l8"/>son ayeul ala de uie a trespas cõme uieil hõme qu il estoit. Si reuint<lb corresp="#f15_z1_l9"/>la terre a florus son filz qui en fut p̃uost et non pas roy cõme il auoit<lb corresp="#f15_z1_l10"/>este ordonne a la deliurance de son pere le roy florus Ce preuost flo-<lb corresp="#f15_z1_l11"/>rus gouuerna bien sa terre et maria ses freres bien grandemẽt des<lb corresp="#f15_z1_l12"/>quelx yssirent les sept dormãs comme dessus est dit. Ces choses fai-<lb corresp="#f15_z1_l13"/>ctes florus mena son filz martin a constans filz de l emꝑeur constan<lb corresp="#f15_z1_l14"/>tin qui regna ap̃s lui qui le receut grandement ⁊ notablemẽt ⁊ le fist<lb corresp="#f15_z1_l15"/>cheualier ap̃s ce qu il eut seruy cinq ans entiers. Apres ce se departit<lb corresp="#f15_z1_l16"/>martin de l emꝑeur et s en uint en hongrie ou il se gouuerna bien et<lb corresp="#f15_z1_l17"/>sainctement et seruoit dieu deuotement et se fust uoulẽtiers mis en<lb corresp="#f15_z1_l18"/>hermitage, mais sa ieunesse ne l eust ẽcores sceu souffrir. Tous les<lb corresp="#f15_z1_l19"/>iours alloit offrir au moustier et ouir la messe Ne ia ne fist ꝓmesse<lb corresp="#f15_z1_l20"/>a nul qu il ne lui tiensist iustement. Et quãt il auoit quelque bien il<lb corresp="#f15_z1_l21"/>l emploit en oeuures de charite et de misericorde. donnoit uoulen<lb corresp="#f15_z1_l22"/>tiers au poures. ceux qui estoient nudz reuestoit. ceulx qui estoient<lb corresp="#f15_z1_l23"/>prisonniers deliuoit. et ne retenoit riens que tout ne donnast aux po<lb corresp="#f15_z1_l24"/>ures ne iamais ne pensoit du lendemain. Pour le seruir auoit ung<lb corresp="#f15_z1_l25"/>ieune escuier a qui maintesfois il torchoit ses solliers et les lui ostoit<lb corresp="#f15_z1_l26"/>des piez ⁊ appareilloit le menger aucunes fois et n auoit que quinze<lb corresp="#f15_z1_l27"/>ans quant il fut fait cheualier Il estoit humble doulx et benign ⁊ cha<lb corresp="#f15_z1_l28"/>ritable a les cheualiers. Pacient, large, habandonne et tant que plu-<lb corresp="#f15_z1_l29"/>sieurs disoient qu il desseruoit mieulx auoir le nom de moyne que de<lb corresp="#f15_z1_l30"/>cheualier</ab>
         <fw corresp="#f15_z2" type="QuireMarksZone"><lb corresp="#f15_z2_l1"/>a iiii</fw>
         <pb corresp="#f16"/>
-        <ab corresp="#f16_z1" type="MainZone">
-<hi rend="HeadingLine"><lb corresp="#f16_z1_l1"/>⁋ Cõment sainct martin print conge de son pere<lb corresp="#f16_z1_l2"/>et de sa mere pour uenir en france.<lb corresp="#f16_z1_l3"/>L</hi>
-<lb corresp="#f16_z1_l4"/>ors se departit de son pere ⁊ de sa mere ⁊ prĩt cõgie d eulx car il
-<lb corresp="#f16_z1_l5"/>lui prĩt uoulẽte d aler en frãce Et aĩsi q̃ luy ⁊ sõ escuier aloiẽt
-<lb corresp="#f16_z1_l6"/>par le pays Il aduĩt ung iour q̃ martin se print a pẽser en la doct̾ne q̃
-<lb corresp="#f16_z1_l7"/>le bõ hõme sainct paule lui auoit enseignee et lui souuint de dieu ⁊ cõ
-<lb corresp="#f16_z1_l8"/>mẽt sainct paule lui auoit dit qu il auoit souffert mort et passion en
-<lb corresp="#f16_z1_l9"/>l arbre de la croix Lors se descendit de son cheual et par grãt deuocion
-<lb corresp="#f16_z1_l10"/>en ayant remembrance de la saincte croix alla embrasser une grant
-<lb corresp="#f16_z1_l11"/>roche; et par la u̾tu de dieu mist ses mains dedens la dicte roche telle-
-<lb corresp="#f16_z1_l12"/>ment que les mains y parurent et y pairent encores, et en ce lieu la y
-<lb corresp="#f16_z1_l13"/>fut fõdee une eglise nommee la mesure sainct martin Et y est adue-
-<lb corresp="#f16_z1_l14"/>nu de grans miracles, car ceulx qͥ estoient malades et boutoient les
-<lb corresp="#f16_z1_l15"/>mains au lieu ou le benoist martin mist les siennes estoient gairiz.
-<lb corresp="#f16_z1_l16"/>Et pour les miracles qui y aduiennẽt ceulx du pays ont grant reue
-<lb corresp="#f16_z1_l17"/>rence a mon seigneur sainct martin. De la se partit martin et alla
-<lb corresp="#f16_z1_l18"/>tant par ses iournees qu il arriua a la cite d amiens en picardie
-</ab>
+        <ab corresp="#f16_z1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f16_z1_l1"/>⁋ Cõment sainct martin print conge de son pere<lb corresp="#f16_z1_l2"/>et de sa mere pour uenir en france.<lb corresp="#f16_z1_l3"/>L</hi><lb corresp="#f16_z1_l4"/>ors se departit de son pere ⁊ de sa mere ⁊ prĩt cõgie d eulx car il<lb corresp="#f16_z1_l5"/>lui prĩt uoulẽte d aler en frãce Et aĩsi q̃ luy ⁊ sõ escuier aloiẽt<lb corresp="#f16_z1_l6"/>par le pays Il aduĩt ung iour q̃ martin se print a pẽser en la doct̾ne q̃<lb corresp="#f16_z1_l7"/>le bõ hõme sainct paule lui auoit enseignee et lui souuint de dieu ⁊ cõ<lb corresp="#f16_z1_l8"/>mẽt sainct paule lui auoit dit qu il auoit souffert mort et passion en<lb corresp="#f16_z1_l9"/>l arbre de la croix Lors se descendit de son cheual et par grãt deuocion<lb corresp="#f16_z1_l10"/>en ayant remembrance de la saincte croix alla embrasser une grant<lb corresp="#f16_z1_l11"/>roche; et par la u̾tu de dieu mist ses mains dedens la dicte roche telle-<lb corresp="#f16_z1_l12"/>ment que les mains y parurent et y pairent encores, et en ce lieu la y<lb corresp="#f16_z1_l13"/>fut fõdee une eglise nommee la mesure sainct martin Et y est adue-<lb corresp="#f16_z1_l14"/>nu de grans miracles, car ceulx qͥ estoient malades et boutoient les<lb corresp="#f16_z1_l15"/>mains au lieu ou le benoist martin mist les siennes estoient gairiz.<lb corresp="#f16_z1_l16"/>Et pour les miracles qui y aduiennẽt ceulx du pays ont grant reue<lb corresp="#f16_z1_l17"/>rence a mon seigneur sainct martin. De la se partit martin et alla<lb corresp="#f16_z1_l18"/>tant par ses iournees qu il arriua a la cite d amiens en picardie</ab>
         <pb corresp="#f17"/>
-        <ab corresp="#f17_z1" type="MainZone">
-<hi rend="HeadingLine"><lb corresp="#f17_z1_l1"/>⁋ Cõment sainct martin auant son baptesme departit<lb corresp="#f17_z1_l2"/>son manteau au poure a la porte d amiens.</hi>
-<lb corresp="#f17_z1_l3"/>uant il fut pres de la porte pour entrer en la cite d amiẽs si en
-<lb corresp="#f17_z1_l4"/>contar une poure creature toute nue qͥ demãdoit l ausmosne
-<hi rend="DropCapitalLine"><lb corresp="#f17_z1_l5"/>Q</hi>
-<lb corresp="#f17_z1_l6"/>a ceulx qui passoiẽt par la rue Mais chñn passoit sans riens lui dõ-
-<lb corresp="#f17_z1_l7"/>ner. Sainct martin uit le poure qͥ auoit mieulx la stature d un mort
-<lb corresp="#f17_z1_l8"/>que d un uif. Lors eut pitie de lui et pensa que s il lui donnoit quelque
-<lb corresp="#f17_z1_l9"/>chose qu il feroit bien. mais il n auoit gueres que lui donner fors seu
-<lb corresp="#f17_z1_l10"/>lemẽt son manteau de cheualerie qu il portoit. Et pour ce lui couppa
-<lb corresp="#f17_z1_l11"/>de son espee la moytie de son mãteau Dont plusieurs se sõt mocquez
-<lb corresp="#f17_z1_l12"/>quãt ilz ne lui uirent que demy manteau Ẽt les aucũs en plouroiẽt
-<lb corresp="#f17_z1_l13"/>de pitie de ce qͥlz ne faisoiẽt pas le cas pareil des belles robes dont tãt
-<lb corresp="#f17_z1_l14"/>auoient en leurs maisons Et cecy est conferme a la saincte escriptu-
-<lb corresp="#f17_z1_l15"/>re qui dit que qui donne a la creature tant soit uille et meschante au
-<lb corresp="#f17_z1_l16"/>nom de dieu on le fait proprement a dieu. Martin passa oultre lui et
-<lb corresp="#f17_z1_l17"/>son escuier, et ne fist nul semblant des mocqueries du peuple, et le
-<lb corresp="#f17_z1_l18"/>loga en la cite.
-</ab>
+        <ab corresp="#f17_z1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f17_z1_l1"/>⁋ Cõment sainct martin auant son baptesme departit<lb corresp="#f17_z1_l2"/>son manteau au poure a la porte d amiens.</hi><lb corresp="#f17_z1_l3"/>uant il fut pres de la porte pour entrer en la cite d amiẽs si en<lb corresp="#f17_z1_l4"/>contar une poure creature toute nue qͥ demãdoit l ausmosne<hi rend="DropCapitalLine"><lb corresp="#f17_z1_l5"/>Q</hi><lb corresp="#f17_z1_l6"/>a ceulx qui passoiẽt par la rue Mais chñn passoit sans riens lui dõ-<lb corresp="#f17_z1_l7"/>ner. Sainct martin uit le poure qͥ auoit mieulx la stature d un mort<lb corresp="#f17_z1_l8"/>que d un uif. Lors eut pitie de lui et pensa que s il lui donnoit quelque<lb corresp="#f17_z1_l9"/>chose qu il feroit bien. mais il n auoit gueres que lui donner fors seu<lb corresp="#f17_z1_l10"/>lemẽt son manteau de cheualerie qu il portoit. Et pour ce lui couppa<lb corresp="#f17_z1_l11"/>de son espee la moytie de son mãteau Dont plusieurs se sõt mocquez<lb corresp="#f17_z1_l12"/>quãt ilz ne lui uirent que demy manteau Ẽt les aucũs en plouroiẽt<lb corresp="#f17_z1_l13"/>de pitie de ce qͥlz ne faisoiẽt pas le cas pareil des belles robes dont tãt<lb corresp="#f17_z1_l14"/>auoient en leurs maisons Et cecy est conferme a la saincte escriptu-<lb corresp="#f17_z1_l15"/>re qui dit que qui donne a la creature tant soit uille et meschante au<lb corresp="#f17_z1_l16"/>nom de dieu on le fait proprement a dieu. Martin passa oultre lui et<lb corresp="#f17_z1_l17"/>son escuier, et ne fist nul semblant des mocqueries du peuple, et le<lb corresp="#f17_z1_l18"/>loga en la cite.</ab>
         <pb corresp="#f18"/>
-        <ab corresp="#f18_z1" type="MainZone">
-<hi rend="HeadingLine"><lb corresp="#f18_z1_l1"/>⁋ Cõment la nuyt ensuiuãt sainct martin estant en son<lb corresp="#f18_z1_l2"/>lit lui apparut iesu crist uestu du manteau.<lb corresp="#f18_z1_l3"/>L</hi>
-<lb corresp="#f18_z1_l4"/>a nuyt ẽsuyuãt q̃ martĩ auoit dõne la moytie de sõ manteau
-<lb corresp="#f18_z1_l5"/>au poure; aĩsi qͥl estoit ẽdormy, nrẽ seigñr qͥ riẽs n oublie des
-<lb corresp="#f18_z1_l6"/>bñs qu õ fait en ce mõde pour l amour de luy des saĩcts cieulx s appa-
-<lb corresp="#f18_z1_l7"/>rut a lui uestu de la moytie du mãteau qͥl auoit dõne au poure et lui
-<lb corresp="#f18_z1_l8"/>dist aĩsi Martinꝰ adhuc cathecuminꝰ hac me ueste ꝯtexit C est a dire
-<lb corresp="#f18_z1_l9"/>Martin tu m as reuestu de ce uestem̃t. Martĩ en ceste uisiõ s esueilla
-<lb corresp="#f18_z1_l10"/>⁊ ap̃s qͥl fust esueille se mist a genoulx en rendãt graces a dieu. Ne õc
-<lb corresp="#f18_z1_l11"/>ques ne s en orgueillit ne ne s en uenta a nulle ꝑsonne du mõde mais
-<lb corresp="#f18_z1_l12"/>le tint secret en son cueur et se pensa a luy mesmes qu il n estoit point
-<lb corresp="#f18_z1_l13"/>baptize si dist qͥl yroit ou pays ou il auoit este nourry et ẽdoct̾ne et se
-<lb corresp="#f18_z1_l14"/>feroit baptiser ꝑ saĩct paule et iamais ne fineroit d aller tãt qͥl y
-<lb corresp="#f18_z1_l15"/>fust. ⁊ q̃ qͥ n est baptise n ẽtrera poĩt ou royaume de ꝑadis Si le partit
-<lb corresp="#f18_z1_l16"/>d amiẽs ⁊ prĩt sõ chemĩ uers sõ pays ⁊ ala tãt ꝑ les iournees qͥl arriua
-<lb corresp="#f18_z1_l17"/>ou pays ou il auoit este nourry ⁊ ẽdoct̾ne ⁊ uĩt deuers saĩct paule le bõ
-<lb corresp="#f18_z1_l18"/>arceuesq̃ de ꝯstãtinoble qͥ le receut a grãt ioye ⁊ fut moult ioyeulx de
-<lb corresp="#f18_z1_l19"/>sa uenue Si lui reqͥst martin q̃ sõ plaisir fust lui dõner baptesme
-</ab>
+        <ab corresp="#f18_z1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f18_z1_l1"/>⁋ Cõment la nuyt ensuiuãt sainct martin estant en son<lb corresp="#f18_z1_l2"/>lit lui apparut iesu crist uestu du manteau.<lb corresp="#f18_z1_l3"/>L</hi><lb corresp="#f18_z1_l4"/>a nuyt ẽsuyuãt q̃ martĩ auoit dõne la moytie de sõ manteau<lb corresp="#f18_z1_l5"/>au poure; aĩsi qͥl estoit ẽdormy, nrẽ seigñr qͥ riẽs n oublie des<lb corresp="#f18_z1_l6"/>bñs qu õ fait en ce mõde pour l amour de luy des saĩcts cieulx s appa-<lb corresp="#f18_z1_l7"/>rut a lui uestu de la moytie du mãteau qͥl auoit dõne au poure et lui<lb corresp="#f18_z1_l8"/>dist aĩsi Martinꝰ adhuc cathecuminꝰ hac me ueste ꝯtexit C est a dire<lb corresp="#f18_z1_l9"/>Martin tu m as reuestu de ce uestem̃t. Martĩ en ceste uisiõ s esueilla<lb corresp="#f18_z1_l10"/>⁊ ap̃s qͥl fust esueille se mist a genoulx en rendãt graces a dieu. Ne õc<lb corresp="#f18_z1_l11"/>ques ne s en orgueillit ne ne s en uenta a nulle ꝑsonne du mõde mais<lb corresp="#f18_z1_l12"/>le tint secret en son cueur et se pensa a luy mesmes qu il n estoit point<lb corresp="#f18_z1_l13"/>baptize si dist qͥl yroit ou pays ou il auoit este nourry et ẽdoct̾ne et se<lb corresp="#f18_z1_l14"/>feroit baptiser ꝑ saĩct paule et iamais ne fineroit d aller tãt qͥl y<lb corresp="#f18_z1_l15"/>fust. ⁊ q̃ qͥ n est baptise n ẽtrera poĩt ou royaume de ꝑadis Si le partit<lb corresp="#f18_z1_l16"/>d amiẽs ⁊ prĩt sõ chemĩ uers sõ pays ⁊ ala tãt ꝑ les iournees qͥl arriua<lb corresp="#f18_z1_l17"/>ou pays ou il auoit este nourry ⁊ ẽdoct̾ne ⁊ uĩt deuers saĩct paule le bõ<lb corresp="#f18_z1_l18"/>arceuesq̃ de ꝯstãtinoble qͥ le receut a grãt ioye ⁊ fut moult ioyeulx de<lb corresp="#f18_z1_l19"/>sa uenue Si lui reqͥst martin q̃ sõ plaisir fust lui dõner baptesme</ab>
         <pb corresp="#f19"/>
-        <ab corresp="#f19_z1" type="MainZone">
-<lb corresp="#f19_z1_l1"/>⁋ Cõmẽt saĩct paule arceuesque de cõstãtinoble
-<lb corresp="#f19_z1_l2"/>baptise mon seigneur sainct martin.
-<hi rend="DropCapitalLine"><lb corresp="#f19_z1_l3"/>S</hi>
-<lb corresp="#f19_z1_l4"/>ainct paule lui accorda ⁊ le baptisa ⁊ a celle heure n auoit mar-
-<lb corresp="#f19_z1_l5"/>tin q̃ dix huit ãs Et ap̃s qͥl fut baptise il s ẽ ꝑtit ⁊ lui pesa moult
-<lb corresp="#f19_z1_l6"/>de sõ pere ⁊ de sa mere qͥ n estoient xp̃iens ne baptisez. Mais pour le
-<lb corresp="#f19_z1_l7"/>pñt ny pouoit mettre remede. Et en ce tẽps les sarrazĩs guerroyoiẽt
-<lb corresp="#f19_z1_l8"/>fort iulien l apostat Leq̃l iulien auoit moult a faire de cheualiers Si
-<lb corresp="#f19_z1_l9"/>leur fist mander ꝑ l empire que tous uiensissent a ses souldees. Les
-<lb corresp="#f19_z1_l10"/>nouuelles en uĩdrẽt a martin si en fut moult dollant. car il auoit biẽ
-<lb corresp="#f19_z1_l11"/>sa pẽsee ailleurs. Neãtmoins le mist a la uoye ⁊ uĩt deuers l ẽꝑeur et
-<lb corresp="#f19_z1_l12"/>luy requist qu il luy uoulist dõner congie d aller esbatre. car il estoit
-<lb corresp="#f19_z1_l13"/>encores trop ieune pour batailler. Mais õcques ne lui uoulut dõner
-<lb corresp="#f19_z1_l14"/>congier ⁊ lui dist q̃ tout son fait estoit faintile ⁊ couardise ⁊ q̃ la paour
-<lb corresp="#f19_z1_l15"/>qͥl auoit lui faisoit ce faire Lors lui pria de rechief qͥl lui dõnast cõgie
-<lb corresp="#f19_z1_l16"/>car il s estoit dõne corps ⁊ ame a seruir dieu  ⁊ qͥl estoit fol de s ẽ debatre
-<lb corresp="#f19_z1_l17"/>ne ia ne cõbatroit pour lui ⁊ qͥl estoit suldoyer soubz ihũ crist. A donc
-</ab>
+        <ab corresp="#f19_z1" type="MainZone"><lb corresp="#f19_z1_l1"/>⁋ Cõmẽt saĩct paule arceuesque de cõstãtinoble<lb corresp="#f19_z1_l2"/>baptise mon seigneur sainct martin.<hi rend="DropCapitalLine"><lb corresp="#f19_z1_l3"/>S</hi><lb corresp="#f19_z1_l4"/>ainct paule lui accorda ⁊ le baptisa ⁊ a celle heure n auoit mar-<lb corresp="#f19_z1_l5"/>tin q̃ dix huit ãs Et ap̃s qͥl fut baptise il s ẽ ꝑtit ⁊ lui pesa moult<lb corresp="#f19_z1_l6"/>de sõ pere ⁊ de sa mere qͥ n estoient xp̃iens ne baptisez. Mais pour le<lb corresp="#f19_z1_l7"/>pñt ny pouoit mettre remede. Et en ce tẽps les sarrazĩs guerroyoiẽt<lb corresp="#f19_z1_l8"/>fort iulien l apostat Leq̃l iulien auoit moult a faire de cheualiers Si<lb corresp="#f19_z1_l9"/>leur fist mander ꝑ l empire que tous uiensissent a ses souldees. Les<lb corresp="#f19_z1_l10"/>nouuelles en uĩdrẽt a martin si en fut moult dollant. car il auoit biẽ<lb corresp="#f19_z1_l11"/>sa pẽsee ailleurs. Neãtmoins le mist a la uoye ⁊ uĩt deuers l ẽꝑeur et<lb corresp="#f19_z1_l12"/>luy requist qu il luy uoulist dõner congie d aller esbatre. car il estoit<lb corresp="#f19_z1_l13"/>encores trop ieune pour batailler. Mais õcques ne lui uoulut dõner<lb corresp="#f19_z1_l14"/>congier ⁊ lui dist q̃ tout son fait estoit faintile ⁊ couardise ⁊ q̃ la paour<lb corresp="#f19_z1_l15"/>qͥl auoit lui faisoit ce faire Lors lui pria de rechief qͥl lui dõnast cõgie<lb corresp="#f19_z1_l16"/>car il s estoit dõne corps ⁊ ame a seruir dieu  ⁊ qͥl estoit fol de s ẽ debatre<lb corresp="#f19_z1_l17"/>ne ia ne cõbatroit pour lui ⁊ qͥl estoit suldoyer soubz ihũ crist. A donc</ab>
       </div>
     </body>
   </text>

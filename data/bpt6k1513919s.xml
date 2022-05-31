@@ -38,7 +38,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-25"/>
+        <date when="2022-05-31"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -2567,608 +2567,88 @@
     <body>
       <div>
         <pb corresp="#f3"/>
-        <ab corresp="#f3_z1" type="MainZone">
-<hi rend="HeadingLine"><lb corresp="#f3_z1_l1"/>LLLVSTRISSIME ET REVERENDISSME.<lb corresp="#f3_z1_l2"/>A MONSEIGNEVR.<lb corresp="#f3_z1_l3"/>LAVRENS CVRSI<lb corresp="#f3_z1_l4"/>Doyen des Protonotaires Apoſtolics du nombre des<lb corresp="#f3_z1_l5"/>Participans, Referendaire de l'vne &amp; l'autre<lb corresp="#f3_z1_l6"/>Signature, Vicelegat &amp; Gouuerneur General<lb corresp="#f3_z1_l7"/>en cette Cité &amp; Legation d’Auignon, &amp; Sur-<lb corresp="#f3_z1_l8"/>Intendant General au fait des Armes pour<lb corresp="#f3_z1_l9"/>Noſtre Saint pere en cet Eſtat.<lb corresp="#f3_z1_l10"/>M</hi>
-<lb corresp="#f3_z1_l11"/>ONSEIGNEVR.
-<lb corresp="#f3_z1_l12"/>Pvis qu’il vous a pleu d’hon¬
-<lb corresp="#f3_z1_l13"/>norer noſtre Balet de voſtre pre¬
-<lb corresp="#f3_z1_l14"/>ſence autant de fois que le deſir
-<lb corresp="#f3_z1_l15"/>des Curieux nous a obligé de le
-</ab>
+        <ab corresp="#f3_z1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f3_z1_l1"/>LLLVSTRISSIME ET REVERENDISSME.<lb corresp="#f3_z1_l2"/>A MONSEIGNEVR.<lb corresp="#f3_z1_l3"/>LAVRENS CVRSI<lb corresp="#f3_z1_l4"/>Doyen des Protonotaires Apoſtolics du nombre des<lb corresp="#f3_z1_l5"/>Participans, Referendaire de l'vne &amp; l'autre<lb corresp="#f3_z1_l6"/>Signature, Vicelegat &amp; Gouuerneur General<lb corresp="#f3_z1_l7"/>en cette Cité &amp; Legation d’Auignon, &amp; Sur-<lb corresp="#f3_z1_l8"/>Intendant General au fait des Armes pour<lb corresp="#f3_z1_l9"/>Noſtre Saint pere en cet Eſtat.<lb corresp="#f3_z1_l10"/>M</hi><lb corresp="#f3_z1_l11"/>ONSEIGNEVR.<lb corresp="#f3_z1_l12"/>Pvis qu’il vous a pleu d’hon¬<lb corresp="#f3_z1_l13"/>norer noſtre Balet de voſtre pre¬<lb corresp="#f3_z1_l14"/>ſence autant de fois que le deſir<lb corresp="#f3_z1_l15"/>des Curieux nous a obligé de le</ab>
         <pb corresp="#f4"/>
-        <ab corresp="#f4_z1" type="MainZone">
-<lb corresp="#f4_z1_l1"/>danſer, &amp; leur: faire voit les merveil¬
-<lb corresp="#f4_z1_l2"/>Ieuſes decorations du Theatre, nous
-<lb corresp="#f4_z1_l3"/>auons creu d’y auoir entierement ren¬
-<lb corresp="#f4_z1_l4"/>contré voſtre ſatisfaction, &amp; que ce
-<lb corresp="#f4_z1_l5"/>diuertiſſement que nous donnions au
-<lb corresp="#f4_z1_l6"/>public, &amp; que nous prenions pour
-<lb corresp="#f4_z1_l7"/>nous meſmes, auoit eſté digne de
-<lb corresp="#f4_z1_l8"/>voſtre approbation. Ce qui nous a
-<lb corresp="#f4_z1_l9"/>donné la hardieſſe de publier ſous
-<lb corresp="#f4_z1_l10"/>voſtre Nom ſi precieux à tous les
-<lb corresp="#f4_z1_l11"/>peuples de cette Prouince, &amp; ſon ſu¬
-<lb corresp="#f4_z1_l12"/>jet &amp; ſon Œconomie pour en inſtruire
-<lb corresp="#f4_z1_l13"/>les Eſtrangers. Nous ne ſommes pas
-<lb corresp="#f4_z1_l14"/>ſortis hors des limites de voſtre Gou¬
-<lb corresp="#f4_z1_l15"/>uernement (MONSEIGNEVR) pour
-<lb corresp="#f4_z1_l16"/>former noſtre deſſein; la Fontaine de
-<lb corresp="#f4_z1_l17"/>Vaucluſe (pour qui la Nature ſem¬
-<lb corresp="#f4_z1_l18"/>ble s’eſtre ſurmontée en toutes cho¬
-<lb corresp="#f4_z1_l19"/>ſes) nous en a donné la matiere,
-<lb corresp="#f4_z1_l20"/>voſtre chere preſence nous a animez
-</ab>
+        <ab corresp="#f4_z1" type="MainZone"><lb corresp="#f4_z1_l1"/>danſer, &amp; leur: faire voit les merveil¬<lb corresp="#f4_z1_l2"/>Ieuſes decorations du Theatre, nous<lb corresp="#f4_z1_l3"/>auons creu d’y auoir entierement ren¬<lb corresp="#f4_z1_l4"/>contré voſtre ſatisfaction, &amp; que ce<lb corresp="#f4_z1_l5"/>diuertiſſement que nous donnions au<lb corresp="#f4_z1_l6"/>public, &amp; que nous prenions pour<lb corresp="#f4_z1_l7"/>nous meſmes, auoit eſté digne de<lb corresp="#f4_z1_l8"/>voſtre approbation. Ce qui nous a<lb corresp="#f4_z1_l9"/>donné la hardieſſe de publier ſous<lb corresp="#f4_z1_l10"/>voſtre Nom ſi precieux à tous les<lb corresp="#f4_z1_l11"/>peuples de cette Prouince, &amp; ſon ſu¬<lb corresp="#f4_z1_l12"/>jet &amp; ſon Œconomie pour en inſtruire<lb corresp="#f4_z1_l13"/>les Eſtrangers. Nous ne ſommes pas<lb corresp="#f4_z1_l14"/>ſortis hors des limites de voſtre Gou¬<lb corresp="#f4_z1_l15"/>uernement (MONSEIGNEVR) pour<lb corresp="#f4_z1_l16"/>former noſtre deſſein; la Fontaine de<lb corresp="#f4_z1_l17"/>Vaucluſe (pour qui la Nature ſem¬<lb corresp="#f4_z1_l18"/>ble s’eſtre ſurmontée en toutes cho¬<lb corresp="#f4_z1_l19"/>ſes) nous en a donné la matiere,<lb corresp="#f4_z1_l20"/>voſtre chere preſence nous a animez</ab>
         <fw corresp="#f4_z2" type="RunningTitleZone"><lb corresp="#f4_z2_l1"/>EPISTRE.</fw>
         <pb corresp="#f5"/>
         <fw corresp="#f5_z1" type="RunningTitleZone"><lb corresp="#f5_z1_l1"/>EPISTRE.</fw>
-        <ab corresp="#f5_z2" type="MainZone">
-<lb corresp="#f5_z2_l1"/>à l'execution, &amp; voſtre bonté nous
-<lb corresp="#f5_z2_l2"/>oblige de faire ſçauoir à tout le mon¬
-<lb corresp="#f5_z2_l3"/>de que nous ſommes,
-<hi rend="HeadingLine"><lb corresp="#f5_z2_l4"/>MONSEIGNEVR.<lb corresp="#f5_z2_l5"/>De voſtre Seigneurie IlIme<lb corresp="#f5_z2_l6"/>Les tres-humbles &amp; tres-obeïſſans<lb corresp="#f5_z2_l7"/>Seruiteurs.<lb corresp="#f5_z2_l8"/>L.N.C.A.D.L.S.D.B.</hi>
-</ab>
+        <ab corresp="#f5_z2" type="MainZone"><lb corresp="#f5_z2_l1"/>à l'execution, &amp; voſtre bonté nous<lb corresp="#f5_z2_l2"/>oblige de faire ſçauoir à tout le mon¬<lb corresp="#f5_z2_l3"/>de que nous ſommes,<hi rend="HeadingLine"><lb corresp="#f5_z2_l4"/>MONSEIGNEVR.<lb corresp="#f5_z2_l5"/>De voſtre Seigneurie IlIme<lb corresp="#f5_z2_l6"/>Les tres-humbles &amp; tres-obeïſſans<lb corresp="#f5_z2_l7"/>Seruiteurs.<lb corresp="#f5_z2_l8"/>L.N.C.A.D.L.S.D.B.</hi></ab>
         <pb corresp="#f7"/>
-        <ab corresp="#f7_z1" type="MainZone">
-<hi rend="HeadingLine"><lb corresp="#f7_z1_l1"/>LES DIVERS ENTRETIENS<lb corresp="#f7_z1_l2"/>de la Fontaine de Vaucluſe,</hi>
-<lb corresp="#f7_z1_l3"/>A Sale où à eſté dansé le Balet eſt de
-<lb corresp="#f7_z1_l4"/>dix-ſept toiſes de longueur, &amp; ſept de lar¬
-<lb corresp="#f7_z1_l5"/>geur ou enuirõ, à l’vn des bouts eſtoit eſte¬
-<lb corresp="#f7_z1_l6"/>ué vn Theatre de cinq pieds &amp; demy de
-<hi rend="DropCapitalLine"><lb corresp="#f7_z1_l7"/>L</hi>
-<lb corresp="#f7_z1_l8"/>hauteur, ſur le deuant &amp; au fonds de huit
-<lb corresp="#f7_z1_l9"/>pieds pour luy donner la pente, il auoit ſept toiſes de lar¬
-<lb corresp="#f7_z1_l10"/>geur, &amp; autant de profondeur: ſon frontiſpice eſtoit
-<lb corresp="#f7_z1_l11"/>orné de deux colomnes de chaque coſté, auec ſes baſes,
-<lb corresp="#f7_z1_l12"/>chapiteaux, friſes, &amp; corniches d’ordre Dorique: vne
-<lb corresp="#f7_z1_l13"/>grande toile où Vaucluſe eſtoit peinte, &amp; ſa fon¬
-<lb corresp="#f7_z1_l14"/>taine dans vn eſloignement, s’eſtendoit ſur le deuant
-<lb corresp="#f7_z1_l15"/>depuis la corniche iuſques à terre, de peur que les ſpecta¬
-<lb corresp="#f7_z1_l16"/>teurs ne viſſent rien iuſques au temps ordonné.
-<lb corresp="#f7_z1_l17"/>Au meſme temps qu’on voulut donner commence¬
-<lb corresp="#f7_z1_l18"/>ment au Balet &amp; que les haubois en eurent donné le
-<lb corresp="#f7_z1_l19"/>ſigne, la toile s’abatit; on vit lors vne nuit qui couuroit
-<lb corresp="#f7_z1_l20"/>toute la Scene, vn grand Ciel tout couuert d’eſtoiles ſi
-<lb corresp="#f7_z1_l21"/>brillantes qu’elles fourniſſoient aſſez de clarté pour diſ¬
-<lb corresp="#f7_z1_l22"/>cerner ſa decoration ; à ſa main gauche ce n’eſtoient
-<lb corresp="#f7_z1_l23"/>que rochers couuerts d’arbres, d’animaux, &amp; de ruiſſeaux
-<lb corresp="#f7_z1_l24"/>coulans des croupes en bas; à ſa main droite on voyoit
-</ab>
+        <ab corresp="#f7_z1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f7_z1_l1"/>LES DIVERS ENTRETIENS<lb corresp="#f7_z1_l2"/>de la Fontaine de Vaucluſe,</hi><lb corresp="#f7_z1_l3"/>A Sale où à eſté dansé le Balet eſt de<lb corresp="#f7_z1_l4"/>dix-ſept toiſes de longueur, &amp; ſept de lar¬<lb corresp="#f7_z1_l5"/>geur ou enuirõ, à l’vn des bouts eſtoit eſte¬<lb corresp="#f7_z1_l6"/>ué vn Theatre de cinq pieds &amp; demy de<hi rend="DropCapitalLine"><lb corresp="#f7_z1_l7"/>L</hi><lb corresp="#f7_z1_l8"/>hauteur, ſur le deuant &amp; au fonds de huit<lb corresp="#f7_z1_l9"/>pieds pour luy donner la pente, il auoit ſept toiſes de lar¬<lb corresp="#f7_z1_l10"/>geur, &amp; autant de profondeur: ſon frontiſpice eſtoit<lb corresp="#f7_z1_l11"/>orné de deux colomnes de chaque coſté, auec ſes baſes,<lb corresp="#f7_z1_l12"/>chapiteaux, friſes, &amp; corniches d’ordre Dorique: vne<lb corresp="#f7_z1_l13"/>grande toile où Vaucluſe eſtoit peinte, &amp; ſa fon¬<lb corresp="#f7_z1_l14"/>taine dans vn eſloignement, s’eſtendoit ſur le deuant<lb corresp="#f7_z1_l15"/>depuis la corniche iuſques à terre, de peur que les ſpecta¬<lb corresp="#f7_z1_l16"/>teurs ne viſſent rien iuſques au temps ordonné.<lb corresp="#f7_z1_l17"/>Au meſme temps qu’on voulut donner commence¬<lb corresp="#f7_z1_l18"/>ment au Balet &amp; que les haubois en eurent donné le<lb corresp="#f7_z1_l19"/>ſigne, la toile s’abatit; on vit lors vne nuit qui couuroit<lb corresp="#f7_z1_l20"/>toute la Scene, vn grand Ciel tout couuert d’eſtoiles ſi<lb corresp="#f7_z1_l21"/>brillantes qu’elles fourniſſoient aſſez de clarté pour diſ¬<lb corresp="#f7_z1_l22"/>cerner ſa decoration ; à ſa main gauche ce n’eſtoient<lb corresp="#f7_z1_l23"/>que rochers couuerts d’arbres, d’animaux, &amp; de ruiſſeaux<lb corresp="#f7_z1_l24"/>coulans des croupes en bas; à ſa main droite on voyoit</ab>
         <fw corresp="#f7_z2" type="NumberingZone"><lb corresp="#f7_z2_l1"/>I</fw>
         <fw corresp="#f7_z3" type="QuireMarksZone"><lb corresp="#f7_z3_l1"/>A</fw>
         <pb corresp="#f8"/>
         <fw corresp="#f8_z1" type="NumberingZone"><lb corresp="#f8_z1_l1"/>2</fw>
         <fw corresp="#f8_z2" type="RunningTitleZone"><lb corresp="#f8_z2_l1"/>Les diuers Entretiens</fw>
-        <ab corresp="#f8_z3" type="MainZone">
-<lb corresp="#f8_z3_l1"/>ſur vne verdoyante coline vne maiſon, qui dans ſes ruis¬
-<lb corresp="#f8_z3_l2"/>nes monſtroit encore les reſtes d’vne venerable Antiqui¬
-<lb corresp="#f8_z3_l3"/>té C’eſt où l’illuſtre Petrarque auoit jadis eſtably ſa de¬
-<lb corresp="#f8_z3_l4"/>meure pour y compoſer auec plus de quietude ſes ou¬
-<lb corresp="#f8_z3_l5"/>urages merueilleux qui ont donné de l'admiration à tout
-<lb corresp="#f8_z3_l6"/>I’Vniuers, &amp; qui ſert maintenant de retraite au celebre
-<lb corresp="#f8_z3_l7"/>Magicien Argan.
-<lb corresp="#f8_z3_l8"/>Au fonds du Theatre parut vn grand rocher eſleué,
-<lb corresp="#f8_z3_l9"/>au bas duquel eſtoit la grotte de la Fontaine de Vau¬
-<lb corresp="#f8_z3_l10"/>cluſe artistement repreſentée apres l'incomparable Ori¬
-<lb corresp="#f8_z3_l11"/>ginal que la nature en a fait; dans ces rochers &amp; petites
-<lb corresp="#f8_z3_l12"/>grottes il y auoit quantité de lumieres, qui ſans eſtre
-<lb corresp="#f8_z3_l13"/>veuës faiſoient diſtinctement voir les heurts &amp; ſalies
-<lb corresp="#f8_z3_l14"/>des ruiſſeaux qui en ſortoient, &amp; repreſentoient ſi naïf¬
-<lb corresp="#f8_z3_l15"/>uement cet Element, que bien qu’il ne fut figuré qu’auec
-<lb corresp="#f8_z3_l16"/>de l’or &amp; de l'argent, ſon eſclat trompoit les veux des
-<lb corresp="#f8_z3_l17"/>ſpectateurs, &amp; faiſoit paroiſtre les ondes ſi claires &amp; ſi
-<lb corresp="#f8_z3_l18"/>naturelles, qu’ils douterent longuement ſi elles eſtoient
-<lb corresp="#f8_z3_l19"/>veritables. C’eſt enſin tout dire, quand on dit que
-<lb corresp="#f8_z3_l20"/>c’eſtoit de l'ouurage merueilleux de l’excellent Peintre
-<lb corresp="#f8_z3_l21"/>&amp; incomparable Architecte Monſieur Dominique
-<lb corresp="#f8_z3_l22"/>Bourbon de Boulogne, dont le merite ne peut eſtre
-<lb corresp="#f8_z3_l23"/>aſſez dignement loüé, ny la vertu recompenſée.
-<hi rend="HeadingLine"><lb corresp="#f8_z3_l24"/>OECONOMIE DV BALET.</hi>
-<lb corresp="#f8_z3_l25"/>ES haubois avans ceſſé, les violons donnerent
-<hi rend="DropCapitalLine"><lb corresp="#f8_z3_l26"/>L</hi>
-<lb corresp="#f8_z3_l27"/>commencement au Balet.
-<lb corresp="#f8_z3_l28"/>Vvlturne courrier major de la Renommé auec ſon
-<lb corresp="#f8_z3_l29"/>incroyable
-</ab>
+        <ab corresp="#f8_z3" type="MainZone"><lb corresp="#f8_z3_l1"/>ſur vne verdoyante coline vne maiſon, qui dans ſes ruis¬<lb corresp="#f8_z3_l2"/>nes monſtroit encore les reſtes d’vne venerable Antiqui¬<lb corresp="#f8_z3_l3"/>té C’eſt où l’illuſtre Petrarque auoit jadis eſtably ſa de¬<lb corresp="#f8_z3_l4"/>meure pour y compoſer auec plus de quietude ſes ou¬<lb corresp="#f8_z3_l5"/>urages merueilleux qui ont donné de l'admiration à tout<lb corresp="#f8_z3_l6"/>I’Vniuers, &amp; qui ſert maintenant de retraite au celebre<lb corresp="#f8_z3_l7"/>Magicien Argan.<lb corresp="#f8_z3_l8"/>Au fonds du Theatre parut vn grand rocher eſleué,<lb corresp="#f8_z3_l9"/>au bas duquel eſtoit la grotte de la Fontaine de Vau¬<lb corresp="#f8_z3_l10"/>cluſe artistement repreſentée apres l'incomparable Ori¬<lb corresp="#f8_z3_l11"/>ginal que la nature en a fait; dans ces rochers &amp; petites<lb corresp="#f8_z3_l12"/>grottes il y auoit quantité de lumieres, qui ſans eſtre<lb corresp="#f8_z3_l13"/>veuës faiſoient diſtinctement voir les heurts &amp; ſalies<lb corresp="#f8_z3_l14"/>des ruiſſeaux qui en ſortoient, &amp; repreſentoient ſi naïf¬<lb corresp="#f8_z3_l15"/>uement cet Element, que bien qu’il ne fut figuré qu’auec<lb corresp="#f8_z3_l16"/>de l’or &amp; de l'argent, ſon eſclat trompoit les veux des<lb corresp="#f8_z3_l17"/>ſpectateurs, &amp; faiſoit paroiſtre les ondes ſi claires &amp; ſi<lb corresp="#f8_z3_l18"/>naturelles, qu’ils douterent longuement ſi elles eſtoient<lb corresp="#f8_z3_l19"/>veritables. C’eſt enſin tout dire, quand on dit que<lb corresp="#f8_z3_l20"/>c’eſtoit de l'ouurage merueilleux de l’excellent Peintre<lb corresp="#f8_z3_l21"/>&amp; incomparable Architecte Monſieur Dominique<lb corresp="#f8_z3_l22"/>Bourbon de Boulogne, dont le merite ne peut eſtre<lb corresp="#f8_z3_l23"/>aſſez dignement loüé, ny la vertu recompenſée.<hi rend="HeadingLine"><lb corresp="#f8_z3_l24"/>OECONOMIE DV BALET.</hi><lb corresp="#f8_z3_l25"/>ES haubois avans ceſſé, les violons donnerent<hi rend="DropCapitalLine"><lb corresp="#f8_z3_l26"/>L</hi><lb corresp="#f8_z3_l27"/>commencement au Balet.<lb corresp="#f8_z3_l28"/>Vvlturne courrier major de la Renommé auec ſon<lb corresp="#f8_z3_l29"/>incroyable</ab>
         <pb corresp="#f9"/>
-        <ab corresp="#f9_z1" type="MainZone">
-<lb corresp="#f9_z1_l1"/>diligence fit la premiere entrée, ſemant dans la ſalle vne.
-<lb corresp="#f9_z1_l2"/>infinité de Liures, pour faire comprendre aux ſpecta¬
-<lb corresp="#f9_z1_l3"/>teurs auec plus de facilité, &amp; le ſujet, &amp; la diſpoſition
-<lb corresp="#f9_z1_l4"/>du Balet.
-<lb corresp="#f9_z1_l5"/>Deux Illuſtres Capitaines Bohemiens ayans ſçeu le
-<lb corresp="#f9_z1_l6"/>nouueau Mariage du Marquis de la Coque, &amp; de la Ba¬
-<lb corresp="#f9_z1_l7"/>rone deQuincampois, &amp; volé ſur la minuit tout ce
-<lb corresp="#f9_z1_l8"/>qu’il y auoit de plus precieux dans le Chaſteau de la
-<lb corresp="#f9_z1_l9"/>Coque, vont faire le partage de leur butin à la Fontaine
-<lb corresp="#f9_z1_l10"/>de Vaucluſe, aſſeurez d’eſtre hors de tout danger dans
-<lb corresp="#f9_z1_l11"/>cette ſolitude tenebreuſe, &amp; à ces heures induës, cha¬
-<lb corresp="#f9_z1_l12"/>cun d’eux portoit vne lanterne ſourde; de vous dire
-<lb corresp="#f9_z1_l13"/>auec quelle ſoupleſſe ils firent cette ſeconde entrée, il eſt
-<lb corresp="#f9_z1_l14"/>ſuperflus, car on ſçait par experience qu’ils ont autant
-<lb corresp="#f9_z1_l15"/>d’agilité aux pieds pour danſer, que de ſubtilité aux
-<lb corresp="#f9_z1_l16"/>mains pour voler.
-<lb corresp="#f9_z1_l17"/>Deux petites Bohemienes tendres &amp; jeunes, copies
-<lb corresp="#f9_z1_l18"/>de ces deux fameux originaux, firent voir dans la troi¬
-<lb corresp="#f9_z1_l19"/>ſiéme entrée qu’elles n’eſtoient pas nouices au meſtier
-<lb corresp="#f9_z1_l20"/>de la volerie, elles encherirent par leur danſe inimita¬
-<lb corresp="#f9_z1_l21"/>ble ſur toutes les expreſſions les plus aduantageuſes.
-<lb corresp="#f9_z1_l22"/>Deux Ardans, vapeurs nocturnes, qui n’abandon¬
-<lb corresp="#f9_z1_l23"/>nent iamais les riuieres pour y precipiter les paſſans in¬
-<lb corresp="#f9_z1_l24"/>conſiderez, la teſte couronnée d’vn feu eſbloüiſſant,
-<lb corresp="#f9_z1_l25"/>donnerent vne mortelle terreur par leur abord à nos
-<lb corresp="#f9_z1_l26"/>Voleurs, ils ſçauoient que malgré leur reſiſtance ils ſe¬
-<lb corresp="#f9_z1_l27"/>roient traiſnez par ces Spectres bruſlans dans quelque
-<lb corresp="#f9_z1_l28"/>precipice, ce qui les forca de ſe deſrober ſubtilement
-<lb corresp="#f9_z1_l29"/>A leur veuë, laiſſans faire à ces Eſprits Folets la quatriéme
-</ab>
+        <ab corresp="#f9_z1" type="MainZone"><lb corresp="#f9_z1_l1"/>diligence fit la premiere entrée, ſemant dans la ſalle vne.<lb corresp="#f9_z1_l2"/>infinité de Liures, pour faire comprendre aux ſpecta¬<lb corresp="#f9_z1_l3"/>teurs auec plus de facilité, &amp; le ſujet, &amp; la diſpoſition<lb corresp="#f9_z1_l4"/>du Balet.<lb corresp="#f9_z1_l5"/>Deux Illuſtres Capitaines Bohemiens ayans ſçeu le<lb corresp="#f9_z1_l6"/>nouueau Mariage du Marquis de la Coque, &amp; de la Ba¬<lb corresp="#f9_z1_l7"/>rone deQuincampois, &amp; volé ſur la minuit tout ce<lb corresp="#f9_z1_l8"/>qu’il y auoit de plus precieux dans le Chaſteau de la<lb corresp="#f9_z1_l9"/>Coque, vont faire le partage de leur butin à la Fontaine<lb corresp="#f9_z1_l10"/>de Vaucluſe, aſſeurez d’eſtre hors de tout danger dans<lb corresp="#f9_z1_l11"/>cette ſolitude tenebreuſe, &amp; à ces heures induës, cha¬<lb corresp="#f9_z1_l12"/>cun d’eux portoit vne lanterne ſourde; de vous dire<lb corresp="#f9_z1_l13"/>auec quelle ſoupleſſe ils firent cette ſeconde entrée, il eſt<lb corresp="#f9_z1_l14"/>ſuperflus, car on ſçait par experience qu’ils ont autant<lb corresp="#f9_z1_l15"/>d’agilité aux pieds pour danſer, que de ſubtilité aux<lb corresp="#f9_z1_l16"/>mains pour voler.<lb corresp="#f9_z1_l17"/>Deux petites Bohemienes tendres &amp; jeunes, copies<lb corresp="#f9_z1_l18"/>de ces deux fameux originaux, firent voir dans la troi¬<lb corresp="#f9_z1_l19"/>ſiéme entrée qu’elles n’eſtoient pas nouices au meſtier<lb corresp="#f9_z1_l20"/>de la volerie, elles encherirent par leur danſe inimita¬<lb corresp="#f9_z1_l21"/>ble ſur toutes les expreſſions les plus aduantageuſes.<lb corresp="#f9_z1_l22"/>Deux Ardans, vapeurs nocturnes, qui n’abandon¬<lb corresp="#f9_z1_l23"/>nent iamais les riuieres pour y precipiter les paſſans in¬<lb corresp="#f9_z1_l24"/>conſiderez, la teſte couronnée d’vn feu eſbloüiſſant,<lb corresp="#f9_z1_l25"/>donnerent vne mortelle terreur par leur abord à nos<lb corresp="#f9_z1_l26"/>Voleurs, ils ſçauoient que malgré leur reſiſtance ils ſe¬<lb corresp="#f9_z1_l27"/>roient traiſnez par ces Spectres bruſlans dans quelque<lb corresp="#f9_z1_l28"/>precipice, ce qui les forca de ſe deſrober ſubtilement<lb corresp="#f9_z1_l29"/>A leur veuë, laiſſans faire à ces Eſprits Folets la quatriéme</ab>
         <fw corresp="#f9_z2" type="RunningTitleZone"><lb corresp="#f9_z2_l1"/>de la Fontaine de Vaucluſe.</fw>
         <fw corresp="#f9_z3" type="NumberingZone"><lb corresp="#f9_z3_l1"/>3</fw>
         <fw corresp="#f9_z4" type="QuireMarksZone"><lb corresp="#f9_z4_l1"/>B</fw>
         <pb corresp="#f10"/>
         <fw corresp="#f10_z1" type="NumberingZone"><lb corresp="#f10_z1_l1"/>4</fw>
         <fw corresp="#f10_z2" type="RunningTitleZone"><lb corresp="#f10_z2_l1"/>Les diuers Entretiens.</fw>
-        <ab corresp="#f10_z3" type="MainZone">
-<lb corresp="#f10_z3_l1"/>entrée, jugez auec quelle legereté, puis que ce ne ſont
-<lb corresp="#f10_z3_l2"/>que fantômes.
-<lb corresp="#f10_z3_l3"/>Dans les plus eſpaiſſes tenebres de la nuit, quatre
-<lb corresp="#f10_z3_l4"/>vieilles Sorcieres vont faire leur ſabat au bord de la Fon¬
-<lb corresp="#f10_z3_l5"/>taine, &amp; rendre compre de leurs mal-heureuſes opera¬
-<lb corresp="#f10_z3_l6"/>tions à celuy qui y preſide; pour faire diſcerner leur
-<lb corresp="#f10_z3_l7"/>quatriéme entrée, &amp; leur danſe contre-faite de mille
-<lb corresp="#f10_z3_l8"/>eſpouuentables grimaces, elles ne reçoiuent autre clar¬
-<lb corresp="#f10_z3_l9"/>té que celle que leut fourniſſoit vn Demon aſſis ſur le
-<lb corresp="#f10_z3_l10"/>toict d’vne maſure qui eſt tout joignant la Fontaine, de
-<lb corresp="#f10_z3_l11"/>la main, de la bouche, &amp; des yeux de ce Lutin ſortirent
-<lb corresp="#f10_z3_l12"/>de flâmes effroyables. Ce fut vn Balet de deſordre &amp;
-<lb corresp="#f10_z3_l13"/>de confuſion, puis que celuy qui les eſclairoit en eſtoit le
-<lb corresp="#f10_z3_l14"/>Pere &amp; le Couſeruateur.
-<lb corresp="#f10_z3_l15"/>La Nimphe Echo, dans le profond ſilence de la nuit,
-<lb corresp="#f10_z3_l16"/>ſe voyant oyſiue, &amp; ne ſçachant à qui parler, ny à qui
-<lb corresp="#f10_z3_l17"/>reſpondre, ſe rendit à la Fontaine, ſous l’eſpoir flateur
-<lb corresp="#f10_z3_l18"/>d’y rencontrer ſon cruel Narciſſe, qui toûjours charmé
-<lb corresp="#f10_z3_l19"/>de ſa propre beauté, pourroit eſtre venu par hazard con¬
-<lb corresp="#f10_z3_l20"/>ſulter le miroir liquide de cette belle eau, &amp; conſiderer
-<lb corresp="#f10_z3_l21"/>ce beau portrait de ſoy-méme; où ne l’ayant peu treu¬
-<lb corresp="#f10_z3_l22"/>uer elle chercha çà &amp; là cette belle fleur qui naſquit de
-<lb corresp="#f10_z3_l23"/>ſon ſang, &amp; prit naiſſance de ſa mort infortunée. Mais
-<lb corresp="#f10_z3_l24"/>le mal-heur qui la perſecute continuellement, ne luy
-<lb corresp="#f10_z3_l25"/>voulut pas donner cette ſatisfaction. Quoy que la vio¬
-<lb corresp="#f10_z3_l26"/>lence de ſa folle paſſion ne luy aye laiſſé que des os, &amp;
-<lb corresp="#f10_z3_l27"/>vne voix imparfaite, elle ne laiſſa pas de faire ſon entrée.
-<lb corresp="#f10_z3_l28"/>auſſi agreable qu’on la pouuoit deſirer; mais alors, la
-<lb corresp="#f10_z3_l29"/>clarté de la Lune commença à pouſſer ſes cornes argen¬
-</ab>
+        <ab corresp="#f10_z3" type="MainZone"><lb corresp="#f10_z3_l1"/>entrée, jugez auec quelle legereté, puis que ce ne ſont<lb corresp="#f10_z3_l2"/>que fantômes.<lb corresp="#f10_z3_l3"/>Dans les plus eſpaiſſes tenebres de la nuit, quatre<lb corresp="#f10_z3_l4"/>vieilles Sorcieres vont faire leur ſabat au bord de la Fon¬<lb corresp="#f10_z3_l5"/>taine, &amp; rendre compre de leurs mal-heureuſes opera¬<lb corresp="#f10_z3_l6"/>tions à celuy qui y preſide; pour faire diſcerner leur<lb corresp="#f10_z3_l7"/>quatriéme entrée, &amp; leur danſe contre-faite de mille<lb corresp="#f10_z3_l8"/>eſpouuentables grimaces, elles ne reçoiuent autre clar¬<lb corresp="#f10_z3_l9"/>té que celle que leut fourniſſoit vn Demon aſſis ſur le<lb corresp="#f10_z3_l10"/>toict d’vne maſure qui eſt tout joignant la Fontaine, de<lb corresp="#f10_z3_l11"/>la main, de la bouche, &amp; des yeux de ce Lutin ſortirent<lb corresp="#f10_z3_l12"/>de flâmes effroyables. Ce fut vn Balet de deſordre &amp;<lb corresp="#f10_z3_l13"/>de confuſion, puis que celuy qui les eſclairoit en eſtoit le<lb corresp="#f10_z3_l14"/>Pere &amp; le Couſeruateur.<lb corresp="#f10_z3_l15"/>La Nimphe Echo, dans le profond ſilence de la nuit,<lb corresp="#f10_z3_l16"/>ſe voyant oyſiue, &amp; ne ſçachant à qui parler, ny à qui<lb corresp="#f10_z3_l17"/>reſpondre, ſe rendit à la Fontaine, ſous l’eſpoir flateur<lb corresp="#f10_z3_l18"/>d’y rencontrer ſon cruel Narciſſe, qui toûjours charmé<lb corresp="#f10_z3_l19"/>de ſa propre beauté, pourroit eſtre venu par hazard con¬<lb corresp="#f10_z3_l20"/>ſulter le miroir liquide de cette belle eau, &amp; conſiderer<lb corresp="#f10_z3_l21"/>ce beau portrait de ſoy-méme; où ne l’ayant peu treu¬<lb corresp="#f10_z3_l22"/>uer elle chercha çà &amp; là cette belle fleur qui naſquit de<lb corresp="#f10_z3_l23"/>ſon ſang, &amp; prit naiſſance de ſa mort infortunée. Mais<lb corresp="#f10_z3_l24"/>le mal-heur qui la perſecute continuellement, ne luy<lb corresp="#f10_z3_l25"/>voulut pas donner cette ſatisfaction. Quoy que la vio¬<lb corresp="#f10_z3_l26"/>lence de ſa folle paſſion ne luy aye laiſſé que des os, &amp;<lb corresp="#f10_z3_l27"/>vne voix imparfaite, elle ne laiſſa pas de faire ſon entrée.<lb corresp="#f10_z3_l28"/>auſſi agreable qu’on la pouuoit deſirer; mais alors, la<lb corresp="#f10_z3_l29"/>clarté de la Lune commença à pouſſer ſes cornes argen¬</ab>
         <pb corresp="#f11"/>
-        <ab corresp="#f11_z1" type="MainZone">
-<lb corresp="#f11_z1_l1"/>tées ſur l'oriſon, ce qui obligea cette Amante deſolée à
-<lb corresp="#f11_z1_l2"/>ſe retirer dans ſes humides grottes, pour s’entretenir
-<lb corresp="#f11_z1_l3"/>auec ceux qui viſiteront la Fontaine ce iour là, &amp; les di¬
-<lb corresp="#f11_z1_l4"/>uertir par ſes redites continuelles.
-<hi rend="HeadingLine"><lb corresp="#f11_z1_l5"/>Ici la Lune commençea à paroiſtre.</hi>
-<lb corresp="#f11_z1_l6"/>A
-<lb corresp="#f11_z1_l7"/>V premier éclat de cette brillante Sœur du So¬
-<lb corresp="#f11_z1_l8"/>leil, le jeune Endimion vint ſaluer ſa fidelle Mai-
-<lb corresp="#f11_z1_l9"/>ſtreſſe, non plus ſur le Mont Latmie, mais ſur la deli¬
-<lb corresp="#f11_z1_l10"/>cieuſe verdure de cette Fontaine. Il ſembloit que ce bel
-<lb corresp="#f11_z1_l11"/>Aſtre de la nuit ſe fut eſtalé auec des ſoins plus empre-
-<lb corresp="#f11_z1_l12"/>ſſez, &amp; des clartez plus luminenſes que de couſtume,
-<lb corresp="#f11_z1_l13"/>pour eſclairer l'entrée de ce Berger, ſon vnique inclina¬
-<lb corresp="#f11_z1_l14"/>tion; mais il fallut bien-toſt acheuer ces mutuels entre¬
-<lb corresp="#f11_z1_l15"/>tiens, &amp; faire place au Balet des Lunatiques, qui dans la
-<lb corresp="#f11_z1_l16"/>noire humeur qui les poſſede vindrent viſiter la Fontai¬
-<lb corresp="#f11_z1_l17"/>ne, ſous la brune clarté de la Lune, de laquelle ils por¬
-<lb corresp="#f11_z1_l18"/>tent chacun vn quartier dans la teſte.
-<lb corresp="#f11_z1_l19"/>Premierement on vit ſortir vne femme de la plus hau.
-<lb corresp="#f11_z1_l20"/>te taille, maigre &amp; deſcharnée, les yeux haues, &amp; le teint
-<lb corresp="#f11_z1_l21"/>liuide. Ce fut la Melancolie, liberale diſpenſatrice des
-<lb corresp="#f11_z1_l22"/>inſlüances de cette inegale Déeſſe, elle portoit vn flam¬
-<lb corresp="#f11_z1_l23"/>beau d’vne main, &amp; vn licol de l'autre, ordinaire me¬
-<lb corresp="#f11_z1_l24"/>decine pour la gueriſon de ſes ſuppoſts deſeſperez; à ſa
-<lb corresp="#f11_z1_l25"/>ſuite venoit vn Courtiſan endebté, portant vne liaſſe
-<lb corresp="#f11_z1_l26"/>de Requeſtes, de Saufconduits, &amp; de Prorogations, vn
-<lb corresp="#f11_z1_l27"/>vſurier auaricieux, vn trébuchet à la main, vn Mathe¬
-<lb corresp="#f11_z1_l28"/>maticien auec vn plobe; &amp; vn Alchimiſte coiſſé de la
-<lb corresp="#f11_z1_l29"/>chape d’vn alembic; l’air, la danſe, &amp; les figures de cete
-</ab>
+        <ab corresp="#f11_z1" type="MainZone"><lb corresp="#f11_z1_l1"/>tées ſur l'oriſon, ce qui obligea cette Amante deſolée à<lb corresp="#f11_z1_l2"/>ſe retirer dans ſes humides grottes, pour s’entretenir<lb corresp="#f11_z1_l3"/>auec ceux qui viſiteront la Fontaine ce iour là, &amp; les di¬<lb corresp="#f11_z1_l4"/>uertir par ſes redites continuelles.<hi rend="HeadingLine"><lb corresp="#f11_z1_l5"/>Ici la Lune commençea à paroiſtre.</hi><lb corresp="#f11_z1_l6"/>A<lb corresp="#f11_z1_l7"/>V premier éclat de cette brillante Sœur du So¬<lb corresp="#f11_z1_l8"/>leil, le jeune Endimion vint ſaluer ſa fidelle Mai-<lb corresp="#f11_z1_l9"/>ſtreſſe, non plus ſur le Mont Latmie, mais ſur la deli¬<lb corresp="#f11_z1_l10"/>cieuſe verdure de cette Fontaine. Il ſembloit que ce bel<lb corresp="#f11_z1_l11"/>Aſtre de la nuit ſe fut eſtalé auec des ſoins plus empre-<lb corresp="#f11_z1_l12"/>ſſez, &amp; des clartez plus luminenſes que de couſtume,<lb corresp="#f11_z1_l13"/>pour eſclairer l'entrée de ce Berger, ſon vnique inclina¬<lb corresp="#f11_z1_l14"/>tion; mais il fallut bien-toſt acheuer ces mutuels entre¬<lb corresp="#f11_z1_l15"/>tiens, &amp; faire place au Balet des Lunatiques, qui dans la<lb corresp="#f11_z1_l16"/>noire humeur qui les poſſede vindrent viſiter la Fontai¬<lb corresp="#f11_z1_l17"/>ne, ſous la brune clarté de la Lune, de laquelle ils por¬<lb corresp="#f11_z1_l18"/>tent chacun vn quartier dans la teſte.<lb corresp="#f11_z1_l19"/>Premierement on vit ſortir vne femme de la plus hau.<lb corresp="#f11_z1_l20"/>te taille, maigre &amp; deſcharnée, les yeux haues, &amp; le teint<lb corresp="#f11_z1_l21"/>liuide. Ce fut la Melancolie, liberale diſpenſatrice des<lb corresp="#f11_z1_l22"/>inſlüances de cette inegale Déeſſe, elle portoit vn flam¬<lb corresp="#f11_z1_l23"/>beau d’vne main, &amp; vn licol de l'autre, ordinaire me¬<lb corresp="#f11_z1_l24"/>decine pour la gueriſon de ſes ſuppoſts deſeſperez; à ſa<lb corresp="#f11_z1_l25"/>ſuite venoit vn Courtiſan endebté, portant vne liaſſe<lb corresp="#f11_z1_l26"/>de Requeſtes, de Saufconduits, &amp; de Prorogations, vn<lb corresp="#f11_z1_l27"/>vſurier auaricieux, vn trébuchet à la main, vn Mathe¬<lb corresp="#f11_z1_l28"/>maticien auec vn plobe; &amp; vn Alchimiſte coiſſé de la<lb corresp="#f11_z1_l29"/>chape d’vn alembic; l’air, la danſe, &amp; les figures de cete</ab>
         <fw corresp="#f11_z3" type="NumberingZone"><lb corresp="#f11_z3_l1"/>5</fw>
         <fw corresp="#f11_z4" type="RunningTitleZone"><lb corresp="#f11_z4_l1"/>de la Fontaine de Vaucluſe.</fw>
         <fw corresp="#f11_z5" type="QuireMarksZone"><lb corresp="#f11_z5_l1"/>B 2</fw>
         <pb corresp="#f12"/>
-        <ab corresp="#f12_z1" type="MainZone">
-<lb corresp="#f12_z1_l1"/>entrée ſirent voir vne ſi profonde melancolie, qu’il ſem¬
-<lb corresp="#f12_z1_l2"/>bla que la ſin du Balet deuoit eſtre celle de leur vie. il
-<lb corresp="#f12_z1_l3"/>s’acheua pourtant, car la rouge Fourriere du iour diſſi¬
-<lb corresp="#f12_z1_l4"/>pant les moites clartez de la Lune, s’apreſtoit à faire
-<lb corresp="#f12_z1_l5"/>Voir les ſiennes, &amp; donner la chaſſe à ces Lunatiques,
-<lb corresp="#f12_z1_l6"/>qui ſuiuirent cet Aſtre qui les predomine.
-<hi rend="HeadingLine"><lb corresp="#f12_z1_l7"/>Icy la Lune ſe perdit, auec les Estoile, et du coſté de l'Orient<lb corresp="#f12_z1_l8"/>quelques ranons d’vne clarté moderée ſe firent voir ſur<lb corresp="#f12_z1_l9"/>l’Oriſon, donnans à la Scene autant de lumiere que la<lb corresp="#f12_z1_l10"/>pointe du iour en peut fournir, &amp; faire plus claire¬<lb corresp="#f12_z1_l11"/>ment diſcerner ſa decoration.</hi>
-<lb corresp="#f12_z1_l12"/>'Aurore ayant depuis long temps donné le rende¬
-<lb corresp="#f12_z1_l13"/>L
-<lb corresp="#f12_z1_l14"/>vous à Cephale dans la grotte de la Fontaine de¬
-<lb corresp="#f12_z1_l15"/>Vaucluſe,pour gouſter dans cette fraicheur des felicitez
-<lb corresp="#f12_z1_l16"/>innocentes, aprehendant la venuë du Soleil, qui n’arreſte
-<lb corresp="#f12_z1_l17"/>iamais dans ſa courſe, fit auec luy ſon entrée, auec des
-<lb corresp="#f12_z1_l18"/>pas maieſtueux, &amp; des mouuemens qui exprimoient
-<lb corresp="#f12_z1_l19"/>naïfuement la paſſion qu’elle a pour ce beau Chaſſeur,
-<lb corresp="#f12_z1_l20"/>&amp; le deſplaiſir de le quiter; apres donques les mutuels
-<lb corresp="#f12_z1_l21"/>témoignages d’vn reciproque contentement, elle s’en
-<lb corresp="#f12_z1_l22"/>alla, portée ſur vne nuée, annoncer dans le Ciel la ve¬
-<lb corresp="#f12_z1_l23"/>nuë du grand Aſtre du iour, &amp; laiſſa cet Amant affligé
-<lb corresp="#f12_z1_l24"/>en des tenebres inconſolables, tandis qu’elle alloit éclai¬
-<lb corresp="#f12_z1_l25"/>rer tout l'Vniuers.
-<lb corresp="#f12_z1_l26"/>Ouatre Fées, Gardiennes ordinaires de la Fontaine,
-<lb corresp="#f12_z1_l27"/>tirans des premiers ravons de l’Aurore les infaillibles
-<lb corresp="#f12_z1_l28"/>conjectures de la beauté du jour, &amp; preuoyans aſſeure¬
-<lb corresp="#f12_z1_l29"/>ment que quantité de Curieux s’y viendroient diuertir,
-</ab>
+        <ab corresp="#f12_z1" type="MainZone"><lb corresp="#f12_z1_l1"/>entrée ſirent voir vne ſi profonde melancolie, qu’il ſem¬<lb corresp="#f12_z1_l2"/>bla que la ſin du Balet deuoit eſtre celle de leur vie. il<lb corresp="#f12_z1_l3"/>s’acheua pourtant, car la rouge Fourriere du iour diſſi¬<lb corresp="#f12_z1_l4"/>pant les moites clartez de la Lune, s’apreſtoit à faire<lb corresp="#f12_z1_l5"/>Voir les ſiennes, &amp; donner la chaſſe à ces Lunatiques,<lb corresp="#f12_z1_l6"/>qui ſuiuirent cet Aſtre qui les predomine.<hi rend="HeadingLine"><lb corresp="#f12_z1_l7"/>Icy la Lune ſe perdit, auec les Estoile, et du coſté de l'Orient<lb corresp="#f12_z1_l8"/>quelques ranons d’vne clarté moderée ſe firent voir ſur<lb corresp="#f12_z1_l9"/>l’Oriſon, donnans à la Scene autant de lumiere que la<lb corresp="#f12_z1_l10"/>pointe du iour en peut fournir, &amp; faire plus claire¬<lb corresp="#f12_z1_l11"/>ment diſcerner ſa decoration.</hi><lb corresp="#f12_z1_l12"/>'Aurore ayant depuis long temps donné le rende¬<lb corresp="#f12_z1_l13"/>L<lb corresp="#f12_z1_l14"/>vous à Cephale dans la grotte de la Fontaine de¬<lb corresp="#f12_z1_l15"/>Vaucluſe,pour gouſter dans cette fraicheur des felicitez<lb corresp="#f12_z1_l16"/>innocentes, aprehendant la venuë du Soleil, qui n’arreſte<lb corresp="#f12_z1_l17"/>iamais dans ſa courſe, fit auec luy ſon entrée, auec des<lb corresp="#f12_z1_l18"/>pas maieſtueux, &amp; des mouuemens qui exprimoient<lb corresp="#f12_z1_l19"/>naïfuement la paſſion qu’elle a pour ce beau Chaſſeur,<lb corresp="#f12_z1_l20"/>&amp; le deſplaiſir de le quiter; apres donques les mutuels<lb corresp="#f12_z1_l21"/>témoignages d’vn reciproque contentement, elle s’en<lb corresp="#f12_z1_l22"/>alla, portée ſur vne nuée, annoncer dans le Ciel la ve¬<lb corresp="#f12_z1_l23"/>nuë du grand Aſtre du iour, &amp; laiſſa cet Amant affligé<lb corresp="#f12_z1_l24"/>en des tenebres inconſolables, tandis qu’elle alloit éclai¬<lb corresp="#f12_z1_l25"/>rer tout l'Vniuers.<lb corresp="#f12_z1_l26"/>Ouatre Fées, Gardiennes ordinaires de la Fontaine,<lb corresp="#f12_z1_l27"/>tirans des premiers ravons de l’Aurore les infaillibles<lb corresp="#f12_z1_l28"/>conjectures de la beauté du jour, &amp; preuoyans aſſeure¬<lb corresp="#f12_z1_l29"/>ment que quantité de Curieux s’y viendroient diuertir,</ab>
         <fw corresp="#f12_z3" type="NumberingZone"><lb corresp="#f12_z3_l1"/>6</fw>
         <fw corresp="#f12_z4" type="RunningTitleZone"><lb corresp="#f12_z4_l1"/>Les diuers Entretiens</fw>
         <pb corresp="#f13"/>
         <fw corresp="#f13_z1" type="RunningTitleZone"><lb corresp="#f13_z1_l1"/>de la Fontaine de Vaucluſe.</fw>
         <fw corresp="#f13_z2" type="NumberingZone"><lb corresp="#f13_z2_l1"/>7</fw>
-        <ab corresp="#f13_z3" type="MainZone">
-<lb corresp="#f13_z3_l1"/>auec vne exacte diligence vindrent diſpoſer toutes cho¬
-<lb corresp="#f13_z3_l2"/>ſes à la commune ſatisfaction, &amp; ſans intetrompre la
-<lb corresp="#f13_z3_l3"/>meſure de leurs pas, peuplerent la Fontaine de diuers
-<lb corresp="#f13_z3_l4"/>Poiſſons, la terre de mille fleurs nouuelles, &amp; l’air d’vn
-<lb corresp="#f13_z3_l5"/>nombre infiny d’Oyſeaux; leur Balet acheué, elles ſu¬
-<lb corresp="#f13_z3_l6"/>rent donner ordre à l’entrée ſuiuante, qui fut en cette
-<lb corresp="#f13_z3_l7"/>façon.
-<lb corresp="#f13_z3_l8"/>Trois petits Zephirs ayans des aiſles à la teſte, au dos,
-<lb corresp="#f13_z3_l9"/>aux coudes, &amp; aux talons, furent enuoyez par les Fées
-<lb corresp="#f13_z3_l10"/>pour ſouffler tout le iour dans cet agreable Valon vne
-<lb corresp="#f13_z3_l11"/>douce fraicheur, &amp; temperer les ardeurs du midy par
-<lb corresp="#f13_z3_l12"/>leurs odorantes halenées. Ce fut vn Balet volant, ani¬
-<lb corresp="#f13_z3_l13"/>mé, &amp; de leur ieuneſſe, &amp; des ſoins que Flore leur Mere
-<lb corresp="#f13_z3_l14"/>a pris de les inſtruire.
-<hi rend="HeadingLine"><lb corresp="#f13_z3_l15"/>Icy le Soleil parut entierement, eſclairant toute la Scene.</hi>
-<lb corresp="#f13_z3_l16"/>N licencié en Medecine de la fameuſe Vniuerſité
-<lb corresp="#f13_z3_l17"/>de Montpellier, informé de la fertilité du lieu, &amp;
-<lb corresp="#f13_z3_l18"/>de l’abondance des herbes qui naiſſent dans cette ver¬
-<lb corresp="#f13_z3_l19"/>doyante Montagne, dont les proprietez ſont d’vn prix
-<lb corresp="#f13_z3_l20"/>ineſtimable, ſe rendit à cette Fontaine, pour arboriſer, &amp;
-<lb corresp="#f13_z3_l21"/>y faire vne ample moiſſon de ces threſors donnez par la
-<lb corresp="#f13_z3_l22"/>main de la nature; &amp; tandis que les ravons naiſſans du
-<lb corresp="#f13_z3_l23"/>Soleil beuuoient ces humides larmes, que l'Aurore com¬
-<lb corresp="#f13_z3_l24"/>me des perles liquides auoit verſé dans cet agreable Va¬
-<lb corresp="#f13_z3_l25"/>lon, il fit ſon entrée auec la diſpoſition naturelle aux
-<lb corresp="#f13_z3_l26"/>peuples de cette Prouince, &amp; ſe retira tout chargé de ces
-<lb corresp="#f13_z3_l27"/>herbes falutaires, &amp; precieuſes racines, qui donnent la
-</ab>
+        <ab corresp="#f13_z3" type="MainZone"><lb corresp="#f13_z3_l1"/>auec vne exacte diligence vindrent diſpoſer toutes cho¬<lb corresp="#f13_z3_l2"/>ſes à la commune ſatisfaction, &amp; ſans intetrompre la<lb corresp="#f13_z3_l3"/>meſure de leurs pas, peuplerent la Fontaine de diuers<lb corresp="#f13_z3_l4"/>Poiſſons, la terre de mille fleurs nouuelles, &amp; l’air d’vn<lb corresp="#f13_z3_l5"/>nombre infiny d’Oyſeaux; leur Balet acheué, elles ſu¬<lb corresp="#f13_z3_l6"/>rent donner ordre à l’entrée ſuiuante, qui fut en cette<lb corresp="#f13_z3_l7"/>façon.<lb corresp="#f13_z3_l8"/>Trois petits Zephirs ayans des aiſles à la teſte, au dos,<lb corresp="#f13_z3_l9"/>aux coudes, &amp; aux talons, furent enuoyez par les Fées<lb corresp="#f13_z3_l10"/>pour ſouffler tout le iour dans cet agreable Valon vne<lb corresp="#f13_z3_l11"/>douce fraicheur, &amp; temperer les ardeurs du midy par<lb corresp="#f13_z3_l12"/>leurs odorantes halenées. Ce fut vn Balet volant, ani¬<lb corresp="#f13_z3_l13"/>mé, &amp; de leur ieuneſſe, &amp; des ſoins que Flore leur Mere<lb corresp="#f13_z3_l14"/>a pris de les inſtruire.<hi rend="HeadingLine"><lb corresp="#f13_z3_l15"/>Icy le Soleil parut entierement, eſclairant toute la Scene.</hi><lb corresp="#f13_z3_l16"/>N licencié en Medecine de la fameuſe Vniuerſité<lb corresp="#f13_z3_l17"/>de Montpellier, informé de la fertilité du lieu, &amp;<lb corresp="#f13_z3_l18"/>de l’abondance des herbes qui naiſſent dans cette ver¬<lb corresp="#f13_z3_l19"/>doyante Montagne, dont les proprietez ſont d’vn prix<lb corresp="#f13_z3_l20"/>ineſtimable, ſe rendit à cette Fontaine, pour arboriſer, &amp;<lb corresp="#f13_z3_l21"/>y faire vne ample moiſſon de ces threſors donnez par la<lb corresp="#f13_z3_l22"/>main de la nature; &amp; tandis que les ravons naiſſans du<lb corresp="#f13_z3_l23"/>Soleil beuuoient ces humides larmes, que l'Aurore com¬<lb corresp="#f13_z3_l24"/>me des perles liquides auoit verſé dans cet agreable Va¬<lb corresp="#f13_z3_l25"/>lon, il fit ſon entrée auec la diſpoſition naturelle aux<lb corresp="#f13_z3_l26"/>peuples de cette Prouince, &amp; ſe retira tout chargé de ces<lb corresp="#f13_z3_l27"/>herbes falutaires, &amp; precieuſes racines, qui donnent la</ab>
         <fw corresp="#f13_z5" type="QuireMarksZone"><lb corresp="#f13_z5_l1"/>B3</fw>
         <pb corresp="#f14"/>
-        <ab corresp="#f14_z1" type="MainZone">
-<lb corresp="#f14_z1_l1"/>vie aux mourans, &amp; ſouuent indiſcretement ordonnées,
-<lb corresp="#f14_z1_l2"/>la mort aux viuans.
-<lb corresp="#f14_z1_l3"/>Le Marquis de la Coque, &amp; ſa chere Baronne de
-<lb corresp="#f14_z1_l4"/>Quinquampois, ſur quelque indice que deux Capitaines
-<lb corresp="#f14_z1_l5"/>Bohemiens, Voleurs de leurs ioyaux, auoient pris le
-<lb corresp="#f14_z1_l6"/>chemin de la Fontaine, &amp; ſur l’eſperance de les y ſur¬
-<lb corresp="#f14_z1_l7"/>prendre, &amp; d’en faire vne Iuſtice memorable; eſtans ar¬
-<lb corresp="#f14_z1_l8"/>riuez dans ce delicieux Valon, furent ſurpris par la me¬
-<lb corresp="#f14_z1_l9"/>Iodie des violons, qui charma ſi bien leur deſplaiſir,
-<lb corresp="#f14_z1_l10"/>qu’ayans oublié, &amp; leur perte, &amp; la vengeance reſoluë,
-<lb corresp="#f14_z1_l11"/>ils firent vne entrée auſſi croteſque en ſes pas, que bou¬
-<lb corresp="#f14_z1_l12"/>fone en ſes habits, elle finit par les témoignages d’vn
-<lb corresp="#f14_z1_l13"/>extraordinaire contentement d’auoir paru dans vn
-<lb corresp="#f14_z1_l14"/>equipage ſi ridicule, &amp; ſi extrauaguant.
-<lb corresp="#f14_z1_l15"/>Europe, la plus belle partie de l’Vniuers, ayant receu
-<lb corresp="#f14_z1_l16"/>la celebre Ambaſſade des autres trois, faite par vn San¬
-<lb corresp="#f14_z1_l17"/>jac Indien, vn Cacique Affriquain, &amp; vn Sagamos.
-<lb corresp="#f14_z1_l18"/>Ameriquain, tous deputez pour rendre à ſa Grandeur,
-<lb corresp="#f14_z1_l19"/>les deuoirs à quoy ils ſont annuellement obligez, leur
-<lb corresp="#f14_z1_l20"/>veut donner le diuertiſſement de cette miraculeuſe
-<lb corresp="#f14_z1_l21"/>Fontaine, où les ayans conduits, dans la tiſſeure du Ba¬
-<lb corresp="#f14_z1_l22"/>let elle leur fit voir toutes les raretez du lieu, &amp; com¬
-<lb corresp="#f14_z1_l23"/>me par vn prodigieux effort cette Source, qui dans ſa
-<lb corresp="#f14_z1_l24"/>baſſeſſe ſemble eſtre comme priſonniere au fonds de
-<lb corresp="#f14_z1_l25"/>Cet Abiſme beant, s’eſleue toutefois en de certains temps
-<lb corresp="#f14_z1_l26"/>auee vn orgueil ſi impetueux, qu’elle ſemble vouloir
-<lb corresp="#f14_z1_l27"/>porter ſa teſte blanchiſſante iuſques au Ciel: le Balet
-<lb corresp="#f14_z1_l28"/>finit par les admirations de ces Eſtrangers, &amp; des pro¬
-<lb corresp="#f14_z1_l29"/>teſtations à la belle Europe, que ce que la Renommée
-</ab>
+        <ab corresp="#f14_z1" type="MainZone"><lb corresp="#f14_z1_l1"/>vie aux mourans, &amp; ſouuent indiſcretement ordonnées,<lb corresp="#f14_z1_l2"/>la mort aux viuans.<lb corresp="#f14_z1_l3"/>Le Marquis de la Coque, &amp; ſa chere Baronne de<lb corresp="#f14_z1_l4"/>Quinquampois, ſur quelque indice que deux Capitaines<lb corresp="#f14_z1_l5"/>Bohemiens, Voleurs de leurs ioyaux, auoient pris le<lb corresp="#f14_z1_l6"/>chemin de la Fontaine, &amp; ſur l’eſperance de les y ſur¬<lb corresp="#f14_z1_l7"/>prendre, &amp; d’en faire vne Iuſtice memorable; eſtans ar¬<lb corresp="#f14_z1_l8"/>riuez dans ce delicieux Valon, furent ſurpris par la me¬<lb corresp="#f14_z1_l9"/>Iodie des violons, qui charma ſi bien leur deſplaiſir,<lb corresp="#f14_z1_l10"/>qu’ayans oublié, &amp; leur perte, &amp; la vengeance reſoluë,<lb corresp="#f14_z1_l11"/>ils firent vne entrée auſſi croteſque en ſes pas, que bou¬<lb corresp="#f14_z1_l12"/>fone en ſes habits, elle finit par les témoignages d’vn<lb corresp="#f14_z1_l13"/>extraordinaire contentement d’auoir paru dans vn<lb corresp="#f14_z1_l14"/>equipage ſi ridicule, &amp; ſi extrauaguant.<lb corresp="#f14_z1_l15"/>Europe, la plus belle partie de l’Vniuers, ayant receu<lb corresp="#f14_z1_l16"/>la celebre Ambaſſade des autres trois, faite par vn San¬<lb corresp="#f14_z1_l17"/>jac Indien, vn Cacique Affriquain, &amp; vn Sagamos.<lb corresp="#f14_z1_l18"/>Ameriquain, tous deputez pour rendre à ſa Grandeur,<lb corresp="#f14_z1_l19"/>les deuoirs à quoy ils ſont annuellement obligez, leur<lb corresp="#f14_z1_l20"/>veut donner le diuertiſſement de cette miraculeuſe<lb corresp="#f14_z1_l21"/>Fontaine, où les ayans conduits, dans la tiſſeure du Ba¬<lb corresp="#f14_z1_l22"/>let elle leur fit voir toutes les raretez du lieu, &amp; com¬<lb corresp="#f14_z1_l23"/>me par vn prodigieux effort cette Source, qui dans ſa<lb corresp="#f14_z1_l24"/>baſſeſſe ſemble eſtre comme priſonniere au fonds de<lb corresp="#f14_z1_l25"/>Cet Abiſme beant, s’eſleue toutefois en de certains temps<lb corresp="#f14_z1_l26"/>auee vn orgueil ſi impetueux, qu’elle ſemble vouloir<lb corresp="#f14_z1_l27"/>porter ſa teſte blanchiſſante iuſques au Ciel: le Balet<lb corresp="#f14_z1_l28"/>finit par les admirations de ces Eſtrangers, &amp; des pro¬<lb corresp="#f14_z1_l29"/>teſtations à la belle Europe, que ce que la Renommée</ab>
         <fw corresp="#f14_z2" type="NumberingZone"><lb corresp="#f14_z2_l1"/>8</fw>
         <fw corresp="#f14_z3" type="RunningTitleZone"><lb corresp="#f14_z3_l1"/>Les diuers Entretiens.</fw>
         <pb corresp="#f15"/>
-        <ab corresp="#f15_z1" type="MainZone">
-<lb corresp="#f15_z1_l1"/>en a publié dans leurs climats, eſt infiniment au deſſous
-<lb corresp="#f15_z1_l2"/>de ce qu’ils ont veu.
-<lb corresp="#f15_z1_l3"/>Philanire, Doüairiere Palatine de Scandinauie, ſous
-<lb corresp="#f15_z1_l4"/>l’habit d’vn Caualier Polonois, apres auoir roulé long-
-<lb corresp="#f15_z1_l5"/>temps pour treuuer du diuertiſſement à la melancolie
-<lb corresp="#f15_z1_l6"/>de ſon vefuage, conſideré cà &amp; là les merueilles de l’art,
-<lb corresp="#f15_z1_l7"/>viſité le fameux pont du Gar, &amp; l’Amphitheatre de
-<lb corresp="#f15_z1_l8"/>Niſmes, voulut encore ſatisfaire ſa curioſité, &amp; voir
-<lb corresp="#f15_z1_l9"/>cette incomparable merueille de la Fontaine de Vau¬
-<lb corresp="#f15_z1_l10"/>cuſe, chef-d’œuure de la Nature, dans ſon entrée elle
-<lb corresp="#f15_z1_l11"/>témoigna vne gentilleſſe toute particuliere à ſa Nation,
-<lb corresp="#f15_z1_l12"/>&amp; ſous le déguiſement d’vn homme, fit paroiſtre des
-<lb corresp="#f15_z1_l13"/>douceurs, qui ne ſont données en partage qu’au beau
-<lb corresp="#f15_z1_l14"/>Sexe.
-<hi rend="HeadingLine"><lb corresp="#f15_z1_l15"/>Icy les Violons ayans ceſſé, la Muſique de voix et d’inſtru¬<lb corresp="#f15_z1_l16"/>mens, fit vn intermede, qui fut ſuiuy d’vn Trio<lb corresp="#f15_z1_l17"/>rauiſſant, &amp; ſur ſa ſin;</hi>
-<lb corresp="#f15_z1_l18"/>'AGREABLE ſon d’vne muſete s’y fit ouyr de
-<hi rend="DropCapitalLine"><lb corresp="#f15_z1_l19"/>L</hi>
-<lb corresp="#f15_z1_l20"/>loin, ce fut Damon cheſ de tous les Bergers des
-<lb corresp="#f15_z1_l21"/>hameaux voiſins, qui deſcendant de la plus haute roche
-<lb corresp="#f15_z1_l22"/>venoit rendre les homages deus à cette Bien-factrice,
-<lb corresp="#f15_z1_l23"/>qui luy fournit dans les plus brûlantes chaleurs des re¬
-<lb corresp="#f15_z1_l24"/>medes ſi raffraichiſſans; ſous la nouuelle harmonie des
-<lb corresp="#f15_z1_l25"/>violons il fit voir qu’il auoit vn excellent genie pour la
-<lb corresp="#f15_z1_l26"/>danſe, &amp; qu’il n’auoit pas toûjours eſté nourry à la
-<lb corresp="#f15_z1_l27"/>Campagne.
-<lb corresp="#f15_z1_l28"/>Deux Eunuques, Eſclaues de l'Empereur des terres
-<lb corresp="#f15_z1_l29"/>qui ne ſont pas deſcouuertes, &amp; qui par vn fol caprice
-</ab>
+        <ab corresp="#f15_z1" type="MainZone"><lb corresp="#f15_z1_l1"/>en a publié dans leurs climats, eſt infiniment au deſſous<lb corresp="#f15_z1_l2"/>de ce qu’ils ont veu.<lb corresp="#f15_z1_l3"/>Philanire, Doüairiere Palatine de Scandinauie, ſous<lb corresp="#f15_z1_l4"/>l’habit d’vn Caualier Polonois, apres auoir roulé long-<lb corresp="#f15_z1_l5"/>temps pour treuuer du diuertiſſement à la melancolie<lb corresp="#f15_z1_l6"/>de ſon vefuage, conſideré cà &amp; là les merueilles de l’art,<lb corresp="#f15_z1_l7"/>viſité le fameux pont du Gar, &amp; l’Amphitheatre de<lb corresp="#f15_z1_l8"/>Niſmes, voulut encore ſatisfaire ſa curioſité, &amp; voir<lb corresp="#f15_z1_l9"/>cette incomparable merueille de la Fontaine de Vau¬<lb corresp="#f15_z1_l10"/>cuſe, chef-d’œuure de la Nature, dans ſon entrée elle<lb corresp="#f15_z1_l11"/>témoigna vne gentilleſſe toute particuliere à ſa Nation,<lb corresp="#f15_z1_l12"/>&amp; ſous le déguiſement d’vn homme, fit paroiſtre des<lb corresp="#f15_z1_l13"/>douceurs, qui ne ſont données en partage qu’au beau<lb corresp="#f15_z1_l14"/>Sexe.<hi rend="HeadingLine"><lb corresp="#f15_z1_l15"/>Icy les Violons ayans ceſſé, la Muſique de voix et d’inſtru¬<lb corresp="#f15_z1_l16"/>mens, fit vn intermede, qui fut ſuiuy d’vn Trio<lb corresp="#f15_z1_l17"/>rauiſſant, &amp; ſur ſa ſin;</hi><lb corresp="#f15_z1_l18"/>'AGREABLE ſon d’vne muſete s’y fit ouyr de<hi rend="DropCapitalLine"><lb corresp="#f15_z1_l19"/>L</hi><lb corresp="#f15_z1_l20"/>loin, ce fut Damon cheſ de tous les Bergers des<lb corresp="#f15_z1_l21"/>hameaux voiſins, qui deſcendant de la plus haute roche<lb corresp="#f15_z1_l22"/>venoit rendre les homages deus à cette Bien-factrice,<lb corresp="#f15_z1_l23"/>qui luy fournit dans les plus brûlantes chaleurs des re¬<lb corresp="#f15_z1_l24"/>medes ſi raffraichiſſans; ſous la nouuelle harmonie des<lb corresp="#f15_z1_l25"/>violons il fit voir qu’il auoit vn excellent genie pour la<lb corresp="#f15_z1_l26"/>danſe, &amp; qu’il n’auoit pas toûjours eſté nourry à la<lb corresp="#f15_z1_l27"/>Campagne.<lb corresp="#f15_z1_l28"/>Deux Eunuques, Eſclaues de l'Empereur des terres<lb corresp="#f15_z1_l29"/>qui ne ſont pas deſcouuertes, &amp; qui par vn fol caprice</ab>
         <fw corresp="#f15_z2" type="RunningTitleZone"><lb corresp="#f15_z2_l1"/>de la Fontaine de Vaucluſe.</fw>
         <fw corresp="#f15_z3" type="NumberingZone"><lb corresp="#f15_z3_l1"/>9</fw>
         <pb corresp="#f16"/>
-        <ab corresp="#f16_z1" type="MainZone">
-<lb corresp="#f16_z1_l1"/>de la Nature naiſſent demy blancs &amp; demy noirs, atten¬
-<lb corresp="#f16_z1_l2"/>dans la venuë de leur Maiſtre, firent vne entrée ſi diuer¬
-<lb corresp="#f16_z1_l3"/>tiſſante, auec des pas, &amp; des poſtures ſi peu connuës en
-<lb corresp="#f16_z1_l4"/>ces Regions, que les ſpectateurs reſterent dans vn ra¬
-<lb corresp="#f16_z1_l5"/>uuiſſement qu’on ne peut exprimer, qui ceſſa toutefois
-<lb corresp="#f16_z1_l6"/>par l'entrée que fit auſſi-toſt.
-<lb corresp="#f16_z1_l7"/>Le Grand &amp; inouy Pachacamas Vſapu, Empereur
-<lb corresp="#f16_z1_l8"/>des terres inconnües, &amp; de la cinquiéme partie du Mon¬
-<lb corresp="#f16_z1_l9"/>de, informé par la diligence de ſes Eſpions inconnus,
-<lb corresp="#f16_z1_l10"/>du voyage que les autres Parties ont fait à cette illuſtre
-<lb corresp="#f16_z1_l11"/>Fontaine, croyant de les y rencontrer, y arriua auec vn
-<lb corresp="#f16_z1_l12"/>equipage inconnu, &amp; digne de ſa Grandeur; l'habit
-<lb corresp="#f16_z1_l13"/>de ce Prince, ſoit par ſa richeſſe, ſoit par ſa mode.
-<lb corresp="#f16_z1_l14"/>tout à fait inconnüe dans ce Climas, donna vn merueil¬
-<lb corresp="#f16_z1_l15"/>leux diuertiſtement, &amp; brilla auec tant d’éclat, qu’il
-<lb corresp="#f16_z1_l16"/>ſembla n’eſtre venu que pour éblouyr tout l'Vniuers.
-<lb corresp="#f16_z1_l17"/>On vit apres ſur la Scene vn Chaſſeur, &amp; vn Peſcheur,
-<lb corresp="#f16_z1_l18"/>qui bien que piquez de deux differentes paſſions, &amp; ani¬
-<lb corresp="#f16_z1_l19"/>mez d’vn deſir totalement opposé, l'vn de depeupler le
-<lb corresp="#f16_z1_l20"/>Ciel de Gibier, l'autre de deſerter la Fontaine de Poiſſons,
-<lb corresp="#f16_z1_l21"/>ne laiſſerent pas dans cette contrarieté d’humeurs de
-<lb corresp="#f16_z1_l22"/>faire vn agreable acord dans leur Balet, &amp; trauailler ſui¬
-<lb corresp="#f16_z1_l23"/>uant leurs Genies, chacun à ſa tache, ſans rompre leurs
-<lb corresp="#f16_z1_l24"/>figures, qu’ils formerent auec vne iuſteſſe admirable.
-<lb corresp="#f16_z1_l25"/>Vn enfariné Plaſtrier de Veleron, &amp; deux enfumez
-<lb corresp="#f16_z1_l26"/>Charboniers de Menerbe, concourans au méme deſſein,
-<lb corresp="#f16_z1_l27"/>quoy que venans de diuerſes parts, ſe rencontrerent for¬
-<lb corresp="#f16_z1_l28"/>tuitement à la Fontaine, &amp; d’vn commun accord, pour
-<lb corresp="#f16_z1_l29"/>ne laiſſer perdre inutilement la douce harmonie des vio¬
-</ab>
+        <ab corresp="#f16_z1" type="MainZone"><lb corresp="#f16_z1_l1"/>de la Nature naiſſent demy blancs &amp; demy noirs, atten¬<lb corresp="#f16_z1_l2"/>dans la venuë de leur Maiſtre, firent vne entrée ſi diuer¬<lb corresp="#f16_z1_l3"/>tiſſante, auec des pas, &amp; des poſtures ſi peu connuës en<lb corresp="#f16_z1_l4"/>ces Regions, que les ſpectateurs reſterent dans vn ra¬<lb corresp="#f16_z1_l5"/>uuiſſement qu’on ne peut exprimer, qui ceſſa toutefois<lb corresp="#f16_z1_l6"/>par l'entrée que fit auſſi-toſt.<lb corresp="#f16_z1_l7"/>Le Grand &amp; inouy Pachacamas Vſapu, Empereur<lb corresp="#f16_z1_l8"/>des terres inconnües, &amp; de la cinquiéme partie du Mon¬<lb corresp="#f16_z1_l9"/>de, informé par la diligence de ſes Eſpions inconnus,<lb corresp="#f16_z1_l10"/>du voyage que les autres Parties ont fait à cette illuſtre<lb corresp="#f16_z1_l11"/>Fontaine, croyant de les y rencontrer, y arriua auec vn<lb corresp="#f16_z1_l12"/>equipage inconnu, &amp; digne de ſa Grandeur; l'habit<lb corresp="#f16_z1_l13"/>de ce Prince, ſoit par ſa richeſſe, ſoit par ſa mode.<lb corresp="#f16_z1_l14"/>tout à fait inconnüe dans ce Climas, donna vn merueil¬<lb corresp="#f16_z1_l15"/>leux diuertiſtement, &amp; brilla auec tant d’éclat, qu’il<lb corresp="#f16_z1_l16"/>ſembla n’eſtre venu que pour éblouyr tout l'Vniuers.<lb corresp="#f16_z1_l17"/>On vit apres ſur la Scene vn Chaſſeur, &amp; vn Peſcheur,<lb corresp="#f16_z1_l18"/>qui bien que piquez de deux differentes paſſions, &amp; ani¬<lb corresp="#f16_z1_l19"/>mez d’vn deſir totalement opposé, l'vn de depeupler le<lb corresp="#f16_z1_l20"/>Ciel de Gibier, l'autre de deſerter la Fontaine de Poiſſons,<lb corresp="#f16_z1_l21"/>ne laiſſerent pas dans cette contrarieté d’humeurs de<lb corresp="#f16_z1_l22"/>faire vn agreable acord dans leur Balet, &amp; trauailler ſui¬<lb corresp="#f16_z1_l23"/>uant leurs Genies, chacun à ſa tache, ſans rompre leurs<lb corresp="#f16_z1_l24"/>figures, qu’ils formerent auec vne iuſteſſe admirable.<lb corresp="#f16_z1_l25"/>Vn enfariné Plaſtrier de Veleron, &amp; deux enfumez<lb corresp="#f16_z1_l26"/>Charboniers de Menerbe, concourans au méme deſſein,<lb corresp="#f16_z1_l27"/>quoy que venans de diuerſes parts, ſe rencontrerent for¬<lb corresp="#f16_z1_l28"/>tuitement à la Fontaine, &amp; d’vn commun accord, pour<lb corresp="#f16_z1_l29"/>ne laiſſer perdre inutilement la douce harmonie des vio¬</ab>
         <fw corresp="#f16_z2" type="RunningTitleZone"><lb corresp="#f16_z2_l1"/>Les diuers Entretiens</fw>
         <fw corresp="#f16_z3" type="NumberingZone"><lb corresp="#f16_z3_l1"/>10</fw>
         <fw corresp="#f16_z4" type="QuireMarksZone"><lb corresp="#f16_z4_l1"/>lons</fw>
         <pb corresp="#f17"/>
         <fw corresp="#f17_z1" type="RunningTitleZone"><lb corresp="#f17_z1_l1"/>de la Fontaine de Vaucluſe.</fw>
         <fw corresp="#f17_z2" type="NumberingZone"><lb corresp="#f17_z2_l1"/>11</fw>
-        <ab corresp="#f17_z3" type="MainZone">
-<lb corresp="#f17_z3_l1"/>lons ſe diſpoſerent à faire vne entrée. Ce fut vn diuer¬
-<lb corresp="#f17_z3_l2"/>fiſſement ſans égal, dans le mélange de leurs figures,
-<lb corresp="#f17_z3_l3"/>auec quels ſoins étudiez ils éuitoient de ſe toucher, crai¬
-<lb corresp="#f17_z3_l4"/>gnans les vns de ſe noircir, &amp; l’autre de ſe blanchir:
-<lb corresp="#f17_z3_l5"/>la cadance y fut neantmoins tellement obſeruée, &amp; les
-<lb corresp="#f17_z3_l6"/>pas ſi bien meſurez, qu’on ſe laiſſa perſuader que c’e¬
-<lb corresp="#f17_z3_l7"/>ſtoient des Caualiers errans pour tromper ainſi agrea¬
-<lb corresp="#f17_z3_l8"/>blement les aſſiſtans.
-<lb corresp="#f17_z3_l9"/>Deux poëtes Drilleux, aſſez mal ſatisfaits des eaux
-<lb corresp="#f17_z3_l10"/>d’Hypocrene, &amp; de l’aſſiſtance ſi peu fauorable des
-<lb corresp="#f17_z3_l11"/>Muſes, abordent la Fontaine, ſur cette croyance qu’elle
-<lb corresp="#f17_z3_l12"/>ſçaura échaufer leur vaine iuſques alors ſi glacée; portez
-<lb corresp="#f17_z3_l13"/>auſſi de la curioſité de voir par les Magiques coniura¬
-<lb corresp="#f17_z3_l14"/>tions du Grand Argan, le diuin Petrarque, &amp; ſa belle
-<lb corresp="#f17_z3_l15"/>Laure; apres les admirations ordinaires de tous les
-<lb corresp="#f17_z3_l16"/>Curieux, &amp; qu’ils eurent acheué leur entrée, laſſez, &amp;
-<lb corresp="#f17_z3_l17"/>du long voyage, &amp; de leur danſe, ils s’allerent deſalte¬
-<lb corresp="#f17_z3_l18"/>rer dans cette viue ſource, &amp; s’y repoſer.
-<lb corresp="#f17_z3_l19"/>On vit vn moment apres ſortir vne flâme noire &amp;
-<lb corresp="#f17_z3_l20"/>énaiſſe, ſuiuie de tonerres &amp; d’éclairs, de cete Maiſon
-<lb corresp="#f17_z3_l21"/>ruinée. Argant parût incontinent ſur la porte, la teſte
-<lb corresp="#f17_z3_l22"/>en feu, vn liure à la main, vne verge de l’autre. Il a ſçeu
-<lb corresp="#f17_z3_l23"/>par ſes Demons le deſir paſſionné de ces Poëtes, ce qui
-<lb corresp="#f17_z3_l24"/>l’anime, pouſſé de ſon ordinaire vanité de leur faire voir
-<lb corresp="#f17_z3_l25"/>par épreuue la force de ſes enchantemens; apres, donc,
-<lb corresp="#f17_z3_l26"/>les inuocations &amp; les murmures acouſtumez, d’vn coup
-<lb corresp="#f17_z3_l27"/>de ſa verge il fit changer entierement toute la Scene. On
-<lb corresp="#f17_z3_l28"/>vit alors vne ſtrucure merueilleuſe de diuers baſti-
-<lb corresp="#f17_z3_l29"/>mens, ce ne furent que Palais enrichis de Colomnes de
-</ab>
+        <ab corresp="#f17_z3" type="MainZone"><lb corresp="#f17_z3_l1"/>lons ſe diſpoſerent à faire vne entrée. Ce fut vn diuer¬<lb corresp="#f17_z3_l2"/>fiſſement ſans égal, dans le mélange de leurs figures,<lb corresp="#f17_z3_l3"/>auec quels ſoins étudiez ils éuitoient de ſe toucher, crai¬<lb corresp="#f17_z3_l4"/>gnans les vns de ſe noircir, &amp; l’autre de ſe blanchir:<lb corresp="#f17_z3_l5"/>la cadance y fut neantmoins tellement obſeruée, &amp; les<lb corresp="#f17_z3_l6"/>pas ſi bien meſurez, qu’on ſe laiſſa perſuader que c’e¬<lb corresp="#f17_z3_l7"/>ſtoient des Caualiers errans pour tromper ainſi agrea¬<lb corresp="#f17_z3_l8"/>blement les aſſiſtans.<lb corresp="#f17_z3_l9"/>Deux poëtes Drilleux, aſſez mal ſatisfaits des eaux<lb corresp="#f17_z3_l10"/>d’Hypocrene, &amp; de l’aſſiſtance ſi peu fauorable des<lb corresp="#f17_z3_l11"/>Muſes, abordent la Fontaine, ſur cette croyance qu’elle<lb corresp="#f17_z3_l12"/>ſçaura échaufer leur vaine iuſques alors ſi glacée; portez<lb corresp="#f17_z3_l13"/>auſſi de la curioſité de voir par les Magiques coniura¬<lb corresp="#f17_z3_l14"/>tions du Grand Argan, le diuin Petrarque, &amp; ſa belle<lb corresp="#f17_z3_l15"/>Laure; apres les admirations ordinaires de tous les<lb corresp="#f17_z3_l16"/>Curieux, &amp; qu’ils eurent acheué leur entrée, laſſez, &amp;<lb corresp="#f17_z3_l17"/>du long voyage, &amp; de leur danſe, ils s’allerent deſalte¬<lb corresp="#f17_z3_l18"/>rer dans cette viue ſource, &amp; s’y repoſer.<lb corresp="#f17_z3_l19"/>On vit vn moment apres ſortir vne flâme noire &amp;<lb corresp="#f17_z3_l20"/>énaiſſe, ſuiuie de tonerres &amp; d’éclairs, de cete Maiſon<lb corresp="#f17_z3_l21"/>ruinée. Argant parût incontinent ſur la porte, la teſte<lb corresp="#f17_z3_l22"/>en feu, vn liure à la main, vne verge de l’autre. Il a ſçeu<lb corresp="#f17_z3_l23"/>par ſes Demons le deſir paſſionné de ces Poëtes, ce qui<lb corresp="#f17_z3_l24"/>l’anime, pouſſé de ſon ordinaire vanité de leur faire voir<lb corresp="#f17_z3_l25"/>par épreuue la force de ſes enchantemens; apres, donc,<lb corresp="#f17_z3_l26"/>les inuocations &amp; les murmures acouſtumez, d’vn coup<lb corresp="#f17_z3_l27"/>de ſa verge il fit changer entierement toute la Scene. On<lb corresp="#f17_z3_l28"/>vit alors vne ſtrucure merueilleuſe de diuers baſti-<lb corresp="#f17_z3_l29"/>mens, ce ne furent que Palais enrichis de Colomnes de</ab>
         <fw corresp="#f17_z4" type="QuireMarksZone"><lb corresp="#f17_z4_l1"/>c</fw>
         <pb corresp="#f18"/>
-        <ab corresp="#f18_z1" type="MainZone">
-<lb corresp="#f18_z1_l1"/>marbre &amp; de porphire, frontiſpices, &amp; autres inuen-
-<lb corresp="#f18_z1_l2"/>tions, qui ne pouuoient eſtre faites que par vn prodi¬
-<lb corresp="#f18_z1_l3"/>gieux enchantement; le tout orné de quantité de Sta¬
-<lb corresp="#f18_z1_l4"/>tuës portées ſur leurs piedeſtal, ſuiuant l'ordre de la bon¬
-<lb corresp="#f18_z1_l5"/>ne Architecture, la Perſpectiue y fut ſi religieuſement
-<lb corresp="#f18_z1_l6"/>obſeruée, qu’il ſembla à tous les plus clairvoyans ſpecta¬
-<lb corresp="#f18_z1_l7"/>teurs que la ſale ſe fut allongnée de plus de cinquante
-<lb corresp="#f18_z1_l8"/>toiſes, qui reſterent dans le deſeſpoir d’auoir eſté ſi
-<lb corresp="#f18_z1_l9"/>promptement &amp; doucement trompez, lors qu’ils pre¬
-<lb corresp="#f18_z1_l10"/>noient plus de garde de ne l'eſtre point. Il fit ſortir apres
-<lb corresp="#f18_z1_l11"/>du milieu de la Scene la gracieuſe Laure pompeuſe¬
-<lb corresp="#f18_z1_l12"/>ment veſtuë à la mode de ſon temps, d’vn coſté, &amp; Pe¬
-<lb corresp="#f18_z1_l13"/>trarque de l'autre, qui rauis de voir ce delicieux ſejour,
-<lb corresp="#f18_z1_l14"/>où jadis auec tant de quietude ils s’eſtoient communi¬
-<lb corresp="#f18_z1_l15"/>qué leurs mutueles flâmes, firent vne entrée du tout
-<lb corresp="#f18_z1_l16"/>merueilleuſe.
-<lb corresp="#f18_z1_l17"/>Les Poëtes ſurpris d’vne adventure ſi ineſperée, rom¬
-<lb corresp="#f18_z1_l18"/>pirent leur ſilence, &amp; vindrent rendre vn hommage ri¬
-<lb corresp="#f18_z1_l19"/>mé a ce Grand Fauory d’Apollon, croyans aſſeurement
-<lb corresp="#f18_z1_l20"/>que par contagion le ſouffle de ce merueilleux Poëte
-<lb corresp="#f18_z1_l21"/>leur pourroit inſpirer quelque portion de ſa Diuine.
-<lb corresp="#f18_z1_l22"/>Science. Cette entrée fut toute compoſée de figures
-<lb corresp="#f18_z1_l23"/>Poëtiques, à la fin prenans congé les vns des autres, Ar¬
-<lb corresp="#f18_z1_l24"/>gant reprit le chemin de ſa celule, Laure, &amp; petrarque
-<lb corresp="#f18_z1_l25"/>des champs Eliſées, &amp; les Poëtes partirent auſſi gelez
-<lb corresp="#f18_z1_l26"/>que le Mont Caucaſe.
-<lb corresp="#f18_z1_l27"/>Deux vieux Rabins de Pancienne Sinagogne de Car¬
-<lb corresp="#f18_z1_l28"/>pentras, reuenans d’vne Nopce, &amp; ſe treuuans recreus
-<lb corresp="#f18_z1_l29"/>de la chaleur, furent chercher du rafraichiſſement à la
-</ab>
+        <ab corresp="#f18_z1" type="MainZone"><lb corresp="#f18_z1_l1"/>marbre &amp; de porphire, frontiſpices, &amp; autres inuen-<lb corresp="#f18_z1_l2"/>tions, qui ne pouuoient eſtre faites que par vn prodi¬<lb corresp="#f18_z1_l3"/>gieux enchantement; le tout orné de quantité de Sta¬<lb corresp="#f18_z1_l4"/>tuës portées ſur leurs piedeſtal, ſuiuant l'ordre de la bon¬<lb corresp="#f18_z1_l5"/>ne Architecture, la Perſpectiue y fut ſi religieuſement<lb corresp="#f18_z1_l6"/>obſeruée, qu’il ſembla à tous les plus clairvoyans ſpecta¬<lb corresp="#f18_z1_l7"/>teurs que la ſale ſe fut allongnée de plus de cinquante<lb corresp="#f18_z1_l8"/>toiſes, qui reſterent dans le deſeſpoir d’auoir eſté ſi<lb corresp="#f18_z1_l9"/>promptement &amp; doucement trompez, lors qu’ils pre¬<lb corresp="#f18_z1_l10"/>noient plus de garde de ne l'eſtre point. Il fit ſortir apres<lb corresp="#f18_z1_l11"/>du milieu de la Scene la gracieuſe Laure pompeuſe¬<lb corresp="#f18_z1_l12"/>ment veſtuë à la mode de ſon temps, d’vn coſté, &amp; Pe¬<lb corresp="#f18_z1_l13"/>trarque de l'autre, qui rauis de voir ce delicieux ſejour,<lb corresp="#f18_z1_l14"/>où jadis auec tant de quietude ils s’eſtoient communi¬<lb corresp="#f18_z1_l15"/>qué leurs mutueles flâmes, firent vne entrée du tout<lb corresp="#f18_z1_l16"/>merueilleuſe.<lb corresp="#f18_z1_l17"/>Les Poëtes ſurpris d’vne adventure ſi ineſperée, rom¬<lb corresp="#f18_z1_l18"/>pirent leur ſilence, &amp; vindrent rendre vn hommage ri¬<lb corresp="#f18_z1_l19"/>mé a ce Grand Fauory d’Apollon, croyans aſſeurement<lb corresp="#f18_z1_l20"/>que par contagion le ſouffle de ce merueilleux Poëte<lb corresp="#f18_z1_l21"/>leur pourroit inſpirer quelque portion de ſa Diuine.<lb corresp="#f18_z1_l22"/>Science. Cette entrée fut toute compoſée de figures<lb corresp="#f18_z1_l23"/>Poëtiques, à la fin prenans congé les vns des autres, Ar¬<lb corresp="#f18_z1_l24"/>gant reprit le chemin de ſa celule, Laure, &amp; petrarque<lb corresp="#f18_z1_l25"/>des champs Eliſées, &amp; les Poëtes partirent auſſi gelez<lb corresp="#f18_z1_l26"/>que le Mont Caucaſe.<lb corresp="#f18_z1_l27"/>Deux vieux Rabins de Pancienne Sinagogne de Car¬<lb corresp="#f18_z1_l28"/>pentras, reuenans d’vne Nopce, &amp; ſe treuuans recreus<lb corresp="#f18_z1_l29"/>de la chaleur, furent chercher du rafraichiſſement à la</ab>
         <fw corresp="#f18_z2" type="RunningTitleZone"><lb corresp="#f18_z2_l1"/>Les diuers Entretiens</fw>
         <fw corresp="#f18_z3" type="NumberingZone"><lb corresp="#f18_z3_l1"/>12</fw>
         <pb corresp="#f19"/>
-        <ab corresp="#f19_z1" type="MainZone">
-<lb corresp="#f19_z1_l1"/>Fontaine: le ſon des violons les ſurprit, &amp; ſembla qu’ils
-<lb corresp="#f19_z1_l2"/>euſſent reçeu de la vertu de cette eau, ce que la Fontaine
-<lb corresp="#f19_z1_l3"/>de louuance communiquoit jadis à ceux qui s’y alloient
-<lb corresp="#f19_z1_l4"/>deſalterer. Ils firent vne entrée à l'antique, auſſi bouffone
-<lb corresp="#f19_z1_l5"/>qu’on la ſçauroit eſperer de ces Vieillards; mais dans le
-<lb corresp="#f19_z1_l6"/>plus fort empreſſement de leur Balet, ils furent arreſtez
-<lb corresp="#f19_z1_l7"/>par vn bruit confus de Chiens, &amp; de Cors de Chaſſeurs,
-<lb corresp="#f19_z1_l8"/>&amp; ce qui les mit dans vne entiere deſroute, ce fut l'abord
-<lb corresp="#f19_z1_l9"/>de deux Sangliers, l'âge caduc de ces vieux Rabins n’em¬
-<lb corresp="#f19_z1_l10"/>peſcha pas leur fuite, ayans (comme on ſçait) vne telle
-<lb corresp="#f19_z1_l11"/>auerſion de ces animaux, que meſme ils les abhorrent
-<lb corresp="#f19_z1_l12"/>ſur leur table.
-<lb corresp="#f19_z1_l13"/>Les Sangliers ayans trauerſé la Scene, vne Nymphe
-<lb corresp="#f19_z1_l14"/>d’vne Majeſté incomparable, portant vn croiſſant à la
-<lb corresp="#f19_z1_l15"/>teſte, &amp; vn arc à la main, ſe fit voir en teſte de quatre
-<lb corresp="#f19_z1_l16"/>Chaſſereſſes. Vous pouuez bien juger que c’eſtoit la
-<lb corresp="#f19_z1_l17"/>Chaſte Diane, qui ayant long-temps erré à la pourſuite
-<lb corresp="#f19_z1_l18"/>de ces deux Sangliers, vint paſſer le reſte du jour dans
-<lb corresp="#f19_z1_l19"/>cette agreable Vallée. Dés qu’elle &amp; ſes compagnes vou¬
-<lb corresp="#f19_z1_l20"/>leurent commencer leur Balet, les deux Zephyrs por¬
-<lb corresp="#f19_z1_l21"/>tans vn éuantail à chaque main, ſe vindrent mettre de
-<lb corresp="#f19_z1_l22"/>la feſte; pour les conſeruer en l’ardeur &amp; le mouuement
-<lb corresp="#f19_z1_l23"/>de leur danſe dans vne temperée fraicheur. Cette entrée
-<lb corresp="#f19_z1_l24"/>fut toute graue, toute ſerieuſe, &amp; ſi ponctuellement
-<lb corresp="#f19_z1_l25"/>ajuſtée, qu’on jugea bien que c’eſtoit l’ouurage d’vne
-<lb corresp="#f19_z1_l26"/>Déeſſe. Mais enfin le trauail de la chaſſe, ou du Balet,
-<lb corresp="#f19_z1_l27"/>les forcea à prendre du repos: Ce fut ſur le tapis verd de
-<lb corresp="#f19_z1_l28"/>ces belles ſources, où les Fées en reconnoiſſance de
-<lb corresp="#f19_z1_l29"/>Ihonneur que cette Diuinité leur faiſoit, ſans eſtre
-</ab>
+        <ab corresp="#f19_z1" type="MainZone"><lb corresp="#f19_z1_l1"/>Fontaine: le ſon des violons les ſurprit, &amp; ſembla qu’ils<lb corresp="#f19_z1_l2"/>euſſent reçeu de la vertu de cette eau, ce que la Fontaine<lb corresp="#f19_z1_l3"/>de louuance communiquoit jadis à ceux qui s’y alloient<lb corresp="#f19_z1_l4"/>deſalterer. Ils firent vne entrée à l'antique, auſſi bouffone<lb corresp="#f19_z1_l5"/>qu’on la ſçauroit eſperer de ces Vieillards; mais dans le<lb corresp="#f19_z1_l6"/>plus fort empreſſement de leur Balet, ils furent arreſtez<lb corresp="#f19_z1_l7"/>par vn bruit confus de Chiens, &amp; de Cors de Chaſſeurs,<lb corresp="#f19_z1_l8"/>&amp; ce qui les mit dans vne entiere deſroute, ce fut l'abord<lb corresp="#f19_z1_l9"/>de deux Sangliers, l'âge caduc de ces vieux Rabins n’em¬<lb corresp="#f19_z1_l10"/>peſcha pas leur fuite, ayans (comme on ſçait) vne telle<lb corresp="#f19_z1_l11"/>auerſion de ces animaux, que meſme ils les abhorrent<lb corresp="#f19_z1_l12"/>ſur leur table.<lb corresp="#f19_z1_l13"/>Les Sangliers ayans trauerſé la Scene, vne Nymphe<lb corresp="#f19_z1_l14"/>d’vne Majeſté incomparable, portant vn croiſſant à la<lb corresp="#f19_z1_l15"/>teſte, &amp; vn arc à la main, ſe fit voir en teſte de quatre<lb corresp="#f19_z1_l16"/>Chaſſereſſes. Vous pouuez bien juger que c’eſtoit la<lb corresp="#f19_z1_l17"/>Chaſte Diane, qui ayant long-temps erré à la pourſuite<lb corresp="#f19_z1_l18"/>de ces deux Sangliers, vint paſſer le reſte du jour dans<lb corresp="#f19_z1_l19"/>cette agreable Vallée. Dés qu’elle &amp; ſes compagnes vou¬<lb corresp="#f19_z1_l20"/>leurent commencer leur Balet, les deux Zephyrs por¬<lb corresp="#f19_z1_l21"/>tans vn éuantail à chaque main, ſe vindrent mettre de<lb corresp="#f19_z1_l22"/>la feſte; pour les conſeruer en l’ardeur &amp; le mouuement<lb corresp="#f19_z1_l23"/>de leur danſe dans vne temperée fraicheur. Cette entrée<lb corresp="#f19_z1_l24"/>fut toute graue, toute ſerieuſe, &amp; ſi ponctuellement<lb corresp="#f19_z1_l25"/>ajuſtée, qu’on jugea bien que c’eſtoit l’ouurage d’vne<lb corresp="#f19_z1_l26"/>Déeſſe. Mais enfin le trauail de la chaſſe, ou du Balet,<lb corresp="#f19_z1_l27"/>les forcea à prendre du repos: Ce fut ſur le tapis verd de<lb corresp="#f19_z1_l28"/>ces belles ſources, où les Fées en reconnoiſſance de<lb corresp="#f19_z1_l29"/>Ihonneur que cette Diuinité leur faiſoit, ſans eſtre</ab>
         <fw corresp="#f19_z2" type="NumberingZone"><lb corresp="#f19_z2_l1"/>13</fw>
         <fw corresp="#f19_z3" type="QuireMarksZone"><lb corresp="#f19_z3_l1"/>C</fw>
         <fw corresp="#f19_z3" type="QuireMarksZone"><lb corresp="#f19_z3_l2"/>2</fw>
         <fw corresp="#f19_z4" type="RunningTitleZone"><lb corresp="#f19_z4_l1"/>de la Fontaine de Vaucluſe.</fw>
         <pb corresp="#f20"/>
-        <ab corresp="#f20_z1" type="MainZone">
-<lb corresp="#f20_z1_l1"/>veuës, leur firent ouyr vn concert de voix, dont la me¬
-<lb corresp="#f20_z1_l2"/>lodie les porta iuſques à l’extaſe, &amp; verſant dans leurs
-<lb corresp="#f20_z1_l3"/>paupieres vne inuiſible liqueur de pauots les jetta dans
-<lb corresp="#f20_z1_l4"/>vn gracieux ſommeil.
-<lb corresp="#f20_z1_l5"/>Tandis qu’elles dormoient, quatre Ægipans, hoſtes
-<lb corresp="#f20_z1_l6"/>ſauuages de la foreſt de Saus, brûlans continuellement
-<lb corresp="#f20_z1_l7"/>d’vne ardeur brutale, &amp; ne pouuans dans les ſombres
-<lb corresp="#f20_z1_l8"/>ſolitudes des bois treuuer dequoy foulager leurs apetits
-<lb corresp="#f20_z1_l9"/>deſordonnez, furent chercher à cette Fontaine, où l’a¬
-<lb corresp="#f20_z1_l10"/>bord de tout ſexe eſt continuel, quelque ſalutaire reme¬
-<lb corresp="#f20_z1_l11"/>de, ils y arriuerent auec des mouuemens qui expri¬
-<lb corresp="#f20_z1_l12"/>moient viuement leurs folles paſſions; &amp; comme nature
-<lb corresp="#f20_z1_l13"/>leur a donné vne diſpoſition &amp; vne agilité inconceua¬
-<lb corresp="#f20_z1_l14"/>ble. Les grimaces, &amp; les poſtures de leur Balet furent
-<lb corresp="#f20_z1_l15"/>enrichies d’vne grace rauiſſante. Mais lors qu’ils furent
-<lb corresp="#f20_z1_l16"/>ſur le point de le finir, ils découurirent ces belles Dor¬
-<lb corresp="#f20_z1_l17"/>meuſes, les voir &amp; les deſirer ce ne fut qu’vne méme
-<lb corresp="#f20_z1_l18"/>choſe, &amp; ſe voyans inopinement poſſeſſeurs de ces
-<lb corresp="#f20_z1_l19"/>Beautez innocentes, ils comploterent d’en faire vne
-<lb corresp="#f20_z1_l20"/>prompte curée à leurs ſales deſirs.
-<lb corresp="#f20_z1_l21"/>Mais Diane, qui veille continuellement à la conſer¬
-<lb corresp="#f20_z1_l22"/>uation de ſes Filles, liſant dans le cœur de ces Infames
-<lb corresp="#f20_z1_l23"/>les pernicieux deſſeins qu’ils eſtoient preſts d’executer,
-<lb corresp="#f20_z1_l24"/>&amp; en aprehandant les ſuites dangereuſes, enſlâmée d’vn
-<lb corresp="#f20_z1_l25"/>iuſte courroux, s’élanca, l’arc &amp; la flache à la main, au
-<lb corresp="#f20_z1_l26"/>milieu de ces Prophanes, &amp; d’vne de ſes œillades, les
-<lb corresp="#f20_z1_l27"/>jetta dans vne telle fraveur, qu’ils furent contrains, pour
-<lb corresp="#f20_z1_l28"/>éuiter le juſte reſſentiment de cette Déeſſe, de prendre
-<lb corresp="#f20_z1_l29"/>la fuite; mais auec des cris &amp; des hurlemens ſi épouuen¬
-</ab>
+        <ab corresp="#f20_z1" type="MainZone"><lb corresp="#f20_z1_l1"/>veuës, leur firent ouyr vn concert de voix, dont la me¬<lb corresp="#f20_z1_l2"/>lodie les porta iuſques à l’extaſe, &amp; verſant dans leurs<lb corresp="#f20_z1_l3"/>paupieres vne inuiſible liqueur de pauots les jetta dans<lb corresp="#f20_z1_l4"/>vn gracieux ſommeil.<lb corresp="#f20_z1_l5"/>Tandis qu’elles dormoient, quatre Ægipans, hoſtes<lb corresp="#f20_z1_l6"/>ſauuages de la foreſt de Saus, brûlans continuellement<lb corresp="#f20_z1_l7"/>d’vne ardeur brutale, &amp; ne pouuans dans les ſombres<lb corresp="#f20_z1_l8"/>ſolitudes des bois treuuer dequoy foulager leurs apetits<lb corresp="#f20_z1_l9"/>deſordonnez, furent chercher à cette Fontaine, où l’a¬<lb corresp="#f20_z1_l10"/>bord de tout ſexe eſt continuel, quelque ſalutaire reme¬<lb corresp="#f20_z1_l11"/>de, ils y arriuerent auec des mouuemens qui expri¬<lb corresp="#f20_z1_l12"/>moient viuement leurs folles paſſions; &amp; comme nature<lb corresp="#f20_z1_l13"/>leur a donné vne diſpoſition &amp; vne agilité inconceua¬<lb corresp="#f20_z1_l14"/>ble. Les grimaces, &amp; les poſtures de leur Balet furent<lb corresp="#f20_z1_l15"/>enrichies d’vne grace rauiſſante. Mais lors qu’ils furent<lb corresp="#f20_z1_l16"/>ſur le point de le finir, ils découurirent ces belles Dor¬<lb corresp="#f20_z1_l17"/>meuſes, les voir &amp; les deſirer ce ne fut qu’vne méme<lb corresp="#f20_z1_l18"/>choſe, &amp; ſe voyans inopinement poſſeſſeurs de ces<lb corresp="#f20_z1_l19"/>Beautez innocentes, ils comploterent d’en faire vne<lb corresp="#f20_z1_l20"/>prompte curée à leurs ſales deſirs.<lb corresp="#f20_z1_l21"/>Mais Diane, qui veille continuellement à la conſer¬<lb corresp="#f20_z1_l22"/>uation de ſes Filles, liſant dans le cœur de ces Infames<lb corresp="#f20_z1_l23"/>les pernicieux deſſeins qu’ils eſtoient preſts d’executer,<lb corresp="#f20_z1_l24"/>&amp; en aprehandant les ſuites dangereuſes, enſlâmée d’vn<lb corresp="#f20_z1_l25"/>iuſte courroux, s’élanca, l’arc &amp; la flache à la main, au<lb corresp="#f20_z1_l26"/>milieu de ces Prophanes, &amp; d’vne de ſes œillades, les<lb corresp="#f20_z1_l27"/>jetta dans vne telle fraveur, qu’ils furent contrains, pour<lb corresp="#f20_z1_l28"/>éuiter le juſte reſſentiment de cette Déeſſe, de prendre<lb corresp="#f20_z1_l29"/>la fuite; mais auec des cris &amp; des hurlemens ſi épouuen¬</ab>
         <fw corresp="#f20_z2" type="RunningTitleZone"><lb corresp="#f20_z2_l1"/>Les diuers Entretiens</fw>
         <fw corresp="#f20_z3" type="NumberingZone"><lb corresp="#f20_z3_l1"/>14</fw>
         <pb corresp="#f21"/>
         <fw corresp="#f21_z1" type="RunningTitleZone"><lb corresp="#f21_z1_l1"/>de la Fontaine de Vaucluſe.</fw>
         <fw corresp="#f21_z2" type="NumberingZone"><lb corresp="#f21_z2_l1"/>15</fw>
-        <ab corresp="#f21_z3" type="MainZone">
-<lb corresp="#f21_z3_l1"/>tables, que l’eau de la Fontaine en fut troublée, &amp; les ha¬
-<lb corresp="#f21_z3_l2"/>bitans de la campagne ſi émeus, que les parties faites
-<lb corresp="#f21_z3_l3"/>pour s’aller diuertir ce iour là à la Fontaine, furent en¬
-<lb corresp="#f21_z3_l4"/>tierement rompües dans l’aprehenſion de quelque mau¬
-<lb corresp="#f21_z3_l5"/>uais rencontre: Ce qui donna fin à cette belle iournée,
-<lb corresp="#f21_z3_l6"/>&amp; en ſuite à toutes les entrées, attendant le grand Balet;
-<lb corresp="#f21_z3_l7"/>laiſſant aux aſſiſtans vne inſtruction Morale, que iamais.
-<lb corresp="#f21_z3_l8"/>le vice ne peut ſubſiſter en preſence de la Diuinité, &amp;
-<lb corresp="#f21_z3_l9"/>que l’impudicité la plus effrontée, &amp; la plus hardie de¬
-<lb corresp="#f21_z3_l10"/>uient glacée à l’aſpect d’vne veritable Chaſteté.
-<lb corresp="#f21_z3_l11"/>Douze Heros, apellez les Cheualiers de Diane, ou de
-<lb corresp="#f21_z3_l12"/>la Chaſteté, ſuiuant continuellement les traces de cette
-<lb corresp="#f21_z3_l13"/>belle Chaſſereſſe, fermerent entierement la Scene par
-<lb corresp="#f21_z3_l14"/>vn grand Balet, qui fut dansé auec toute la grace &amp; la
-<lb corresp="#f21_z3_l15"/>Juſteſſe qu’on pouuoit deſirer pour vne entiere ſatis-
-<lb corresp="#f21_z3_l16"/>faction.
-<hi rend="HeadingLine"><lb corresp="#f21_z3_l17"/>MONSIEVR DE LONGCHAMPS,<lb corresp="#f21_z3_l18"/>Repreſentant Vvlturne.</hi>
-<lb corresp="#f21_z3_l19"/>l l’on me voit ſouuent trotter,
-<lb corresp="#f21_z3_l20"/>je n’en ſuis pas pourtant volage,
-<hi rend="DropCapitalLine"><lb corresp="#f21_z3_l21"/>S</hi>
-<lb corresp="#f21_z3_l22"/>Car ie ſçay fort bien m’arreſter.
-<lb corresp="#f21_z3_l23"/>Quand ie rencontre un beau viſage.
-</ab>
+        <ab corresp="#f21_z3" type="MainZone"><lb corresp="#f21_z3_l1"/>tables, que l’eau de la Fontaine en fut troublée, &amp; les ha¬<lb corresp="#f21_z3_l2"/>bitans de la campagne ſi émeus, que les parties faites<lb corresp="#f21_z3_l3"/>pour s’aller diuertir ce iour là à la Fontaine, furent en¬<lb corresp="#f21_z3_l4"/>tierement rompües dans l’aprehenſion de quelque mau¬<lb corresp="#f21_z3_l5"/>uais rencontre: Ce qui donna fin à cette belle iournée,<lb corresp="#f21_z3_l6"/>&amp; en ſuite à toutes les entrées, attendant le grand Balet;<lb corresp="#f21_z3_l7"/>laiſſant aux aſſiſtans vne inſtruction Morale, que iamais.<lb corresp="#f21_z3_l8"/>le vice ne peut ſubſiſter en preſence de la Diuinité, &amp;<lb corresp="#f21_z3_l9"/>que l’impudicité la plus effrontée, &amp; la plus hardie de¬<lb corresp="#f21_z3_l10"/>uient glacée à l’aſpect d’vne veritable Chaſteté.<lb corresp="#f21_z3_l11"/>Douze Heros, apellez les Cheualiers de Diane, ou de<lb corresp="#f21_z3_l12"/>la Chaſteté, ſuiuant continuellement les traces de cette<lb corresp="#f21_z3_l13"/>belle Chaſſereſſe, fermerent entierement la Scene par<lb corresp="#f21_z3_l14"/>vn grand Balet, qui fut dansé auec toute la grace &amp; la<lb corresp="#f21_z3_l15"/>Juſteſſe qu’on pouuoit deſirer pour vne entiere ſatis-<lb corresp="#f21_z3_l16"/>faction.<hi rend="HeadingLine"><lb corresp="#f21_z3_l17"/>MONSIEVR DE LONGCHAMPS,<lb corresp="#f21_z3_l18"/>Repreſentant Vvlturne.</hi><lb corresp="#f21_z3_l19"/>l l’on me voit ſouuent trotter,<lb corresp="#f21_z3_l20"/>je n’en ſuis pas pourtant volage,<hi rend="DropCapitalLine"><lb corresp="#f21_z3_l21"/>S</hi><lb corresp="#f21_z3_l22"/>Car ie ſçay fort bien m’arreſter.<lb corresp="#f21_z3_l23"/>Quand ie rencontre un beau viſage.</ab>
         <fw corresp="#f21_z4" type="QuireMarksZone"><lb corresp="#f21_z4_l1"/>C 3</fw>
         <pb corresp="#f22"/>
         <fw corresp="#f22_z1" type="NumberingZone"><lb corresp="#f22_z1_l1"/>16</fw>
         <fw corresp="#f22_z2" type="RunningTitleZone"><lb corresp="#f22_z2_l1"/>Les diuers Entretiens.</fw>
-        <ab corresp="#f22_z3" type="MainZone">
-<hi rend="HeadingLine"><lb corresp="#f22_z3_l1"/>MONSIEVR DE CASTELLANE,</hi>
-<lb corresp="#f22_z3_l2"/>&amp;
-<hi rend="HeadingLine"><lb corresp="#f22_z3_l3"/>MONSIEVR DE MONTSALLIER,<lb corresp="#f22_z3_l4"/>Repreſentans les deux Bohemiens.</hi>
-<lb corresp="#f22_z3_l5"/>ARE la cœurs, gare les corps.
-<lb corresp="#f22_z3_l6"/>Nous pillons tout, par amour, ou par ruſe,
-<lb corresp="#f22_z3_l7"/>Cinq ſols qu’il ſoit dedans, cinq ſols qu’il ſoit dehors
-<lb corresp="#f22_z3_l8"/>C’eſt à quoy Melite s’amuſe,
-<lb corresp="#f22_z3_l9"/>Lors qu'elle vient s’entretenir,
-<lb corresp="#f22_z3_l10"/>Sur ce que le deſtin luy garde à l’aduenir.
-<lb corresp="#f22_z3_l11"/>Tandis qu’on luy parle d'Amour,
-<lb corresp="#f22_z3_l12"/>L’autre plus fin luy dérobe ſa bource,
-<lb corresp="#f22_z3_l13"/>Si bien qu'en méme temps, &amp; dans vn méme iour,
-<lb corresp="#f22_z3_l14"/>Sans eſperance de reſource,
-<lb corresp="#f22_z3_l15"/>Sans craindre Preuoſt, ny Sergent,
-<lb corresp="#f22_z3_l16"/>Nous volons à la fois ſon cœur, &amp; ſon argent,
-<hi rend="HeadingLine"><lb corresp="#f22_z3_l17"/>LES MESMES AVX DAMES.</hi>
-<lb corresp="#f22_z3_l18"/>ANS ce lieu de Vaucluſe, où la nuit nous conuie,
-<lb corresp="#f22_z3_l19"/>Nous uenons partager nôtre riche butin,
-<lb corresp="#f22_z3_l20"/>Mais par vn mal- heureux deſtin,
-<lb corresp="#f22_z3_l21"/>L'on vient de nous rauir la vie.
-<lb corresp="#f22_z3_l22"/>Belles dans vos apas, ſi traistres, &amp; ſi doux,
-<lb corresp="#f22_z3_l23"/>Uous eſtes ſans mentir plus Bohemes que nous ?
-<lb corresp="#f22_z3_l24"/>Si pour un petit vol nôtre troupe l'on blâme,
-<lb corresp="#f22_z3_l25"/>Que ne doit decerner la Juſtice en courroux,
-<lb corresp="#f22_z3_l26"/>Contre les chers Voleurs, &amp; du corps, &amp; de l'ame.
-</ab>
+        <ab corresp="#f22_z3" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f22_z3_l1"/>MONSIEVR DE CASTELLANE,</hi><lb corresp="#f22_z3_l2"/>&amp;<hi rend="HeadingLine"><lb corresp="#f22_z3_l3"/>MONSIEVR DE MONTSALLIER,<lb corresp="#f22_z3_l4"/>Repreſentans les deux Bohemiens.</hi><lb corresp="#f22_z3_l5"/>ARE la cœurs, gare les corps.<lb corresp="#f22_z3_l6"/>Nous pillons tout, par amour, ou par ruſe,<lb corresp="#f22_z3_l7"/>Cinq ſols qu’il ſoit dedans, cinq ſols qu’il ſoit dehors<lb corresp="#f22_z3_l8"/>C’eſt à quoy Melite s’amuſe,<lb corresp="#f22_z3_l9"/>Lors qu'elle vient s’entretenir,<lb corresp="#f22_z3_l10"/>Sur ce que le deſtin luy garde à l’aduenir.<lb corresp="#f22_z3_l11"/>Tandis qu’on luy parle d'Amour,<lb corresp="#f22_z3_l12"/>L’autre plus fin luy dérobe ſa bource,<lb corresp="#f22_z3_l13"/>Si bien qu'en méme temps, &amp; dans vn méme iour,<lb corresp="#f22_z3_l14"/>Sans eſperance de reſource,<lb corresp="#f22_z3_l15"/>Sans craindre Preuoſt, ny Sergent,<lb corresp="#f22_z3_l16"/>Nous volons à la fois ſon cœur, &amp; ſon argent,<hi rend="HeadingLine"><lb corresp="#f22_z3_l17"/>LES MESMES AVX DAMES.</hi><lb corresp="#f22_z3_l18"/>ANS ce lieu de Vaucluſe, où la nuit nous conuie,<lb corresp="#f22_z3_l19"/>Nous uenons partager nôtre riche butin,<lb corresp="#f22_z3_l20"/>Mais par vn mal- heureux deſtin,<lb corresp="#f22_z3_l21"/>L'on vient de nous rauir la vie.<lb corresp="#f22_z3_l22"/>Belles dans vos apas, ſi traistres, &amp; ſi doux,<lb corresp="#f22_z3_l23"/>Uous eſtes ſans mentir plus Bohemes que nous ?<lb corresp="#f22_z3_l24"/>Si pour un petit vol nôtre troupe l'on blâme,<lb corresp="#f22_z3_l25"/>Que ne doit decerner la Juſtice en courroux,<lb corresp="#f22_z3_l26"/>Contre les chers Voleurs, &amp; du corps, &amp; de l'ame.</ab>
         <pb corresp="#f23"/>
         <fw corresp="#f23_z1" type="RunningTitleZone"><lb corresp="#f23_z1_l1"/>de la Fontaine de Vaucluſe.</fw>
-        <ab corresp="#f23_z2" type="MainZone">
-<lb corresp="#f23_z2_l1"/>MONSIEVR DE BRANTES,
-<lb corresp="#f23_z2_l2"/>&amp;
-<lb corresp="#f23_z2_l3"/>MONSIEVR DE THIERRY,
-<lb corresp="#f23_z2_l4"/>Repreſentans les Ardans.
-<hi rend="DropCapitalLine"><lb corresp="#f23_z2_l5"/>C</hi>
-<lb corresp="#f23_z2_l6"/>ES flâmes que l'on voit brile deſſus nos teſtes,
-<lb corresp="#f23_z2_l7"/>Sont les viſibles interpretes,
-<lb corresp="#f23_z2_l8"/>Des feus que nous porton dans le fonds de nos cœurs;
-<lb corresp="#f23_z2_l9"/>Belles, ſans faire les moqueurs,
-<lb corresp="#f23_z2_l10"/>Meſlons vos glaçons à nos flâmes,
-<lb corresp="#f23_z2_l11"/>Lors parmy la ioye &amp; lez ris,
-<lb corresp="#f23_z2_l12"/>Quand vous ſerez nos tiedes Femmes,
-<lb corresp="#f23_z2_l13"/>Nons ſerons vos tiedes Maris.
-<lb corresp="#f23_z2_l14"/>MONSIEVR DE CRILLON, Fils,
-<lb corresp="#f23_z2_l15"/>&amp;
-<lb corresp="#f23_z2_l16"/>MONSIEVR DE VIVET,
-<lb corresp="#f23_z2_l17"/>Repreſentans deux Bohemienes.
-<hi rend="DropCapitalLine"><lb corresp="#f23_z2_l18"/>E</hi>
-<lb corresp="#f23_z2_l19"/>NCOR que nous ſoyons dans les baſſes Eſcoles,
-<lb corresp="#f23_z2_l20"/>Si faiſons nous toûjours des chef- d’œuures certains;
-<lb corresp="#f23_z2_l21"/>Car tel qui peu deuant a ri de nos paroles,
-<lb corresp="#f23_z2_l22"/>Pleure bien-toſt apres de l’effet de nos mains.
-<lb corresp="#f23_z2_l23"/>MONSIEVR DE BOVZOLZ,
-<lb corresp="#f23_z2_l24"/>MONSIEVR DE PASSIS,
-<lb corresp="#f23_z2_l25"/>MONSIEVR GILLES DE FOLARD,
-<lb corresp="#f23_z2_l26"/>ET MONSIEVR DE CROSET,
-<lb corresp="#f23_z2_l27"/>Repreſentans quatre Sorcieres.
-<hi rend="DropCapitalLine"><lb corresp="#f23_z2_l28"/>F</hi>
-<lb corresp="#f23_z2_l29"/>r d’Apollon, &amp; bran pour ſes lumieres,
-<lb corresp="#f23_z2_l30"/>La nuit eſt l’Aſtre des Sorcieres,
-<lb corresp="#f23_z2_l31"/>Et ce noir Meneſtrier qui guide nos Balets,
-</ab>
+        <ab corresp="#f23_z2" type="MainZone"><lb corresp="#f23_z2_l1"/>MONSIEVR DE BRANTES,<lb corresp="#f23_z2_l2"/>&amp;<lb corresp="#f23_z2_l3"/>MONSIEVR DE THIERRY,<lb corresp="#f23_z2_l4"/>Repreſentans les Ardans.<hi rend="DropCapitalLine"><lb corresp="#f23_z2_l5"/>C</hi><lb corresp="#f23_z2_l6"/>ES flâmes que l'on voit brile deſſus nos teſtes,<lb corresp="#f23_z2_l7"/>Sont les viſibles interpretes,<lb corresp="#f23_z2_l8"/>Des feus que nous porton dans le fonds de nos cœurs;<lb corresp="#f23_z2_l9"/>Belles, ſans faire les moqueurs,<lb corresp="#f23_z2_l10"/>Meſlons vos glaçons à nos flâmes,<lb corresp="#f23_z2_l11"/>Lors parmy la ioye &amp; lez ris,<lb corresp="#f23_z2_l12"/>Quand vous ſerez nos tiedes Femmes,<lb corresp="#f23_z2_l13"/>Nons ſerons vos tiedes Maris.<lb corresp="#f23_z2_l14"/>MONSIEVR DE CRILLON, Fils,<lb corresp="#f23_z2_l15"/>&amp;<lb corresp="#f23_z2_l16"/>MONSIEVR DE VIVET,<lb corresp="#f23_z2_l17"/>Repreſentans deux Bohemienes.<hi rend="DropCapitalLine"><lb corresp="#f23_z2_l18"/>E</hi><lb corresp="#f23_z2_l19"/>NCOR que nous ſoyons dans les baſſes Eſcoles,<lb corresp="#f23_z2_l20"/>Si faiſons nous toûjours des chef- d’œuures certains;<lb corresp="#f23_z2_l21"/>Car tel qui peu deuant a ri de nos paroles,<lb corresp="#f23_z2_l22"/>Pleure bien-toſt apres de l’effet de nos mains.<lb corresp="#f23_z2_l23"/>MONSIEVR DE BOVZOLZ,<lb corresp="#f23_z2_l24"/>MONSIEVR DE PASSIS,<lb corresp="#f23_z2_l25"/>MONSIEVR GILLES DE FOLARD,<lb corresp="#f23_z2_l26"/>ET MONSIEVR DE CROSET,<lb corresp="#f23_z2_l27"/>Repreſentans quatre Sorcieres.<hi rend="DropCapitalLine"><lb corresp="#f23_z2_l28"/>F</hi><lb corresp="#f23_z2_l29"/>r d’Apollon, &amp; bran pour ſes lumieres,<lb corresp="#f23_z2_l30"/>La nuit eſt l’Aſtre des Sorcieres,<lb corresp="#f23_z2_l31"/>Et ce noir Meneſtrier qui guide nos Balets,</ab>
         <fw corresp="#f23_z3" type="NumberingZone"><lb corresp="#f23_z3_l1"/>17</fw>
       </div>
     </body>
