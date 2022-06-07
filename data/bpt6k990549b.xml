@@ -39,7 +39,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-31"/>
+        <date when="2022-06-07"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -2390,4 +2390,282 @@
       </div>
     </body>
   </text>
+  <standOff>
+    <seg n="1" xml:id="s1">BRADAMANTE, TRAGECOMEDIE. uiuront noſtre ſiecle, les admirables effets de vos heroiques vertus, blaſmeroit noſtre ingrate mecognoiſſance, de n’auoir par mos plumes teſtifié la grace que Dieu nous fait de viure ſous la douce ſubiection d’vn ſi grand Monarque, que les nations qui aboutẽt les frontieres de Scythie, ont ambitieuſement recherché pour maiſtre. </seg>
+    <seg n="2" xml:id="s2">Ie ne crains point que ceux qui aurõt approché des rayons de voſtre Maieſté, me iugent pour cela deborder en louanges immoderees: attendu les belles &amp; recõmandables parties, dont noſtre Dieu vous a rendu d’eſprit &amp; de corps ſi accompli. </seg>
+    <seg n="3" xml:id="s3">Vous face ſa bonté, SIRE, proſperer longuement, &amp; vous donne entre autres felicitez vne poſterité telle que vous deſirez pour le particulier contentement de voſtre Maieſté, &amp; le commun bien de voſtre France. </seg>
+    <seg n="4" xml:id="s4">Le tres-humble &amp; tresaffectionné ſeruiteur &amp; ſubiect de voſtre Maieſté, ROBERT GARNIER. </seg>
+    <seg n="5" xml:id="s5">AV ROY DE FRANCE ET DE POLOIGNE. </seg>
+    <seg n="6" xml:id="s6">L ES Rois, enfans du Ciel, ſont de Dieu les images: Iupiter en prend cure &amp; les garde d’outrages, Il les fait reuerer, reputant les honneurs Eſtre à luy meſme faits, qu’on rend à ſes ſeigneurs. </seg>
+    <seg n="7" xml:id="s7">Quand ils ont quelquefois leurs ames trop cruelles, Outrageant leurs ſuiets qui ne leur ſont rebelles, Bien qu’épris de colere, il les fait à tous coups Par ſignes aduertir de ſon ardant courroux. </seg>
+    <seg n="8" xml:id="s8">Il trouble l'air de uents,d’éclairs &amp; de tonnerres, Il fait enfler les mers,il fait trembler les terres, Fait pallir du Soleil le grand front lumineux, Ou ſur le ciel attache vn Comete crineux: A fin qu’eſpouuantez de ſa dure menace, Ils amendent leur vie &amp; recouurent ſa grace: Tant il leur eſt clement, &amp; tant peu volontiers Il venge les forfaits des monarques fautiers. </seg>
+    <seg n="9" xml:id="s9">Mais des bons qui la paix &amp; la iuſtice honorent, </seg>
+    <seg n="10" xml:id="s10">Et ſemblables à vous les cruautez abhorrent, Il a touſiours le ſoing, leur ſceptres il maintient, </seg>
+    <seg n="11" xml:id="s11">Et contre tous haineurs leur querelle ſouſtient. </seg>
+    <seg n="12" xml:id="s12">Il veut que les vertus de leur ame enfantees, Comme celeſtes, ſoyent par les Muſes chantees. </seg>
+    <seg n="13" xml:id="s13">Pour l'heur de voſtre vie, &amp; qu’il vous ſoit permis De gouuerner long temps nous vos peuples commis: Que touſiours la victoire accompagne vos bandes, Soit allant inueſtir les troupes Alemandes, Soit le brun Eſpagnol, ou le Breton mutin, Ou ceux qu’entre deux mers ſepare l’Apennin. </seg>
+    <seg n="14" xml:id="s14">Que les Rois ennemis qui vous feront la guerre, Abandonnez de Dieu ſoyent chaſſez de leur terre: Perdent gloire &amp; Empire, &amp; du malheur chetifs, A vos pieds, leurs ſauueurs, ſoyent preſentez captifs, </seg>
+    <seg n="15" xml:id="s15">Et que ie puiſſe d’eux faire une tragedie, Semblable à celles-cy, qu'humble ie vous dedie: Où i'empoule des vers pleins de ſang &amp; d’horreur, De larmes, de ſanglots, de rage &amp; de fureur. </seg>
+    <seg n="16" xml:id="s16">Dont, comme n’eſtant pas de uos maieſtez dignes, Ie n’oſe accompagner le doux chant de vos Cygnes, Croaſſant enroué quand ie veux quelquesſois Vos louanges ſonner, ſuiect de trop grand poix. </seg>
+    <seg n="17" xml:id="s17">Ma naſſelle trop foible &amp; craintiue des vagues, N’oſe de la grand' mer courir les ondes vagues, Lechant touſiours le bord, ou ſi aucunesfois Elle entre plus auant, c’eſt ſur les fleuues cois: Mais ſi vous la guidez qui eſtes mon Neptune, Elle courra par tout ſans crainte d’infortune, Ne redoutant les rocs, les Syrtes, ny les bancs, Ny que les uents eſmeus luy donnent par les flancs, " Prochaine d’abyſmer. </seg>
+    <seg n="18" xml:id="s18">Car qui eſt en la garde " D'un fi grãd Dieu que uous, ſeuremẽt ſe haſarde. </seg>
+    <seg n="19" xml:id="s19">ARGVMENT DE LA TRAGECOMEDIE DE BRADAMANTE. </seg>
+    <seg n="20" xml:id="s20">A PRES que les Saraſins ſurent rompus &amp; chaſſez deuant Paris, Roger embarqué auec autres Princes reſtez de l’armee, eſt ſurpris de tourmente en la mer d’Afrique. </seg>
+    <seg n="21" xml:id="s21">Les hõmes &amp; vaiſſeaux abyſmez il ſe ſauue à naige ſur vn rocher, auquel habitoit vn veil Hermite, qui l'aduertiſt de ſon ſalut, &amp; luy fait recongnoiſtre Ieſus-Chriſt. </seg>
+    <seg n="22" xml:id="s22">Roland, Oliuier, &amp; Sobrin y arriuent auec Renaut au retour du cõflit de Lipaduſe: reſiouis de la rencontre de Roger &amp; de ſa conuerſion en noſtre Foy, ils accordent mariage entre luy &amp; Bradamãte, laquelle il aimoit par mutuelle affection. </seg>
+    <seg n="23" xml:id="s23">Et tous enſemble rembarquez, &amp; abordez en France, s’acheminent à laCour, où ils trouuent les Ambaſſadeurs de Cõſtantin Empereur de Grece, enuoyez pour negotier le mariage d’entre Leon ſon ſils &amp; Bradamãte, que le pere &amp; la mere deſiroyent auoir pour gendre. </seg>
+    <seg n="24" xml:id="s24">Et pour ce ne veulent point ouir parler de Roger, ſimple cheualier. </seg>
+    <seg n="25" xml:id="s25">Dequoy demee &amp; faire tant de beaux faits d’armes, entendant qu’on le vouloit faire mourir, eſmeu de pitié, delibere de le ſauuer. </seg>
+    <seg n="26" xml:id="s26">Et à ceſte fin ſ'eſtant faict ſecrettement introduire de nuités priſons il l’en retire &amp; le meine en ſon logis. </seg>
+    <seg n="27" xml:id="s27">Mais incontinent apres, ayant entendu, auoir eſté publié par toutes les terres de lempire d’Occidẽt que quiconque voudroit eſpouſer Bradamante deuoit la conquerir à forces d’armes combatant auec elle pair-à-pair, s’aduiſa de mettre en ieu ſon cheualier. </seg>
+    <seg n="28" xml:id="s28">Et de faict le ſupplia de vouloir pour luy &amp; ſous ſes armes entrer contre elle en combat, s’aſſeurant de la vaincre par ſa vertu. </seg>
+    <seg n="29" xml:id="s29">Ce qu’il ne luy oſa refuſer, pour les fraiſches obligations qu’il auoit ſur luy. </seg>
+    <seg n="30" xml:id="s30">Sur cette fiance ils s’acheminent en France où Leon ſe preſente à Charlemagne, qui fait trouuer Bradamante. </seg>
+    <seg n="31" xml:id="s31">Elle pour ſe deueloper des importunes pourſuittes des Ambaſſadeurs de Leon, ſ'eſtoit auparauant aduiſee d’impetrer de l’Empereur ceſte declaration : preſumant que Leon ny autre ſeigneur Chreſtiẽ, fors Roger ſeul, ne la pourroit conquerir. </seg>
+    <seg n="32" xml:id="s32">Roger contraint par la force de ſes promeſſes, entre en lice auec extreme regret, couuert des armes Imperiales comme s’il euſt eſté Leon. </seg>
+    <seg n="33" xml:id="s33">Il combat &amp; ſurmonte Bradamante, puis ſe retire ſaiſi de merueilleuſe triſteſſe, Il monte ſur ſon cheual &amp; entre au fond d’vn bois pour s’y confiner. </seg>
+    <seg n="34" xml:id="s34">Leon d’autre part ioyeux de ſa victoire va demander Bradamante à Charlemagne, lamagne baille ſa fille Eleonor à Leon, &amp; le fait ſon gendre. </seg>
+    <seg n="35" xml:id="s35">Ce ſuiect eſt fort amplement diſcouru par l’Arioſte depuis le quarãretroiſieme chant iuſques à la fin de ſon liure: fors pour le regard de la fin adiouſtee par l’autheur. </seg>
+    <seg n="36" xml:id="s36">Entreparleurs. </seg>
+    <seg n="37" xml:id="s37">Charlemagne. </seg>
+    <seg n="38" xml:id="s38">Nymes, Duc de Bauieres. </seg>
+    <seg n="39" xml:id="s39">Aymon. </seg>
+    <seg n="40" xml:id="s40">Beatrix. </seg>
+    <seg n="41" xml:id="s41">Renaud. </seg>
+    <seg n="42" xml:id="s42">La Roque. </seg>
+    <seg n="43" xml:id="s43">Bradamante. </seg>
+    <seg n="44" xml:id="s44">Leon. </seg>
+    <seg n="45" xml:id="s45">Roger. </seg>
+    <seg n="46" xml:id="s46">Hippalque. </seg>
+    <seg n="47" xml:id="s47">La Montagne. </seg>
+    <seg n="48" xml:id="s48">Marphiſe. </seg>
+    <seg n="49" xml:id="s49">Baſile, Duc d’Athenes. </seg>
+    <seg n="50" xml:id="s50">Les Ambaſſadeurs de Bulgarie. </seg>
+    <seg n="51" xml:id="s51">Meliſſe. </seg>
+    <seg n="52" xml:id="s52">BRADAMANTE, TRAGECOMEDIE. </seg>
+    <seg n="53" xml:id="s53">ACTE I. </seg>
+    <seg n="54" xml:id="s54">SCENE I. </seg>
+    <seg n="55" xml:id="s55">Charlemagne. </seg>
+    <seg n="56" xml:id="s56">L Es ſceptres des grands Rois viennent du Dieu ſupréme, C'eſt luy qui ceint nos chefs d’vn royal diadême, Qui nous fait quand il veut regner ſur l’Vniuers, </seg>
+    <seg n="57" xml:id="s57">Et quand il veut fait cheoir noſtre empire à l'enuers. </seg>
+    <seg n="58" xml:id="s58">Tout depend de ſa main, tout de ſa main procede, Nous n’auons rien de nous, c'eſt luy qui tout poſſede, Monarque vniuerſel, &amp; ſes commandemens Font les ſpheres mouuoir &amp; tous les elemens. </seg>
+    <seg n="59" xml:id="s59">Il a mis ſur mon chef la Françoiſe couronne, Il a fait que ma voix toute la terre eſtonne, </seg>
+    <seg n="60" xml:id="s60">Et que l’Aigle Romain perche en mes eſtendars, Guide des eſcadrons de mes vaillans ſoudars. </seg>
+    <seg n="61" xml:id="s61">L’Itale m'obeit, la ſuperbe Alemagne, </seg>
+    <seg n="62" xml:id="s62">Et les Rois reculez de l’ondeuſe  Bretagne. </seg>
+    <seg n="63" xml:id="s63">Et chaßé Ieſus-Chriſt des terres Iberides: Si que le riche Tage au beau ſable doré, Voyoit au lieu de luy Belzebut adoré. </seg>
+    <seg n="64" xml:id="s64">O Dieu, noſtre vray Dieu, qu’il fallut que nos peres Euſſent bien excité tes dormantes coleres, T'euſſent bien irrité d’execrables forfaits, Pour monſtrer de ta main de ſi ſanglants effets!</seg>
+    <seg n="65" xml:id="s65"> Pour nous aſſuietir à ceſte gent Payenne, </seg>
+    <seg n="66" xml:id="s66">Et ſouffrir profaner ton Egliſe Chreſtienne, Pour qui en corps mortel du Ciel tu deſcendis, </seg>
+    <seg n="67" xml:id="s67">Et lauant nos mesfaits, ton ſang tu reſpandis!</seg>
+    <seg n="68" xml:id="s68"> Toy Dieu de l'Vniuers, dont la dextre diuine A baſti, a formé ceſte ronde machine, Sans forme &amp; ſans matiere, &amp; ſans obiect aucun, Sans outils, ſans ſecours que de toy qui n’es qu'vn. </seg>
+    <seg n="69" xml:id="s69">Ils ne furent contans d’aſſeruir les Heſpagnes, Mais des hauts Pyrenez franchirent les montagnes, </seg>
+    <seg n="70" xml:id="s70">Et en tourbe innombrable ouurirent les deſtroits Des grands rochers mouſſus qui s’eleuent ſi droits. </seg>
+    <seg n="71" xml:id="s71">Ils deſcendent au bord, où la viſte Garonne Courant dans l’Ocean en ſes vagues bourdonne, Et, iurez ennemis, font execrable vœu De faire tout paſſer par le glaiue &amp; le ſeu. </seg>
+    <seg n="72" xml:id="s72">Celuy pourroit nombrer les celeſtes lumieres, Les raiſins de l'Autonne, &amp; les fleurs printanieres, Qui auroit peu compter les ſcadrons aguerris, Qui auec Agramant vindrent deuant Paris. </seg>
+    <seg n="73" xml:id="s73">Ils couuroyent de leurs rangs la poudroyante plaine, Leurs cheuaux eſpuiſoyent les claires eaux de Seine: L’air reſonnoit de cris, les bataillons preſſez Mouuoyent de toutes parts de picques heriſſez: Les feit en grand carnage abandonner nos tours: Ils ſe mirent en route, &amp; la campagne verte Se veit incontinent de ſang Payen couuerte. </seg>
+    <seg n="74" xml:id="s74">Ils ont quitté la France, &amp; cuidant par les flots Tromper la main de Dieu qui fondoit ſur leur dos, Ont eſté deuorez des ondes vengereſſes, Si que rien n’eſt reſté de ces troupes traitreſſes. </seg>
+    <seg n="75" xml:id="s75">Marſille dans l’Eſpagne a retiré ſon camp: Mais Agramant, Sobrin, &amp; le Roy Serican, Reliques du nauſage, ayant appris la perte De l’Empire African, &amp; le ſac de Biſerte, Ont dedans Lipaduſe attiré par desfis Oliuier &amp; Roland, qui les ont deſconfis. </seg>
+    <seg n="76" xml:id="s76">Ore il faut louer Dieu de ſi belle victoire, </seg>
+    <seg n="77" xml:id="s77">Et à ſa ſeule grace en addreſſer la gloire. </seg>
+    <seg n="78" xml:id="s78">SCENE II. </seg>
+    <seg n="79" xml:id="s79">Charlemagne. </seg>
+    <seg n="80" xml:id="s80">Nymes. </seg>
+    <seg n="81" xml:id="s81">Ch. </seg>
+    <seg n="82" xml:id="s82">N Ous contenterons-nous de les vaincre à demy?</seg>
+    <seg n="83" xml:id="s83"> Ny. </seg>
+    <seg n="84" xml:id="s84">Ne uous ſuſfit-il pas de chaſſer l'ennemy?</seg>
+    <seg n="85" xml:id="s85"> Ch. </seg>
+    <seg n="86" xml:id="s86">Ce ne m’eſt pas aſſez de deſendre ma terre. </seg>
+    <seg n="87" xml:id="s87">N. </seg>
+    <seg n="88" xml:id="s88">Que demãdez-uouz plus que d’acheuer la guerre?</seg>
+    <seg n="89" xml:id="s89"> Ch. </seg>
+    <seg n="90" xml:id="s90">Vn Empereur Romain ne ſe peut dire auoir Pour chaſſer un Barbare aſſez fait de deuoir, Qui pourra retourner auec nouuelle force. </seg>
+    <seg n="91" xml:id="s91">Ny. </seg>
+    <seg n="92" xml:id="s92">Son maſheureux ſuccez ne luy ſert pas d’amorce, Pour franchir de recheſ les rochers Pyrenez, </seg>
+    <seg n="93" xml:id="s93">Et repiller encor nos champs abandonnez. </seg>
+    <seg n="94" xml:id="s94">Ch Agramant eſt occis, le Roy de Barbarie, Gradaſſe &amp; Mandricart, honneur de Tartarie: Roger a delaißé ſa deteſtable loy, Comme ſa ſœur Marphiſe &amp; Sobrin le bon Roy: Mais le fier Rodomont, Ferragus &amp; Marcille, Valeureux combatans &amp; mille autres &amp; mille, Que l’Eſpagne &amp; l’Afrique ont nourris, ne ſont pas, Semence de grands maux, trebuſchez au treſpas. </seg>
+    <seg n="95" xml:id="s95">Ny. </seg>
+    <seg n="96" xml:id="s96">Ils ſont aſſez puiſſans pour leur terre deſendre. </seg>
+    <seg n="97" xml:id="s97">Mais non pas poux oſer contre vous entreprendre, Pour la France aſſaillir, mere des Cheualiers, Mere des bons ſoudars, qu'elle enfante à milliers. </seg>
+    <seg n="98" xml:id="s98">Ch. </seg>
+    <seg n="99" xml:id="s99">Nous auons veu ſur nous l’Eſpagne &amp; la Libye, Mais non les eſtendars de l’ardante Arabie, Non les Soldans d’Egypte, &amp; les Rois mecreans Qui foulent les ſablons des bords Cyreneans. </seg>
+    <seg n="100" xml:id="s100">Ny. </seg>
+    <seg n="101" xml:id="s101">Ceux-la, trop eſloignez de nos Chreſtiẽnes terres, Ne viendront pas icy nous rallumer des guerres: Laiſſez-leur lamenter leur funebre accident, </seg>
+    <seg n="102" xml:id="s102">Et voſtre âge en plaiſirs esbatez ce pendant. </seg>
+    <seg n="103" xml:id="s103">Ch. il nous faut rebaſtir nos Egliſes rompues, Où ſe ſont pur ſur tout leurs cruautez repues: Rebaſtir nos citez de murailles &amp; tours, Repeupler de paiſans nos villagres &amp; bourgs. </seg>
+    <seg n="104" xml:id="s104">Ny. </seg>
+    <seg n="105" xml:id="s105">Il vous ſaut rappeller les uertus exilees, </seg>
+    <seg n="106" xml:id="s106">Et les faire honorer les ayant rappelees. </seg>
+    <seg n="107" xml:id="s107">Ch. </seg>
+    <seg n="108" xml:id="s108">Nos peuples sõt beaucoup par la guere eſclaircis, Mais les vices au lieu ſont beaucoup eſpaißis. </seg>
+    <seg n="109" xml:id="s109">Ny. </seg>
+    <seg n="110" xml:id="s110">C'eſt office d'vn Roy d’en purger ſa contree: Inutile eſt la Paix ſans ſa compagne Aſtree. </seg>
+    <seg n="111" xml:id="s111">Vous deuez en repos vos peuples maintenir, </seg>
+    <seg n="112" xml:id="s112">Et de ſeueres loix leurs offenſes punir. </seg>
+    <seg n="113" xml:id="s113">Ch. </seg>
+    <seg n="114" xml:id="s114">Ie veux recompenſer vn chacun de ſes peines, Eſtrangers,citoyens, ſoldats, &amp; Capitaines: Bradamante &amp; Roger ſous vn amour égal Conioindre enſemblément d'un lien coniugal. </seg>
+    <seg n="115" xml:id="s115">Ny. </seg>
+    <seg n="116" xml:id="s116">Aymon ne le veut pas preſerant l’alliance De Leon, heritier des ſceptres de Byſance. </seg>
+    <seg n="117" xml:id="s117">Ch. </seg>
+    <seg n="118" xml:id="s118">Mais ſe de la combatre il n’auoit le pouuoir, Selon mon ordonnance il ne ſçauroit l'auoir. </seg>
+    <seg n="119" xml:id="s119">Ny. </seg>
+    <seg n="120" xml:id="s120">Donc cõme il falloit vaincre à la courſe Atalãte, Il faut qu’on puiſſe vaincre au combat Bradamante. </seg>
+    <seg n="121" xml:id="s121">ACTE II. </seg>
+    <seg n="122" xml:id="s122">SCENE I. </seg>
+    <seg n="123" xml:id="s123">Aymon. </seg>
+    <seg n="124" xml:id="s124">Beatrix. </seg>
+    <seg n="125" xml:id="s125">Ay. </seg>
+    <seg n="126" xml:id="s126">L E party me plaiſt fort. </seg>
+    <seg n="127" xml:id="s127">B. </seg>
+    <seg n="128" xml:id="s128">Außi fait-il à moy. </seg>
+    <seg n="129" xml:id="s129">A I'en ſuis tout trãſporté. </seg>
+    <seg n="130" xml:id="s130">B. </seg>
+    <seg n="131" xml:id="s131">Si ſuis-ie par ma foy. </seg>
+    <seg n="132" xml:id="s132">Ay. </seg>
+    <seg n="133" xml:id="s133">Ce que ie priſe plus en ſi belle alliance, C’eſt qu’il ne faudra point debourſer de finance. </seg>
+    <seg n="134" xml:id="s134">Il me demande rien B. </seg>
+    <seg n="135" xml:id="s135">Il eſt trop grand ſeigneur. </seg>
+    <seg n="136" xml:id="s136">Qu'a beſoing de nos biens le fils d’un Empereur?</seg>
+    <seg n="137" xml:id="s137"> Ay. </seg>
+    <seg n="138" xml:id="s138">Ce nous eſt toutesfois vn notable auantage De ne bailler vn ſon pour elle en mariage: Meſmement auiourd'huy, qu’il n’y a point d’amour. </seg>
+    <seg n="139" xml:id="s139">Et qu’on ne fait ſinon aux richeſſes la cour. " La grace, la beauté, la vertu, le lignage " Ne ſont non plus priſez qu’vne pomme ſauuage. " On ne veut que t’argent: vn mariage eſt ſaint, Eſt ſortable &amp; bien fait quand l’argent on eſtreint. </seg>
+    <seg n="140" xml:id="s140">B.i. </seg>
+    <seg n="141" xml:id="s141">Que quiconque voudra pour eſpouſe l'auoir Doit la combatre armee, eſtimant qu’il n’eſt homme, Dans l’Empire de Grece &amp; l’Empire de Romme, Fors ſon vaillant Roger, qui ne doiue mourir, Si auecque le fer il la veut conquerir?</seg>
+    <seg n="142" xml:id="s142"> Or i’aurois grand douleur que ce genereux Prince Venu pour fon amour de lointaine prouince Sa vie auanturaſt, ſes forces ne ſçachant, En la voulant combatre auec le ſer trenchant: Qu'au lieu d’vne maiſtreſſe il trouuaſt la mort dure, </seg>
+    <seg n="143" xml:id="s143">Et que ſon lict nopçal fuſt vne ſepulture. </seg>
+    <seg n="144" xml:id="s144">Ce ſeroit grand pitié. </seg>
+    <seg n="145" xml:id="s145">Ay. </seg>
+    <seg n="146" xml:id="s146">Ie ne veux point cela. </seg>
+    <seg n="147" xml:id="s147">B. </seg>
+    <seg n="148" xml:id="s148">Il ne ſçauroit l’auoir ſans ceſte eſpreuue-la. </seg>
+    <seg n="149" xml:id="s149">Ay. </seg>
+    <seg n="150" xml:id="s150">Pourquoy ne ſçauroit-il?</seg>
+    <seg n="151" xml:id="s151"> ne le puis-ie pas faire?</seg>
+    <seg n="152" xml:id="s152"> B. </seg>
+    <seg n="153" xml:id="s153">Non, pource que du Roy l’ordonnance eſt contraire. </seg>
+    <seg n="154" xml:id="s154">Ay. </seg>
+    <seg n="155" xml:id="s155">Le Roy ne l'entend pas, ie l’iray ſupplier De reuoquer la loy qu’il a fait publier. " B. </seg>
+    <seg n="156" xml:id="s156">C'eſt choſe malaiſee,vn Prince ne viole " les Edicts qu’il a faits, il maintient ſa parole. </seg>
+    <seg n="157" xml:id="s157">Ay. </seg>
+    <seg n="158" xml:id="s158">Voire en choſe publique, &amp; qui eſt de grand poix: Mais en choſe priuee on change quelque fois. </seg>
+    <seg n="159" xml:id="s159">Charles luy a permis ce combat dommageable, Eſtimant pour le ſeur que ie l’euſſe agreable: Autrement ne l'euſt fait, ſçachant bien le pouuoir Que deſſur ſes enfans vn pere doit auoir. </seg>
+    <seg n="160" xml:id="s160">Be. </seg>
+    <seg n="161" xml:id="s161">Encore mon ami, faudroit premier entendre Si le parti luy plaiſt, que de rien entreprendre: Car ie crains que Roger ſoit en ſon cœur encré. </seg>
+    <seg n="162" xml:id="s162">Ay. </seg>
+    <seg n="163" xml:id="s163">Veut-elle ce Roger auoir contre mon gré?</seg>
+    <seg n="164" xml:id="s164"> Be. </seg>
+    <seg n="165" xml:id="s165">Ie penſe que nenny, elle eſt trop bien nourrie. </seg>
+    <seg n="166" xml:id="s166">Ay. </seg>
+    <seg n="167" xml:id="s167">Si elle auoit fait?</seg>
+    <seg n="168" xml:id="s168"> B. </seg>
+    <seg n="169" xml:id="s169">I'en ſerois bien marrie. </seg>
+    <seg n="170" xml:id="s170">Il aime ce Roger. </seg>
+    <seg n="171" xml:id="s171">Que maudite ſoit l’heure, Auolé, que tu veis ceſte belle demeure: Ie ſerois trop heureuſe, &amp; ore le Soleil, Ne verroit rien qui fuſt à mon aiſe pareil Sans toy, ſans toy, Rogrer, qui fraudes mon attente Priuant du ſceptre Grec ma fille Bradamante. </seg>
+    <seg n="172" xml:id="s172">SCENE II. </seg>
+    <seg n="173" xml:id="s173">Renaud. </seg>
+    <seg n="174" xml:id="s174">Aymon. </seg>
+    <seg n="175" xml:id="s175">La Roque. </seg>
+    <seg n="176" xml:id="s176">Re. </seg>
+    <seg n="177" xml:id="s177">Q Voy?</seg>
+    <seg n="178" xml:id="s178"> mõſieur, voulez-vous forcer vne amité?</seg>
+    <seg n="179" xml:id="s179"> Eſtes-vous maintenant vn pere ſans pitié?</seg>
+    <seg n="180" xml:id="s180"> Qui vueillez Bradamante vne fille ſi chere, Bannir loing de vos yeux &amp; du ſein de ſa mere, Pour malgré ſon uouloir, qu’elle ne peut changer, La donner pour eſpouſe à ce prince eſtranger?</seg>
+    <seg n="181" xml:id="s181"> Elle ne l’aime point, &amp; qu’y voudriez-vous faire?</seg>
+    <seg n="182" xml:id="s182"> " Vous ſçauez que l’amour eſt touſiours volontaire: " Il ne ſe peut forcer, c’eſt vne affecfion " Qui ne ſe donte point ſinon par fiction. " Le cœur touſiours demeure en ſa libre franchiſe, " Mais le front &amp; la voix bien ſouuent le deguiſe. </seg>
+    <seg n="183" xml:id="s183">Ne la contraignez point, vous ſeriez à iamais Faſché de luy voir faire vn meſnage mauuais. </seg>
+    <seg n="184" xml:id="s184">Ay. </seg>
+    <seg n="185" xml:id="s185">Qui te fait ſi hardy de me venir reprendre?</seg>
+    <seg n="186" xml:id="s186"> Penſes-tu que de toy ie vueille conſeil prendre?</seg>
+    <seg n="187" xml:id="s187"> Dequoy t’empeſches- tu?</seg>
+    <seg n="188" xml:id="s188"> me viens-tu raiſonner?</seg>
+    <seg n="189" xml:id="s189"> </seg>
+    <seg n="190" xml:id="s190">Et quoy?</seg>
+    <seg n="191" xml:id="s191"> qui t’a ſi bien appris à ſermonner?</seg>
+    <seg n="192" xml:id="s192"> O le braue cerueau!</seg>
+    <seg n="193" xml:id="s193"> Re. </seg>
+    <seg n="194" xml:id="s194">Ce que ie viens de dire N’eſt pas pour voꝰ preſcher ny pour vous cõtredire. (rer A pourquoy dõc?</seg>
+    <seg n="195" xml:id="s195"> qui te meut?</seg>
+    <seg n="196" xml:id="s196"> R. </seg>
+    <seg n="197" xml:id="s197">C'est pour voꝰ declaDans les yeux d'vn chacun, que la douleur la ronge?</seg>
+    <seg n="198" xml:id="s198"> Qu'en pleurs elle ſe bagne, &amp; n’oſe toutefois Pour librement gemir deueloper ſa voix?</seg>
+    <seg n="199" xml:id="s199"> Que ſi ſa longue peine en peſanteur aſſomme Son ame alangouree, inacceßible au ſomme, </seg>
+    <seg n="200" xml:id="s200">Et que de ſes bras gours elle touche en dormant Le corps de ſon eſpoux, ainçois de ſon tourment, Elle treſſaille toute (ainſi qu’une bergere Qui en ſon chemin trouue vne noire Vipere) Que frayeur elle en ait, &amp; retire ſoudain Des membres odieux ſon imprudente main?</seg>
+    <seg n="201" xml:id="s201"> Que quand il la tiendra cherement embraſſee, Elle ſe penſe alors d'vn ſerpent enlacee, Tant elle aura d'horreur d'eſtre ſerue en ce point D’vn importun mari, qu'elle n’aimera point?</seg>
+    <seg n="202" xml:id="s202"> (nee. " A. </seg>
+    <seg n="203" xml:id="s203">L'amour touſiours ſe trouue aux esbats d’Hyme" R. </seg>
+    <seg n="204" xml:id="s204">L'on voit de maint Hymen la couche inſortunee. </seg>
+    <seg n="205" xml:id="s205">Quelle future amour pourrez-uous eſperer D’vn nopçage forcé?</seg>
+    <seg n="206" xml:id="s206"> c'eſt bien s’auanturer, C'eſt bien mettre au hazard une ieune pucelle, C’eſt bien, helas!</seg>
+    <seg n="207" xml:id="s207"> c’eſt bien ne faire conte d'elle. </seg>
+    <seg n="208" xml:id="s208">Ay. </seg>
+    <seg n="209" xml:id="s209">Scauroit-on la placer en vn plus digne lieu?</seg>
+    <seg n="210" xml:id="s210"> R. </seg>
+    <seg n="211" xml:id="s211">Leon ne luy eſt propre ores qu'il fuſt vn Dieu. </seg>
+    <seg n="212" xml:id="s212">A. </seg>
+    <seg n="213" xml:id="s213">Et que luy faut-il donc?</seg>
+    <seg n="214" xml:id="s214"> R. </seg>
+    <seg n="215" xml:id="s215">Vn mari qui luy plaiſe, </seg>
+    <seg n="216" xml:id="s216">Et auecque lequel elle viue à ſon aiſe. </seg>
+    <seg n="217" xml:id="s217">Ay. </seg>
+    <seg n="218" xml:id="s218">Elle eſt bien delicate en ſon affection. </seg>
+    <seg n="219" xml:id="s219">Re. </seg>
+    <seg n="220" xml:id="s220">En la voſtre on ne voit que de l’ambition. </seg>
+    <seg n="221" xml:id="s221">Ay. </seg>
+    <seg n="222" xml:id="s222">Que tu es reuerend. </seg>
+    <seg n="223" xml:id="s223">Re. </seg>
+    <seg n="224" xml:id="s224">I'ay plus de reuerence </seg>
+    <seg n="225" xml:id="s225">Et Bradamante außi, que vous de bienvueillance. </seg>
+    <seg n="226" xml:id="s226">A. </seg>
+    <seg n="227" xml:id="s227">Ie ſçai mieus que voꝰ deux quel eſpous il luy faut. </seg>
+    <seg n="228" xml:id="s228">Re. </seg>
+    <seg n="229" xml:id="s229">Voire pour l'eleuer, pour la mettre bien haut. </seg>
+    <seg n="230" xml:id="s230">Re. </seg>
+    <seg n="231" xml:id="s231">Mais cet accord eſt fait ſous voſtre volonté. </seg>
+    <seg n="232" xml:id="s232">Ay. </seg>
+    <seg n="233" xml:id="s233">Il ne m’en chaut: &amp; puis, traittes-tu d'alliance Pour ma fille, ſans moy?</seg>
+    <seg n="234" xml:id="s234"> As-tu ceſte puiſſance?</seg>
+    <seg n="235" xml:id="s235"> Re. </seg>
+    <seg n="236" xml:id="s236">Ie ſçauois qu'agreable elle auroit le parti. </seg>
+    <seg n="237" xml:id="s237">Ay. </seg>
+    <seg n="238" xml:id="s238">Mais pourquoy n’en eſtoy-ie außi toſt aduerti?</seg>
+    <seg n="239" xml:id="s239"> Re. </seg>
+    <seg n="240" xml:id="s240">Il eſt encore temps. </seg>
+    <seg n="241" xml:id="s241">Ay. </seg>
+    <seg n="242" xml:id="s242">Ores que i’ay promeſſe Auecques Conſtantin le Monarque de Grece. </seg>
+    <seg n="243" xml:id="s243">Re. </seg>
+    <seg n="244" xml:id="s244">Vne telle promeſſe obliger ne vous peut, Si ma ſœur Bradamante approuuer ne la veut. " Ay. </seg>
+    <seg n="245" xml:id="s245">Vn enfant doit touſiours obeir à ſon pere. " Re. </seg>
+    <seg n="246" xml:id="s246">S'il va de ſon dommage il ne la doit pas faire. " Ay. </seg>
+    <seg n="247" xml:id="s247">Sur ſes enfans vn pere ha toute authorité. " Re. </seg>
+    <seg n="248" xml:id="s248">Quand leur bien il procure &amp; leur vtilité. </seg>
+    <seg n="249" xml:id="s249">Ay. </seg>
+    <seg n="250" xml:id="s250">Eſt-il pere ſi dur qui leur perte pourchaſſe?</seg>
+    <seg n="251" xml:id="s251"> Re.  Ie croy qu’il n’en eſt point qui ſciemment le face. </seg>
+    <seg n="252" xml:id="s252">A. </seg>
+    <seg n="253" xml:id="s253">Qu’eſt-ce dõc que tu dis?</seg>
+    <seg n="254" xml:id="s254"> R. </seg>
+    <seg n="255" xml:id="s255">Que voꝰ deuez ſçauoir. </seg>
+    <seg n="256" xml:id="s256">Le vouloir de ma ſœur deuant que la pourueoir. </seg>
+    <seg n="257" xml:id="s257">Peut eſtre ſon deſir ne ſe conforme au voſtre: Vous ſerez d’un aduis qu'elle ſera d’vn autre, Que ſon cœur languira dans les yeux d’vn amant, Qui en repouſſera tout autre penſement: Si bien que ceſt amour occupant ſa poitrine, Il ne faut qu’un ſecond penſe y prendre racine. </seg>
+    <seg n="258" xml:id="s258">L’authorité d'vn pere, &amp; d’un Prince &amp; d’vn Roy Ne ſçauroit peruertir ceſte amoureuſe loy. </seg>
+    <seg n="259" xml:id="s259">Ne la forcez donc point, de peur qu’eſtant forcee Vn eſpoux ait le corps, vn ami la penſee: Ce qui produit touſiours vn enfer de malheurs, Plein d'angoiſſe &amp; d’ennuy, de ſoupirs &amp; de pleurs: Par qui voſtre vieil âge en ſa courſe derniere Ne verroit qu'à regret la celeſte lumiere, Quand Mambrin eſprouua ma force domtereſſe, Que i’occis Clariel, dont les geſtes guerriers Se faiſoyent renommer entre les Cheualiers: Que le Geant Almont, de qui la teste groſſe </seg>
+    <seg n="260" xml:id="s260">Et les membres maßifs reſſembloyent vn Coloſſe. </seg>
+    <seg n="261" xml:id="s261">Abbatu de ma main à terre tomba mort, </seg>
+    <seg n="262" xml:id="s262">Et ma gloire engraua deſſur l’Indique bord: Vous n’eußiez entrepris ce que vous faites ores, Combien que ie me ſens aſſez robuſte encores Pour vous biẽ bourraſſer. </seg>
+    <seg n="263" xml:id="s263">R. </seg>
+    <seg n="264" xml:id="s264">Nous n'entreprẽdrõs riẽ, </seg>
+    <seg n="265" xml:id="s265">Et me croyez, Monſieur, que vous ne vueillez bien. </seg>
+    <seg n="266" xml:id="s266">Ay. </seg>
+    <seg n="267" xml:id="s267">Vous ferez ſagement: car ie perdray la vie Pluſtoſt que malgré moy ma fille lon marie. </seg>
+    <seg n="268" xml:id="s268">SCENE III. </seg>
+    <seg n="269" xml:id="s269">Beatrix. </seg>
+    <seg n="270" xml:id="s270">Bradamante. </seg>
+    <seg n="271" xml:id="s271">Beat. </seg>
+    <seg n="272" xml:id="s272">Q VE uous ſeriez heureuſe!</seg>
+    <seg n="273" xml:id="s273"> oncques de noſtre, sãg Fille n’auroit tenu ſi honorable rang. </seg>
+    <seg n="274" xml:id="s274">Allez où le Soleil au matin luit au monde, Allez où ſommeilleux il ſe cache dans l’onde, Allez aux champs roſtis d’eternelles ardeurs, Allez où les Riphez terniſſent de froideurs: Vous ne verrez grandeur pour eſtre comparee A l’heureuſe grandeur qui vous ſuit preparee. </seg>
+    <seg n="275" xml:id="s275">Eſtre femme d'Auguſte, &amp; voir ſous voſtre main Mouuoir, obeiſſant, tout l’Empire Romain!</seg>
+    <seg n="276" xml:id="s276"> Marcher grande Deeſſe entre les tourbes viles S’entreſtouffant de preſſe aux trionfes des villes</seg>
+  </standOff>
 </TEI>
