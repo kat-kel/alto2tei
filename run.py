@@ -1,6 +1,7 @@
 from collections import namedtuple
 from pathlib import Path
-from datetime import datetime
+#from datetime import datetime
+from time import perf_counter
 
 import yaml
 
@@ -29,33 +30,27 @@ for d in docs:
 
     # -- phase 1 -- metadata preparation
     print(f"\33[33mmapping metadata\x1b[0m")
-    t0 = datetime.utcnow()
+    t0 = perf_counter()
     # perform the method .prepare_data() on this document's XMLTEI instance
     # this method parses and cleans metadata unique to this document
     x.prepare_data()
-    t1 = datetime.utcnow()
-    dif = t1-t0
-    print(f"|________finished in {dif.seconds}.{dif.microseconds} seconds.")
+    print("|________finished in {:.4f} seconds".format(perf_counter() - t0))
 
     # -- phase 2 -- XML-TEI construction
     print(f"\33[33mcreating <teiHeader> and <sourceDoc>\x1b[0m")
-    t0 = datetime.utcnow()
+    t0 = perf_counter()
     # perform the method .build_tree() on this document's XMLTEI instance
     # this method constructs the XML-TEI elements <teiHeader> and <sourceDoc>
     x.build_tree()
-    t1 = datetime.utcnow()
-    dif = t1-t0
-    print(f"|________finished in {dif.seconds}.{dif.microseconds} seconds.")
+    print("|________finished in {:.4f} seconds".format(perf_counter() - t0))
 
     # -- phase 3 -- extract and annotate text in <body> and <standOff>
     print(f"\33[33mextracting and annotating text in <body>\x1b[0m")
-    t0 = datetime.utcnow()
+    t0 = perf_counter()
     # perform the method .annotate_body() on this document's XMLTEI instance
     # this method extracts text from the <sourceDoc> and maps it to XML-TEI elements in <body>
     root = x.annotate_text()
-    t1 = datetime.utcnow()
-    dif = t1-t0
-    print(f"|________finished in {dif.seconds}.{dif.microseconds} seconds.")
+    print("|________finished in {:.4f} seconds".format(perf_counter() - t0))
 
     # -- output XML-TEI file --
     Write(d.doc_name, x.root).write()

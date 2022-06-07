@@ -3,6 +3,7 @@ from src.sru_data import SRU_API
 from src.build_teiheader import teiheader
 from src.build_sourcedoc import sourcedoc
 from src.build_body import body
+from src.segment import segment
 from src.text_data import Text
 from src.tags_dict import Tags
 from lxml import etree
@@ -57,5 +58,5 @@ class XMLTEI:
         """        
         text = Text(self.root)
         body(self.root, text.data)
-        #text.standoff()
+        segment(self.root, text.main)
         
