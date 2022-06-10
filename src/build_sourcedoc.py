@@ -1,4 +1,8 @@
-from src.tags_dict import Tags
+# -----------------------------------------------------------
+# Code by: Kelly Christensen
+# Python script to map all the data of an ALTO file to the <sourceDoc> of a TEI file.
+# -----------------------------------------------------------
+
 from src.format_files import Files
 from src.sourcedoc_attributes import Attributes
 from src.surface_and_desc import SurfaceTree
@@ -12,6 +16,7 @@ def sourcedoc(document, tei_root, filepath_list, tags):
         The <sourceDoc> collates each ALTO file, which represents one page of a document, into a wholistic
         description of the document.
     """
+    
     ordered_files = Files(document, filepath_list).order_files()  # format_files.py
     
     # create <sourceDoc> and its child <surfaceGrp>

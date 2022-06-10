@@ -1,3 +1,8 @@
+# -----------------------------------------------------------
+# Code by: Kelly Christensen
+# Python class to parse and store data from the BNF's general catalogue.
+# -----------------------------------------------------------
+
 from lxml import etree
 import requests
 import re
@@ -17,6 +22,7 @@ class SRU_API:
                 root (etree_Element): parsed XML tree of requested Unimarc data
                 perfect_match (boolean): True if request was completed with Gallica ark / directory basename
             """    
+
             print("|        requesting data from BnF's SRU API")
             r = requests.get(f'http://catalogue.bnf.fr/api/SRU?version=1.2&operation=searchRetrieve&query=(bib.persistentid all "{self.ark}")')
             root = etree.fromstring(r.content)
@@ -36,6 +42,7 @@ class SRU_API:
         Returns:
             data (dict) : relevant authorship data (isni, surname, forename, xml:id)
         """        
+
         # create and set defaults for author data
         fields = ["isni", "primary_name", "secondary_name", "namelink" , "xmlid"]
         data = {}
@@ -76,9 +83,10 @@ class SRU_API:
         """Parse and clean data from SRU API response.
         Returns:
             data (dict): all relevant metadata from BnF catalogue
-        """        
+        """      
+
         # create and set defaults for data
-        fields = ["authors", "title", "ptr", "pubplace", "pubplace_key", "publisher", "date", "when", "country", "idno", "objectdesc", "lang"]
+        fields = ["authors", "title", "ptr", "pubplace", "pubplace_key", "publisher", "date", "when", "date_cert", "date_resp", "country", "idno", "objectdesc", "lang"]
         data = {}
         {data.setdefault(f, None) for f in fields}
 
@@ -100,10 +108,13 @@ class SRU_API:
             if has_date_100 is not None and has_date_100.text[8]!="u":
                 data["date"] = has_date_100.text[9:13]
                 data["when"] = has_date_100.text[9:13]
+                data["date_cert"] = self.date_cert(has_date_100.text[8])
+                data["date_resp"] = "BNF"
             else:
                 has_date_210 = root.find('.//m:datafield[@tag="210"]/m:subfield[@code="d"]', namespaces=NS)
                 if has_date_210 is not None:
                     data["date"] = has_date_210.text
+            
             
             # enter language of document
             has_lang = root.find('.//m:datafield[@tag="101"]/m:subfield[@code="a"]', namespaces=NS)
@@ -147,11 +158,37 @@ class SRU_API:
 
         return data
 
+    def date_cert(self, key):
+        """Assigns a degree of certainty to the document's publication date.
+        """
+
+        # UNIMARC Norms (ca. 2012)
+        # a = currently published continuing resource
+        # b = continuing resource no longer being published
+        # c = continuing resource of unknown status
+        # d = monograph complete when issued, or issued within one calendar year
+        # e = reproduction of a document
+        # f = monograh, date of publication uncertain
+        # g = mongraph whose publication continues for more than a year
+        # h = monograph with both actual and copyright/privilege date
+        # i = monograph with both release/issue date and production date
+        # j = document with detailed date of production
+        # k = monograph published in a certain year and printed in a different year
+        # u = dates of publication unkonwn
+        if key == "a" or key == "b" or key == "d" or key == "e" or key == "h" or key == "i" or key == "j":
+            degree = "high"
+        if key == "g" or key == "k":
+            degree = "medium"
+        if key == "f":
+            degree = "low"
+        return degree
+
     def clean_authors(self, root):
         """Parses and cleans author data from Unimarc fields 700 and/or 701.
         Returns:
             authors (dict): relevant authorship data (isni, surname, forename, xml:id)
-        """        
+        """     
+           
         authors = []
         count = 0
         if root.find('.//m:datafield[@tag="700"]', namespaces=NS) is not None:

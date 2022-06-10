@@ -1,3 +1,8 @@
+# -----------------------------------------------------------
+# Code by: Kelly Christensen
+# Python script to insert text segments into a TEI file's <standOff>.
+# -----------------------------------------------------------
+
 from lxml import etree
 
 def segment(root, text):

@@ -1,3 +1,8 @@
+# -----------------------------------------------------------
+# Code by: Kelly Christensen
+# Python class to generate the output XML-TEI file.
+# -----------------------------------------------------------
+
 from lxml import etree
 
 class Write:

@@ -1,3 +1,8 @@
+# -----------------------------------------------------------
+# Code by: Kelly Christensen
+# Python class to decode the ID of an ALTO file's <Tag> elements.
+# -----------------------------------------------------------
+
 from collections import defaultdict
 from lxml import etree
 
@@ -5,6 +10,7 @@ class Tags:
     """Creates a dictionary of a tag's ID (key) and its LABEL (value).
         The IDs are unique to each document and must be recalculated for each directory.
     """    
+    
     def __init__(self, filepath, document, ns):
         self.filepath = filepath
         self.document = document

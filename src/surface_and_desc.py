@@ -1,3 +1,8 @@
+# -----------------------------------------------------------
+# Code by: Kelly Christensen
+# Python class to build elements inside the <sourceDoc> and map data to them.
+# -----------------------------------------------------------
+
 from lxml import etree
 import re
 
@@ -7,6 +12,7 @@ NS = {'a':"http://www.loc.gov/standards/alto/ns-v4#"}  # namespace for the Alto 
 class SurfaceTree:
     """Creates a <surface> element and its children for one page (ALTO file) of a document.
     """    
+    
     def __init__(self, doc, folio, alto_root):
         self.doc = doc
         self.folio = folio

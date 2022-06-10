@@ -1,3 +1,8 @@
+# -----------------------------------------------------------
+# Code by: Kelly Christensen
+# Python script to assemble the <teiHeader> of a TEI file.
+# -----------------------------------------------------------
+
 from src.default_teiheader import DefaultTree
 from src.full_teiheader import FullTree
 
@@ -13,6 +18,7 @@ def teiheader(metadata, document, root, count_pages):
     Returns:
         root (etree): XML-TEI tree
     """    
+    
     # step 1 -- generate default <teiHeader>
     elements = DefaultTree(document, root, metadata, count_pages)  # deafult_teiheader.py
     elements.build()

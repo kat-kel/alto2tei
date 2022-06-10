@@ -1,3 +1,8 @@
+# -----------------------------------------------------------
+# Code by: Kelly Christensen
+# Python class to parse the attributes of the <sourceDoc>'s elements.
+# -----------------------------------------------------------
+
 from lxml import etree
 import re
 
@@ -20,7 +25,8 @@ class Attributes:
                                                 @lry (lower right y-axis pixel position = length of page)
         Returns:
             attributes (dict): dictionary of attribute names and their values
-        """        
+        """    
+
         # create a dictionary of attributes names and their values for the ALTO file's <Page> element
         att_list = self.root.find('.//a:Page', namespaces=NS).attrib
         # assign the ALTO file's extracted <Page> attribute values to TEI attribute names
@@ -44,6 +50,7 @@ class Attributes:
             attributes (list): list of dictionaries {attribute name (str): value (str)}
             processed_blocks (list): IDs of the elements whose data were extracted
         """        
+        
         # create a list of all etree_Elements in the ALTO file targeted for transformation into a <zone>
         zone_elements = [z for z in self.root.findall(f'.//a:{parent}a:{target}', namespaces=NS) \
                         if 'TAGREFS' in z.attrib and\
