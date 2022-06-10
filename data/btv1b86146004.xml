@@ -40,7 +40,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-06-07"/>
+        <date when="2022-06-10"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -56,7 +56,7 @@
           <title>La philosophie dans le boudoir</title>
           <pubPlace key="GB">Londres</pubPlace>
           <publisher>aux dépens de la Compagnie</publisher>
-          <date when="1795">1795</date>
+          <date when="1795" cert="high" resp="BNF">1795</date>
         </bibl>
         <msDesc>
           <msIdentifier>

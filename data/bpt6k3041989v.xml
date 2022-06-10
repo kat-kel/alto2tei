@@ -40,7 +40,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-06-07"/>
+        <date when="2022-06-10"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -56,7 +56,7 @@
           <title>Les après disnées du seigneur de Cholières</title>
           <pubPlace key="BE">Bruxelles</pubPlace>
           <publisher>Imprimerie de A. Mertens et fils</publisher>
-          <date when="1587">1587</date>
+          <date when="1587" cert="high" resp="BNF">1587</date>
         </bibl>
         <msDesc>
           <msIdentifier>

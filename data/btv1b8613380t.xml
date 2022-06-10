@@ -39,7 +39,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-06-07"/>
+        <date when="2022-06-10"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -54,7 +54,7 @@
           <title>La chaumière indienne par Jacques-Bernardin-Henri de Saint-Pierre</title>
           <pubPlace key="FR">Information not available.</pubPlace>
           <publisher>Information not available.</publisher>
-          <date when="1791">1791</date>
+          <date when="1791" cert="high" resp="BNF">1791</date>
         </bibl>
         <msDesc>
           <msIdentifier>

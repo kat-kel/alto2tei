@@ -39,7 +39,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-06-07"/>
+        <date when="2022-06-10"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -54,7 +54,7 @@
           <title>Le Romant comique [1re partie], par Mr Scarron</title>
           <pubPlace key="NL">Leiden</pubPlace>
           <publisher>J. Sambix</publisher>
-          <date when="1655">1655</date>
+          <date when="1655" cert="high" resp="BNF">1655</date>
         </bibl>
         <msDesc>
           <msIdentifier>

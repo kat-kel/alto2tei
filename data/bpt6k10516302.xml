@@ -33,7 +33,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-06-07"/>
+        <date when="2022-06-10"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -42,7 +42,7 @@
           <title>La vie et miracles de monseigneur saint Martin, translatee de latin en francoys</title>
           <pubPlace key="FR">Tours</pubPlace>
           <publisher>Mathieu Latheron</publisher>
-          <date when="1496">1496</date>
+          <date when="1496" cert="high" resp="BNF">1496</date>
         </bibl>
         <msDesc>
           <msIdentifier>

@@ -39,7 +39,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-06-07"/>
+        <date when="2022-06-10"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -54,7 +54,7 @@
           <title>Sensuivent les Menus propos Mère Sotte , nouvellement composez par Pierre Gringoire,... avec plusieurs addicions nouvelles, comme pourrez veoir cy-après.</title>
           <pubPlace key="FR">Information not available.</pubPlace>
           <publisher>Information not available.</publisher>
-          <date when="1525">1525</date>
+          <date when="1525" cert="high" resp="BNF">1525</date>
         </bibl>
         <msDesc>
           <msIdentifier>
