@@ -1,3 +1,8 @@
+# -----------------------------------------------------------
+# Code by: Kelly Christensen
+# Python class to parse and store data from a document's IIIF manifest.
+# -----------------------------------------------------------
+
 import os
 import requests
 import re
@@ -17,7 +22,8 @@ class IIIF_API:
         """Clean metadata received from Gallica API.
         Returns:
             clean_data (dict): cleaned data from IIIF manifest with values == None if not present in API request
-        """        
+        """      
+          
         # Make defaultdict for cleaned metadata
         fields = ["Relation", "Catalogue ARK", "Repository", "Shelfmark", "Title", "Language", "Creator", "Date"]
         clean_data= {}

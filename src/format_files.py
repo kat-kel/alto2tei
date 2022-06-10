@@ -1,3 +1,8 @@
+# -----------------------------------------------------------
+# Code by: Kelly Christensen
+# Python class to organize the file paths in the data directory.
+# -----------------------------------------------------------
+
 import re
 from collections import namedtuple
 

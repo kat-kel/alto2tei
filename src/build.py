@@ -1,3 +1,8 @@
+# -----------------------------------------------------------
+# Code by: Kelly Christensen
+# Python class to assemble the main elements of a TEI file.
+# -----------------------------------------------------------
+
 from src.iiif_data import IIIF_API
 from src.sru_data import SRU_API
 from src.build_teiheader import teiheader
@@ -28,6 +33,7 @@ class XMLTEI:
             The value of self.metadata's key "sru" isupdated from None to the dictionary that the SRU_API.clean() method returns.
             The dictionary self.tags is reassigned to a dictionary that the Tags.labels() method returns.
         """   
+
         # -- Parse data from IIIF Image API --     
         iiif = IIIF_API(self.d)  # (iiif_data.py) instantiate a IIIF_API class for this document
         iiif_data = iiif.clean(iiif.request())  # get the IIIF Image API's JSON response
@@ -43,7 +49,8 @@ class XMLTEI:
     # -- PHASE 2 -- XML-TEI construction of <teiHeader> and <sourceDoc>
     def build_tree(self):
         """Parse and map data from ALTO files to an XML-TEI tree's <teiHeader> and <sourceDoc>.
-        """        
+        """   
+
         # instantiate the XML-TEI root for this document and assign the root basic attributes
         tei_root_att = {"xmlns":"http://www.tei-c.org/ns/1.0", "{http://www.w3.org/XML/1998/namespace}id":f"ark_12148_{self.d}"}
         self.root = etree.Element("TEI", tei_root_att)
@@ -55,7 +62,8 @@ class XMLTEI:
     # -- PHASE 3 -- extract and annotate text in <body> and <standoff>
     def annotate_text(self):
         """Parse and map data from the <souceDoc> to XML-TEI elements in <body>.
-        """        
+        """      
+          
         text = Text(self.root)
         body(self.root, text.data)
         segment(self.root, text.main)

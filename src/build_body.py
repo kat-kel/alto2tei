@@ -1,3 +1,8 @@
+# -----------------------------------------------------------
+# Code by: Kelly Christensen
+# Python script to build the <body> of a TEI file with an ALTO File's MainZone text.
+# -----------------------------------------------------------
+
 from lxml import etree
 
 

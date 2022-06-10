@@ -1,3 +1,8 @@
+# -----------------------------------------------------------
+# Code by: Kelly Christensen
+# Python class to parse and store data from text in the <sourceDoc>.
+# -----------------------------------------------------------
+
 from collections import namedtuple
 import pandas as pd
 import re
@@ -13,7 +18,8 @@ class Text:
         """Parse contextual and attribute data for each text line and store it in a named tuple.
         Returns:
             data (list of named tuples): list of data for each text line
-        """        
+        """      
+
         Line = namedtuple("Line", ["id", "n", "text", "line_type", "zone_type", "zone_id", "page_id"])
         data = [Line(
             ln.getparent().get("{http://www.w3.org/XML/1998/namespace}id"),  # @xml:id of the line's zone
@@ -31,6 +37,7 @@ class Text:
         Returns:
             s (str): text of entire document
         """        
+        
         df = pd.DataFrame(self.data)
         # join the text lines and words broken across line breaks together
         s = "%%".join(df.loc[df["zone_type"]=="MainZone"]["text"])
