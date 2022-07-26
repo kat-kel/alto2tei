@@ -53,6 +53,14 @@ It follows [SegmOnto's](https://github.com/SegmOnto/) controlled vocabulary and 
    ```shell
    $ alto2tei --config config.yml --version "3.0.13" --header --sourcedoc --body
    ```
+   Required Arguments:
+   - `--config` (string): specify the location of the configuration file
+   - `--version` (string): specify the version number of Kraken
+
+   Optional Arguments:
+   - `--header` (boolean): include if you want a `<teiHeader>`
+   - `--sourcedoc` (boolean): include if you want a `<sourceDoc>`
+   - `--body` (boolean): include if you want a `<body>`; this can only called if the `--sourcedoc` option was also called
 
 # Compatability
 ## Document Metadata
