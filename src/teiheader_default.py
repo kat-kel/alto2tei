@@ -3,7 +3,10 @@
 # Python class to build the architecture of a default <teiHeader>.
 # -----------------------------------------------------------
 
+<<<<<<< HEAD:src/teiheader_default.py
 from email.mime import application
+=======
+>>>>>>> main:src/default_teiheader.py
 from lxml import etree
 from datetime import datetime
 from collections import defaultdict

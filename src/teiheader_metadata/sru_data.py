@@ -22,6 +22,7 @@ class SRU:
                 root (etree_Element): parsed XML tree of requested Unimarc data
                 perfect_match (boolean): True if request was completed with Gallica ark / directory basename
             """    
+
             print("|        requesting data from BnF's SRU API")
             r = requests.get(f'http://catalogue.bnf.fr/api/SRU?version=1.2&operation=searchRetrieve&query=(bib.persistentid all "{self.ark}")')
             root = etree.fromstring(r.content)
@@ -41,6 +42,7 @@ class SRU:
         Returns:
             data (dict) : relevant authorship data (isni, surname, forename, xml:id)
         """        
+
         # create and set defaults for author data
         fields = ["isni", "primary_name", "secondary_name", "namelink" , "xmlid"]
         data = {}
@@ -82,8 +84,14 @@ class SRU:
         Returns:
             data (dict): all relevant metadata from BnF catalogue
         """      
+<<<<<<< HEAD:src/teiheader_metadata/sru_data.py
         # create and set defaults for data
         fields = ["authors", "title", "ptr", "pubplace", "pubplace_key", "publisher", "date", "when", "date_cert", "date_resp", "country", "idno", "objectdesc", "lang", "repo", "settlement"]
+=======
+
+        # create and set defaults for data
+        fields = ["authors", "title", "ptr", "pubplace", "pubplace_key", "publisher", "date", "when", "date_cert", "date_resp", "country", "idno", "objectdesc", "lang"]
+>>>>>>> main:src/sru_data.py
         data = {}
         {data.setdefault(f, None) for f in fields}
 
@@ -227,11 +235,41 @@ class SRU:
             degree = "low"
         return degree
 
+    def date_cert(self, key):
+        """Assigns a degree of certainty to the document's publication date.
+        """
+
+        # UNIMARC Norms (ca. 2012)
+        # a = currently published continuing resource
+        # b = continuing resource no longer being published
+        # c = continuing resource of unknown status
+        # d = monograph complete when issued, or issued within one calendar year
+        # e = reproduction of a document
+        # f = monograh, date of publication uncertain
+        # g = mongraph whose publication continues for more than a year
+        # h = monograph with both actual and copyright/privilege date
+        # i = monograph with both release/issue date and production date
+        # j = document with detailed date of production
+        # k = monograph published in a certain year and printed in a different year
+        # u = dates of publication unkonwn
+        if key == "a" or key == "b" or key == "d" or key == "e" or key == "h" or key == "i" or key == "j":
+            degree = "high"
+        if key == "g" or key == "k":
+            degree = "medium"
+        if key == "f":
+            degree = "low"
+        return degree
+
     def clean_authors(self, root):
         """Parses and cleans author data from Unimarc fields 700 and/or 701.
         Returns:
             authors (dict): relevant authorship data (isni, surname, forename, xml:id)
+<<<<<<< HEAD:src/teiheader_metadata/sru_data.py
         """
+=======
+        """     
+           
+>>>>>>> main:src/sru_data.py
         authors = []
         count = 0
         if root.find('.//m:datafield[@tag="700"]', namespaces=NS) is not None:

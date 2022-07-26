@@ -54,6 +54,7 @@ class Attributes:
             attributes (list): list of dictionaries {attribute name (str): value (str)}
             processed_blocks (list): IDs of the elements whose data were extracted
         """        
+<<<<<<< HEAD
 
         # Empty variables in which the zone's data will be stored
         ZoneData = namedtuple("ZoneData", ["attributes", "id"])
@@ -117,3 +118,57 @@ class Attributes:
                 output.append(data)
 
         return output
+=======
+        
+        # create a list of all etree_Elements in the ALTO file targeted for transformation into a <zone>
+        zone_elements = [z for z in self.root.findall(f'.//a:{parent}a:{target}', namespaces=NS) \
+                        if 'TAGREFS' in z.attrib and\
+                        z.attrib['TAGREFS']!="BT" \
+                        and z.attrib['TAGREFS']!="LT"]
+                        # these conditions ignore any zone-like element whose tag is invalid or which is missing @TAGREFS
+        # create a list whose items are dictionaries naming each targeted ALTO element's attributes
+        att_list = [z.attrib for z in zone_elements]
+        # extract the attributes for the child <Polygon> of each targeted ALTO element and put that dictionary into a list
+        points = [z.find('.//a:Polygon', namespaces=NS).attrib for z in zone_elements]
+
+        attributes = []
+        processed_blocks = []
+
+        # run through each targeted ALTO element one by one
+        for i in range(len(zone_elements)):
+            # parse the three (possible) components of the targeted ALTO element's @TAGREFS, according to SegmOnto guidelines;
+            # the 3 groups of this regex parse the following expected tag syntax: MainZone:column#1 --> (MainZone)(column)(1)
+            tag_parts = re.match(r"(\w+):?(\w+)?#?(\d?)?", str(self.tags[att_list[i]["TAGREFS"]]))
+
+            # specifically for the current targeted ALTO element [i], reformat the attribute values extracted 
+            # from its child <Polygon> (see above, stored in variable "points") so that every second value 
+            # is joined to the previous value by a comma; eg. "2204 4621 2190 4528" --> "2204,4621 2190,4528"
+            zone_points = " ".join([re.sub(r"\s", ",", x) for x in re.findall(r"(\d+ \d+)", points[i]["POINTS"])])
+
+            # for the current targeted ALTO element [i], extract the values of the attributes related to coordinates
+            x = att_list[i]["HPOS"]
+            y = att_list[i]["VPOS"]
+            w = att_list[i]["WIDTH"]
+            h = att_list[i]["HEIGHT"]
+
+            # assign together the newly created/formatted attribute values to TEI attribute names that the <zone> will use
+            zone_att = {
+                "type":tag_parts.group(1),
+                "subtype":tag_parts.group(2) or "none",
+                "n":tag_parts.group(3) or "none",
+                "points":zone_points,
+                # use the values of the ALTO element's @HPOS, @VPOS, @WIDTH, @HEIGHT to complete region parameters for the IIIF Image API URI
+                "source":f"https://gallica.bnf.fr/iiif/ark:/12148/{self.doc}/f{self.folio}/{x},{y},{w},{h}/full/0/native.jpg"
+            }
+
+            # update a list of TEI attribute-value pairs with those parsed from the current targeted ALTO element
+            attributes.append(zone_att)
+
+            # update a list of @IDs from all the ALTO elements that this method has processed;
+            # the IDs in this list will help create the "parent" parameter for nested zones, i.e. TextLine, 
+            # whose parent is always a TextBlock, eg. the first <TextLine> of a <TextBlock> would hvae the parent: 
+            # f'TextBlock[@ID="{processed_blocks[0]}"]/'
+            processed_blocks.append(att_list[i]["ID"])
+
+        return attributes, processed_blocks
+>>>>>>> main
