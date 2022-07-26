@@ -29,7 +29,7 @@ It follows [SegmOnto's](https://github.com/SegmOnto/) controlled vocabulary and 
 ## Steps
 1. Download this repository from GitHub.
    ```shell
-   $ git clone git@github.com:kat-kel/alto2tei.git
+   $ git clone https://github.com/kat-kel/alto2tei.git
    $ cd alto2tei
    ```
 2. Create and activate a virtual environment in which to install the application.
