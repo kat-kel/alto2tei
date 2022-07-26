@@ -19,7 +19,7 @@ It follows [SegmOnto's](https://github.com/SegmOnto/) controlled vocabulary and 
    │   │   │   f1.xml
    │   │   │   f2.xml
    │   │   │   ...
-   │   └───btv1b8613380t/
+   │   └───bpt6k324358v/
    │       │   f1.xml
    │       │   f2.xml
    │       │   ...
