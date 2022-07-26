@@ -18,7 +18,6 @@ class IIIF:
 
     def request(self):
         # Request manifest from the IIIF Presentation API
-        print(f"{self.scheme}://{self.server}{self.manifest_prefix}{os.path.basename(self.document)}{self.manifest_suffix}")
         r = requests.get(f"{self.scheme}://{self.server}{self.manifest_prefix}{os.path.basename(self.document)}{self.manifest_suffix}")
         try:
             response = {d["label"]:d["value"] for d in r.json()["metadata"]}

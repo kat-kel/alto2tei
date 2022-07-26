@@ -136,3 +136,10 @@ dmypy.json
 # data
 data/
 test_data/
+
+# app
+*.egg*
+
+# env
+.venv
+requirements.txt

@@ -13,8 +13,10 @@ setup(
         'requests==2.28.1',
         'urllib3==1.26.11'
     ],
-    entry_points='''
-    [console_scripts]
-    alto2tei=run:main
-    '''
+    entry_points={
+        'console_scripts': [
+            'alto2tei=src.__main__:main'
+        ]
+    }
+
 )
