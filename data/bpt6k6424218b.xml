@@ -39,7 +39,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-31"/>
+        <date when="2022-07-26"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -54,7 +54,7 @@
           <title>Le Romant comique [1re partie], par Mr Scarron</title>
           <pubPlace key="NL">Leiden</pubPlace>
           <publisher>J. Sambix</publisher>
-          <date when="1655">1655</date>
+          <date when="1655" cert="high" resp="BNF">1655</date>
         </bibl>
         <msDesc>
           <msIdentifier>
@@ -2505,4 +2505,105 @@
       </div>
     </body>
   </text>
+  <standOff>
+    <seg n="1" xml:id="s1">CHAPITRE I. </seg>
+    <seg n="2" xml:id="s2">Vne trouppe de Comediens arriue dans la ville du Mans. </seg>
+    <seg n="3" xml:id="s3">E Soleil avoit acheué plus de la moitié de ſa L courſe, &amp; ſon char ayant attrappé le penchant du monde roulloit plus viſte qu’il ne vouloit. </seg>
+    <seg n="4" xml:id="s4">Si ſes cheuaux euſſent voulu profiter de la pente du chemin, ils euſſent acheué ce qui reſtoit du iour en moins d’vn demy-quart 2 te leur force, ils ne s’amuſoient qu’à faire des courbettes;</seg>
+    <seg n="5" xml:id="s5"> reſpirant vn air marin qui les faiſoit hannir, &amp; les aduertiſſoit que la mer eſtoit Proche, où l’on dit que leur Maiſtre ſe couche toutes les nuits. </seg>
+    <seg n="6" xml:id="s6">Pour parler plus humainement &amp; plus intelligiblement, il eſtoit entre cinq &amp; ſix;</seg>
+    <seg n="7" xml:id="s7"> quand vne charette entra dans les Halles du Mans. </seg>
+    <seg n="8" xml:id="s8">Cette charette eſtoit attellée de quatre bœufs fort maigres, conduits par vne Iument Poulliniere, dont le poullain alloit &amp; venoit à l’entour de la charette, comme vn petit fou qu’il eſtoit. </seg>
+    <seg n="9" xml:id="s9">La charette eſtoit pleine de coffres, de malles &amp; de gros paquets de toilles peintes, qui faiſoient comme vne Pyramide, au haut de laquelle paroiſſoit vne Demoiſelle, habillée moitié ville, moitié campagne. </seg>
+    <seg n="10" xml:id="s10">Vn ieune homme auſſi pauure d'habits que riche de mine, ne, marchoit à coſté de la charette;</seg>
+    <seg n="11" xml:id="s11"> il auoit vne grande emplaſtre ſur le viſage qui luy couuroit vn œil &amp; la moitié de la ioüe, &amp; portoit vn grand fuzil ſur ſon eſpaule, dont il auoit aſſaſſiné pluſieurs Pies, Geais &amp; Corneilles, qui luy faiſoient comme vne bandoülliere, au bas de laquelle pendoient par les pieds vne poulle &amp; vn oyzon, qui auoient bien la mine d’auoir eſté pris à la petite guerre. </seg>
+    <seg n="12" xml:id="s12">Au lieu de chappeau Il n’auoit qu’vn bonnet de nuit, entortillé de jarretieres de differentes couleurs;</seg>
+    <seg n="13" xml:id="s13"> &amp; cét habillement de teſte eſtoit ſans doute vn Turban qui n’eſtoit encore qu’esbauché, &amp; auquel on n’auoit pas encore donné la derniere main. </seg>
+    <seg n="14" xml:id="s14">Son pourpoint eſtoit vne caſaque de griſette, ceinte auec vne courroye, laquelle luy ſeruoit auſſi à ſouſtenir vne eſpée qui eſtoit ſilõgue qu’on ne s’enpouuoit aider adroitement ſans fourchette;</seg>
+    <seg n="15" xml:id="s15"> chette;</seg>
+    <seg n="16" xml:id="s16"> il portoit des chauſſes trouſſées à bas d’attache comme celles des Comediens quand ils repreſentent vn Heros de l’antiquité, &amp; il auoit au lieu de ſoulliers des brodequins à l’antique, que les bouës auoient gaſtez iuiſqu’à la cheuille du pied. </seg>
+    <seg n="17" xml:id="s17">Vn vieillard veſtu plus regulierement, quoy que tres-mal, marchoit à coſté de luy. </seg>
+    <seg n="18" xml:id="s18">Il portoit ſur ſes eſpaules vne baſſe de viole, &amp; parce qu’il ſe courboit vn peu en marchant, on l’euſt pris de loing pour vne groſſe Tortuë, qui marchoit ſur les jambes de derriere. </seg>
+    <seg n="19" xml:id="s19">Quelque Critique murmurera de la comparaiſon à cauſe du peu de proportion qu’il y a d’vne Tortuë à vn homme: mais i’entens parler des grandes Tortuës qui ſe trouuent dans les Indes, &amp; de plus, ie m’en ſers de ma ſeule authorité. </seg>
+    <seg n="20" xml:id="s20">Rerournons à noſtre Carauanne. </seg>
+    <seg n="21" xml:id="s21">Elle paſſa deuant le Tripot de la Biche, à la porte porte du quel eſtoient aſſemblez quantité des plus gros Bourgeois de la Ville. </seg>
+    <seg n="22" xml:id="s22">La nouueauté de l’attirail, &amp; le bruit de la canaille qui s’eſtoit aſſemblée à l’entour de la charette;</seg>
+    <seg n="23" xml:id="s23"> furent cauſe que tous ces honnorables Bourgue-maiſtres ietterent les veux ſur nos Inconnus. </seg>
+    <seg n="24" xml:id="s24">Vn Lieutenant de Preuoſt entr’autres, nommé la Rappiniere, les vint accoſter, &amp; leur demanda auec vne authorité de Magiſtrat, quelles gens ils eſtoient. </seg>
+    <seg n="25" xml:id="s25">Le ieune homme dont ie vous viens de parler, &amp; ſans mettre les mains au Turban, parce que de l’vne il tenoit ſon fuzil, &amp; de l’autre la garde de ſon eſpée, de peur qu’elle ne luy battiſt les jambes, luy dit;</seg>
+    <seg n="26" xml:id="s26"> Qu’ils eſtoient François de naiſſance, Comediens de profeſſion, qu’il s’appelloit Deſtin en ſon nom de Theatre, ſon vieil camarade la Rancune, &amp; la Demoiſelle qui eſtoit iuchée comme me vne poulle au haut de leur bagage, la Cauerne. </seg>
+    <seg n="27" xml:id="s27">Ce nom bizarre fit rire quelques-vns de la compagnie;</seg>
+    <seg n="28" xml:id="s28"> ſur quoy le ieune Comedien adiouſta, que le nom de Cauerne ne deuoit pas ſembler plus eſtrange à des hommes d’eſprit que ceux de la Montagne, la Vallée, la Roze, ou l'Eſpine. </seg>
+    <seg n="29" xml:id="s29">La conuerſation finit par quelques coups de poing &amp; iuremens de Dieu, que l'on entendit audeuant de la charette: c'eſtoit le valet du Tripot, qui auoit battu le Charretier ſans dire garre;</seg>
+    <seg n="30" xml:id="s30"> parce que ſes bœufs &amp; ſa jument vſoient trop librement d'vn amas de foin qui eſtoit deuant la porte. </seg>
+    <seg n="31" xml:id="s31">On appaiſa la noiſe, &amp; la Maiſtreſſe du Tripot qui aimoit la Comedie plus que Sermon ny Veſpres, par vne generoſité inoüie en vne Maiſtreſſe de Tripot, dit au Charretier qu’il fiſt manger ſes beſtes tout leur ſaoul. </seg>
+    <seg n="32" xml:id="s32">Il accepta l'offre qu'elle luy fit;</seg>
+    <seg n="33" xml:id="s33"> &amp; &amp; cependant que ſes beſtes mangerent, l’Auteur ſe repoſa quelque temps, &amp; ſe mit à ſonger à ce qu’il diroit dans le ſecond Chapitre. </seg>
+    <seg n="34" xml:id="s34">CHAPITRE II. </seg>
+    <seg n="35" xml:id="s35">Quel homme eſtoit le Sieur de la Rappiniere. </seg>
+    <seg n="36" xml:id="s36">E Sieur de la Rappiniere eſtoit L lors le Rieur de la ville du Mans. </seg>
+    <seg n="37" xml:id="s37">Il n’y a point de petite ville qui n’ait ſon Rieur. </seg>
+    <seg n="38" xml:id="s38">La ville de Paris n’en n’a pas pour vn;</seg>
+    <seg n="39" xml:id="s39"> elle en a dans chaque quartier, moy-meſme qui vous parle ie l’aurois eſté du mien ſi i’auois voulu;</seg>
+    <seg n="40" xml:id="s40"> mais il y a long-temps, comme tout le monde ſçait, que i’ay renoncé à toutes les vanitez du monde. </seg>
+    <seg n="41" xml:id="s41">Pour reuenir au Sieur de la Rapiniere, il renoüa bien-toſt la conuerſation que les coups de poing auoient interrompuë, &amp; demanda au ieune Comedien dien ſi leur troupe n’eſtoit compoſée que de Mademoiſelle de la Cauerne, de Monſieur de la Rancune, &amp; de luy. </seg>
+    <seg n="42" xml:id="s42">Noſtre troupe eſt auſſi complette quecelle du Prince d’Orange, ou de ſon Alteſſe d’Eſpernon: Mais par vne diſgrace qui nous eſt arriuée à Tours, où noſtre eſtourdy de Portier a tué vn des Fuzeliers de l’Intendant de la Prouince, nous auons eſté contraints de nous ſauuer vn pied chauſſé &amp; l’autre nud, en l’eſquipage que vous nous voyez. </seg>
+    <seg n="43" xml:id="s43">Ces Fuzeliers de Monſieur l’Intendant en ont fait autant à la Fleſche, dit la Rappiniere. </seg>
+    <seg n="44" xml:id="s44">Que le feu ſainct Antoine les arde, dit la Tripotiere, ils ſont cauſe que nous n’aurons pas la Comedie. </seg>
+    <seg n="45" xml:id="s45">Il ne tiendroit pas à nous, répondit le vieil Comedien, ſi nous auions les clefs de nos coffres pour auoir nos habits, &amp; nous diuertirions quatre ou cinq iours Meſieurs de de la ville, deuant que de gagner Alençon, où le reſte de la Troupe a le rendez-vous. </seg>
+    <seg n="46" xml:id="s46">La reſponſe duComedien fit ouurir les oreilles à tout le monde: La Rappiniere offrit vne vieille robe de ſa femme à laCauerne, &amp; la Tripotiere deux ou trois paires d’habits qu’elle auoit en gage, à Deſtin, &amp; à la Rancune. </seg>
+    <seg n="47" xml:id="s47">Mais, adiouſta quelqu’vn de la compagnie, vous n'eſtes que trois;</seg>
+    <seg n="48" xml:id="s48"> L'ayioüé vne piece moy ſeul, dit la Rancune, &amp; ay fait en meſme temps le Roy, la Reyne &amp; l’Ambaſſadeur;</seg>
+    <seg n="49" xml:id="s49"> ie parlois en fauſſet, quand ie faiſois la Reyne, ie parlois du nez pour l’Ambaſſadeur, &amp; me tournois vers ma Couronne que ie poſois ſur vne chaiſe, &amp; pour le Roy, ie reprenois mon ſiege, ma Couronne &amp; ma grauité en groſſiſſant vn peu ma voix;</seg>
+    <seg n="50" xml:id="s50"> &amp; qu’ainſi ne ſoit, ſi vous voulez contenter noſtre Charretier &amp; payer noſtre deſpence en l’hoſtellerielerie, fourniſſez vos habits &amp; nous jouërons deuant que la nuit vienne;</seg>
+    <seg n="51" xml:id="s51"> ou bien nous irons boire auec voſtre permiſſion, ou nous repoſer, car nous auons fait vne grande iournée. </seg>
+    <seg n="52" xml:id="s52">Le party pleut à la compagnie, &amp; le Diable de la Rappiniere qui s’auiſoit touſiours de quelque maIice, dit qu’il ne falloit point d’autres habits que ceux de deux ieunes hommes de la ville, qui ioüoient vne partie dans le Tripot, &amp; que Mademoiſelle de la Cauerne en ſon habit ordinaire, pourroit paſſer pour tout ce que l’on voudroit en vne Comedie. </seg>
+    <seg n="53" xml:id="s53">Auſſi-toſt dit, auſſi-toſt fait;</seg>
+    <seg n="54" xml:id="s54"> en moins d’vn demy quart d’heure, les Comediens eurent beu chacun deux ou trois coups, furent traueſtis, &amp; l’aſſemblée qui s’eſtoit groſſie ayant pris place en vne chambre haute;</seg>
+    <seg n="55" xml:id="s55"> on vit derriere vn drap ſalle que l’on leua, le Comodien Deſtin, couché couché ſur vn matelas, vn corbillon dans la teſte qui luy ſeruoit de couronne, ſe frottant vn peu les yeux, comme vn homme qui s’eſueille, &amp; recitant du ton de Mondory le roolle d’Herode, qui commence par, Fantoſme iniurieux qui troubles mon repos. </seg>
+    <seg n="56" xml:id="s56">L’emplaſtre qui luy couuroit la moitié du viſage, ne l’empeſcha point de faire voir qu’il eſtoit excellent Comedien;</seg>
+    <seg n="57" xml:id="s57"> Mademoiſelle de la Cauerne fit des merueilles dans les roolles de Mariane &amp; de Salome;</seg>
+    <seg n="58" xml:id="s58"> la Rancune ſatis-fit tout lemonde dans les autres, &amp; la piece s’en alloit eſtre conduite à bonne fin, quand le Diable qui ne dort iamais, s’en méla, &amp; fit fnir la Tragedie, non pas par la mort de Mariane &amp; les deſeſpoirs d’Herode;</seg>
+    <seg n="59" xml:id="s59"> mais par mille coups de poing autant deſoufflers, vn nombre effroyable yable de coups de pieds, des iuremens qui ne ſe peuuent compter, &amp; en ſuitte vne belle information, que fit faire le ſieur de la Rappiniere, le plus expert de tous les hommes en pareille matiere. </seg>
+    <seg n="60" xml:id="s60">CHAPITRE III. </seg>
+    <seg n="61" xml:id="s61">Le deplorable ſuccez qu’eut la Comedie. </seg>
+    <seg n="62" xml:id="s62">Ans toutes les villes ſubalterD nes du Royaume, il y a d’ordinaire vn Tripot, où s’aſſemblent tous les iours les faineans de la ville;</seg>
+    <seg n="63" xml:id="s63"> les vns pour ioüer, les autres pour regarder ceux qui ioüent. </seg>
+    <seg n="64" xml:id="s64">C’eſt l’à que l’on rime richement en Dieu, que l’on eſpargne fort peu le prochain, &amp; que les abſens ſont aaſſaſſinez à coups de langue;</seg>
+    <seg n="65" xml:id="s65"> on n’y fait quartier à perſonne, tout le monde y vit de Turc à Maure, &amp; chacun y eſt receu pour railler, ſelon Ion le talent qu’il en a eu du Seigneur. </seg>
+    <seg n="66" xml:id="s66">C’eſt en vn de ſes Tripots là, ſi ie m’en ſouuiens, que i’ay laiſſé trois perſonnes comiques, recitant la Mariane deuant vne honorable compagnie, à laquelle preſidoit le ſieur de la Rappiniere. </seg>
+    <seg n="67" xml:id="s67">Au meſme temps qu’Herode &amp; Mariane s’entrediſoient leurs veritez, les deux ieunes hommes, de qui l’on auoit pris ſi librement les habits, entrerent dans la chambre, en calleçons, &amp; chacun ſa raquette à la main. </seg>
+    <seg n="68" xml:id="s68">Ils auoient negligé de ſe faire frotter pour venir entendre la Comedie: leurs habits que portoient Herode, &amp; Pherore, leur frapperent bien-toſt la veuë, le plus colere des deux, s’adreſſant au valet duTripot: Fils de chienne, luy ditil, pourquoy as-tu donné mon habit à ce Baſtelleur;</seg>
+    <seg n="69" xml:id="s69"> Le pauure vallet qui le connoiſſoit pour vn grand brutal, luy dit en toute humilité, que que ce n’eſtoit pas luy;</seg>
+    <seg n="70" xml:id="s70"> </seg>
+    <seg n="71" xml:id="s71">Et qui donc?</seg>
+    <seg n="72" xml:id="s72"> barbe de cocu;</seg>
+    <seg n="73" xml:id="s73"> adiouſta-t’il. </seg>
+    <seg n="74" xml:id="s74">Le pauure valet n’oſoit en accuſer la Rappiniere en ſa preſences: mais luy qui eſtoit le plus inſolent de tous les hommes, luy dit en ſe leuant deſa chaize;</seg>
+    <seg n="75" xml:id="s75"> C’eſt moy, qu’en voulezvous dire?</seg>
+    <seg n="76" xml:id="s76"> Que vous eſtes vn ſot, repartit l’autre, en luy deſchargeant vn demeſuré coup de ſa raquete ſur les aureilles. </seg>
+    <seg n="77" xml:id="s77">La Rappiniere fut ſi ſurpris d’eſtre preuenu d’vn coup, luy qui auoit accouſtumé d’en vſer ainſi, qu’il demeura comme immobile, ou d’admiration, ou parce qu’il n’eſtoit pas encor aſſez en colere, &amp; qu’il luy en falloit beaucoup pour ſe reſoudre à ſe battre, ne fut-ce qu’à coups de poing, &amp; peut-eſtre que la choſe en fuſt demeurée là, ſiſon valet qui auoit plus de colere que luy, ne ſe fuſt ietté ſur l’aggreſſeur, en luy donnant vn coup de poing auec toutes ſes circonſtances, ces, dans le beau milieu du viſage, en ſuite vne grande quantité d’autres où ils peurent aller. </seg>
+    <seg n="78" xml:id="s78">La Rappiniere le prit en queuë, &amp; ſe mit à trauailler ſur luy en coups de poings comme vn homme qui a eſté oſfencé le premier;</seg>
+    <seg n="79" xml:id="s79"> vn Parent de ſon aduerſaire prit la Rappiniere de la meſme façon, ce parent ſut inueſty par vn Amy de la Rappiniere pour faire diuerſion, cettuy-cy le fut d'vn autre, &amp; celuy-là d’vn autre;</seg>
+    <seg n="80" xml:id="s80"> Enfin tout le monde prit party dans la chambre, l’vn juroit, l’autre injurioit, tous s’entrebattoient;</seg>
+    <seg n="81" xml:id="s81"> La Trippotiere qui voyoit rompre ſes meubles, empliſſoit l’air de cris pitoyables: vray ſemblablement ils deuoient tous perir par coups d’eſcabeaux, de pieds, &amp; de poings ſi quelques-vns des Magiſtrats de la ville qui ſe promenoient ſous les Halles auec le Seneſchal du Mayne, des Eſſars, ne fuſſent accourus à la la rumeur. </seg>
+    <seg n="82" xml:id="s82">Quelques vns furent d’auis de jetter deux ou trois ſeaux d’eau ſur les combattans, &amp; le remede euſt peut-eſtre reüſſi, mais ils ſe ſeparerent de laſſitude: outre que deux Peres Capucins, qui ſe jetterent par charité dans le champ de bataille, mirent, non pas vne paix bien affſermie, entre les combatans, mais firent accorder quelques treſues, pendant leſquelles on peuſt negocier, ſans prejudice des informations qui ſe firent de part &amp; d’autre. </seg>
+    <seg n="83" xml:id="s83">Le Comedien Deſtin ſit des proüeſſes à coups de poing dont l’on parle encore dans la ville du Mans, ſuiuant ce qu’en ont raconté les deux jouuenceaux, autheurs de la querelle auec leſquels il eut particulierement à faire, &amp; qu’il penſa roüer de coups, outre quantité d’autres du party contraire qu’il mit hors de combat du premier coup. </seg>
+    <seg n="84" xml:id="s84">Il perdit ſon emplaſtre durant durant la meſlée, &amp; l’on remarqua qu’il auoit le viſage auſſi beau que la taille riche. </seg>
+    <seg n="85" xml:id="s85">Les muzeaux ſanglants furent lauez d’eau fraiſche, les collets dechirez furent changés, on appliqua quelques cataplaſmes, &amp; meſine l’on fit quelques points d’aiguille, les meubles furent auſſi remis en leur place, non pas du tout ſi entiers qu’alors qu’on les deſarengea. </seg>
+    <seg n="86" xml:id="s86">Enfin vn moment apres il ne reſta plus rien du combat que beaucoup d’animoſité qui paroiſſoit ſur le viſage des vns &amp; des autres. </seg>
+    <seg n="87" xml:id="s87">Les pauures Comediens ſortirent long-temps apres auec la Rappiniere, qui verbaliſa le dernier: Comme ils paſſoient du Tripot ſous les Halles, ils furent inueſtis par ſept ou huict braues, l’eſpée à la main;</seg>
+    <seg n="88" xml:id="s88"> La Rapiniere ſelon ſa couſtume eut grande peur, &amp; penſa bien auoir quelque choſe de pis, ſi Deſtin ne ſe fuſt genereuſement jetté jetté au deuant d’un coup d’eſpéequi luy alloit paſſer au trauers du corps, il ne peut pourtant ſi bien le parer, qu’il ne receuſt vne legere bleſſeure dans le bras: Il mit l’eſpée à la main en meſme temps, &amp; en moins de rien fit voller à terre deux eſpées, ouurit deux ou trois teſtes, donna force coups ſur les aureilles;</seg>
+    <seg n="89" xml:id="s89"> &amp; deconfit ſi bien Meſſieurs de I’embuſcade, que tous les affiſtans aduoüerent qu’ils n’auoient iamais veu vn ſi vaillant homme. </seg>
+    <seg n="90" xml:id="s90">Cette partie ainſi auortée, auoit eſté dreſſée à la Rappiniere par deux petits Nobles, dont l’vn auoit eſpouſé la ſœur de celuy qui commenca le combat par vn grand coup de raquette: &amp; vravſemblablement la Rappiniere eſtoit gaſté ſans le vailIant deffenſeur que Dieu luy ſuſcita en noſtre vaillant Comedien. </seg>
+    <seg n="91" xml:id="s91">Le bienfait trouua place en ſon cœur de roche, &amp; ſans vouloir permettre que que ces pauures reſtes d’vne troupe deſlabrée allaſſent loger en vne hoſtellerie, il les emmena chez luy, où le chartier deſchargea le bagage comique, &amp; s’en retourna en ſon viſlage. </seg>
+    <seg n="92" xml:id="s92">CHAPITRE IV. </seg>
+    <seg n="93" xml:id="s93">Dans lequel on continuë à parler du ſieur de la Rappiniere, &amp; de ce qui arriua la nuict en ſa maiſonM Adamoiſelle de la Rappiniere receut la compagnie auecque grande ciuilité, comme elle eſtoit la femme du monde qui ſe ſoubmettoit le plus facilement,elle n’eſtoit pas laide, quoy que ſi maigre &amp; ſi ſeiche, qu’elle n’auoit iamais mouché de chandelle auec les doigts, que le feu ny priſt;</seg>
+    <seg n="94" xml:id="s94"> l’en pourrois dire cent choſes rares que ie laiſſe de peur d’eſtre trop long. </seg>
+    <seg n="95" xml:id="s95">En moins de rien les deux dames ſurent furent ſi grandes camarades, qu’elles s’entr’appellerent ma chere, &amp; ma fidelle. </seg>
+    <seg n="96" xml:id="s96">La Rappiniere qui auoit de la mauuaiſe gloire autant que barbier de la ville, diſt en entrant qu’on allaſt à la cuiſine, &amp; a l’office, faire haſter le ſouper. </seg>
+    <seg n="97" xml:id="s97">C’eſtoit vne pure rodomontade, outte ſon vieil valet qui penſoit meſme ſes cheuaux, il n’y auoit dans le logis qu’vne ieune ſeruante, &amp; vne vieille boitteuſe qui auoit du mal comme vn chien. </seg>
+    <seg n="98" xml:id="s98">Sa vanité fut punie par vne grande confuſion qui luy arriua: Il mangeoit d’ordinaire au cabaret, aux deſpens des ſots, ſa femme &amp; ſon train ſi reiglé, eſtoient reduits au potage aux choux ſelon la couſtume du païs;</seg>
+    <seg n="99" xml:id="s99"> voulant paroiſtre deuant ſes hoſtes, &amp; les regaller, il penſa couler par derriere ſon dos quelque monnoye à ſon valet pour aller querir dequoy ſouper: par la faute du valet, ou du maiſtre, l’ar¬</seg>
+  </standOff>
 </TEI>

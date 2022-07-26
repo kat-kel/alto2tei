@@ -40,7 +40,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-31"/>
+        <date when="2022-07-26"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -56,7 +56,7 @@
           <title>Les après disnées du seigneur de Cholières</title>
           <pubPlace key="BE">Bruxelles</pubPlace>
           <publisher>Imprimerie de A. Mertens et fils</publisher>
-          <date when="1587">1587</date>
+          <date when="1587" cert="high" resp="BNF">1587</date>
         </bibl>
         <msDesc>
           <msIdentifier>
@@ -2515,4 +2515,155 @@
       </div>
     </body>
   </text>
+  <standOff>
+    <seg n="1" xml:id="s1">AUX LISEURS. </seg>
+    <seg n="2" xml:id="s2">Ne pensez, debonnaires liseurs, qu’à tort ce proverbe roule parmy nous, que qui refuse après muse : Si vous en doutez, il ne vous faut venir que vers moy, je vous en estaleray une preuve plus claire que Ie jour. </seg>
+    <seg n="3" xml:id="s3">Experto (dit le bon homme) crede Roberto. </seg>
+    <seg n="4" xml:id="s4">J’ai passé par les piques, pour n’avoir bien branslé la pique lors qu’il falloit, et n’avoir battu (comme I’on dit) le fer lors qu'il estoit chaud ;</seg>
+    <seg n="5" xml:id="s5"> je me suis trouvé de deux selles le cul à terre. </seg>
+    <seg n="6" xml:id="s6">Ma Muse avoit esclos le frere de ces Apres-disnees, son nom ne peut estre ramenteu, son perrain a esté si vilain que pour s’exempter de quelques honnestetez, il a desavoué son filleu, lequel de toutes parts j’estoie prié de loger, et bien mieux qu’il n’a rencontré. </seg>
+    <seg n="7" xml:id="s7">Plusieurs m’offroient leurs logis, mais je me faisoie accroire que leur train ne pourroit compatir avec la naturelle habitude de mes gayes philosophies, ou que quelques uns n’ayant les yeux bien dessillez de grand matin, valoir, monstrer à la postérité, qu’ils n’ont esté en ce monde creatures inutiles De toutes les façons qu’on voudra le prendre, je demeureray tousjours droit sur mes deux pieds, puis que j’ay tesmoignage en moy mesmes, que la semonce, que je fais, part d'une syncerité, pureté et cordiale integrité. </seg>
+    <seg n="8" xml:id="s8">En un mot, l’amour et affection que je porte à mon pays me garantira de tout le reproche qu'on me pourroit donner, pour une si hardie entreprise qu’est celle à laquelle me lient mes Apres-disnees. </seg>
+    <seg n="9" xml:id="s9">L’intention est bonne, l’ouvrier ne vise qu’à bien, les moyens ne sont que bons : il n’est pas à croire que les effets ne participent à la bonté. </seg>
+    <seg n="10" xml:id="s10">Goustez à mesmes si nos fruits ne sont pas bons. </seg>
+    <seg n="11" xml:id="s11">AUDENTES FORTUNE JUVAT. </seg>
+    <seg n="12" xml:id="s12">LES APRES DISNEES DU SEIGNEUR DE CHOLIERES. </seg>
+    <seg n="13" xml:id="s13">DU VEILLER ET DU DORMIR. </seg>
+    <seg n="14" xml:id="s14">S’il faut dormir l'apres disnee?</seg>
+    <seg n="15" xml:id="s15"> APRES DISNEE I. </seg>
+    <seg n="16" xml:id="s16">Les nappes levees le sʳ l’Eveillé, pour faire l’honneste et monstrer qu’il avoit l’esprit gaillard et l’œil tendu au bois, s’adressant à la compagnie, va dire : Quoy que je n’aye pas mené grande pousiere durant ja disner, messieurs, peut estre ne treuverez vous mauvais que ceste apres-disnee se passe à vous resveiller par un discours commun du veiller et du dormir. </seg>
+    <seg n="17" xml:id="s17">Je suis bien trompé si ce n’est toucher droit au poinct, et entamer l’affaire par le costé qu’il faut. </seg>
+    <seg n="18" xml:id="s18">Vous sçavez que nostre déliberation commune est desrober tous les plaisirs que nous pourrons, et dresser une escole de philosophie. </seg>
+    <seg n="19" xml:id="s19">On a accoustumé nicieux ce qui de soy est proffitable aux autres. </seg>
+    <seg n="20" xml:id="s20">De mesmes que vous en voyez aucuns qui, quoy qu'ils ne soient des canes, boi-l’eau et abstemy, dès qu’ils se trouvent abattus n’oseroient taster d’une goutte de vin. </seg>
+    <seg n="21" xml:id="s21">D'autres qui, au fort d’une fievre ardente, se sont mis à humer du piot, encores qu’auparavant ils en eussent une fort estroite et scrupuleuse abstinence. </seg>
+    <seg n="22" xml:id="s22">Je m’en rapporte au voisin de la Madelaine. </seg>
+    <seg n="23" xml:id="s23">Si ainsi est que le vin proffite aux uns et nuise aux autres, il se pourra bien faire que le dormir vous aura esté contraire, encores qu'il soit sain et necessaire à plusieurs. </seg>
+    <seg n="24" xml:id="s24">Si vous me vouliez croire, je vous conselleroye de vous servir des moyens qui furent gardez à la guerison pantagrueique. </seg>
+    <seg n="25" xml:id="s25">Par advenure pourroit y avoir dans vostre corps quelque humeur qui vous causeroit cette sangreneuse indigestion. </seg>
+    <seg n="26" xml:id="s26">Ce qui me fait tenir ce langage est, que je trouve que les medecins tiennent que le dormir sert grandement à la concoction des viandes, et se fondent sur deux pincipales raisons : la première est, que la composition de l’homme durant qu’il dort est toute telle qu’en hyver. </seg>
+    <seg n="27" xml:id="s27">On sait qu’en hyver toutes nos parties interieures et du milieu sont plus chaudes qu’en esté, ad centrum calor frigore ambiente prostigatur. </seg>
+    <seg n="28" xml:id="s28">De mesmes, lorsque nous sommeillons, le sang se rertire en dedans, et par consequent la chaleur naturelle, si bien, qu’alors la cuisson et digestion se fait mieux en nostre cuisine stomachale. </seg>
+    <seg n="29" xml:id="s29">La seconde est dependante de la premiere, prise par les effets et événemens, attendu que nous voyons, sentons et appercevons que Non, non (adjoute le sʳ l'Esveillé), je me paye de ces raisons, puis que le voy que sur l'apres-disnee et la plus grande chaleur du jour. </seg>
+    <seg n="30" xml:id="s30">Si bien que nostre chaleur naturelle n'auroit que faire de ses resserrer si fort que vous criez. </seg>
+    <seg n="31" xml:id="s31">Il y a la chaleur de l'air qui entoure et elle qui enfermeroit le froid qui y auroit esté attiré par les exhalaisons dormitoires. </seg>
+    <seg n="32" xml:id="s32">Je pourroie enfoncer davantage ce disours, si je ne craingnoie d’ennuyer la compagnie par ma prolixité, je veux un peu aller veoir vos gras dormeurs, lesquels vous prisez pour la graisse qu'ils s'acceullent en domant. </seg>
+    <seg n="33" xml:id="s33">Si le prenez là je le quitte, et vous lairray abonder ès conceptions de vostre porchesque sensualité. </seg>
+    <seg n="34" xml:id="s34">Tant que vous épicuriez et teniez que l'homme ne vit sinon pour estre gras, cela est user des transformations de Circé, sans estre charmeur. </seg>
+    <seg n="35" xml:id="s35">Nous ne sommes pas voüez à larder, ainsi que les pourecaux Telle leçon doit estre preschee aux anthropophages. </seg>
+    <seg n="36" xml:id="s36">Vous cognoissez un principal voisin de Marmoustier, le prisez vous davantage pour sa graisse que nostre doré Pindare François, duquel à se propos je me souviens que le seigneur Pasquier chante ces vers hendecasyllabes : Auratus meus ille quem videtis, Macro corpore, languido, pusillo, Jejuna macie et cadaverosa, Sed cœlesti animo integraque mente, Tantò præ reliquis Poetis major, Quantò corpore nactus est minori : Tam et scribere græce ut ipsæ Athenæ Non possint magis Atticam referre. </seg>
+    <seg n="37" xml:id="s37">Tam mirus artifex Latii leporis, Ut ipsum sibi vindicent Latini. </seg>
+    <seg n="38" xml:id="s38">Quin et protulit ejus officina. </seg>
+    <seg n="39" xml:id="s39">Bonsardum que gravem, Beluneque mollem Quales Gallia vidit ante nullos. </seg>
+    <seg n="40" xml:id="s40">Quantus ergo sit, hinc licet videre Scribant carmina cæteri Poetæ, Summos at facit hic unus Poetas. </seg>
+    <seg n="41" xml:id="s41">Je vous veux battre d’autres raisons ;</seg>
+    <seg n="42" xml:id="s42"> l’experience nous apprend qu’une personne grasse n’est point si plaisante, gaillarde et à gré qu’une autre qui est maigre. </seg>
+    <seg n="43" xml:id="s43">C’est la chanson que disoit en table la maistresse de L'OEIL D'AVIS, prise, comme j’estime, du Iivre intitulé les Controverses des sexes masculin et féminin. </seg>
+    <seg n="44" xml:id="s44">Là, l’auteur deconselle ainsi de prendre femme grasse en son patois. </seg>
+    <seg n="45" xml:id="s45">Pareillement ne prenez femme grasse Quelque maintien quelle ait et bonne grace, Grand puanteur au lict vous donnera, Car à l’espaule de mouton sentira Au faguenas et puanteurs susdites, Donc ne prenez telles femmes maudiles. </seg>
+    <seg n="46" xml:id="s46">Vous estes un fin homme, par ma conscience (respond l’Esveillé) de me penser faire peur par ces vers de l’ennemy des ſemmes ;</seg>
+    <seg n="47" xml:id="s47"> a-il traité plus doucement vos maigres?</seg>
+    <seg n="48" xml:id="s48"> Escoutez ce qu’il en dit : Touchant des maigres n’en prenez aussi point Car il est dit, et notez bien ce poinct, Que sont trois choses maigres tres-que mauvaises, Fastigieuses, toutes plus qne punaises : C'est à scavoir la femme, cheure et l’oye. </seg>
+    <seg n="49" xml:id="s49">Et qu’est bien pis, je veux que chacun l’oye, Disant que c’est morceau si mal duisable Quil ne conient à manger qu’au seul diable. </seg>
+    <seg n="50" xml:id="s50">Ne vous arrestez point, Messieurs, sur cest article, vay-je dire, vous n'y ferez que le sang tout clair, attendu que ce maistre blasonneur a donné attache tant aux grasses qu’aux maigres : et aussi qu'en mes partis amoureux je me suis esbattu à débattre cette magnifique question : Si le party d’une grasse est plustost à prendre que celuy d'une maigre. </seg>
+    <seg n="51" xml:id="s51">Soit, respondit le sʳ Patelin, je suis content de remettre à une autre fois la dispute touchant la processence des grases et des maigres, mais je voudroie sçavoir à quoy et comment vons concluez. </seg>
+    <seg n="52" xml:id="s52">Vous pensez enerver mon argument des gras dormeurs, parce que nous ne sommes pourceaux, je ne suis point rotisseur ny marchand de lard, pour graisser la porcherie de la façon que vous criez : Mais vous changez b mol en b carre et ne prenez pas advis que je puis vous battre par vostre propre argument. </seg>
+    <seg n="53" xml:id="s53">De fait, qu’on l'examine, on trouvera qu’il fait pour moy, en ce que maintenant il n’est question de la prerogative qui est escheüe aux hommes pour l'ame raisonnable dont ls sont doüëz. </seg>
+    <seg n="54" xml:id="s54">Les facultez animales et naturelles du pourceau ne sont point autres (hors l'individu) que sont celles d’un chacun de nous. </seg>
+    <seg n="55" xml:id="s55">Que ainsi soit vous voyez que l'on est reVolvendisque libris domi vacare, Librorum helluo, Regius patronus, Regno et munere nobilis forensi, Stertebat media patrune corona, Stertebatque domi, palamque clamque, Nec tempus vacuum, locus vel ullus, Quo non steriteret ille, tamque dormiit, Ut mors hunc inopina dormientem Interceperit omnium honorum Magno cum gemitu, altiore damno. </seg>
+    <seg n="56" xml:id="s56">Mortuum tamen, ô viator, illum Tu ne credideris : quid ergo?</seg>
+    <seg n="57" xml:id="s57"> verè Sommo perpetuo quiescet ille. </seg>
+    <seg n="58" xml:id="s58">Ce ne sont point contes, Messieurs, vay-je dire, j’ay familiarité avec un personnage, lequel a demeuré fort longtems avee ce M. </seg>
+    <seg n="59" xml:id="s59">Bourdin, il m’en a asseuré de choses plus estranges : mesmes que lors qu’il vouloit chevir à poinct d'une bonne affaire falloit qu'il prist tout bellement son repos. </seg>
+    <seg n="60" xml:id="s60">Vous sçavez que je suis grand rechercheur et qu’il n’est pas aisé de m'en prester une, que je veux estre payé surtout de raison, pource j’ay pris plaisir à sonder l’occasion pourquoy lors que ces Messieurs dormoient, neantmoins leur esprit ne laissoit d’estre en action perpetuelle. </seg>
+    <seg n="61" xml:id="s61">En fin j'ay trouvé que c'estoit pour autant que leur esprit ne se lassoit au gré, branle, et à la cadence du corps. </seg>
+    <seg n="62" xml:id="s62">De fait c'est une folie de croire que le cerveau soit sensible. </seg>
+    <seg n="63" xml:id="s63">C'est une negative tenue par tous les philosophes, lesquels sont les mieux habillez d’entendement. </seg>
+    <seg n="64" xml:id="s64">Ce n’est pas que je veuille tenir le cerveau tousjours blandé, je sçay qu’il y a du relais, duquel le seigneur Bretonnayau en son Temple de l'Ame a tres bien poëtisé parlant de la fantaisie: Pource je vous donneray, s’il vous plaist, le plaisir de quelques vers qu’il a à ce propos composés : Quand le commun repose, et l'objet empesché N'entre plus par le sens de la vapeur bousché Il ressemble un enfant : Ell' a une nourisse, Qui chantant son do-do, l’endort, afin qu'Ell' puisse S'aller esbattre seule : ainsi ceste cy sort Du corps emmailloté du frere de la mort. </seg>
+    <seg n="65" xml:id="s65">Dont s’escartant de luy solitaire repense En ce qui s’est passé depuis sa cognoissance, En ce quelle a ouy, de ce qui luy souvient </seg>
+    <seg n="66" xml:id="s66">Et dedans le miroir que devant elle tient Ou de jour et de nuict son image remire Des ombres quelle y voit les phantosmes retire, Qui si confusement s’offrent tous à la fois, Que ranger ne les peut, ny en faire le chois. </seg>
+    <seg n="67" xml:id="s67">Et comme Ell' en commence quelqu’autre vient se mettre Au devant, l’autre après sur le champ demande estre Premier expedié, le voulant despecher, Une foule en voicy, qui la vient empescher. </seg>
+    <seg n="68" xml:id="s68">Pour ce imparfaits sont tous, l’un n’aura que la teste </seg>
+    <seg n="69" xml:id="s69">Et cest autre les pieds, luy manquant tout le reste, L’un du corps la moitié, aura tout seulement Qui point n’aura de bout ny de commencement. </seg>
+    <seg n="70" xml:id="s70">Ainsi vous voyez que l’assoupissement du corps n’engourdit pas le cerveau, qu’il est tousjours aux champs, qu’il chasse, s'il ne prend à tous coups, y deviez bien venir pour tordre le nés à l’intention d'un si sage escrivain : Vous voyez qu’il seraphise ceux qui ne s’assujetissent à vostre beau dormir : si ne faut-il pas que je vous laisse on si beau chemin, je veux vous donner carriere entiere, et vous mettre en butte le seigneur de l'Escale, dans les poësies duquel vous trouverez, quil a autrefois donné atteinte à vostre sommeil : de fait apres s’estre bersé pour s’y accaser enfin il a trouvé qu’il s'y gastoit les reins, et qu’il n’y avoit rien tel que d’avoir les yeux tendus, ouverts et esveillez. </seg>
+    <seg n="71" xml:id="s71">Pource voicy qu’il chante : Mutanda vox est somme carnifex rerum Rubigin sæ inertiæ peme putre, Prelos paterque erroris atque terroris Qui somniorum turbulenta dirorum Momenta das et antè monstra non visa Male procax everitor bonæ famæ Imago mortis, morte retrior dira. </seg>
+    <seg n="72" xml:id="s72">Namque illa sævis liberabit à curis, Tu post labores semimortuæ vita. </seg>
+    <seg n="73" xml:id="s73">Et harum acerba vena parricidarum Tibi quid imprecemur impotens lurco?</seg>
+    <seg n="74" xml:id="s74"> Sentina stuprorum hospes ebriosorum Exul beati cursibus procul cœli?</seg>
+    <seg n="75" xml:id="s75"> Nunquam ut quiescas lassus, et tui oblitus. </seg>
+    <seg n="76" xml:id="s76">Cela est gratter votre sommeil de la façon qu’il faut, et ne se chatouiller point pour se faire rire. </seg>
+    <seg n="77" xml:id="s77">Je passe par dessus les pollutions nocturnes qui se font lors nius: l. 2, ſf. de annuis leg.: nous apprend que celuy qui estoit tenu et astraint à donner à un autre la corvee ou la besoigne que son esclave eust peu faire par un jour, s’il ne l’a envoyé à la tasche du grand matin, ains à la sixiesme heure du jour, qui est nostre midy : (juxta illud Euangelii nonne sunt duodecim horœ diei), pourtant il n’est acquitté et deschargé de son obligation : et pour ce, voicy le departement du jour que fait Marcial au 8ᵉ epigramme de son quatriesme livre : Prima salutantes auque altera continet hora : Exercet raucos tertia causidicos. </seg>
+    <seg n="78" xml:id="s78">In quinta varios exercet Roma labores : Sexta quies lassis, septima finis erit. </seg>
+    <seg n="79" xml:id="s79">Comme s'il nous eust voulu apprendre que les Romains employoient la matinee de ceste façon : c'est que de sept jusqu'a neuf ils s'entresaluoient et se donnoient (ce dit ly contes) le bondi signor ;</seg>
+    <seg n="80" xml:id="s80"> de neuf jusqu'a dix on plaidoit à l'audience ;</seg>
+    <seg n="81" xml:id="s81"> de dix jusqu'à onze les uns prenoient la pourmenade, les autres achetoient de l’appetit au jeu, les autres s'exerçoient en autres façons : depuis onze heures on se retiroit pour disner, après, on vous reposoit bravement son humanité. </seg>
+    <seg n="82" xml:id="s82">Et de hait garson. </seg>
+    <seg n="83" xml:id="s83">Et quoy, messieurs, vay je dire, ne sera ce jamais fait?</seg>
+    <seg n="84" xml:id="s84"> je croy que, qui ne vous diray hola, ne vous deparoloriez de toute ceste relevee. </seg>
+    <seg n="85" xml:id="s85">Voulez vous que je vous accorde?</seg>
+    <seg n="86" xml:id="s86"> vous dites tous deux vray, mais c'est avec distinction. </seg>
+    <seg n="87" xml:id="s87">Il y a des naturels DU MARIAGE. </seg>
+    <seg n="88" xml:id="s88">S'il vaut mieux n'estre marie que de l’estre?</seg>
+    <seg n="89" xml:id="s89"> APRES DISNEE II. </seg>
+    <seg n="90" xml:id="s90">Au lieu que les champions de nostre premiere apres disnee disputoient des privileges, droits et prerogatives des venerables dormans, ceste seconde apres disnee resveilla toute nostre compaignie d'une bien autre façon : le sʳ Rodolphe commence à ouvrir Ie jeu, sans y penser : le bon homme y alloit mieux à la bonne foy qu’un coupeur de bourse. </seg>
+    <seg n="91" xml:id="s91">Il vous accoste le sʳ Panthaleon, qui estoit l’un des fins marchans de la bande, et qui, avant que quitter la partie, nous en donna de bien vertes. </seg>
+    <seg n="92" xml:id="s92">Dès qu’ils ont esventé que le pauvre sʳ Rodolphe parloit de prendre party avec une fille : Messieurs, dit il, gaigne sa vie qui pourra, voicy ce bon seigneur qui se va au premier jour passer maistre potier ;</seg>
+    <seg n="93" xml:id="s93"> il va faire emploite d’une bonne bague qui luy donnera bientost langue et credit en Cornoüailles. </seg>
+    <seg n="94" xml:id="s94">Et afin que vous cognoissiez que je ne vous chante que la verité, je vous prie, que luy mesmes face le discours ſoüet;</seg>
+    <seg n="95" xml:id="s95"> auth. hodie : sous le mesme titre des Adultères?</seg>
+    <seg n="96" xml:id="s96"> N'est-ce pas à cause de leur fragilité et naturelle inclination?</seg>
+    <seg n="97" xml:id="s97"> L a propre passion de la femme c’est la convoitise. </seg>
+    <seg n="98" xml:id="s98">Ce sont brides à veaux que ce que vous contez, seigneur Panthaleon, repliqua messer Alexandre, je vous renvoie à la pratique ;</seg>
+    <seg n="99" xml:id="s99"> mais voyons que vous estes un subtil ergoteur, vous voulez faire accroire que les femmes prennent plaisir qu’on bande les estœufs dans leur trou, parce que les loix ne sont point si rigoureuses contre elles lors qu’elles le permettent que contre les maris. </seg>
+    <seg n="100" xml:id="s100">Mais je vous respons, que tant nos jurisconsultes anciens que les empereurs se sont fort rudement ruez sur ces pauvres femmes Que je die vray, il n’estoit pas permis à la femme, encores qu’elle eut surpris son mary en adultere, de l’accuser ou de le tuer, voire de le toucher du fin bout du doigt, ainsi que Caton a remarqué en son harangue du douaire dans Aulu-Gelle, livre 10, chap. 23, dont le comique Plaute fait plaindre la pauvre Syra en ceste façon : Les femmes pour le vray sont bien plus miserables Que ne sont les maris, lesquels peuvent mener Leurs garses au logis, sans en estre punis : Les femmes n’oseroient aller se pourmener;</seg>
+    <seg n="101" xml:id="s101"> D’avec elles soudain ils seroient desunis;</seg>
+    <seg n="102" xml:id="s102"> He Dieux!</seg>
+    <seg n="103" xml:id="s103"> que ne sont-ils reiglez par loix semblables?</seg>
+    <seg n="104" xml:id="s104"> Pourquoy est-ce que la Dame, qui se sera laissé sursaillir à son ecclave, sera grievement punie, et le seigneur, qui s’accouple à celle qui lui est esclave tronnee en ses Sizains des humeurs de la femme. </seg>
+    <seg n="105" xml:id="s105">Par la maison elle est pire que la tempeste;</seg>
+    <seg n="106" xml:id="s106"> On peut bien dire alors, Cerbere est en sa teste, L'ennemy la gouverne et partout la conduict : Elle jure, elle crie, elle est pis que farrouche, Elle jette brasiers et flammes par la bouche, </seg>
+    <seg n="107" xml:id="s107">Et plus que les torrens d’Auvergne a de bruict. </seg>
+    <seg n="108" xml:id="s108">Elle court, elle fait toute chose au contraire : Pere, mere, mary, sœur, voisinage, frere, La pensans rapaiser ne la font qu’animer, Pareille aux vents emeus et au plus fier orage </seg>
+    <seg n="109" xml:id="s109">Et au feu ébrandy par tout un maisonnage </seg>
+    <seg n="110" xml:id="s110">Et au courroux des flots dangereux de la mer. </seg>
+    <seg n="111" xml:id="s111">Comm' un chien enragé sa bouche elle s’embave, Comm' un hors de son sens l'honneur elle deprave Son courroux violent est du tout indompté, Elle rompt, elle brise, elle frappe et renverse, Elle met tout à bas et jette à la traverse, Comm' un fleuve courant d’un ravage irrité. </seg>
+    <seg n="112" xml:id="s112">Tout est en grand desordre et en pauvre mesnage Quand la ſemme est tombee en son ardente rage, Le lyon eschauſfé n’est pas si furieux. </seg>
+    <seg n="113" xml:id="s113">J'estime la terreur de l’esclair et tonnerre Plus douce que n’est pas la feminine guerre </seg>
+    <seg n="114" xml:id="s114">Et n’est point tant comm’elle en ses feux dangereux. </seg>
+    <seg n="115" xml:id="s115">Le courroux de la femme abbat tout et demarre, </seg>
+    <seg n="116" xml:id="s116">Et meine un si grand bruit et si grand tintamarre Que le plus asseure en est tout estonné : On ne sçait si ce vient de la troupe infermale Qui face (desliés) leur terreur generale Ou si c’est la furie, ou si Dieu a tonné. </seg>
+    <seg n="117" xml:id="s117">Elles ont la caboche si despitement patronnée, que, si le mary l’entend jaune, elles le veulent verd;</seg>
+    <seg n="118" xml:id="s118"> s’il le veut de droit fil, elles le prendront de biais ;</seg>
+    <seg n="119" xml:id="s119"> lors que le mary le veut, elles ne le veulent pas ;</seg>
+    <seg n="120" xml:id="s120"> et quand il ne le veut pas, elles le veulent ;</seg>
+    <seg n="121" xml:id="s121"> ce qui a trèsbien este remarqué par Terence en son Eunnuque : Novi ingenium mulierum Nolunt ubi velis : ubi nolis, cupiunt ultro. </seg>
+    <seg n="122" xml:id="s122">Et pour ce un sage philosophe nous admonnestoit qu’il ne falloit prescrire et ordonner de certaines bornes et barrieres à la femme, laquelle n’a aucune tenue, et est glissante plus qu’on ne sçauroit estimer. </seg>
+    <seg n="123" xml:id="s123">Par ainsi, disoit-il, si tu la veux retenir, lasche la;</seg>
+    <seg n="124" xml:id="s124"> si tu la presses pour la mettre à l'estroit tu la perds tout de mesmes qu’il advient d’une anguille. </seg>
+    <seg n="125" xml:id="s125">Dès qu’elles ont pris le ply de faire les bestes, de contrarier et de tenir bon contre leurs maris, c’est du camelot, pour mourir elles ne se changeroient pas. </seg>
+    <seg n="126" xml:id="s126">Quelques-uns ont voulu recercher la raison pourquoy elle estoient ainsi acariastres et opiniastres au mal, et qu’a tous bouts de champs, lors qu’il estoit question du bien elles giroüettoient. </seg>
+    <seg n="127" xml:id="s127">Ceux qui ont frappé le plus près au blanc ont dit que cela avenoit, parce que de leur naturel elles estoient mauvaises, ainsi que tantost j’ay rapporté d’Accurse. </seg>
+    <seg n="128" xml:id="s128">Les autres, O malheureux vieillard, qui, courbe et tout tremblant, N'a pas qui te soustienne, et qui, te ressemblant, T'ayme serve et honore et comme la cigogne Te rende en ta vieillesse une pareille soigne, Qui travaille pour toi et te nourrisse lors Que les nerfs sont usez de ton impuissant corps. </seg>
+    <seg n="129" xml:id="s129">He!</seg>
+    <seg n="130" xml:id="s130"> quel grief creve cœur, quand en l’ame volante Le mourable vieillard pense et se represente Que ceux qui, heritiers, doivent ses biens avoir Voudroient ja prest à mort en la terre je voir?</seg>
+    <seg n="131" xml:id="s131"> Quel creve-cœur encor, quand le bonhomme pense S’il ne se haste assez qu’on cerche qui l’avance, Mais les enfans bien nais, bien nourris, genereux De voir leurs geniteurs se reputent heureux Vesqussent-ils autant que de Lamech le pere. </seg>
+    <seg n="132" xml:id="s132">Si j’etoie grand thoologien je pourrois subtiliser sur ce que le mariage a esté pratiqué entre Adam et Eve avant qu’il fut aucun bruit du peché. </seg>
+    <seg n="133" xml:id="s133">Vous en avez assez dit, sʳ Panthaleon, respondit messer Alexandre, et plus que je ne pensoie;</seg>
+    <seg n="134" xml:id="s134"> mais j'ay de quoy vous responde : je ne suis de ceux qui detestent le mariage, je recognois son institution saincte, louable et à priser, mais les inconveniens et le coust m’en font perdre le goust;</seg>
+    <seg n="135" xml:id="s135"> à la traduction du sʳ de S. </seg>
+    <seg n="136" xml:id="s136">Marthe j’opposeray ce qui a esté fait contre le mariage, à vostre belle solitude de neiges l’autorité de Petrarque en ses Meditations et discours pour le solitaire. </seg>
+    <seg n="137" xml:id="s137">Quant aux enfans, c'est une grande benediction de Dieu ;</seg>
+    <seg n="138" xml:id="s138"> mais ils sont si difficiles à eslever, à nourrir, à instruire, à enperdre la vie. </seg>
+    <seg n="139" xml:id="s139">Je ne vous mettray en butte que Jean Il, grand duc de Moschovie, lequel avoit les femmes en si grand horreur, qu'il s'esvanouissoit au seul regard des femmes, ainsi qu’escrit le baron d’Herbestein, parlant des Moschovites, qui ne voyent jamais (dit-il) leurs femmes que le jour des noces. </seg>
+    <seg n="140" xml:id="s140">Il y en a eu d’autres qui, pour se passer des ſemmes, ce sont accointé des bestes brutes. </seg>
+    <seg n="141" xml:id="s141">Plutarque nous donne tesmoignage d’une execrable hippomanie en ses Parallelles, où il parle de Fulvius Stettus, lequel, pour la hayne qu’il portoit aux femmes, se mesla avec une jument, laquelle du depuis lui produisit une fort belle fille, qui fut à cette occasion nommee Epone ou Hippone. </seg>
+    <seg n="142" xml:id="s142">Encores s'il eut suivy la sage modestie de Simonides, il y eut eu quelque apparence de je ne sçay quoi de louable en ses discours. </seg>
+    <seg n="143" xml:id="s143">Ce poëte nous represente diverses figures monstreuses des femmes : il veut que les unes ayent esté basties d'une truye, les autres patronees au naturel d'un regnard, les autres à la façon d'un chien, les autres engendrees de la mer, les autres forgees ès cendres d’une anesse, les autres procrees par une belete, les autres par une jument, les autres par un singe. </seg>
+    <seg n="144" xml:id="s144">Sous le rideau de ces estranges et hideuses productions, il nous fait voir la malice et depravé naturel de la femme, mais sur la fin il fait prendre air à celle qui est esclose par l’abeille, laquelle il prise comme celle qui bienheure son mary, le resjouit et le console. </seg>
+    <seg n="145" xml:id="s145">A tout rompre, et quand c’eut esté à bander et à racler, il falloit garder pour le moins ceste sobriété, sans donner une si rude touche sur les imperfections feminines. </seg>
+    <seg n="146" xml:id="s146">Voulez vous que je vous die ce que j’estime de vostre proposition, sʳ Panthaleon, c’est que voudriez volontiers pactiser avez ceux, lesquels (au rapport de Josephe) faisoient difſiculté de se marier, non point qu’ils eussent à mespris une si saincte et legitime accouple qu’est la maritale, mais l’intemperance des ſemmes les en desgoutoit, tellement que, parce qu’aucunes estoient peu seures à la desserre de la croupiere, ils se faisoient entendre qu’il estoit impossible, ou bien cé seroit miracle, qu’aucune d’elles gardast tellement la loyauté à leurs maris, juxta illud, extrait du romant de la Rose. </seg>
+    <seg n="147" xml:id="s147">Toutes estes, serez ou fustes De fait ou de volonté putes : </seg>
+    <seg n="148" xml:id="s148">Et qui bien vous recercheroit Toutes putes vous treuveroit. </seg>
+    <seg n="149" xml:id="s149">Mais qui tiendroit aujourd’huy tel langage, encores que nous allions tousjours de mal en pis, si est ce que j’ay grand’peur qu’il n’en eschapperoit pas à si bon marché que fit Jean Clopinel, dit de Meun.</seg>
+  </standOff>
 </TEI>

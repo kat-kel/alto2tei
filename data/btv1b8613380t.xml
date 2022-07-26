@@ -39,7 +39,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-05-31"/>
+        <date when="2022-07-26"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -54,7 +54,7 @@
           <title>La chaumière indienne par Jacques-Bernardin-Henri de Saint-Pierre</title>
           <pubPlace key="FR">Information not available.</pubPlace>
           <publisher>Information not available.</publisher>
-          <date when="1791">1791</date>
+          <date when="1791" cert="high" resp="BNF">1791</date>
         </bibl>
         <msDesc>
           <msIdentifier>
@@ -1925,4 +1925,89 @@
       </div>
     </body>
   </text>
+  <standOff>
+    <seg n="1" xml:id="s1">Voici un petit conte indien qui renferme plus de vérités que bien des histoires. </seg>
+    <seg n="2" xml:id="s2">Je l’avois destiné à augmenter la relation d’un voyage à l’Ile de France, publiée en 1773, et que je me propose de faire réimprimer avec des additions. </seg>
+    <seg n="3" xml:id="s3">Comme j’y parle des Indiens qui sont dans cette île, j’avois voulu y joindre un tableau des mœurs de ceux qui sont dans l’Inde, d’après des notes assez intéressantes que je m’étois procurées. </seg>
+    <seg n="4" xml:id="s4">J’en avois donc formé un épisode que j’avois lié à une anecdocte historique qui en fait le commencement. </seg>
+    <seg n="5" xml:id="s5">C'est à l’occasion d’une compagnie de savans anglois, envoyés il y a une trentaine d’années, dans diverses parties du monde, pour y recueillir des lumières sur plusieurs objets des sciences. </seg>
+    <seg n="6" xml:id="s6">J’y parle d’un d’entre eux, qui vint aux Indes pour concourir aux progrès de la vérité ;</seg>
+    <seg n="7" xml:id="s7"> mais comme cet épisode formoit un hors-d’œuvre dans mon ouvrage, j’ai jugé à propos de le publier séparément. </seg>
+    <seg n="8" xml:id="s8">Je proteste ici que je n’ai eu aucune intention de jeter quelque ridicule sur les académies, quoique j’aie beaucoup à m’en plaindre, non par rapport à ma personne, mais à cause des intérêts de la vérité*, qu’ils persécutent souvent, quand elle contrarie leurs systêmes. </seg>
+    <seg n="9" xml:id="s9">Je suis d’ailleurs trop redevable à plusieurs savans anglois qui, sans me connoître et par le seul amour des sciences, ont honoré mes Etudes de la Nature de leurs plus glorieux suffrages, qu’ils n’ont pas craint de publier, comme on peut le voir entre autres dans un extrait de leurs journaux, rapporté par le Moniteur Francois, le 9 février 1790. </seg>
+    <seg n="10" xml:id="s10">Le caractère que j’ai donné à un de leurs confrères, est une preuve non équivoque de mon estime pour eux. </seg>
+    <seg n="11" xml:id="s11">Certainement j’ai dû regarder comme une démarche qui mérite toute la reconnoissance de leur nation, d’avoir cherché à importer des lumières des pays étrangers en Angleterre, ainsi que je considère celle d’en avoir exporté d’Angleterre dans des pays sauvages, par les voyages de Cook et de Banck, comme digne de toute celle du genre humain. </seg>
+    <seg n="12" xml:id="s12">La première a été imitée depuis par le Danemarck, et la seconde par la France* ;</seg>
+    <seg n="13" xml:id="s13"> mais toutes deux bien malheureusement, puisque de douze savans voyageurs danois, il n’en est revenu qu’un seul dans sa patrie, et que l’on n’a aucune nouvelle des deux vaisseaux de guerre francois, employés à cette mission d’humanité, et commandés par l’infortuné de la Peirouse. </seg>
+    <seg n="14" xml:id="s14">Ce n’est donc point la science en elle-même que je blâme;</seg>
+    <seg n="15" xml:id="s15"> mais j’ai voulu faire voir que les corps savans, par leur ambition, leur jalousie et leurs préjugés, ne servent que trop souvent d’obstacles à ses progrès. </seg>
+    <seg n="16" xml:id="s16">Je me suis proposé un but encore plus utile, c’est de remédier aux maux dont l’humanité est affligée aux Indes. </seg>
+    <seg n="17" xml:id="s17">Ma devise est de secourir les malheureux, et j’étends ce sentiment à tous les hommes. </seg>
+    <seg n="18" xml:id="s18">Si la philosophie est venue autrefois des Indes en Europe, pourquoi ne retourneroit-elle pas aujourd’hui de l’Europe civilisée aux Indes devenues barbares à leur tour ?</seg>
+    <seg n="19" xml:id="s19"> Il vient de se former à Calcuta une société de savans anglois qui détruiront peut-être un jour les préjugés de l’Inde, et par ce bienfait compenseront les maux qu’y ont apportés les guerres et le commerce des Européens. </seg>
+    <seg n="20" xml:id="s20">Pour moi qui n’influe sur rien, afin de donner plus de faveur et de graces à mes argumens, j’ai tâché de les revêtir de celles d’un conte. </seg>
+    <seg n="21" xml:id="s21">C'est avec des contes qu’on rend partout les hommes attentifs à la vérité. </seg>
+    <seg n="22" xml:id="s22">Nous sommes tous d’Athène en ce point ;</seg>
+    <seg n="23" xml:id="s23"> et moi-même, Au moment que je fais cette moralité, Si Peau-d’Ane m’étoit conté, J’y prendrois un plaisir extrême. </seg>
+    <seg n="24" xml:id="s24">LA FONTAINE.  Le pouvoir des fables, liv. 8, fab. 4. </seg>
+    <seg n="25" xml:id="s25">On a dit avec plus d’esprit que de raison, que la fable étoit née dans les pays despotiques de l’Orient, et qu’on y avoit voilé la vérite, afin qu’elle pût s’approcher des tyrans. </seg>
+    <seg n="26" xml:id="s26">Mais je demande si un Sultan ne se trouveroit pas plus offensé de se voir peint sous l’emblême d’un chat-huant ou d’un Iéopard, que d’après nature;</seg>
+    <seg n="27" xml:id="s27"> et si des vérités de réflexion ne le blesseroient pas pour le moins autant que des vérités directes ?</seg>
+    <seg n="28" xml:id="s28"> Thomas Rhoé, ambasadeur d’Angleterre auprès de Sélim-Cha, empereur du Mogol, rapporte que ce prince très-despotique ayant fait ouvrir devant lui des coffres qui arrivoient d’Angleterrre, afin d’y prendre quelques présens qui lui étoient destinés, fut fort surpris d’y trouver un tableau représentant un Satyre qu’une Vénus menoit par le nez. « Il s’imagina, dit-il, que « cette peinture étoit faite en dé« rision des peuples de l’Asie, qu’ils « y étoient figurés par le satyre « noir et cornu, comme étant d’une « même complexion ;</seg>
+    <seg n="29" xml:id="s29"> et que la « Vénus qui menoit le Satyre par « le nez, représentoit le grand em« pire que les femmes de ce pays« là ont sur les hommes.» Thomas Rhoé à qui ce tableau étoit adressé, eut bien de la peine à en détruire l’effet dans l’esprit du Mogol, en lui donnant une idée de nos fables ;</seg>
+    <seg n="30" xml:id="s30"> il recommande à cette occasion bien expressément aux directeurs de la compagnie des Indes en Angleterre, de n’envoyer à l’avenir aucune peinture allégorique aux Indes, parce que les princes, dit-il, y sont très-soupçonneux. </seg>
+    <seg n="31" xml:id="s31">C’est en effet le caractère des despotes. </seg>
+    <seg n="32" xml:id="s32">Je crois donc que nulle part les fables n’ont été imaginées pour eux, si ce n’est pour les flatter. </seg>
+    <seg n="33" xml:id="s33">En genéral, le goût pour les fables est répandu par toute la terre, mais bien plus dans les pays libres que dans les despotiques. </seg>
+    <seg n="34" xml:id="s34">Les peuples sauvages fondent leurs traditions sur des fables ;</seg>
+    <seg n="35" xml:id="s35"> il n’y a point de pays où elles aient été plus communes que dans la Grèce, où tous les objets de la nature, de la politique et de la religion, n’étoient que des résultats de quelques métamorphoses. </seg>
+    <seg n="36" xml:id="s36">Il y avoit peu de familles illustres qui n'eût quelque animal au nombre de ses ancêtres, et qui ne comptât parmi ses cousins ou ses cousines, des taureaux, des cygnes, des rossignols, des tourterelles , des corneilles ou des pies. </seg>
+    <seg n="37" xml:id="s37">On peut observer que les Anglois, dans leur littérature, ont un goût particulier pour l’allégorie, quoique la vérité puisse se dire chez eux fort Iibrement. </seg>
+    <seg n="38" xml:id="s38">Les Asiatiques ont été dans le même cas, du temps d’Esope et de Lockman ;</seg>
+    <seg n="39" xml:id="s39"> mais on ne trouve plus anjourd’hui chez eux de fabulistes, quoique leur pays soit rempli de Sultans. </seg>
+    <seg n="40" xml:id="s40">Ce sont les peuples les plus rapprochés de la nature, et par conséquent les plus libres, qui ont le plus aimé à orner la vérité de fables : c’est par un eſſet de l’amour même de la vérité, qui est le sentiment des lois de la nature. </seg>
+    <seg n="41" xml:id="s41">La vérité est la lumière de l’ame, comme la lumière physique est la vérité des corps. </seg>
+    <seg n="42" xml:id="s42">L’une et l’autre réunies donnent la science de ce qui est : celle-ci éclaire les objets, celle-là nous en montre les convenances;</seg>
+    <seg n="43" xml:id="s43"> et, comme dans le principe toute lumière tire son origine du soleil, toute vérité tire la sienne de Dieu, dont cet astre est la plus sensible image. </seg>
+    <seg n="44" xml:id="s44">Peu d’hommes peuvent supporter la lumière pure du soleil. </seg>
+    <seg n="45" xml:id="s45">C’est à cause de la foiblesse de nos yeux, que la nature nous a donné des paupières pour les voiler au degré qui nous convient ;</seg>
+    <seg n="46" xml:id="s46"> qu’elle a planté la terre de forêts, dont les feuillages verts nous offrent des ombrages doux et transparens ;</seg>
+    <seg n="47" xml:id="s47"> et qu’elle répand dans les cieux des vapeurs et des nuages, pour affoiblir les rayons trop vifs de l’astre du jour. </seg>
+    <seg n="48" xml:id="s48">Peu d’hommes aussi peuvent saisir les vérités purement métaphysiques. </seg>
+    <seg n="49" xml:id="s49">C’est à cause de la foiblesse de notre intelligence, que la nature nous a donné l’ignorance pour servir de paupière à notre ame : c’est par son moyen que l’ame s’ouvre par degrés à la vérité, qu’elle n’en admet que ce qu’elle en peut supporter, qu’elle s’entoure de fables qui sont comme autant de berceaux, à l’ombre desquels elle la contemple ;</seg>
+    <seg n="50" xml:id="s50"> et lorsqu’elle veut s’élever jusqu’à la Divinité même, elle la voile d’allégories et de mystères pour en soutenir l’éclat. </seg>
+    <seg n="51" xml:id="s51">Nous ne verrions pas la lumière du soleil, si elle ne s'arrêtoit sur des corps, ou au moins sur des nuages. </seg>
+    <seg n="52" xml:id="s52">Elle nous échappe hors de notre atmosphère, et nous éblouit à sa source. </seg>
+    <seg n="53" xml:id="s53">Il en est de même de la vérité ;</seg>
+    <seg n="54" xml:id="s54"> nous ne la saisirions pas si elle ne se fixoit sur des événemens sensibles, ou au moins sur des métaphores et des comparaisons qui la réfléchissent ;</seg>
+    <seg n="55" xml:id="s55"> il lui faut un corps qui la renvoie. </seg>
+    <seg n="56" xml:id="s56">Notre entendement n’a point de prise sur les vérités purement métaphysiques;</seg>
+    <seg n="57" xml:id="s57"> il est ébloui par celles qui émanent de la Divinité, et il ne peut saisir celles qui ne se reposent pas sur ses ouvrages. </seg>
+    <seg n="58" xml:id="s58">C’est par cette dernière raison que le langage des peuples civilisés ne peint rien, parce qu’il est plein d’idées vagues et d’abstractions ;</seg>
+    <seg n="59" xml:id="s59"> et celui des peuples simples et naturels est très-expresif, parce qu’il est rempli de similitudes et d’images. </seg>
+    <seg n="60" xml:id="s60">Les premiers sont habitués à cacher leurs sentimens ;</seg>
+    <seg n="61" xml:id="s61"> les seconds à les étendre. </seg>
+    <seg n="62" xml:id="s62">Mais comme souvent les nuages dispersés sous mille formes phantastiques , décomposent les rayons du soleil en teintes plus riches et plus variées que celles qui colorent les ouvrages réguliers de la nature, ainsi les fables réfléchissent la vérité avec plus d’étendue que les événemens réels ;</seg>
+    <seg n="63" xml:id="s63"> elles la transportent dans tous les règnes ;</seg>
+    <seg n="64" xml:id="s64"> elles l’approprient aux animaux , aux arbres, aux élémens, et en font jaillir mille reflets. </seg>
+    <seg n="65" xml:id="s65">Ainsi les rayons du soleil se jouent, sans s’éteindre, au fond des eaux, y reflettent les objets de la terre et des cieux , et redoublent leurs beautés par des consonnances. </seg>
+    <seg n="66" xml:id="s66">L’ignorance est donc aussi nécessaire à la vérité que l’ombre l’est à la lumière, puisque c’est des premières que se forment les harmonies de notre intelligence, comme des secondes se composent celles de notre vue. </seg>
+    <seg n="67" xml:id="s67">Les moralistes, comme je l’ai déja observé dans mes Etudes, ont presque toujours confondu l’ignorance avec l’erreur. </seg>
+    <seg n="68" xml:id="s68">L’ignorance, à la considérer seule et sans la vérité avec laquelle elle a de si douces harmonies, est le repos de notre intelligence ;</seg>
+    <seg n="69" xml:id="s69"> elle nous fait oublier les maux passés , nous dissimule les présens, et nous cache ceux de l’avenir ;</seg>
+    <seg n="70" xml:id="s70"> enfin elle est un bien, puisque nous la tenons de la nature : l’erreur au contraire est l’ouvrage de l’homme ;</seg>
+    <seg n="71" xml:id="s71"> elle est toujours un mal ;</seg>
+    <seg n="72" xml:id="s72"> c’est une fausse lumière qui luit pour nous égarer. </seg>
+    <seg n="73" xml:id="s73">Je ne puis mieux la comparer qu’à la lueur d’un incendie qui dévore les habitations qu’elle éclaire. </seg>
+    <seg n="74" xml:id="s74">Il est remarquable qu’il n’y a pas un seul mal moral ou physique qui n’ait pour principe une erreur. </seg>
+    <seg n="75" xml:id="s75">Les tyrannies, l’esclavage, les guerres sont fondées sur des erreurs politiques, et même sacrées ;</seg>
+    <seg n="76" xml:id="s76"> car les tyrans qui les ont répandues pour établir leur puissance, les ont toujours dérivées de la Divinité ou de quelque vertu, afin de les faire respecter des hommes. </seg>
+    <seg n="77" xml:id="s77">Il est cependant bien facile de distinguer l’erreur de la vérité. </seg>
+    <seg n="78" xml:id="s78">La vérité est une lumière naturelle qui Iuit d’elle-même par toute la terre, parce qu’elle vient de Dieu ;</seg>
+    <seg n="79" xml:id="s79"> l’erreur est une lueur artificielle qui a besoin sans cesse d’être alimentée, et qui ne peut jamais être universelle, parce qu’elle n’est que l’ouvrage des hommes. </seg>
+    <seg n="80" xml:id="s80">La vérité est utile à tous les hommes ;</seg>
+    <seg n="81" xml:id="s81"> l’erreur n’est profitable qu’à quelquesuns, et est nuisible à tous, parce que l’intérêt particulier est l’ennemi de l’intérêt général, quand il s’en sépare. </seg>
+    <seg n="82" xml:id="s82">Il faut bien prendre garde de confondre la fable avec l’erreur. </seg>
+    <seg n="83" xml:id="s83">La fable est le voile de la vérité,</seg>
+  </standOff>
 </TEI>
