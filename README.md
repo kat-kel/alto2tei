@@ -84,4 +84,4 @@ The application can produce a `<sourceDoc>` from any ALTO 4 files that were crea
 ## Pre-Annotated Text Body
 Currently, the application is designed to recognize zones and lines of text on a page whose labels conform to SegmOnto's controlled vocabulary. The application cannot generate a `<body>` from ALTO-XML files in which a line or zone's `@TAGREF` is not part of the SemgOnto vocabulary.
 
-However, with an XSL Transformation, a user can extract specific lines of text from the `<sourceDoc>` according to their own `@TAGREF` system and create them in the `<body>`.
+However, with an XSL Transformation, a user can extract specific lines of text from the `<sourceDoc>` according to their own `@TAGREF` system and custom build the TEI-XML file's `<body>`.
