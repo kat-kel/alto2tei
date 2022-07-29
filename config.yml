@@ -5,7 +5,7 @@
 
 data:
   # specify the relative path of your data files
-  path: "./test_data"
+  path: "./data"
 
 iiifURI:
 # example:
